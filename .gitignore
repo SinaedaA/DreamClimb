@@ -1,2 +1,46 @@
-## ignore all files under the temp/ directory
-temp/*
+## ignore all files under the test/ or temp/ directory
+temp/
+test/
+
+## ignore .env
+.env
+
+## ignore Python cache files
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Scraped data (too large)
+backend/data/raw/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/Frontend
+node_modules/
+dist/
+.cache/
+*.log
+npm-debug.log*
+
+# Build outputs
+build/
+*.egg

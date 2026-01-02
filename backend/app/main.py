@@ -1,0 +1,24 @@
+## Actual FastAPI app
+
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from app.routers import sectors, problems, circuits
+
+app = FastAPI(title = "Bleau Recommender API", version = "0.1.0")
+
+# Allow frontend to connect
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # In production, specify your frontend URL
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.include_router(problems.router, prefix="/api", tags=["problems"])
+app.include_router(sectors.router, prefix="/api", tags=["sectors"])
+app.include_router(circuits.router, prefix="/api", tags=["circuits"])
+
+# Test endpoint
+@app.get("/")
+def root():
+    return {"message": "Welcome to Bleau API"}
