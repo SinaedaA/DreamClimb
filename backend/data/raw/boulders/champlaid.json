@@ -1,0 +1,66 @@
+{
+  "sector": "Boissy Bois de Champlaid (RdC)",
+  "problems": [
+    {
+      "name": "Kodama (assis)",
+      "url": "https://bleau.info/champlaid/309192.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Prodhomme",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Kodama",
+      "url": "https://bleau.info/champlaid/306238.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "proue",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Time's Up",
+      "url": "https://bleau.info/champlaid/306239.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jungle Speed",
+      "url": "https://bleau.info/champlaid/306240.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "En Avant",
+      "url": "https://bleau.info/champlaid/306241.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "sector": "Rocher de la Salamandre Est",
+  "problems": [
+    {
+      "name": "Fou de Grain",
+      "url": "https://bleau.info/salamandreest/24974.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Grelaud",
+      "styles": [
+        "surplomb",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Sables du Temps (par le bas)",
+      "url": "https://bleau.info/salamandreest/305127.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coup de Grain",
+      "url": "https://bleau.info/salamandreest/24973.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Grelaud",
+      "styles": [
+        "surplomb",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Revanche Hurlante",
+      "url": "https://bleau.info/salamandreest/24461.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Collignon, Chris Cazin",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Totale de Biofutur",
+      "url": "https://bleau.info/salamandreest/24623.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Sables du Temps (retour-aller)",
+      "url": "https://bleau.info/salamandreest/303649.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chaostingov",
+      "url": "https://bleau.info/salamandreest/24950.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Coup de Folie",
+      "url": "https://bleau.info/salamandreest/19193.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Sables du Temps",
+      "url": "https://bleau.info/salamandreest/300771.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Biocoop",
+      "url": "https://bleau.info/salamandreest/24625.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Biofutur",
+      "url": "https://bleau.info/salamandreest/24622.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Chaos Data (direct)",
+      "url": "https://bleau.info/salamandreest/300786.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Diagonisme",
+      "url": "https://bleau.info/salamandreest/300897.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Loi de Murphy (assis)",
+      "url": "https://bleau.info/salamandreest/24523.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Totale Biosarde",
+      "url": "https://bleau.info/salamandreest/24621.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Feu des Anciens",
+      "url": "https://bleau.info/salamandreest/23027.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Roche Métamorphique",
+      "url": "https://bleau.info/salamandreest/24522.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bio-Nique",
+      "url": "https://bleau.info/salamandreest/312271.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Hugo Jarkoff",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chaos Data",
+      "url": "https://bleau.info/salamandreest/23025.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Jean Marc Patreau",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Diesel",
+      "url": "https://bleau.info/salamandreest/24464.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Évasion Fiscale (prolongé)",
+      "url": "https://bleau.info/salamandreest/303693.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Homo Naledi",
+      "url": "https://bleau.info/salamandreest/24617.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Collignon, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hyper à Compression",
+      "url": "https://bleau.info/salamandreest/24615.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hyper à Doigt (assis)",
+      "url": "https://bleau.info/salamandreest/24970.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Hyperactif (assis)",
+      "url": "https://bleau.info/salamandreest/24610.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Danse du Scalp",
+      "url": "https://bleau.info/salamandreest/303903.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Vert Dicte",
+      "url": "https://bleau.info/salamandreest/24726.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme, Antoine Crevot",
+      "styles": [
+        "réta",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Enfoirés (en traversée)",
+      "url": "https://bleau.info/salamandreest/300773.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Retour vers Biofutur",
+      "url": "https://bleau.info/salamandreest/24861.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sans Plomb",
+      "url": "https://bleau.info/salamandreest/24682.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Armani",
+      "url": "https://bleau.info/salamandreest/23583.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bio-Éthique",
+      "url": "https://bleau.info/salamandreest/24820.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Biodégradable",
+      "url": "https://bleau.info/salamandreest/24866.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Blocage Hurlant",
+      "url": "https://bleau.info/salamandreest/24460.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Chaos Data (gauche)",
+      "url": "https://bleau.info/salamandreest/308295.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Yo Mrvn",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Évasion Fiscale",
+      "url": "https://bleau.info/salamandreest/303692.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Grain de Folie",
+      "url": "https://bleau.info/salamandreest/1667.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Hash de Guerre",
+      "url": "https://bleau.info/salamandreest/24694.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Hyper à Toit",
+      "url": "https://bleau.info/salamandreest/24614.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Biosarde",
+      "url": "https://bleau.info/salamandreest/24618.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Clairane (assis)",
+      "url": "https://bleau.info/salamandreest/24620.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Nébuleuse des Voiles (retour-aller)",
+      "url": "https://bleau.info/salamandreest/312124.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Mur Buca",
+      "url": "https://bleau.info/salamandreest/24684.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "réta",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Sables du Temps (retour)",
+      "url": "https://bleau.info/salamandreest/300772.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Métal Hurlant",
+      "url": "https://bleau.info/salamandreest/23578.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tomahawk (gauche)",
+      "url": "https://bleau.info/salamandreest/24695.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Biodiversité",
+      "url": "https://bleau.info/salamandreest/24819.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boulette",
+      "url": "https://bleau.info/salamandreest/23576.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Nicolas Gensollen",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Diesel (gauche)",
+      "url": "https://bleau.info/salamandreest/24636.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Jérémy Lecouvert",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Douce Folie",
+      "url": "https://bleau.info/salamandreest/19192.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Évasion Fiscale (raccourci)",
+      "url": "https://bleau.info/salamandreest/161363.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Extinguo",
+      "url": "https://bleau.info/salamandreest/24948.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau, Michael Greenberg",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Extinguo (droite)",
+      "url": "https://bleau.info/salamandreest/23028.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau, Michael Greenberg",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Floating Island",
+      "url": "https://bleau.info/salamandreest/312187.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Balazs Bajusz",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Hyper à Doigt",
+      "url": "https://bleau.info/salamandreest/24612.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Nébuleuse des Voiles",
+      "url": "https://bleau.info/salamandreest/24624.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Nébuleuse des Voiles (aller-retour)",
+      "url": "https://bleau.info/salamandreest/312120.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Mur Cabu (direct)",
+      "url": "https://bleau.info/salamandreest/23580.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Jérémy Lecouvert",
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surplomb de la Tête de Chien",
+      "url": "https://bleau.info/salamandreest/304235.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Métamorpho",
+      "url": "https://bleau.info/salamandreest/24742.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bart van Raaij",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Nutrisco",
+      "url": "https://bleau.info/salamandreest/23026.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tignous",
+      "url": "https://bleau.info/salamandreest/23584.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Tomahawk / Lapin Cinette",
+      "url": "https://bleau.info/salamandreest/23582.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "dévers",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Homo Nabila",
+      "url": "https://bleau.info/salamandreest/24616.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Collignon, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Loi de Murphy",
+      "url": "https://bleau.info/salamandreest/24524.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Enfoirés",
+      "url": "https://bleau.info/salamandreest/300774.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Osez Joséphine",
+      "url": "https://bleau.info/salamandreest/301143.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zone Blanche (gauche)",
+      "url": "https://bleau.info/salamandreest/300770.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Belle Pince",
+      "url": "https://bleau.info/salamandreest/23577.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "pincettes",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bi au Top",
+      "url": "https://bleau.info/salamandreest/24862.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc, Julien Lefebvre",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bi-Ossature",
+      "url": "https://bleau.info/salamandreest/24865.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc, Julien Lefebvre",
+      "styles": [
+        "dévers",
+        "bidoigts",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Extraction Polygonale",
+      "url": "https://bleau.info/salamandreest/303341.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Helios",
+      "url": "https://bleau.info/salamandreest/304400.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Hélias Millerioux",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hyper à Toit (gauche)",
+      "url": "https://bleau.info/salamandreest/24613.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Clairane",
+      "url": "https://bleau.info/salamandreest/24681.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio, Tony Fouchereau",
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Guigo",
+      "url": "https://bleau.info/salamandreest/303340.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Nébuleuse des Voiles (retour)",
+      "url": "https://bleau.info/salamandreest/312121.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bar à Jeux",
+      "url": "https://bleau.info/salamandreest/300952.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Mur Cabu",
+      "url": "https://bleau.info/salamandreest/24635.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jérémy Lecouvert",
+      "styles": [
+        "mur",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Huit Montagnes",
+      "url": "https://bleau.info/salamandreest/304228.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Maîtres Inquisiteurs",
+      "url": "https://bleau.info/salamandreest/304236.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Louis Gounelle",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nutriscoule",
+      "url": "https://bleau.info/salamandreest/308144.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sauvons les Riches!",
+      "url": "https://bleau.info/salamandreest/301142.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tu Croches",
+      "url": "https://bleau.info/salamandreest/303363.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vinci Can",
+      "url": "https://bleau.info/salamandreest/24818.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Zone Blanche",
+      "url": "https://bleau.info/salamandreest/300769.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Benoît Faure, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "dévers"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Bi au Pic",
+      "url": "https://bleau.info/salamandreest/24863.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "bidoigts",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bio-Logique",
+      "url": "https://bleau.info/salamandreest/24707.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bord-Néo",
+      "url": "https://bleau.info/salamandreest/24706.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Bord-Néo (retour)",
+      "url": "https://bleau.info/salamandreest/24725.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Da Vinci Code",
+      "url": "https://bleau.info/salamandreest/23581.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Homo Naledi (droite)",
+      "url": "https://bleau.info/salamandreest/24619.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Thomas Collignon, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hyper Dévers",
+      "url": "https://bleau.info/salamandreest/24611.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Voie Mystère",
+      "url": "https://bleau.info/salamandreest/24727.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bison Jeté",
+      "url": "https://bleau.info/salamandreest/303901.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Comme des Lions",
+      "url": "https://bleau.info/salamandreest/301075.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Entre Chien et Loup",
+      "url": "https://bleau.info/salamandreest/304237.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "mur",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hyperactif",
+      "url": "https://bleau.info/salamandreest/24609.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Rominou",
+      "url": "https://bleau.info/salamandreest/24690.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Scalp du Vénérable",
+      "url": "https://bleau.info/salamandreest/303902.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Rétarqué",
+      "url": "https://bleau.info/salamandreest/312846.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Vinci Can (départ sauté)",
+      "url": "https://bleau.info/salamandreest/302689.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Biométrique",
+      "url": "https://bleau.info/salamandreest/24859.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Ça Coule de Source",
+      "url": "https://bleau.info/salamandreest/24465.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Clouzeau",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Emmaüs",
+      "url": "https://bleau.info/salamandreest/23579.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Liquidation",
+      "url": "https://bleau.info/salamandreest/301071.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Maurice",
+      "url": "https://bleau.info/salamandreest/24736.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mick",
+      "url": "https://bleau.info/salamandreest/24683.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Érosion Canine",
+      "url": "https://bleau.info/salamandreest/25071.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Rémi Boyer , Michael Corme",
+      "styles": [
+        "proue",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Lune du Kévinou",
+      "url": "https://bleau.info/salamandreest/301073.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Remontée du Ro",
+      "url": "https://bleau.info/salamandreest/303362.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Huit Montagnes (direct)",
+      "url": "https://bleau.info/salamandreest/304233.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Maîtres Inquisiteurs (direct)",
+      "url": "https://bleau.info/salamandreest/304234.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "mur",
+        "dévers",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Patapon",
+      "url": "https://bleau.info/salamandreest/24737.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Salle à Méandre",
+      "url": "https://bleau.info/salamandreest/310710.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Guess",
+      "url": "https://bleau.info/salamandreest/24463.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Filo Benjamin-Nunes, Tony Fouchereau, Laurent Bardiau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Kinamatangan",
+      "url": "https://bleau.info/salamandreest/24462.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Diagonale du Fou",
+      "url": "https://bleau.info/salamandreest/301068.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dévers",
+        "réta",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Terreuse",
+      "url": "https://bleau.info/salamandreest/303789.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ma Muse",
+      "url": "https://bleau.info/salamandreest/24704.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Polochon (assis)",
+      "url": "https://bleau.info/salamandreest/303012.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Qui Wolinski...",
+      "url": "https://bleau.info/salamandreest/301069.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fais Chauffer le Motocross",
+      "url": "https://bleau.info/salamandreest/303350.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dallamandre",
+      "url": "https://bleau.info/salamandreest/24738.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Jess (gauche)",
+      "url": "https://bleau.info/salamandreest/303358.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "surplomb",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Réta Franklin",
+      "url": "https://bleau.info/salamandreest/301074.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Lurchi",
+      "url": "https://bleau.info/salamandreest/303013.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "M'Amuse",
+      "url": "https://bleau.info/salamandreest/24705.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bouffeuse d'Os",
+      "url": "https://bleau.info/salamandreest/301072.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Jess",
+      "url": "https://bleau.info/salamandreest/303357.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "surplomb",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Roro",
+      "url": "https://bleau.info/salamandreest/303360.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vinci nous Vole",
+      "url": "https://bleau.info/salamandreest/301070.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Beu Beu",
+      "url": "https://bleau.info/salamandreest/301076.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Chloé",
+      "url": "https://bleau.info/salamandreest/303359.html",
+      "grade": "3+",
+      "alt_grade": "4",
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Polochon",
+      "url": "https://bleau.info/salamandreest/301077.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    }
+  ]
+}

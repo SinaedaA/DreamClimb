@@ -1,0 +1,535 @@
+{
+  "sector": "Gorge aux Châts Est",
+  "problems": [
+    {
+      "name": "-",
+      "url": "https://bleau.info/chatsnord/313630.html",
+      "grade": null,
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fat Bastard",
+      "url": "https://bleau.info/chatsnord/306665.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "toit",
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ascendência",
+      "url": "https://bleau.info/chatsnord/11345.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Abruti!",
+      "url": "https://bleau.info/chatsnord/21490.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "pilier",
+        "arête",
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arquéphémère",
+      "url": "https://bleau.info/chatsnord/11479.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "départ assis",
+        "surplomb",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rififi",
+      "url": "https://bleau.info/chatsnord/306664.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "dévers",
+        "aplats",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "À l'Abri des Servants",
+      "url": "https://bleau.info/chatsnord/21481.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dièdre",
+        "dévers",
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Shaolin (en traversée)",
+      "url": "https://bleau.info/chatsnord/21488.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Arque-Toi",
+      "url": "https://bleau.info/chatsnord/21492.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "arête",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bonus Malus",
+      "url": "https://bleau.info/chatsnord/21489.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cachette",
+      "url": "https://bleau.info/chatsnord/306205.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cigale (assis du sol)",
+      "url": "https://bleau.info/chatsnord/306094.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Sébastien Frigault",
+      "styles": [
+        "proue",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Course aux Étoiles (aller-retour)",
+      "url": "https://bleau.info/chatsnord/306897.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Decoster",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Malfaisant",
+      "url": "https://bleau.info/chatsnord/21482.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Shaolin",
+      "url": "https://bleau.info/chatsnord/10016.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Ludovic Lefebvre",
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Skinny Bastard",
+      "url": "https://bleau.info/chatsnord/306675.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Fabien Chavanneau",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cap au Pire",
+      "url": "https://bleau.info/chatsnord/21491.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dérision",
+      "url": "https://bleau.info/chatsnord/305970.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Clément Merimeche",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Je n'ai Jamais Pleuré",
+      "url": "https://bleau.info/chatsnord/21580.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "pilier",
+        "haut",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Étoile Filante (prolongé)",
+      "url": "https://bleau.info/chatsnord/22428.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "K.C. Still-Lloyd",
+      "styles": [
+        "traversée g-d",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Paires Dodues",
+      "url": "https://bleau.info/chatsnord/12302.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen, Marco Dunand",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "On Tousse Tous",
+      "url": "https://bleau.info/chatsnord/306932.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Baptiste Jourjon",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quelques Gouttes Suffisent",
+      "url": "https://bleau.info/chatsnord/306950.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rien",
+      "url": "https://bleau.info/chatsnord/305972.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tribulation",
+      "url": "https://bleau.info/chatsnord/21487.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tribulation (droite)",
+      "url": "https://bleau.info/chatsnord/21479.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Wo Ping Shaolin",
+      "url": "https://bleau.info/chatsnord/10017.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Arcenic",
+      "url": "https://bleau.info/chatsnord/24305.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers",
+        "bidoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Arcenic (assis)",
+      "url": "https://bleau.info/chatsnord/308693.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Cigale (assis)",
+      "url": "https://bleau.info/chatsnord/22543.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Sébastien Frigault",
+      "styles": [
+        "proue",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Course aux Étoiles (prolongé)",
+      "url": "https://bleau.info/chatsnord/22340.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur, -",
+      "styles": [
+        "traversée d-g",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voix des Justes",
+      "url": "https://bleau.info/chatsnord/305770.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sans Toit",
+      "url": "https://bleau.info/chatsnord/21480.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vétille",
+      "url": "https://bleau.info/chatsnord/305666.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, Lionel Demenais",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Filament",
+      "url": "https://bleau.info/chatsnord/311883.html",
+      "grade": "6c",
+      "alt_grade": "6b",
+      "first_ascensionist": "Romain Grassin",
+      "styles": [
+        "arête",
+        "réglettes",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Course aux Étoiles",
+      "url": "https://bleau.info/chatsnord/22345.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur, -",
+      "styles": [
+        "traversée d-g",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mûre Mur",
+      "url": "https://bleau.info/chatsnord/21486.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dérisoire",
+      "url": "https://bleau.info/chatsnord/305971.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Merimeche, Laurent Darlot",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L’Étoile Filante",
+      "url": "https://bleau.info/chatsnord/22344.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur, -",
+      "styles": [
+        "traversée g-d",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Cigale",
+      "url": "https://bleau.info/chatsnord/24319.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Sébastien Frigault",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voix des Justes (droite)",
+      "url": "https://bleau.info/chatsnord/305771.html",
+      "grade": "6b",
+      "alt_grade": "6a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Firmament",
+      "url": "https://bleau.info/chatsnord/300855.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fosse Dalle",
+      "url": "https://bleau.info/chatsnord/22346.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur, -",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Petite Ourse",
+      "url": "https://bleau.info/chatsnord/300937.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "C. Larprise, Gars Des Bois",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.5
+    }
+  ]
+}

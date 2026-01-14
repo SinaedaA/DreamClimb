@@ -1,0 +1,4276 @@
+{
+  "sector": "Maunoury",
+  "problems": [
+    {
+      "name": "Théomiel",
+      "url": "https://bleau.info/maunoury/19862.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Antoine Vandeputte",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Adios Nonino (rallongé)",
+      "url": "https://bleau.info/maunoury/306437.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "arête"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Apocryphe (rallongé)",
+      "url": "https://bleau.info/maunoury/306975.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "GJou, Manuel Marquès",
+      "styles": [
+        "toit",
+        "trous",
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Genesis",
+      "url": "https://bleau.info/maunoury/20901.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Lucas Ménégatti",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Typhon",
+      "url": "https://bleau.info/maunoury/1288.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Adios Nonino",
+      "url": "https://bleau.info/maunoury/21059.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Apocryphe",
+      "url": "https://bleau.info/maunoury/11070.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "toit",
+        "trous",
+        "proue"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Innocence",
+      "url": "https://bleau.info/maunoury/1284.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Cantrelle",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Instinct",
+      "url": "https://bleau.info/maunoury/1285.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Oxbow",
+      "url": "https://bleau.info/maunoury/1286.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rituel (du fond)",
+      "url": "https://bleau.info/maunoury/301158.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bagheera",
+      "url": "https://bleau.info/maunoury/1277.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Full Monty (assis)",
+      "url": "https://bleau.info/maunoury/1279.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Cantrelle",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Irréversible",
+      "url": "https://bleau.info/maunoury/1588.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Nadiras",
+      "styles": [
+        "proue",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Maniacs",
+      "url": "https://bleau.info/maunoury/17582.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "toit",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Odyssée",
+      "url": "https://bleau.info/maunoury/1283.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petrichor (direct)",
+      "url": "https://bleau.info/maunoury/308005.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Ben vdc",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Shanti",
+      "url": "https://bleau.info/maunoury/303612.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Vivre sans Limites",
+      "url": "https://bleau.info/maunoury/23795.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Apophis (rallongé)",
+      "url": "https://bleau.info/maunoury/305667.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "trous",
+        "proue"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Éveil (gauche)",
+      "url": "https://bleau.info/maunoury/301157.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Cantrelle",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Insolence",
+      "url": "https://bleau.info/maunoury/1280.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "surplomb",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jet Set",
+      "url": "https://bleau.info/maunoury/1275.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "dévers",
+        "départ assis",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Endomorphe",
+      "url": "https://bleau.info/maunoury/23513.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Teddy Deschamps",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de Baloo",
+      "url": "https://bleau.info/maunoury/11073.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Microclimat",
+      "url": "https://bleau.info/maunoury/23787.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mowgli",
+      "url": "https://bleau.info/maunoury/1282.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Oasis Oasis / Oasis (assis)",
+      "url": "https://bleau.info/maunoury/16965.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Shere Khan",
+      "url": "https://bleau.info/maunoury/19063.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, Thomas Collignon",
+      "styles": [
+        "proue",
+        "mur"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Apophis",
+      "url": "https://bleau.info/maunoury/11069.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Hélias Millerioux",
+      "styles": [
+        "proue",
+        "surplomb",
+        "trous"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Asics",
+      "url": "https://bleau.info/maunoury/1276.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bagheera (en traversée)",
+      "url": "https://bleau.info/maunoury/312628.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Baloo",
+      "url": "https://bleau.info/maunoury/1274.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "El Rodeno",
+      "url": "https://bleau.info/maunoury/21599.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Insomnie (assis)",
+      "url": "https://bleau.info/maunoury/14785.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Œil de Boîte dans l'Épaule (droite)",
+      "url": "https://bleau.info/maunoury/25076.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "fissure",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Pétard du Diable (assis)",
+      "url": "https://bleau.info/maunoury/23721.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Toucher du Grès",
+      "url": "https://bleau.info/maunoury/10030.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Tétines",
+      "url": "https://bleau.info/maunoury/1273.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Cantrelle",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Morphomaniacs",
+      "url": "https://bleau.info/maunoury/10025.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "jeté",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Movement Activated",
+      "url": "https://bleau.info/maunoury/12300.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Oasis",
+      "url": "https://bleau.info/maunoury/1660.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Frank Scherrer, Stéphan Denys, Philippe Dumez",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Parallélogramme (assis)",
+      "url": "https://bleau.info/maunoury/306937.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pars Pro Toto",
+      "url": "https://bleau.info/maunoury/20976.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pars Pro Toto (gauche)",
+      "url": "https://bleau.info/maunoury/21019.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Petrichor",
+      "url": "https://bleau.info/maunoury/308004.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Ben vdc",
+      "styles": [
+        "surplomb",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Re-Tour de Babel",
+      "url": "https://bleau.info/maunoury/23791.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Synergie (assis)",
+      "url": "https://bleau.info/maunoury/306936.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "départ assis",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Cuicuishkaniev",
+      "url": "https://bleau.info/maunoury/15649.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "aplats",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Envole-toi Éric (assis)",
+      "url": "https://bleau.info/maunoury/23722.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Éveil",
+      "url": "https://bleau.info/maunoury/1278.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Cantrelle",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Movement Activated (droite assis)",
+      "url": "https://bleau.info/maunoury/302453.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "joshua penn-watson",
+      "styles": [
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Parallélogramme",
+      "url": "https://bleau.info/maunoury/305057.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Petit Sablé",
+      "url": "https://bleau.info/maunoury/14521.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rababoum (assis)",
+      "url": "https://bleau.info/maunoury/19066.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Rituel",
+      "url": "https://bleau.info/maunoury/1662.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sanseveria (en traversée)",
+      "url": "https://bleau.info/maunoury/22888.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Cédric Chatagnon, Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Serendipity",
+      "url": "https://bleau.info/maunoury/305222.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Ruben Beckers",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Armoire et Merki",
+      "url": "https://bleau.info/maunoury/19089.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Aventure",
+      "url": "https://bleau.info/maunoury/1266.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bingo Wings",
+      "url": "https://bleau.info/maunoury/305221.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Ruben Beckers",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Chant de Bataille (accroupi)",
+      "url": "https://bleau.info/maunoury/310484.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cornemuse",
+      "url": "https://bleau.info/maunoury/1267.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Cuicuishovsky",
+      "url": "https://bleau.info/maunoury/15648.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Décision",
+      "url": "https://bleau.info/maunoury/1268.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Démon (assis)",
+      "url": "https://bleau.info/maunoury/22266.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "yann kispredilov",
+      "styles": [
+        "pilier",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Élévation (assis)",
+      "url": "https://bleau.info/maunoury/23790.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Envergure (assis)",
+      "url": "https://bleau.info/maunoury/303051.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Envole-toi Éric",
+      "url": "https://bleau.info/maunoury/23754.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Good Vibrations (du fond)",
+      "url": "https://bleau.info/maunoury/300652.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Guillaume Mainbourg, GJou, Norman Montes",
+      "styles": [
+        "toit",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gros Câlin",
+      "url": "https://bleau.info/maunoury/312639.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Guilty Conscience",
+      "url": "https://bleau.info/maunoury/307127.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Fabien Chavanneau",
+      "styles": [
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gül Lich",
+      "url": "https://bleau.info/maunoury/312638.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Carina, Romain Pigeat",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Horizon Perdu",
+      "url": "https://bleau.info/maunoury/1270.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Intelligence Spatiale",
+      "url": "https://bleau.info/maunoury/23798.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Italian Chicka's",
+      "url": "https://bleau.info/maunoury/10026.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Ruud Bruin",
+      "styles": [
+        "jeté",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Jet Set biscuit",
+      "url": "https://bleau.info/maunoury/10081.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kut de Crêpe",
+      "url": "https://bleau.info/maunoury/20178.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Parfum du Grès",
+      "url": "https://bleau.info/maunoury/10062.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, Pascal Gagneux",
+      "styles": [
+        "mur",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pétard du Diable",
+      "url": "https://bleau.info/maunoury/23720.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Razoir",
+      "url": "https://bleau.info/maunoury/19067.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Movement Activated (droite)",
+      "url": "https://bleau.info/maunoury/300543.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pigeon Vole",
+      "url": "https://bleau.info/maunoury/14198.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Delbecq, Maxime Prodhomme, Julien Auclert",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pigeon Vole en Traversée",
+      "url": "https://bleau.info/maunoury/19070.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pim, Pam, Poum (assis)",
+      "url": "https://bleau.info/maunoury/308245.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pulsation",
+      "url": "https://bleau.info/maunoury/23796.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "expo",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Quiksilver",
+      "url": "https://bleau.info/maunoury/10024.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rababoum",
+      "url": "https://bleau.info/maunoury/19065.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Rémi Perinet, Gérald Coste",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Sanseveria",
+      "url": "https://bleau.info/maunoury/21096.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sévériana",
+      "url": "https://bleau.info/maunoury/22816.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "traversée g-d",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Shore Break (prolongé)",
+      "url": "https://bleau.info/maunoury/21033.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Soupçon (assis)",
+      "url": "https://bleau.info/maunoury/10023.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "départ assis",
+        "arête",
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Synergie",
+      "url": "https://bleau.info/maunoury/306935.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Waimea",
+      "url": "https://bleau.info/maunoury/21032.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Waimea (droite)",
+      "url": "https://bleau.info/maunoury/228644.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Wolf Gang",
+      "url": "https://bleau.info/maunoury/302378.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zygos",
+      "url": "https://bleau.info/maunoury/19830.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zygos (assis)",
+      "url": "https://bleau.info/maunoury/305534.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pim, Pam, Poum",
+      "url": "https://bleau.info/maunoury/308243.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Vincent Pochon, Julien Nadiras, Stéphan Denys",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "El Rodeno (droite)",
+      "url": "https://bleau.info/maunoury/21606.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Good Vibrations (en traversée)",
+      "url": "https://bleau.info/maunoury/315007.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Séverine",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Happy to be Alive",
+      "url": "https://bleau.info/maunoury/1269.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Œil de Boîte dans l'Épaule",
+      "url": "https://bleau.info/maunoury/11477.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Jan Gorrebeeck",
+      "styles": [
+        "fissure",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Razoir (direct)",
+      "url": "https://bleau.info/maunoury/311808.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pars Pro Toto (droite)",
+      "url": "https://bleau.info/maunoury/312214.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Mathieu Allard",
+      "styles": [
+        "surplomb",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tube Surfer",
+      "url": "https://bleau.info/maunoury/312644.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "All Alone",
+      "url": "https://bleau.info/maunoury/307128.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Chavanneau",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Born to be Alive",
+      "url": "https://bleau.info/maunoury/314509.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "T Heldring",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Démon",
+      "url": "https://bleau.info/maunoury/16050.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "pilier",
+        "expo",
+        "avec corde"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Easy Roof",
+      "url": "https://bleau.info/maunoury/16054.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Fybur",
+      "url": "https://bleau.info/maunoury/308003.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Ben vdc",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Hathi (en traversée)",
+      "url": "https://bleau.info/maunoury/312625.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Insomnie",
+      "url": "https://bleau.info/maunoury/13358.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jungle Book",
+      "url": "https://bleau.info/maunoury/22932.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "yann kispredilov",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arrache-Prise",
+      "url": "https://bleau.info/maunoury/13714.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, GJou",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Hymne à Laya",
+      "url": "https://bleau.info/maunoury/1271.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Inversée Sévère (en traversée)",
+      "url": "https://bleau.info/maunoury/301935.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Regard d'Autrui",
+      "url": "https://bleau.info/maunoury/304618.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "arête",
+        "surplomb",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Suppo de Satan",
+      "url": "https://bleau.info/maunoury/302377.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Guignols de Bleau",
+      "url": "https://bleau.info/maunoury/23786.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gérald Coste, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mantle Party (en traversée)",
+      "url": "https://bleau.info/maunoury/312248.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Sarah Kuster, Jan Kuster",
+      "styles": [
+        "traversée g-d",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Merci Qui?",
+      "url": "https://bleau.info/maunoury/16051.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Retrouvaille au Paradis",
+      "url": "https://bleau.info/maunoury/19142.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Guillaume Tournus, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Shore Break",
+      "url": "https://bleau.info/maunoury/1272.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vol au Vent",
+      "url": "https://bleau.info/maunoury/13356.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ange",
+      "url": "https://bleau.info/maunoury/11532.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Colombophilie",
+      "url": "https://bleau.info/maunoury/305202.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Chanvre",
+      "styles": [
+        "pilier",
+        "aplats",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dimension Sociale",
+      "url": "https://bleau.info/maunoury/11737.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Hélias Millerioux",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Drogon",
+      "url": "https://bleau.info/maunoury/23511.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Teddy Deschamps",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Illusion",
+      "url": "https://bleau.info/maunoury/11730.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "King Louie",
+      "url": "https://bleau.info/maunoury/19062.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, Guillaume Tournus",
+      "styles": [
+        "arête",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Inversée Sévère",
+      "url": "https://bleau.info/maunoury/301934.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "dévers",
+        "inversées"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dülf (assis)",
+      "url": "https://bleau.info/maunoury/313627.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Banquet des Héros",
+      "url": "https://bleau.info/maunoury/10058.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Rancunier",
+      "url": "https://bleau.info/maunoury/312627.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "départ assis",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Vase de Sèvres (assis)",
+      "url": "https://bleau.info/maunoury/312626.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Movement Deactivated",
+      "url": "https://bleau.info/maunoury/307167.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Butnutter",
+      "url": "https://bleau.info/maunoury/314727.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Ruben Beckers",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Câlin",
+      "url": "https://bleau.info/maunoury/313241.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chickaletta",
+      "url": "https://bleau.info/maunoury/301537.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Jan Pyrzowski",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Colombophilie (droite)",
+      "url": "https://bleau.info/maunoury/305203.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Chanvre",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Face Nord",
+      "url": "https://bleau.info/maunoury/11651.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Full Monty",
+      "url": "https://bleau.info/maunoury/10048.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Funny Boy",
+      "url": "https://bleau.info/maunoury/19348.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Hathi",
+      "url": "https://bleau.info/maunoury/20417.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Viktor Magnusson",
+      "styles": [
+        "jeté",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Ellipse",
+      "url": "https://bleau.info/maunoury/11646.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Dülf",
+      "url": "https://bleau.info/maunoury/11652.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "surplomb",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Petitesse",
+      "url": "https://bleau.info/maunoury/11643.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée du Jardin",
+      "url": "https://bleau.info/maunoury/10051.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Canyon du Croissant de Lune",
+      "url": "https://bleau.info/maunoury/304617.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Secret de la Licorne",
+      "url": "https://bleau.info/maunoury/10042.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Surplomb du Cuveton (direct)",
+      "url": "https://bleau.info/maunoury/19831.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Infortunes du Cœur",
+      "url": "https://bleau.info/maunoury/11534.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "mur",
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pierre à Savon",
+      "url": "https://bleau.info/maunoury/11647.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Trou Noir",
+      "url": "https://bleau.info/maunoury/13236.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Hélias Millerioux, ⋅∴⋅",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Apologue",
+      "url": "https://bleau.info/maunoury/11072.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Élévation",
+      "url": "https://bleau.info/maunoury/23789.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kaa",
+      "url": "https://bleau.info/maunoury/19064.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Lateralus",
+      "url": "https://bleau.info/maunoury/308881.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jan Holweg",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Biscuit… Après! (assis)",
+      "url": "https://bleau.info/maunoury/301937.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Dauphin du Roi",
+      "url": "https://bleau.info/maunoury/22402.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "yann kispredilov",
+      "styles": [
+        "mur",
+        "haut",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "À Bout de Souffle",
+      "url": "https://bleau.info/maunoury/10034.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "fissure",
+        "trous",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Boule de Gomme (assis)",
+      "url": "https://bleau.info/maunoury/301402.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Envergure",
+      "url": "https://bleau.info/maunoury/10046.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Good Vibrations",
+      "url": "https://bleau.info/maunoury/300651.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Guillaume Mainbourg, GJou, Norman Montes",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Hard Pop-Corn",
+      "url": "https://bleau.info/maunoury/10038.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Grange",
+      "url": "https://bleau.info/maunoury/310857.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pisse à Marius",
+      "url": "https://bleau.info/maunoury/302213.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Cornet Alexandre",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Trottinette",
+      "url": "https://bleau.info/maunoury/20975.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Theo Konstantakopoulos",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Biscuit… Après!",
+      "url": "https://bleau.info/maunoury/301936.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Knob",
+      "url": "https://bleau.info/maunoury/314333.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Bruno Karaboghossian",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur du Cuveton (assis)",
+      "url": "https://bleau.info/maunoury/305094.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Roi de la Forêt",
+      "url": "https://bleau.info/maunoury/11736.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Vase de Sèvres",
+      "url": "https://bleau.info/maunoury/11653.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Fortunés",
+      "url": "https://bleau.info/maunoury/16052.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mantle Party",
+      "url": "https://bleau.info/maunoury/312247.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Sarah Kuster, Jan Kuster",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mirage",
+      "url": "https://bleau.info/maunoury/11533.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mon Orly (gauche)",
+      "url": "https://bleau.info/maunoury/310856.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pour l'Éternité",
+      "url": "https://bleau.info/maunoury/19143.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Guillaume Tournus, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Saucisse Frites",
+      "url": "https://bleau.info/maunoury/10050.html",
+      "grade": "6a",
+      "alt_grade": "5+",
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "mur",
+        "fissure",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tour d'Ivoire",
+      "url": "https://bleau.info/maunoury/10057.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tropico",
+      "url": "https://bleau.info/maunoury/21415.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Trou du Bide (assis)",
+      "url": "https://bleau.info/maunoury/300172.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Apostrophe",
+      "url": "https://bleau.info/maunoury/11071.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Hélias Millerioux",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Avantage (assis)",
+      "url": "https://bleau.info/maunoury/303746.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Coin Tranquille (assis)",
+      "url": "https://bleau.info/maunoury/305551.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Crash Crack",
+      "url": "https://bleau.info/maunoury/10047.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Philippe Berger",
+      "styles": [
+        "fissure",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Discorde",
+      "url": "https://bleau.info/maunoury/11645.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gin Tonic",
+      "url": "https://bleau.info/maunoury/10040.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "proue",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Abandonnée",
+      "url": "https://bleau.info/maunoury/13357.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Philippe Berger",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Âge des Cavernes",
+      "url": "https://bleau.info/maunoury/10033.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ellipse (droite)",
+      "url": "https://bleau.info/maunoury/302146.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Enchifrenée",
+      "url": "https://bleau.info/maunoury/10036.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Dévers Sympa",
+      "url": "https://bleau.info/maunoury/312570.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Guillaume Mainbourg",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Jardin Suspendu",
+      "url": "https://bleau.info/maunoury/10052.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Pilier Sacré",
+      "url": "https://bleau.info/maunoury/11650.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "J.P. Herbien, Pepito",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Monsieur Camembert",
+      "url": "https://bleau.info/maunoury/10039.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Odymate",
+      "url": "https://bleau.info/maunoury/23783.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Partie de Plaisir",
+      "url": "https://bleau.info/maunoury/10060.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rêves",
+      "url": "https://bleau.info/maunoury/10049.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Soupçon",
+      "url": "https://bleau.info/maunoury/11642.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trou du Bide",
+      "url": "https://bleau.info/maunoury/10035.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Alma",
+      "url": "https://bleau.info/maunoury/309350.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Sarah Kuster, Birke Klima",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Avantage",
+      "url": "https://bleau.info/maunoury/10053.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boule de Gomme",
+      "url": "https://bleau.info/maunoury/11644.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Coup de Chaleur",
+      "url": "https://bleau.info/maunoury/10059.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Distinction",
+      "url": "https://bleau.info/maunoury/11743.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Hélias Millerioux",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Falaise",
+      "url": "https://bleau.info/maunoury/11648.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Flash Guimauve",
+      "url": "https://bleau.info/maunoury/10063.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Freak's",
+      "url": "https://bleau.info/maunoury/10045.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Porte du Paradis",
+      "url": "https://bleau.info/maunoury/10056.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "arête",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Mur du Cuveton",
+      "url": "https://bleau.info/maunoury/305093.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pédiluve",
+      "url": "https://bleau.info/maunoury/11649.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Orgues / La Traversée du Paquet de Camel",
+      "url": "https://bleau.info/maunoury/7608.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mon Orly",
+      "url": "https://bleau.info/maunoury/310855.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Odygratte",
+      "url": "https://bleau.info/maunoury/23785.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Wolf Gang (droite)",
+      "url": "https://bleau.info/maunoury/305419.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chant de Bataille",
+      "url": "https://bleau.info/maunoury/10032.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Coin Tranquille",
+      "url": "https://bleau.info/maunoury/11641.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger, Pepito",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Directissime Lozérienne",
+      "url": "https://bleau.info/maunoury/313290.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rancune",
+      "url": "https://bleau.info/maunoury/16053.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Fou du Roi",
+      "url": "https://bleau.info/maunoury/10061.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Berger",
+      "styles": [
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mur Tranquille",
+      "url": "https://bleau.info/maunoury/310268.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "St Mathurin",
+      "url": "https://bleau.info/maunoury/10044.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "fissure",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balthus",
+      "url": "https://bleau.info/maunoury/10054.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "L'Envers du Mouvement",
+      "url": "https://bleau.info/maunoury/7560.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Œil du Manouche",
+      "url": "https://bleau.info/maunoury/10055.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Vire à Bicyclette",
+      "url": "https://bleau.info/maunoury/7551.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Super Toboggan",
+      "url": "https://bleau.info/maunoury/7553.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vache à Lait",
+      "url": "https://bleau.info/maunoury/10041.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°29 bis Bleu D]",
+      "url": "https://bleau.info/maunoury/7580.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Go Climb Hard Rock",
+      "url": "https://bleau.info/maunoury/10031.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "K2",
+      "url": "https://bleau.info/maunoury/10037.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'As de Cœur",
+      "url": "https://bleau.info/maunoury/10043.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Boîte",
+      "url": "https://bleau.info/maunoury/7562.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle de l'Aumône",
+      "url": "https://bleau.info/maunoury/10064.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Fissure des Signes Rupestres",
+      "url": "https://bleau.info/maunoury/7591.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée de la Grande Monique",
+      "url": "https://bleau.info/maunoury/7566.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée du Camembert",
+      "url": "https://bleau.info/maunoury/7573.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Vieux Marin",
+      "url": "https://bleau.info/maunoury/7583.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Dévers",
+      "url": "https://bleau.info/maunoury/7585.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "fissure",
+        "haut"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Mètre Pliant",
+      "url": "https://bleau.info/maunoury/7606.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Petit Z",
+      "url": "https://bleau.info/maunoury/7581.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Pot de Moutarde",
+      "url": "https://bleau.info/maunoury/7595.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Surplomb des Tétons",
+      "url": "https://bleau.info/maunoury/7576.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Surplomb du Boxeur",
+      "url": "https://bleau.info/maunoury/7555.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surplomb du Cuveton",
+      "url": "https://bleau.info/maunoury/7557.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Surplomb du Prélude",
+      "url": "https://bleau.info/maunoury/7559.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Spoutniks",
+      "url": "https://bleau.info/maunoury/7602.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°50 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18139.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Échelle de Coupée",
+      "url": "https://bleau.info/maunoury/7617.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Dalle du Clodo",
+      "url": "https://bleau.info/maunoury/7570.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "fissure",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Face Est du Motard",
+      "url": "https://bleau.info/maunoury/7578.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Gifle",
+      "url": "https://bleau.info/maunoury/7558.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tour Denecourt",
+      "url": "https://bleau.info/maunoury/7597.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de Rigoulot",
+      "url": "https://bleau.info/maunoury/7579.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée du Calbar",
+      "url": "https://bleau.info/maunoury/7586.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée du Nid",
+      "url": "https://bleau.info/maunoury/7565.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bec de Gaz",
+      "url": "https://bleau.info/maunoury/7619.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur Blanc",
+      "url": "https://bleau.info/maunoury/7593.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pas de Géant",
+      "url": "https://bleau.info/maunoury/7584.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rocher de Sacha",
+      "url": "https://bleau.info/maunoury/7564.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°21 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18106.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°45 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18133.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Arête du Triangle",
+      "url": "https://bleau.info/maunoury/7561.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête Ronde",
+      "url": "https://bleau.info/maunoury/7554.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Étrave",
+      "url": "https://bleau.info/maunoury/7616.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Brique Réfractaire",
+      "url": "https://bleau.info/maunoury/7609.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fissure du Bec",
+      "url": "https://bleau.info/maunoury/7575.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Paire de Bretelles",
+      "url": "https://bleau.info/maunoury/7590.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Petite Fresque",
+      "url": "https://bleau.info/maunoury/7572.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Sauce Blanche",
+      "url": "https://bleau.info/maunoury/7599.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Voie de la Fin",
+      "url": "https://bleau.info/maunoury/7622.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bilboquet",
+      "url": "https://bleau.info/maunoury/7549.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Château-Fort",
+      "url": "https://bleau.info/maunoury/7567.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Contour du Pilastre",
+      "url": "https://bleau.info/maunoury/7588.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Petit!",
+      "url": "https://bleau.info/maunoury/7574.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Spoutnik 2",
+      "url": "https://bleau.info/maunoury/7603.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Surplomb de Fakstind",
+      "url": "https://bleau.info/maunoury/7615.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Surplomb du Porte-Manteau",
+      "url": "https://bleau.info/maunoury/7582.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Trou du Souffleur",
+      "url": "https://bleau.info/maunoury/7604.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°21 bis Bleu D]",
+      "url": "https://bleau.info/maunoury/7571.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°27 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18114.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°30 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18117.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°43 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18131.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente",
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cheminoury",
+      "url": "https://bleau.info/maunoury/7550.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Aérolithe",
+      "url": "https://bleau.info/maunoury/7611.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Arête du Poivrot",
+      "url": "https://bleau.info/maunoury/7620.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle des Paras",
+      "url": "https://bleau.info/maunoury/7563.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Descente de la Loco",
+      "url": "https://bleau.info/maunoury/7569.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Glissière à Toto",
+      "url": "https://bleau.info/maunoury/7610.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "haut"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Petite Plaque de Marbre",
+      "url": "https://bleau.info/maunoury/7589.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Sauce Verte",
+      "url": "https://bleau.info/maunoury/7598.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Tour de l'Orient",
+      "url": "https://bleau.info/maunoury/7596.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée des Pattes de Tortue",
+      "url": "https://bleau.info/maunoury/7618.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Collier du Dogue",
+      "url": "https://bleau.info/maunoury/7601.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Jeton",
+      "url": "https://bleau.info/maunoury/7605.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Menhir",
+      "url": "https://bleau.info/maunoury/7600.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Miroir aux Alouettes",
+      "url": "https://bleau.info/maunoury/7552.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Piano à Queue",
+      "url": "https://bleau.info/maunoury/7607.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Réta du Trésor",
+      "url": "https://bleau.info/maunoury/7587.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "surplomb",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Planqués",
+      "url": "https://bleau.info/maunoury/7594.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°12 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18096.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°13 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18097.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°17 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18102.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°20 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18105.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°28 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18115.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°41 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18129.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°46 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18134.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°48 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18137.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cheminée du Rouge-Gorge",
+      "url": "https://bleau.info/maunoury/7577.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Pâtissière",
+      "url": "https://bleau.info/maunoury/7568.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Poignée de Métro",
+      "url": "https://bleau.info/maunoury/7614.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Coupe-Gorge",
+      "url": "https://bleau.info/maunoury/7612.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Marchepied de l'Autobus",
+      "url": "https://bleau.info/maunoury/7621.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Surplomb de la Dégonflée",
+      "url": "https://bleau.info/maunoury/7613.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "traversée",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Fesses",
+      "url": "https://bleau.info/maunoury/7556.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 1.5
+    },
+    {
+      "name": "- [n°5 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18088.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°7 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18090.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°14 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18099.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°15 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18100.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°19 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18104.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°23 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18109.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°29 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18116.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°35 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18123.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°36 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18124.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "cheminée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°44 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18132.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°47 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18136.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°52 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18141.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°54 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18143.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Embrasse-moi",
+      "url": "https://bleau.info/maunoury/7592.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°10 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18094.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°14 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18098.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°18 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18103.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°24 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18110.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°49 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18138.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°2 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18085.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°6 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18089.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°11 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18095.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°16 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18101.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°22 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18107.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°26 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18113.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°31 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18118.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°34 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18121.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°35 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18122.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°38 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18126.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°40 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18128.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°47 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18135.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°51 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18140.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°1 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18084.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°3 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18086.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°4 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18087.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°8 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18091.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°9 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18092.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°9 bis Orange AD-]",
+      "url": "https://bleau.info/maunoury/18093.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°23 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18108.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°25 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18111.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "pilier"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°26 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18112.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "saut",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°32 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18119.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°33 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18120.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°39 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18127.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°42 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18130.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°53 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18142.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°37 Orange AD-]",
+      "url": "https://bleau.info/maunoury/18125.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente",
+        "haut"
+      ],
+      "rating": null
+    }
+  ]
+}

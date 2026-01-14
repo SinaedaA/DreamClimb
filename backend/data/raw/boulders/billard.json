@@ -1,0 +1,40 @@
+{
+  "sector": "Rocher Billard (RdC)",
+  "problems": [
+    {
+      "name": "L'Immonde d'Après",
+      "url": "https://bleau.info/billard/52319.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Snooker (rallongé)",
+      "url": "https://bleau.info/billard/178396.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "départ assis",
+        "traversée g-d",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Snooker",
+      "url": "https://bleau.info/billard/105797.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    }
+  ]
+}

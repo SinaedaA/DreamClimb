@@ -1,0 +1,463 @@
+{
+  "sector": "Vallée Ronde",
+  "problems": [
+    {
+      "name": "Déva",
+      "url": "https://bleau.info/valleeronde/303549.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bide Bosse (aller-retour)",
+      "url": "https://bleau.info/valleeronde/17633.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bide Bosse",
+      "url": "https://bleau.info/valleeronde/17632.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Murène",
+      "url": "https://bleau.info/valleeronde/17639.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mise en Scène",
+      "url": "https://bleau.info/valleeronde/303550.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Mise en Scène (retour)",
+      "url": "https://bleau.info/valleeronde/303576.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Subside (prolongé)",
+      "url": "https://bleau.info/valleeronde/308487.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "réglettes",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coup de Feu",
+      "url": "https://bleau.info/valleeronde/17638.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Subside",
+      "url": "https://bleau.info/valleeronde/308485.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Transylvanie",
+      "url": "https://bleau.info/valleeronde/308918.html",
+      "grade": "7b",
+      "alt_grade": "7c",
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ingrédients",
+      "url": "https://bleau.info/valleeronde/308486.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Effaceur (assis)",
+      "url": "https://bleau.info/valleeronde/308484.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Couloir de Bus",
+      "url": "https://bleau.info/valleeronde/25080.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jacques Sellers, Jan Vercauteren",
+      "styles": [
+        "toit",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Deux Requins (aller-retour)",
+      "url": "https://bleau.info/valleeronde/305233.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, Thierry Angot, Pascal Boucherie",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "V Comme...",
+      "url": "https://bleau.info/valleeronde/306556.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "pilier",
+        "arête",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "V Comme... (assis)",
+      "url": "https://bleau.info/valleeronde/306558.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Effaceur",
+      "url": "https://bleau.info/valleeronde/17636.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Branlante du Routier",
+      "url": "https://bleau.info/valleeronde/306164.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Abribus",
+      "url": "https://bleau.info/valleeronde/17634.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Branlante",
+      "url": "https://bleau.info/valleeronde/306020.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Jo Montchaussé, Thierry Angot, Pascal Boucherie",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Deux Requins",
+      "url": "https://bleau.info/valleeronde/305232.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, Thierry Angot, Pascal Boucherie",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Deux Requins (retour)",
+      "url": "https://bleau.info/valleeronde/305234.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, Thierry Angot, Pascal Boucherie",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Reptation",
+      "url": "https://bleau.info/valleeronde/306554.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Guéguen, Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Reptation (retour)",
+      "url": "https://bleau.info/valleeronde/306555.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Interdit aux Masses",
+      "url": "https://bleau.info/valleeronde/303332.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pisse du Routier (assis)",
+      "url": "https://bleau.info/valleeronde/303342.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Bière du Routier",
+      "url": "https://bleau.info/valleeronde/305767.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Pisse du Routier",
+      "url": "https://bleau.info/valleeronde/303338.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis, Romain Monnier",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Scénario",
+      "url": "https://bleau.info/valleeronde/305768.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "The Pente (assis) / Rencontre d'Anniversaire",
+      "url": "https://bleau.info/valleeronde/301254.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fourmi",
+      "url": "https://bleau.info/valleeronde/310828.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Olivia (gauche)",
+      "url": "https://bleau.info/valleeronde/303335.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Couloir",
+      "url": "https://bleau.info/valleeronde/17637.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Olivia (assis)",
+      "url": "https://bleau.info/valleeronde/303334.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Pente",
+      "url": "https://bleau.info/valleeronde/17635.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Olivia",
+      "url": "https://bleau.info/valleeronde/303333.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "François Ghigonis",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chauffe",
+      "url": "https://bleau.info/valleeronde/303339.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivia Martel",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    }
+  ]
+}

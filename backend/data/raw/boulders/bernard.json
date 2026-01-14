@@ -1,0 +1,664 @@
+{
+  "sector": "La Fontaine Saint-Bernard",
+  "problems": [
+    {
+      "name": "Ciao Bella",
+      "url": "https://bleau.info/bernard/45491.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lanceur d'Alerte (assis)",
+      "url": "https://bleau.info/bernard/55496.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lanceur d'Alerte",
+      "url": "https://bleau.info/bernard/304291.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Banzaï!",
+      "url": "https://bleau.info/bernard/305039.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "proue",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fausse Alerte (en traversée)",
+      "url": "https://bleau.info/bernard/310013.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Oubliette",
+      "url": "https://bleau.info/bernard/305029.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jérôme Chaput",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Joie (droite assis)",
+      "url": "https://bleau.info/bernard/304262.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Jon Smedsaas",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bicepsceptique",
+      "url": "https://bleau.info/bernard/312995.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Noisettiste (assis)",
+      "url": "https://bleau.info/bernard/170929.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Laurent Darlot",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Nights In White Satin",
+      "url": "https://bleau.info/bernard/305041.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "surplomb",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sente à Crux",
+      "url": "https://bleau.info/bernard/310940.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tria Brachium",
+      "url": "https://bleau.info/bernard/310507.html",
+      "grade": "7a+",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ce Nez, ce Cap…",
+      "url": "https://bleau.info/bernard/305038.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Fausse Alerte",
+      "url": "https://bleau.info/bernard/310012.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Furie Barre",
+      "url": "https://bleau.info/bernard/288555.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "surplomb",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Joie (assis)",
+      "url": "https://bleau.info/bernard/304296.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Raie Monta",
+      "url": "https://bleau.info/bernard/310967.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Platiste (assis)",
+      "url": "https://bleau.info/bernard/312999.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Régaliste",
+      "url": "https://bleau.info/bernard/43957.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Surbac Vert (assis) / Ten Smiles",
+      "url": "https://bleau.info/bernard/304535.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Travail d’Hercule",
+      "url": "https://bleau.info/bernard/305097.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Souterrain",
+      "url": "https://bleau.info/bernard/305764.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Ras Sente",
+      "url": "https://bleau.info/bernard/310932.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Melchior Mage, Justin Roupillon, Fée Desblocs",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Lordose",
+      "url": "https://bleau.info/bernard/305042.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Règle d'Hercule",
+      "url": "https://bleau.info/bernard/305218.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "surplomb",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Frotteur",
+      "url": "https://bleau.info/bernard/312996.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "trous",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Joie",
+      "url": "https://bleau.info/bernard/304232.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Débouche (assis)",
+      "url": "https://bleau.info/bernard/305067.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Règle des Doigts",
+      "url": "https://bleau.info/bernard/305219.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Sabliste",
+      "url": "https://bleau.info/bernard/218343.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Dumez, Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Auprès Sente",
+      "url": "https://bleau.info/bernard/310936.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon, Melchior Mage, Fée Desblocs",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Des Trous Sente",
+      "url": "https://bleau.info/bernard/310938.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Joyeuse Pentecôte",
+      "url": "https://bleau.info/bernard/310734.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ascensioniste",
+      "url": "https://bleau.info/bernard/312994.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pizzicato",
+      "url": "https://bleau.info/bernard/312998.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Débouche",
+      "url": "https://bleau.info/bernard/221825.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Platiste",
+      "url": "https://bleau.info/bernard/312997.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rouge y Sente",
+      "url": "https://bleau.info/bernard/310937.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fausse Joie",
+      "url": "https://bleau.info/bernard/309359.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Romain Philips",
+      "styles": [
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Joie Yo",
+      "url": "https://bleau.info/bernard/308049.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lévitation",
+      "url": "https://bleau.info/bernard/305926.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Arrache",
+      "url": "https://bleau.info/bernard/144392.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Noisettiste",
+      "url": "https://bleau.info/bernard/81763.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surbac Vert",
+      "url": "https://bleau.info/bernard/88433.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ronde y Sente",
+      "url": "https://bleau.info/bernard/310935.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bleu y Sente",
+      "url": "https://bleau.info/bernard/310934.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Échappe",
+      "url": "https://bleau.info/bernard/83034.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Louche",
+      "url": "https://bleau.info/bernard/60719.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Smeetee",
+      "url": "https://bleau.info/bernard/308785.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Corned Beef",
+      "url": "https://bleau.info/bernard/308788.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jaune y Sente",
+      "url": "https://bleau.info/bernard/310933.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "bombé",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Lack",
+      "url": "https://bleau.info/bernard/308786.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chained",
+      "url": "https://bleau.info/bernard/308790.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Unchained",
+      "url": "https://bleau.info/bernard/308789.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    }
+  ]
+}

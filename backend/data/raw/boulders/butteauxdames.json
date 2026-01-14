@@ -1,0 +1,4485 @@
+{
+  "sector": "Apremont Butte aux Dames",
+  "problems": [
+    {
+      "name": "Endémique Climbing",
+      "url": "https://bleau.info/butteauxdames/23469.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "bombé",
+        "aplats"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Desquamations Polygonales (assis)",
+      "url": "https://bleau.info/butteauxdames/23471.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Étoile Noire (assis)",
+      "url": "https://bleau.info/butteauxdames/23269.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "toit",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Étoile Noire (prolongé)",
+      "url": "https://bleau.info/butteauxdames/23271.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Sébastien Frigault, Mounir Farhat",
+      "styles": [
+        "toit",
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Raz Moket (prolongé)",
+      "url": "https://bleau.info/butteauxdames/23052.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tempête Solaire",
+      "url": "https://bleau.info/butteauxdames/23333.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Desquamations Polygonales",
+      "url": "https://bleau.info/butteauxdames/23470.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "aplats",
+        "inversées"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Game One (assis)",
+      "url": "https://bleau.info/butteauxdames/23037.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Rampe (direct)",
+      "url": "https://bleau.info/butteauxdames/312737.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Ivan Luengo",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Plats Puissance Dix (par le bas)",
+      "url": "https://bleau.info/butteauxdames/23336.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Platurne",
+      "url": "https://bleau.info/butteauxdames/23305.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "dévers",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tempête Magnétique",
+      "url": "https://bleau.info/butteauxdames/303590.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Ocun Qualité",
+      "url": "https://bleau.info/butteauxdames/312739.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Charles Albert",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Omotenashi",
+      "url": "https://bleau.info/butteauxdames/312952.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Maxime Audebert",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Petit Yop (assis)",
+      "url": "https://bleau.info/butteauxdames/23338.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Raz Moket",
+      "url": "https://bleau.info/butteauxdames/23051.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Un Jeu d'Enfant (en traversée)",
+      "url": "https://bleau.info/butteauxdames/22729.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Yellowstone",
+      "url": "https://bleau.info/butteauxdames/307766.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "8-6 Bavaria (bas)",
+      "url": "https://bleau.info/butteauxdames/23049.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "À Gil (assis)",
+      "url": "https://bleau.info/butteauxdames/23510.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Matthieu Vervueren",
+      "styles": [
+        "pilier",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Débardage",
+      "url": "https://bleau.info/butteauxdames/301371.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Maxime Prodhomme",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Game One",
+      "url": "https://bleau.info/butteauxdames/23038.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini, Elric Besnier",
+      "styles": [
+        "bombé",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Aliment de Remplacement",
+      "url": "https://bleau.info/butteauxdames/23056.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Renverse (assis)",
+      "url": "https://bleau.info/butteauxdames/303588.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Ailes du Plaisir",
+      "url": "https://bleau.info/butteauxdames/12209.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Recherche Fondamentale",
+      "url": "https://bleau.info/butteauxdames/23055.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Antoine Eydoux, Tony Fouchereau",
+      "styles": [
+        "bombé",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "7-6-5 Franconia / 8-6 Bavaria (retour)",
+      "url": "https://bleau.info/butteauxdames/302824.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Finn Fischer",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "8-6 Bavaria",
+      "url": "https://bleau.info/butteauxdames/23048.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau, Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Gil",
+      "url": "https://bleau.info/butteauxdames/23031.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "mur",
+        "pilier",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Découverte Élément Terre",
+      "url": "https://bleau.info/butteauxdames/23353.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "bombé",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Ultime Décollage (assis)",
+      "url": "https://bleau.info/butteauxdames/304517.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Christoph Reichert",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Baloches",
+      "url": "https://bleau.info/butteauxdames/23032.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "fissure",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Marigold",
+      "url": "https://bleau.info/butteauxdames/304311.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Feehally",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Patate d'Enfer (assis)",
+      "url": "https://bleau.info/butteauxdames/300278.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Petit Frère",
+      "url": "https://bleau.info/butteauxdames/23307.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "toit",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Point d’Exclamation (assis)",
+      "url": "https://bleau.info/butteauxdames/312953.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Maxime Audebert",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ventricule Droit",
+      "url": "https://bleau.info/butteauxdames/23306.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "dévers",
+        "inversées",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Arrow",
+      "url": "https://bleau.info/butteauxdames/23334.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "expo"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Bélouga (gauche)",
+      "url": "https://bleau.info/butteauxdames/23303.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "dévers",
+        "réta",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Effrontée (assis)",
+      "url": "https://bleau.info/butteauxdames/23035.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Étoile Noire",
+      "url": "https://bleau.info/butteauxdames/23270.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "proue",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Interminable (retour)",
+      "url": "https://bleau.info/butteauxdames/24076.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dame de Mai",
+      "url": "https://bleau.info/butteauxdames/23030.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Platonik",
+      "url": "https://bleau.info/butteauxdames/22999.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "fissure",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le But aux Dames",
+      "url": "https://bleau.info/butteauxdames/23034.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Pilier de sa Dame (gauche)",
+      "url": "https://bleau.info/butteauxdames/23044.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Ailes du Plaisir (retour)",
+      "url": "https://bleau.info/butteauxdames/22727.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas de Changement",
+      "url": "https://bleau.info/butteauxdames/310007.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Patate d'Enfer",
+      "url": "https://bleau.info/butteauxdames/23076.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "pilier",
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rampe-Placement",
+      "url": "https://bleau.info/butteauxdames/23036.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Stephalloïde",
+      "url": "https://bleau.info/butteauxdames/23061.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Un Jeu d'Enfant (assis)",
+      "url": "https://bleau.info/butteauxdames/22728.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ventricule Gauche",
+      "url": "https://bleau.info/butteauxdames/23304.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "arête",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Antimatière",
+      "url": "https://bleau.info/butteauxdames/23033.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, -",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Covid-19",
+      "url": "https://bleau.info/butteauxdames/307764.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Aguicheuse (assis)",
+      "url": "https://bleau.info/butteauxdames/303876.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Aguicheuse (gauche assis)",
+      "url": "https://bleau.info/butteauxdames/310032.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Romuald Bussy",
+      "styles": [
+        "réglettes",
+        "départ assis",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cité des Rois",
+      "url": "https://bleau.info/butteauxdames/307768.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Fracassée (assis)",
+      "url": "https://bleau.info/butteauxdames/303872.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Ailes du Plaisir (raccourci)",
+      "url": "https://bleau.info/butteauxdames/301485.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Plats Puissance Dix",
+      "url": "https://bleau.info/butteauxdames/23335.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Bavaria",
+      "url": "https://bleau.info/butteauxdames/23046.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Changement de Versant",
+      "url": "https://bleau.info/butteauxdames/23473.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Décollage Difficile",
+      "url": "https://bleau.info/butteauxdames/23472.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Goliath / Jeu de Pieds",
+      "url": "https://bleau.info/butteauxdames/23150.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "In der Bütt",
+      "url": "https://bleau.info/butteauxdames/301553.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Échafaud",
+      "url": "https://bleau.info/butteauxdames/23384.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Interminable",
+      "url": "https://bleau.info/butteauxdames/22982.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fragile",
+      "url": "https://bleau.info/butteauxdames/23631.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Pompe à Air",
+      "url": "https://bleau.info/butteauxdames/23071.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers",
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Puissante",
+      "url": "https://bleau.info/butteauxdames/23016.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Trop Subtile",
+      "url": "https://bleau.info/butteauxdames/23644.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Cul Haut",
+      "url": "https://bleau.info/butteauxdames/23042.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pilier de sa Dame",
+      "url": "https://bleau.info/butteauxdames/23045.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst, Thierry Vasseur",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Ventre",
+      "url": "https://bleau.info/butteauxdames/23062.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "bombé",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Oh les Filles!",
+      "url": "https://bleau.info/butteauxdames/23043.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Platitude",
+      "url": "https://bleau.info/butteauxdames/23064.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Prestige",
+      "url": "https://bleau.info/butteauxdames/307769.html",
+      "grade": "6c",
+      "alt_grade": "6b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Stephalloïde (gauche)",
+      "url": "https://bleau.info/butteauxdames/305247.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Violence Bloc",
+      "url": "https://bleau.info/butteauxdames/23349.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "bombé",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Atelier la Renverse",
+      "url": "https://bleau.info/butteauxdames/303589.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Richard Reggio, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Au Bonheur des Dames",
+      "url": "https://bleau.info/butteauxdames/23082.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Déplacement du Départ Fait",
+      "url": "https://bleau.info/butteauxdames/23041.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dinosorus",
+      "url": "https://bleau.info/butteauxdames/302228.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Marco Laurent",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Téta Plat (droite)",
+      "url": "https://bleau.info/butteauxdames/313597.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "One by One",
+      "url": "https://bleau.info/butteauxdames/304531.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Finn Fischer",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Périprostipute (assis)",
+      "url": "https://bleau.info/butteauxdames/23148.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Redondance",
+      "url": "https://bleau.info/butteauxdames/23083.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Suppo",
+      "url": "https://bleau.info/butteauxdames/23208.html",
+      "grade": "6b+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Bavaria (gauche)",
+      "url": "https://bleau.info/butteauxdames/23047.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boule Degré",
+      "url": "https://bleau.info/butteauxdames/23205.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Covid-19 (direct)",
+      "url": "https://bleau.info/butteauxdames/307763.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Insoumise (assis)",
+      "url": "https://bleau.info/butteauxdames/300870.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Catherine Carré",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Antre Deux",
+      "url": "https://bleau.info/butteauxdames/24075.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Emmerdeuse",
+      "url": "https://bleau.info/butteauxdames/23066.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Imposante",
+      "url": "https://bleau.info/butteauxdames/23126.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "-",
+      "styles": [
+        "dalle",
+        "inversées",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Limande",
+      "url": "https://bleau.info/butteauxdames/23060.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Emmanuel Platre",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Molaire à Raoul (assis)",
+      "url": "https://bleau.info/butteauxdames/309193.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Marco Laurent",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Taillée",
+      "url": "https://bleau.info/butteauxdames/23645.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Vicieuse",
+      "url": "https://bleau.info/butteauxdames/22980.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bal des Faux-Culs",
+      "url": "https://bleau.info/butteauxdames/23612.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mascareigne",
+      "url": "https://bleau.info/butteauxdames/23352.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "réglettes",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pacman (assis)",
+      "url": "https://bleau.info/butteauxdames/311275.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Placement Parfait",
+      "url": "https://bleau.info/butteauxdames/23012.html",
+      "grade": "6b",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Plats Tâte",
+      "url": "https://bleau.info/butteauxdames/23654.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Prestige (droite)",
+      "url": "https://bleau.info/butteauxdames/307770.html",
+      "grade": "6b",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Quenelle Épaulée",
+      "url": "https://bleau.info/butteauxdames/23204.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bélouga",
+      "url": "https://bleau.info/butteauxdames/23301.html",
+      "grade": "6a+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gant de Boxe",
+      "url": "https://bleau.info/butteauxdames/22979.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Ultime Décollage",
+      "url": "https://bleau.info/butteauxdames/23011.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tête à Franklin",
+      "url": "https://bleau.info/butteauxdames/23005.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Torture Mentale",
+      "url": "https://bleau.info/butteauxdames/23007.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée Rouge",
+      "url": "https://bleau.info/butteauxdames/23068.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Réta Flingueur",
+      "url": "https://bleau.info/butteauxdames/22984.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "pincettes",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Trajet de la Limace",
+      "url": "https://bleau.info/butteauxdames/22976.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Blokeur",
+      "styles": [
+        "mur",
+        "haut",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Trous-Blions (assis)",
+      "url": "https://bleau.info/butteauxdames/300869.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Limandecello",
+      "url": "https://bleau.info/butteauxdames/313658.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Macarena",
+      "url": "https://bleau.info/butteauxdames/23351.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Méfiance",
+      "url": "https://bleau.info/butteauxdames/23344.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "dévers",
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pacman",
+      "url": "https://bleau.info/butteauxdames/23001.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "pincettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Platogrès",
+      "url": "https://bleau.info/butteauxdames/301372.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trève de Plaisanterie",
+      "url": "https://bleau.info/butteauxdames/23264.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Un Jeu d'Enfant",
+      "url": "https://bleau.info/butteauxdames/303907.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "A Bonita",
+      "url": "https://bleau.info/butteauxdames/22989.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bleauté",
+      "url": "https://bleau.info/butteauxdames/23652.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Devertor",
+      "url": "https://bleau.info/butteauxdames/23069.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Pepito",
+      "styles": [
+        "dévers",
+        "arête",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Gros Guignol",
+      "url": "https://bleau.info/butteauxdames/23346.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst, Thierry Vasseur",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jeu de Dames",
+      "url": "https://bleau.info/butteauxdames/23206.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Aguicheuse",
+      "url": "https://bleau.info/butteauxdames/303874.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête de la Truffe",
+      "url": "https://bleau.info/butteauxdames/23127.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Effeuilleuse",
+      "url": "https://bleau.info/butteauxdames/23203.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Blokeur",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Effrontée",
+      "url": "https://bleau.info/butteauxdames/22978.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Entre Deux (assis)",
+      "url": "https://bleau.info/butteauxdames/311276.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Intro",
+      "url": "https://bleau.info/butteauxdames/23709.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g",
+        "proue"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Chenille",
+      "url": "https://bleau.info/butteauxdames/23014.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle d'Argent",
+      "url": "https://bleau.info/butteauxdames/22981.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Demoiselle",
+      "url": "https://bleau.info/butteauxdames/23087.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Folie des Grandeurs",
+      "url": "https://bleau.info/butteauxdames/23209.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Molaire",
+      "url": "https://bleau.info/butteauxdames/23207.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Blokeur",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Molaire à Raoul",
+      "url": "https://bleau.info/butteauxdames/22977.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Monnaie de la Pièce",
+      "url": "https://bleau.info/butteauxdames/22974.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Rampe",
+      "url": "https://bleau.info/butteauxdames/309194.html",
+      "grade": "6a",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée du Désir",
+      "url": "https://bleau.info/butteauxdames/24317.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Blocage Tonique",
+      "url": "https://bleau.info/butteauxdames/22993.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Col",
+      "url": "https://bleau.info/butteauxdames/22998.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Pain de Sucre (droite)",
+      "url": "https://bleau.info/butteauxdames/23265.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Plomb Vicieux (assis)",
+      "url": "https://bleau.info/butteauxdames/23202.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Rétataclac (assis)",
+      "url": "https://bleau.info/butteauxdames/303871.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Trous-Blions",
+      "url": "https://bleau.info/butteauxdames/12210.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Martinez",
+      "styles": [
+        "dévers",
+        "fissure",
+        "bidoigts"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mon Cul sur la Commode",
+      "url": "https://bleau.info/butteauxdames/23070.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Périprostipute",
+      "url": "https://bleau.info/butteauxdames/302817.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "arête",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Petit Yop",
+      "url": "https://bleau.info/butteauxdames/23337.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tempête Magnétique (droite)",
+      "url": "https://bleau.info/butteauxdames/303591.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beau Joueur",
+      "url": "https://bleau.info/butteauxdames/23080.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Chaud Devant",
+      "url": "https://bleau.info/butteauxdames/23072.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "pincettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Croquignol",
+      "url": "https://bleau.info/butteauxdames/23345.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Insoumise",
+      "url": "https://bleau.info/butteauxdames/300871.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Catherine Carré",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Œuf aux Plats",
+      "url": "https://bleau.info/butteauxdames/23662.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Criirad",
+      "url": "https://bleau.info/butteauxdames/307765.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dure à Cuire",
+      "url": "https://bleau.info/butteauxdames/23004.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "pincettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Finesse",
+      "url": "https://bleau.info/butteauxdames/23000.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La P'tite Trav",
+      "url": "https://bleau.info/butteauxdames/22997.html",
+      "grade": "5+",
+      "alt_grade": "5",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Racoleuse",
+      "url": "https://bleau.info/butteauxdames/23347.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tirelire",
+      "url": "https://bleau.info/butteauxdames/22975.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Bond du Kangourou",
+      "url": "https://bleau.info/butteauxdames/23006.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Cognard",
+      "url": "https://bleau.info/butteauxdames/23149.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Pain de Sucre",
+      "url": "https://bleau.info/butteauxdames/22991.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Rouge-Gorge",
+      "url": "https://bleau.info/butteauxdames/23350.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Souffle",
+      "url": "https://bleau.info/butteauxdames/23010.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Téta Plat",
+      "url": "https://bleau.info/butteauxdames/23125.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Poussette des Cèpes",
+      "url": "https://bleau.info/butteauxdames/305265.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher, Catherine Attiger",
+      "styles": [
+        "réglettes",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Raplatplat",
+      "url": "https://bleau.info/butteauxdames/22983.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Raz Moket (direct)",
+      "url": "https://bleau.info/butteauxdames/23050.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "fissure",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "TNT",
+      "url": "https://bleau.info/butteauxdames/23013.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Trait d'Union",
+      "url": "https://bleau.info/butteauxdames/23067.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Un Décollage Pas si Difficile",
+      "url": "https://bleau.info/butteauxdames/310008.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Éléphant Dame",
+      "url": "https://bleau.info/butteauxdames/23657.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Exquise",
+      "url": "https://bleau.info/butteauxdames/23643.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gadget",
+      "url": "https://bleau.info/butteauxdames/301373.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Isaure a Mal au Pied",
+      "url": "https://bleau.info/butteauxdames/303025.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Simon Rabatin",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Explosive",
+      "url": "https://bleau.info/butteauxdames/22970.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Danse des Pieds",
+      "url": "https://bleau.info/butteauxdames/22972.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Blokeur",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Directe de la Pyramide",
+      "url": "https://bleau.info/butteauxdames/22973.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Montée Infernale",
+      "url": "https://bleau.info/butteauxdames/22994.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Pernicieuse",
+      "url": "https://bleau.info/butteauxdames/23649.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Raie du Cul",
+      "url": "https://bleau.info/butteauxdames/23163.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "pilier",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Renverse",
+      "url": "https://bleau.info/butteauxdames/23650.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Soubrette",
+      "url": "https://bleau.info/butteauxdames/23210.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "dalle",
+        "aplats",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Buvard",
+      "url": "https://bleau.info/butteauxdames/23609.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cocon d'Alien",
+      "url": "https://bleau.info/butteauxdames/22995.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pif Aplati",
+      "url": "https://bleau.info/butteauxdames/22987.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Plomb Vicieux",
+      "url": "https://bleau.info/butteauxdames/22986.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Rétataclac",
+      "url": "https://bleau.info/butteauxdames/23009.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers",
+        "fissure",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Trapèze",
+      "url": "https://bleau.info/butteauxdames/23201.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas Mal",
+      "url": "https://bleau.info/butteauxdames/23651.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pic Assiette",
+      "url": "https://bleau.info/butteauxdames/23655.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Prise de Bec",
+      "url": "https://bleau.info/butteauxdames/23661.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Coup de Booste",
+      "url": "https://bleau.info/butteauxdames/22985.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Aliénante",
+      "url": "https://bleau.info/butteauxdames/22996.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Entre Deux",
+      "url": "https://bleau.info/butteauxdames/22990.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Hésitation",
+      "url": "https://bleau.info/butteauxdames/22971.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle à Victor",
+      "url": "https://bleau.info/butteauxdames/23191.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Dalle Vache",
+      "url": "https://bleau.info/butteauxdames/23074.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dame de Pic",
+      "url": "https://bleau.info/butteauxdames/23073.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fracassée",
+      "url": "https://bleau.info/butteauxdames/303873.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "proue",
+        "dévers",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grosse (gauche)",
+      "url": "https://bleau.info/butteauxdames/23198.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Voie du Sanglier (assis)",
+      "url": "https://bleau.info/butteauxdames/305872.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Revanchard",
+      "url": "https://bleau.info/butteauxdames/23656.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Suppositoire",
+      "url": "https://bleau.info/butteauxdames/23164.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Téton de Secours",
+      "url": "https://bleau.info/butteauxdames/22988.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Patte de Gecko",
+      "url": "https://bleau.info/butteauxdames/23166.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Réglons",
+      "url": "https://bleau.info/butteauxdames/23075.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vamos Chico",
+      "url": "https://bleau.info/butteauxdames/23008.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Voyage au Bout du Grès",
+      "url": "https://bleau.info/butteauxdames/23165.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Baliverne",
+      "url": "https://bleau.info/butteauxdames/23077.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dallissime",
+      "url": "https://bleau.info/butteauxdames/23184.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Escapade",
+      "url": "https://bleau.info/butteauxdames/23188.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "J'ai la Dalle",
+      "url": "https://bleau.info/butteauxdames/23200.html",
+      "grade": "4+",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Jeu de Mains",
+      "url": "https://bleau.info/butteauxdames/23183.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Acharnée",
+      "url": "https://bleau.info/butteauxdames/23190.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Escargot",
+      "url": "https://bleau.info/butteauxdames/23168.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Exquise",
+      "url": "https://bleau.info/butteauxdames/192763.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Incompréhensible",
+      "url": "https://bleau.info/butteauxdames/23173.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Défigurée",
+      "url": "https://bleau.info/butteauxdames/23160.html",
+      "grade": "4+",
+      "alt_grade": "4",
+      "first_ascensionist": "Raoul Pinto",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Gentillette",
+      "url": "https://bleau.info/butteauxdames/23710.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Pomme",
+      "url": "https://bleau.info/butteauxdames/23192.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Splendide",
+      "url": "https://bleau.info/butteauxdames/23193.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tendue",
+      "url": "https://bleau.info/butteauxdames/23185.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Trav à Totor",
+      "url": "https://bleau.info/butteauxdames/23181.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Coin à Raoul",
+      "url": "https://bleau.info/butteauxdames/23158.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mur Mur",
+      "url": "https://bleau.info/butteauxdames/23159.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Narvalo",
+      "url": "https://bleau.info/butteauxdames/301346.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pananana",
+      "url": "https://bleau.info/butteauxdames/23659.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "pilier",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pas à Plats",
+      "url": "https://bleau.info/butteauxdames/23169.html",
+      "grade": "4+",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Point de Chute",
+      "url": "https://bleau.info/butteauxdames/23177.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Terminus",
+      "url": "https://bleau.info/butteauxdames/23195.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tout ça Pour ça",
+      "url": "https://bleau.info/butteauxdames/23660.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Échauf Ment",
+      "url": "https://bleau.info/butteauxdames/23653.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g",
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gym Tonic",
+      "url": "https://bleau.info/butteauxdames/23171.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Cuillère / Le Pied-Main",
+      "url": "https://bleau.info/butteauxdames/23155.html",
+      "grade": "4",
+      "alt_grade": "4+",
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Golosa",
+      "url": "https://bleau.info/butteauxdames/209509.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Grosse",
+      "url": "https://bleau.info/butteauxdames/23170.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voisine du Flingueur",
+      "url": "https://bleau.info/butteauxdames/23167.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Lance-Pierre",
+      "url": "https://bleau.info/butteauxdames/23197.html",
+      "grade": "4",
+      "alt_grade": "3+",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Pied",
+      "url": "https://bleau.info/butteauxdames/23182.html",
+      "grade": "4",
+      "alt_grade": "4-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Tire-Fesse",
+      "url": "https://bleau.info/butteauxdames/22992.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Prodige",
+      "url": "https://bleau.info/butteauxdames/307767.html",
+      "grade": "4",
+      "alt_grade": "4+",
+      "first_ascensionist": "Filo Benjamin-Nunes, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vingt Neuf",
+      "url": "https://bleau.info/butteauxdames/23179.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ascension Mentale",
+      "url": "https://bleau.info/butteauxdames/23175.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Balance la Sauce!",
+      "url": "https://bleau.info/butteauxdames/23172.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "C'est Bien Possible",
+      "url": "https://bleau.info/butteauxdames/23161.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Chaud Patate",
+      "url": "https://bleau.info/butteauxdames/23244.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Coin de Grès",
+      "url": "https://bleau.info/butteauxdames/23658.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "arête",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Arête de la Pyramide",
+      "url": "https://bleau.info/butteauxdames/23152.html",
+      "grade": "4-",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Belle",
+      "url": "https://bleau.info/butteauxdames/23187.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle au Ciment",
+      "url": "https://bleau.info/butteauxdames/23015.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Danse du Macaque",
+      "url": "https://bleau.info/butteauxdames/23174.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Fissure Parfaite",
+      "url": "https://bleau.info/butteauxdames/23162.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Langue",
+      "url": "https://bleau.info/butteauxdames/23151.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Voie du Sanglier",
+      "url": "https://bleau.info/butteauxdames/23153.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Morse",
+      "url": "https://bleau.info/butteauxdames/23178.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Nerf de la Molaire",
+      "url": "https://bleau.info/butteauxdames/23154.html",
+      "grade": "4-",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Croissants",
+      "url": "https://bleau.info/butteauxdames/23156.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Fesses du Babouin",
+      "url": "https://bleau.info/butteauxdames/23199.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Sacoches",
+      "url": "https://bleau.info/butteauxdames/23157.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto, Raoul Pinto",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lézaroïde 2",
+      "url": "https://bleau.info/butteauxdames/23180.html",
+      "grade": "4-",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lézaroïde 3",
+      "url": "https://bleau.info/butteauxdames/23196.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lime à Ongles",
+      "url": "https://bleau.info/butteauxdames/23176.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Palermito",
+      "url": "https://bleau.info/butteauxdames/23663.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pas de Mimics",
+      "url": "https://bleau.info/butteauxdames/24316.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Point d'Exclamation",
+      "url": "https://bleau.info/butteauxdames/23186.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Que Dalle",
+      "url": "https://bleau.info/butteauxdames/23194.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Subtilité",
+      "url": "https://bleau.info/butteauxdames/23225.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trente Neuf",
+      "url": "https://bleau.info/butteauxdames/23189.html",
+      "grade": "4-",
+      "alt_grade": "4",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Face Cachée",
+      "url": "https://bleau.info/butteauxdames/23219.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Ondulatoire",
+      "url": "https://bleau.info/butteauxdames/23227.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Quille",
+      "url": "https://bleau.info/butteauxdames/23211.html",
+      "grade": "3+",
+      "alt_grade": "3",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Buzzer",
+      "url": "https://bleau.info/butteauxdames/23228.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Doigt du Bossu",
+      "url": "https://bleau.info/butteauxdames/23255.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "bidoigts",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Vaisseau",
+      "url": "https://bleau.info/butteauxdames/23237.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Pied Dalle Douce",
+      "url": "https://bleau.info/butteauxdames/23235.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Redresse-Toi",
+      "url": "https://bleau.info/butteauxdames/23256.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boule de Pof",
+      "url": "https://bleau.info/butteauxdames/23226.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ça m'est Égal",
+      "url": "https://bleau.info/butteauxdames/23217.html",
+      "grade": "3",
+      "alt_grade": "3-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cache-Cache",
+      "url": "https://bleau.info/butteauxdames/23223.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Chof la Voie",
+      "url": "https://bleau.info/butteauxdames/23233.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cul de Sac",
+      "url": "https://bleau.info/butteauxdames/23238.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Dalala",
+      "url": "https://bleau.info/butteauxdames/23254.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Elle a Tout d'une Orange",
+      "url": "https://bleau.info/butteauxdames/308103.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Flics Plus Dix",
+      "url": "https://bleau.info/butteauxdames/23242.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Antidérapante",
+      "url": "https://bleau.info/butteauxdames/23213.html",
+      "grade": "3",
+      "alt_grade": "3+",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Équilibriste",
+      "url": "https://bleau.info/butteauxdames/23224.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Orange du Marchand",
+      "url": "https://bleau.info/butteauxdames/308088.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Y",
+      "url": "https://bleau.info/butteauxdames/23234.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Balance",
+      "url": "https://bleau.info/butteauxdames/23241.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Carapace",
+      "url": "https://bleau.info/butteauxdames/23218.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Farouche",
+      "url": "https://bleau.info/butteauxdames/23214.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Sinueuse",
+      "url": "https://bleau.info/butteauxdames/23212.html",
+      "grade": "3",
+      "alt_grade": "3-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Beau Pied-Main",
+      "url": "https://bleau.info/butteauxdames/308095.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Dos du Bossu",
+      "url": "https://bleau.info/butteauxdames/23240.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Petit Ventre",
+      "url": "https://bleau.info/butteauxdames/23258.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sillon",
+      "url": "https://bleau.info/butteauxdames/23231.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "No Mano",
+      "url": "https://bleau.info/butteauxdames/23243.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Pudding",
+      "url": "https://bleau.info/butteauxdames/23257.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sortie de Crise",
+      "url": "https://bleau.info/butteauxdames/308129.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Trois Faces, Bonjour les Dégâts",
+      "url": "https://bleau.info/butteauxdames/308116.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "22 V'là les Tiques!",
+      "url": "https://bleau.info/butteauxdames/308097.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Attrape-Nigaud",
+      "url": "https://bleau.info/butteauxdames/23239.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ça, du Jaune?",
+      "url": "https://bleau.info/butteauxdames/308096.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Cachalot",
+      "url": "https://bleau.info/butteauxdames/23245.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Clito Hisse",
+      "url": "https://bleau.info/butteauxdames/23246.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "aplats",
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dalle As",
+      "url": "https://bleau.info/butteauxdames/23222.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dalosus",
+      "url": "https://bleau.info/butteauxdames/23252.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Délit de Sale Gueule",
+      "url": "https://bleau.info/butteauxdames/23220.html",
+      "grade": "3-",
+      "alt_grade": "3",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Hydrocéphale",
+      "url": "https://bleau.info/butteauxdames/23221.html",
+      "grade": "3-",
+      "alt_grade": "3",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "bombé",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fissure à Marcel",
+      "url": "https://bleau.info/butteauxdames/308074.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Pépère",
+      "url": "https://bleau.info/butteauxdames/23229.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Vire Magique",
+      "url": "https://bleau.info/butteauxdames/308122.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cerveau",
+      "url": "https://bleau.info/butteauxdames/23236.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Le Livre Ouvert",
+      "url": "https://bleau.info/butteauxdames/308106.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Petite Montagne",
+      "url": "https://bleau.info/butteauxdames/23250.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vas-y, Vas-y",
+      "url": "https://bleau.info/butteauxdames/23215.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "C'est Ça Ksé Bom",
+      "url": "https://bleau.info/butteauxdames/23216.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Caprice d'Épouse",
+      "url": "https://bleau.info/butteauxdames/308119.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Immunité Collective",
+      "url": "https://bleau.info/butteauxdames/308085.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "J'ai ma Dose",
+      "url": "https://bleau.info/butteauxdames/308126.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Appuyette",
+      "url": "https://bleau.info/butteauxdames/308094.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Chris",
+      "url": "https://bleau.info/butteauxdames/308113.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Confinée",
+      "url": "https://bleau.info/butteauxdames/308071.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle de l'Est",
+      "url": "https://bleau.info/butteauxdames/23253.html",
+      "grade": "2+",
+      "alt_grade": "3-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Décalée",
+      "url": "https://bleau.info/butteauxdames/23248.html",
+      "grade": "2+",
+      "alt_grade": "3-",
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Diagonale à Albert",
+      "url": "https://bleau.info/butteauxdames/308123.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Directe de l'Ondulatoire",
+      "url": "https://bleau.info/butteauxdames/308102.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fastoche",
+      "url": "https://bleau.info/butteauxdames/23249.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Fesse de Droite",
+      "url": "https://bleau.info/butteauxdames/308092.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fête à Michel",
+      "url": "https://bleau.info/butteauxdames/308099.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rebutante",
+      "url": "https://bleau.info/butteauxdames/308111.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Bonsaï",
+      "url": "https://bleau.info/butteauxdames/308100.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Dièdre Interdit",
+      "url": "https://bleau.info/butteauxdames/308072.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pilier du Triangle",
+      "url": "https://bleau.info/butteauxdames/308107.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Verrou Malin",
+      "url": "https://bleau.info/butteauxdames/308101.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Vide Grimpeurs",
+      "url": "https://bleau.info/butteauxdames/308120.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Visage",
+      "url": "https://bleau.info/butteauxdames/308090.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "N'Embêtez pas les Sextos",
+      "url": "https://bleau.info/butteauxdames/308117.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Petites Rondeurs",
+      "url": "https://bleau.info/butteauxdames/23247.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Rien ne se Perd",
+      "url": "https://bleau.info/butteauxdames/308128.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rocaille",
+      "url": "https://bleau.info/butteauxdames/23230.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "fissure",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Triomphe sur le Lichen",
+      "url": "https://bleau.info/butteauxdames/308114.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vite, ma Dose!",
+      "url": "https://bleau.info/butteauxdames/308125.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Départ Debout!",
+      "url": "https://bleau.info/butteauxdames/308121.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Deux Faces, Ça Va!",
+      "url": "https://bleau.info/butteauxdames/308115.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gare aux Sextos",
+      "url": "https://bleau.info/butteauxdames/308118.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gym Tranquille",
+      "url": "https://bleau.info/butteauxdames/308104.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'AG de Barbizon",
+      "url": "https://bleau.info/butteauxdames/308124.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Évidente",
+      "url": "https://bleau.info/butteauxdames/308083.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dallette",
+      "url": "https://bleau.info/butteauxdames/23251.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Discrète",
+      "url": "https://bleau.info/butteauxdames/308089.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Fabuleuse Écaille",
+      "url": "https://bleau.info/butteauxdames/308098.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Mémère",
+      "url": "https://bleau.info/butteauxdames/308105.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La P'tite Dülf",
+      "url": "https://bleau.info/butteauxdames/308108.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rose-Marie",
+      "url": "https://bleau.info/butteauxdames/308112.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Trouvaille",
+      "url": "https://bleau.info/butteauxdames/308087.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Vengeance de la Souche",
+      "url": "https://bleau.info/butteauxdames/308073.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bouquet de Champignons",
+      "url": "https://bleau.info/butteauxdames/308127.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Pilier d'Argent",
+      "url": "https://bleau.info/butteauxdames/308075.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Portrait",
+      "url": "https://bleau.info/butteauxdames/308091.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sens de l'Itinéraire",
+      "url": "https://bleau.info/butteauxdames/308110.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Tout pour les Pieds",
+      "url": "https://bleau.info/butteauxdames/308081.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "V'là les Flics",
+      "url": "https://bleau.info/butteauxdames/23232.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Victor Pinto",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ça c'est du Jaune!",
+      "url": "https://bleau.info/butteauxdames/308079.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Escalier de Service",
+      "url": "https://bleau.info/butteauxdames/308070.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle à Didis",
+      "url": "https://bleau.info/butteauxdames/308109.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Sérénité",
+      "url": "https://bleau.info/butteauxdames/308093.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Sublime Écaille",
+      "url": "https://bleau.info/butteauxdames/308086.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pas de Souci!",
+      "url": "https://bleau.info/butteauxdames/308082.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Victoire sur la Mousse",
+      "url": "https://bleau.info/butteauxdames/308069.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

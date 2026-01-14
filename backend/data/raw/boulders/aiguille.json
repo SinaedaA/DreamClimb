@@ -1,0 +1,42 @@
+{
+  "sector": "Auvers-Saint-Georges (RdC)",
+  "problems": [
+    {
+      "name": "Pullauvers",
+      "url": "https://bleau.info/aiguille/311908.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Prodhomme, Thomas Collignon",
+      "styles": [
+        "arête",
+        "dalle",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Auversized",
+      "url": "https://bleau.info/aiguille/309906.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Turn Auvers",
+      "url": "https://bleau.info/aiguille/309907.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": 4.0
+    }
+  ]
+}

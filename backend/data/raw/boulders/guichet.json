@@ -1,0 +1,75 @@
+{
+  "sector": "Le Guichet (RBs)",
+  "problems": [
+    {
+      "name": "Ave Paria (en boucle)",
+      "url": "https://bleau.info/guichet/9511.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Max, Frédéric Séger",
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Imbibé",
+      "url": "https://bleau.info/guichet/19060.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ave Paria",
+      "url": "https://bleau.info/guichet/9510.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Ave Paria (light)",
+      "url": "https://bleau.info/guichet/7669.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Guichet Fermé",
+      "url": "https://bleau.info/guichet/11437.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Max, Jean-Claude Valluet",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mot de Guichet",
+      "url": "https://bleau.info/guichet/306184.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "surplomb",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "sector": "Boissy Norgevaux (RdC)",
+  "problems": [
+    {
+      "name": "King",
+      "url": "https://bleau.info/norgevaux/308740.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Kong",
+      "url": "https://bleau.info/norgevaux/308739.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Queue de Godzilla (prolongé)",
+      "url": "https://bleau.info/norgevaux/309088.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "boucle",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Scylla (prolongé)",
+      "url": "https://bleau.info/norgevaux/242969.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "30ème Rugissant",
+      "url": "https://bleau.info/norgevaux/308737.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "30ème Rugissant (direct)",
+      "url": "https://bleau.info/norgevaux/308738.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bart van Raaij",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "C.Q.P. (gauche)",
+      "url": "https://bleau.info/norgevaux/308734.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Queue de Godzilla",
+      "url": "https://bleau.info/norgevaux/308741.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Scylla (retour)",
+      "url": "https://bleau.info/norgevaux/275411.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Scylla",
+      "url": "https://bleau.info/norgevaux/202595.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Damien Roguiez, Christian Merimeche",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Godzilla",
+      "url": "https://bleau.info/norgevaux/308735.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "C.Q.P.",
+      "url": "https://bleau.info/norgevaux/308733.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Godzilla (direct)",
+      "url": "https://bleau.info/norgevaux/308736.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "30ème Rugissant (direct sans convention)",
+      "url": "https://bleau.info/norgevaux/154866.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.5
+    }
+  ]
+}

@@ -1,0 +1,2656 @@
+{
+  "sector": "Le Troglodyte",
+  "problems": [
+    {
+      "name": "La Semaine Sanglante",
+      "url": "https://bleau.info/troglodyte/302310.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Semaine Sanglante (prolongé)",
+      "url": "https://bleau.info/troglodyte/302311.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Raducoccyx (intégral)",
+      "url": "https://bleau.info/troglodyte/302330.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "boucle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Blocodyte",
+      "url": "https://bleau.info/troglodyte/302296.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Commune Mesure (assis)",
+      "url": "https://bleau.info/troglodyte/302289.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Épicondylite",
+      "url": "https://bleau.info/troglodyte/302320.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Force du Peuple",
+      "url": "https://bleau.info/troglodyte/302312.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Obsession",
+      "url": "https://bleau.info/troglodyte/17155.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, ⋅∴⋅",
+      "styles": [
+        "mur",
+        "haut",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Raducoccyx",
+      "url": "https://bleau.info/troglodyte/302329.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "boucle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bankster",
+      "url": "https://bleau.info/troglodyte/17156.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "arête",
+        "avec corde"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Claustrophile",
+      "url": "https://bleau.info/troglodyte/17205.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Commune Mesure",
+      "url": "https://bleau.info/troglodyte/302288.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Entre et Fais le Tour",
+      "url": "https://bleau.info/troglodyte/302316.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Insoumission",
+      "url": "https://bleau.info/troglodyte/302302.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Arrosée de Pâques",
+      "url": "https://bleau.info/troglodyte/301702.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Hugo Cottray, Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'État de Grâce",
+      "url": "https://bleau.info/troglodyte/302292.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Proue Sans la Quille",
+      "url": "https://bleau.info/troglodyte/302326.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Insoumis",
+      "url": "https://bleau.info/troglodyte/302308.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Jeunes au Pouvoir",
+      "url": "https://bleau.info/troglodyte/302304.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Lefebvre, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Médivérif",
+      "url": "https://bleau.info/troglodyte/16070.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Raducoccyx (raccourci)",
+      "url": "https://bleau.info/troglodyte/302328.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ras la Casquette (par le bas)",
+      "url": "https://bleau.info/troglodyte/302324.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Travlodyte",
+      "url": "https://bleau.info/troglodyte/302298.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Épicondylite (raccourci)",
+      "url": "https://bleau.info/troglodyte/302318.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grotlodyte",
+      "url": "https://bleau.info/troglodyte/302297.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arche Dénouée",
+      "url": "https://bleau.info/troglodyte/302332.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'État Dégraisse",
+      "url": "https://bleau.info/troglodyte/302293.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Julien Lefebvre",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ras la Casquette",
+      "url": "https://bleau.info/troglodyte/302325.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fin de la Récré",
+      "url": "https://bleau.info/troglodyte/305545.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arche en Volée",
+      "url": "https://bleau.info/troglodyte/302333.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc, Julien Lefebvre",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête de Marbre (assis)",
+      "url": "https://bleau.info/troglodyte/302294.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ultra-Gauche",
+      "url": "https://bleau.info/troglodyte/17163.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "réta",
+        "avec corde"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Raclure",
+      "url": "https://bleau.info/troglodyte/302295.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée de L'Antre Deux Tours",
+      "url": "https://bleau.info/troglodyte/302314.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Frédéric Buc, Jérôme Buc",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Gifles Hâtives",
+      "url": "https://bleau.info/troglodyte/302317.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Pieds Plus Hauts que le Ventre",
+      "url": "https://bleau.info/troglodyte/302309.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "réta",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pas de Quoi s'Énerver",
+      "url": "https://bleau.info/troglodyte/303671.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Prends la Quille",
+      "url": "https://bleau.info/troglodyte/302322.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Quadriceps",
+      "url": "https://bleau.info/troglodyte/17184.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rêve Créatif (direct)",
+      "url": "https://bleau.info/troglodyte/300345.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sauver l'Aplat Net",
+      "url": "https://bleau.info/troglodyte/302300.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tri-Glodyte",
+      "url": "https://bleau.info/troglodyte/302327.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Isoloir",
+      "url": "https://bleau.info/troglodyte/302305.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de mon Arbre (aller-retour)",
+      "url": "https://bleau.info/troglodyte/314562.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grotlodyte (raccourci)",
+      "url": "https://bleau.info/troglodyte/302299.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Abritée",
+      "url": "https://bleau.info/troglodyte/17193.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Pascal Richoux",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Antre Deux Tours",
+      "url": "https://bleau.info/troglodyte/302291.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Julien Lefebvre",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Aplattitude",
+      "url": "https://bleau.info/troglodyte/17182.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Pascal Etienne",
+      "styles": [
+        "traversée g-d",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête de Marbre",
+      "url": "https://bleau.info/troglodyte/17196.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "arête",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Casquette (gauche)",
+      "url": "https://bleau.info/troglodyte/300317.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Kouchner (assis droite)",
+      "url": "https://bleau.info/troglodyte/305527.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Ravaillac",
+      "url": "https://bleau.info/troglodyte/17157.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Sortie du Coccyx",
+      "url": "https://bleau.info/troglodyte/302331.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Souplesse (assis)",
+      "url": "https://bleau.info/troglodyte/305535.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée de mon Arbre",
+      "url": "https://bleau.info/troglodyte/17173.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée de mon Arbre (retour)",
+      "url": "https://bleau.info/troglodyte/314561.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée du Bunker",
+      "url": "https://bleau.info/troglodyte/17168.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Richoux, Pascal Etienne, ⋅∴⋅",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur des Fédérés (assis)",
+      "url": "https://bleau.info/troglodyte/118070.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Entre Sans Faire le Tour",
+      "url": "https://bleau.info/troglodyte/302315.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Épicondylite (direct)",
+      "url": "https://bleau.info/troglodyte/302319.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Art du Réta",
+      "url": "https://bleau.info/troglodyte/302306.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fosse",
+      "url": "https://bleau.info/troglodyte/17159.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sentier de Travers",
+      "url": "https://bleau.info/troglodyte/306634.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Troglodyte Mignon",
+      "url": "https://bleau.info/troglodyte/180351.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "C'est Plié",
+      "url": "https://bleau.info/troglodyte/17187.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅, Pascal Etienne",
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Combinotoire",
+      "url": "https://bleau.info/troglodyte/302307.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Copié-Collé",
+      "url": "https://bleau.info/troglodyte/17172.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Éventrée",
+      "url": "https://bleau.info/troglodyte/302313.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "pilier",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L’Arche Confinée",
+      "url": "https://bleau.info/troglodyte/306621.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Casquette",
+      "url": "https://bleau.info/troglodyte/17194.html",
+      "grade": "6a",
+      "alt_grade": "5+",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Jeunesse au Pouvoir",
+      "url": "https://bleau.info/troglodyte/302301.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Julien Lefebvre, Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Steck",
+      "url": "https://bleau.info/troglodyte/17162.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "fissure",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pan-Tacle",
+      "url": "https://bleau.info/troglodyte/302290.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pas Ni-Ni",
+      "url": "https://bleau.info/troglodyte/305528.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Assiettes",
+      "url": "https://bleau.info/troglodyte/17188.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Point de Rosée",
+      "url": "https://bleau.info/troglodyte/17183.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "réta",
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Rêve Créatif",
+      "url": "https://bleau.info/troglodyte/17191.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rêve Ré-Créatif",
+      "url": "https://bleau.info/troglodyte/305526.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ridicule",
+      "url": "https://bleau.info/troglodyte/17174.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Troglodyte",
+      "url": "https://bleau.info/troglodyte/16109.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trovyte (gauche)",
+      "url": "https://bleau.info/troglodyte/214233.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ariane",
+      "url": "https://bleau.info/troglodyte/17175.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "réta"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Biface",
+      "url": "https://bleau.info/troglodyte/17160.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Breaking Bad",
+      "url": "https://bleau.info/troglodyte/301895.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chauffinette",
+      "url": "https://bleau.info/troglodyte/158963.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Kouchner (assis)",
+      "url": "https://bleau.info/troglodyte/17190.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Début Tente",
+      "url": "https://bleau.info/troglodyte/302323.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "bombé",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mon Premier Petit Bloc (direct)",
+      "url": "https://bleau.info/troglodyte/305806.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Planisphère",
+      "url": "https://bleau.info/troglodyte/17185.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Trovyte (droite)",
+      "url": "https://bleau.info/troglodyte/302321.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cyrano",
+      "url": "https://bleau.info/troglodyte/17164.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Effondrement",
+      "url": "https://bleau.info/troglodyte/122691.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Kilométrage",
+      "url": "https://bleau.info/troglodyte/17199.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Archichauff",
+      "url": "https://bleau.info/troglodyte/302334.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Inversée Cassante",
+      "url": "https://bleau.info/troglodyte/17180.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Jeunesse Gazée",
+      "url": "https://bleau.info/troglodyte/149669.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Semaine Sans Glande",
+      "url": "https://bleau.info/troglodyte/118001.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Levier",
+      "url": "https://bleau.info/troglodyte/17181.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Bossettes",
+      "url": "https://bleau.info/troglodyte/17186.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Rasteau",
+      "url": "https://bleau.info/troglodyte/18617.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Revendication",
+      "url": "https://bleau.info/troglodyte/302303.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vis-à-Vis de Famille",
+      "url": "https://bleau.info/troglodyte/18618.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Auprès de mon Arbre",
+      "url": "https://bleau.info/troglodyte/17169.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Illumination",
+      "url": "https://bleau.info/troglodyte/17170.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Souplesse",
+      "url": "https://bleau.info/troglodyte/17192.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Suspension",
+      "url": "https://bleau.info/troglodyte/17165.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur des Fédérés",
+      "url": "https://bleau.info/troglodyte/85238.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Tas c'est Moi!",
+      "url": "https://bleau.info/troglodyte/223135.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tord-Boyaux",
+      "url": "https://bleau.info/troglodyte/17197.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ébène",
+      "url": "https://bleau.info/troglodyte/182541.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ébène",
+      "url": "https://bleau.info/troglodyte/290105.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ella Tout",
+      "url": "https://bleau.info/troglodyte/17166.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Humains",
+      "url": "https://bleau.info/troglodyte/225664.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kobane Calling",
+      "url": "https://bleau.info/troglodyte/79921.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Antre du Sorcier",
+      "url": "https://bleau.info/troglodyte/273839.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle Grenue",
+      "url": "https://bleau.info/troglodyte/101889.html",
+      "grade": "4+",
+      "alt_grade": "5",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Grive-Oise",
+      "url": "https://bleau.info/troglodyte/159345.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Lefebvre, Gilles Cottray",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Kouchner",
+      "url": "https://bleau.info/troglodyte/181982.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Ronce",
+      "url": "https://bleau.info/troglodyte/17161.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée du Sandwich",
+      "url": "https://bleau.info/troglodyte/17176.html",
+      "grade": "4+",
+      "alt_grade": "4",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Années 2000",
+      "url": "https://bleau.info/troglodyte/17198.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Nouveaux Jeux",
+      "url": "https://bleau.info/troglodyte/132906.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mais où est la Cupule?",
+      "url": "https://bleau.info/troglodyte/17171.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Près de ma Grotte",
+      "url": "https://bleau.info/troglodyte/305803.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Respiro",
+      "url": "https://bleau.info/troglodyte/17158.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rêve",
+      "url": "https://bleau.info/troglodyte/238407.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Auprès de mon Arbre (sans convention)",
+      "url": "https://bleau.info/troglodyte/17056.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "trous"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Chocolat",
+      "url": "https://bleau.info/troglodyte/17074.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Face Nord",
+      "url": "https://bleau.info/troglodyte/17072.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Granulodalle",
+      "url": "https://bleau.info/troglodyte/17189.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Huile de Coude",
+      "url": "https://bleau.info/troglodyte/75481.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "I Feel Goudes",
+      "url": "https://bleau.info/troglodyte/17040.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Oubliette",
+      "url": "https://bleau.info/troglodyte/237418.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Le Beau Mono",
+      "url": "https://bleau.info/troglodyte/17195.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "monodoigts"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur des Déférés",
+      "url": "https://bleau.info/troglodyte/299216.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sandwich",
+      "url": "https://bleau.info/troglodyte/17071.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Ignorants",
+      "url": "https://bleau.info/troglodyte/53087.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "monodoigts"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mon Premier Petit Bloc",
+      "url": "https://bleau.info/troglodyte/305805.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Patpat",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Tiens Bon la Rampe",
+      "url": "https://bleau.info/troglodyte/17047.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Blanc",
+      "url": "https://bleau.info/troglodyte/17048.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Infox",
+      "url": "https://bleau.info/troglodyte/135545.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête de la Fesse",
+      "url": "https://bleau.info/troglodyte/17178.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête Ronde",
+      "url": "https://bleau.info/troglodyte/17046.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Arête Sud",
+      "url": "https://bleau.info/troglodyte/17073.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Art de Perdre",
+      "url": "https://bleau.info/troglodyte/17075.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Oubliée",
+      "url": "https://bleau.info/troglodyte/17049.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Légèreté",
+      "url": "https://bleau.info/troglodyte/254386.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Plateau",
+      "url": "https://bleau.info/troglodyte/17167.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sentier (droite)",
+      "url": "https://bleau.info/troglodyte/17050.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Tunnel",
+      "url": "https://bleau.info/troglodyte/17069.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "dièdre"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Les Bacs",
+      "url": "https://bleau.info/troglodyte/17070.html",
+      "grade": "4-",
+      "alt_grade": "4",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Familiale",
+      "url": "https://bleau.info/troglodyte/17068.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Beau Mono (droite)",
+      "url": "https://bleau.info/troglodyte/135309.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Château de Cartes",
+      "url": "https://bleau.info/troglodyte/17065.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Sentier (gauche)",
+      "url": "https://bleau.info/troglodyte/17051.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Trou Haut",
+      "url": "https://bleau.info/troglodyte/17055.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Mafia Bretonne",
+      "url": "https://bleau.info/troglodyte/153465.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Même l'Appui",
+      "url": "https://bleau.info/troglodyte/270676.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Moospit",
+      "url": "https://bleau.info/troglodyte/301897.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pognon de Dingue",
+      "url": "https://bleau.info/troglodyte/75125.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Tempête",
+      "url": "https://bleau.info/troglodyte/17059.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Antre et Sors",
+      "url": "https://bleau.info/troglodyte/71377.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bientôt Noël",
+      "url": "https://bleau.info/troglodyte/225659.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "CO2 mon Amour",
+      "url": "https://bleau.info/troglodyte/17042.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Départ Trou",
+      "url": "https://bleau.info/troglodyte/217680.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dernier de Cordée",
+      "url": "https://bleau.info/troglodyte/115727.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fainéant",
+      "url": "https://bleau.info/troglodyte/87712.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Fesse Gauche",
+      "url": "https://bleau.info/troglodyte/17057.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Je ne Suis Rien",
+      "url": "https://bleau.info/troglodyte/286989.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kwassa-Kwassa",
+      "url": "https://bleau.info/troglodyte/213850.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Épreuve",
+      "url": "https://bleau.info/troglodyte/17058.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "dièdre",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Carrière (droite)",
+      "url": "https://bleau.info/troglodyte/17060.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dülf Grenue",
+      "url": "https://bleau.info/troglodyte/17045.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Liaison Sans Danger",
+      "url": "https://bleau.info/troglodyte/220104.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée du Bonsaï",
+      "url": "https://bleau.info/troglodyte/299678.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le François Moyen",
+      "url": "https://bleau.info/troglodyte/109180.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Mono",
+      "url": "https://bleau.info/troglodyte/17052.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "monodoigts"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Fissures Inversées",
+      "url": "https://bleau.info/troglodyte/17044.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mon Ami Benalla",
+      "url": "https://bleau.info/troglodyte/194960.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "OK Bosse!",
+      "url": "https://bleau.info/troglodyte/17053.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quête d'Outil",
+      "url": "https://bleau.info/troglodyte/17067.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ta Mère Dans le 3",
+      "url": "https://bleau.info/troglodyte/306135.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens, Patpat",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Traverse la Rue",
+      "url": "https://bleau.info/troglodyte/31263.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17203.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17206.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Champion de la Terre",
+      "url": "https://bleau.info/troglodyte/36290.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gaulois Réfractaire",
+      "url": "https://bleau.info/troglodyte/234118.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Gilles est Jaune",
+      "url": "https://bleau.info/troglodyte/43291.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'État Gère",
+      "url": "https://bleau.info/troglodyte/192978.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Coup de Sans-Fil",
+      "url": "https://bleau.info/troglodyte/17061.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Merlu",
+      "url": "https://bleau.info/troglodyte/170703.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Plein Soleil",
+      "url": "https://bleau.info/troglodyte/17063.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17202.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17204.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grippy Shit",
+      "url": "https://bleau.info/troglodyte/301896.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Wolfgang Schuessler",
+      "styles": [
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Air de Rien",
+      "url": "https://bleau.info/troglodyte/62922.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Friction",
+      "url": "https://bleau.info/troglodyte/17041.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Gamelle",
+      "url": "https://bleau.info/troglodyte/17043.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Leçon",
+      "url": "https://bleau.info/troglodyte/128360.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Vasque",
+      "url": "https://bleau.info/troglodyte/17054.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Nain Jaune",
+      "url": "https://bleau.info/troglodyte/90826.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vertige!",
+      "url": "https://bleau.info/troglodyte/110909.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17201.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Enfumage",
+      "url": "https://bleau.info/troglodyte/242154.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Étranger",
+      "url": "https://bleau.info/troglodyte/134715.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hésitation",
+      "url": "https://bleau.info/troglodyte/227927.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hyper Expo",
+      "url": "https://bleau.info/troglodyte/189150.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Croisette",
+      "url": "https://bleau.info/troglodyte/17066.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Planquée",
+      "url": "https://bleau.info/troglodyte/264793.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Promenade des Anglais",
+      "url": "https://bleau.info/troglodyte/17062.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Mille-Feuilles",
+      "url": "https://bleau.info/troglodyte/17064.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Troglo",
+      "url": "https://bleau.info/troglodyte/185557.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nemo Day",
+      "url": "https://bleau.info/troglodyte/37719.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petite Randonnée",
+      "url": "https://bleau.info/troglodyte/95060.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Piscine-Culture",
+      "url": "https://bleau.info/troglodyte/279948.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fausse Cheminée",
+      "url": "https://bleau.info/troglodyte/102516.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "cheminée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le B.A. BA",
+      "url": "https://bleau.info/troglodyte/76290.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Ménage",
+      "url": "https://bleau.info/troglodyte/266307.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Mégabacs",
+      "url": "https://bleau.info/troglodyte/36180.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "En Passant",
+      "url": "https://bleau.info/troglodyte/187897.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Krimau",
+      "url": "https://bleau.info/troglodyte/191453.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Quel Bouleau!",
+      "url": "https://bleau.info/troglodyte/299340.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Levrette",
+      "url": "https://bleau.info/troglodyte/17179.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Simplet",
+      "url": "https://bleau.info/troglodyte/94004.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dièdre"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/troglodyte/17200.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,1631 @@
+{
+  "sector": "Les Mammouths",
+  "problems": [
+    {
+      "name": "Djinns (assis)",
+      "url": "https://bleau.info/mammouths/3236.html",
+      "grade": null,
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ubik (assis)",
+      "url": "https://bleau.info/mammouths/2143.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Nadiras",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Djinns",
+      "url": "https://bleau.info/mammouths/303592.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Nicolas Pelorson",
+      "styles": [
+        "aplats",
+        "jeté"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Ubik",
+      "url": "https://bleau.info/mammouths/2130.html",
+      "grade": "8a+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Julien Nadiras",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Air de Rien (gauche)",
+      "url": "https://bleau.info/mammouths/310165.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Tim Reuser",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gloire",
+      "url": "https://bleau.info/mammouths/308777.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ubite",
+      "url": "https://bleau.info/mammouths/305865.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Zébulon",
+      "url": "https://bleau.info/mammouths/1773.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Opération Coup de Poing",
+      "url": "https://bleau.info/mammouths/22239.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Le Denmat, Romain Monnier",
+      "styles": [
+        "mur",
+        "aplats",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Dragon Skin",
+      "url": "https://bleau.info/mammouths/312186.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Balazs Bajusz, Ferdinand Nagy",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Air de Rien",
+      "url": "https://bleau.info/mammouths/9694.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Amouréta",
+      "url": "https://bleau.info/mammouths/312854.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réta",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Colonnettes (direct)",
+      "url": "https://bleau.info/mammouths/9697.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "départ assis",
+        "mur",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Margotte",
+      "url": "https://bleau.info/mammouths/312857.html",
+      "grade": "7b",
+      "alt_grade": "7a",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Osiris",
+      "url": "https://bleau.info/mammouths/1665.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Frank Scherrer, Philippe Dumez, Stéphan Denys",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Osiris 2.0",
+      "url": "https://bleau.info/mammouths/22311.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Aurélien Sassier, David Evrard",
+      "styles": [
+        "surplomb",
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Trois Doses de Force, une Dose de Chance",
+      "url": "https://bleau.info/mammouths/315234.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "surplomb",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basalentour",
+      "url": "https://bleau.info/mammouths/312861.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Effet Saccharose",
+      "url": "https://bleau.info/mammouths/312234.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Ventre du Mammouth",
+      "url": "https://bleau.info/mammouths/13684.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Colonnettes (bas)",
+      "url": "https://bleau.info/mammouths/9696.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "départ assis",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Optimisme",
+      "url": "https://bleau.info/mammouths/308776.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Parole de Castor",
+      "url": "https://bleau.info/mammouths/22240.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat, Loïc Le Denmat",
+      "styles": [
+        "dalle",
+        "réglettes",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Solinidée",
+      "url": "https://bleau.info/mammouths/312862.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Alentour (direct)",
+      "url": "https://bleau.info/mammouths/312860.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Boule de Gomme",
+      "url": "https://bleau.info/mammouths/1666.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "jeté",
+        "réglettes",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Grimper (assis)",
+      "url": "https://bleau.info/mammouths/310149.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mystère",
+      "url": "https://bleau.info/mammouths/22815.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Réponse",
+      "url": "https://bleau.info/mammouths/312844.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Roof & Mantle",
+      "url": "https://bleau.info/mammouths/23742.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée de la Carotte",
+      "url": "https://bleau.info/mammouths/312228.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Nightfury",
+      "url": "https://bleau.info/mammouths/22814.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Erik Cammaerts, Kobe Bellinkx, Nele Bellinkx",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sélacien",
+      "url": "https://bleau.info/mammouths/308016.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Alentour",
+      "url": "https://bleau.info/mammouths/312859.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Geai l'Arête",
+      "url": "https://bleau.info/mammouths/308864.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Green Lizard",
+      "url": "https://bleau.info/mammouths/314940.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Jérémy Lecouvert",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grimper",
+      "url": "https://bleau.info/mammouths/9700.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Morin",
+      "url": "https://bleau.info/mammouths/9706.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Opération Coup de Pied",
+      "url": "https://bleau.info/mammouths/22241.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Question",
+      "url": "https://bleau.info/mammouths/312843.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Ass de Pied",
+      "url": "https://bleau.info/mammouths/312227.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée de la Caro",
+      "url": "https://bleau.info/mammouths/312229.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bis",
+      "url": "https://bleau.info/mammouths/9698.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Frixion",
+      "url": "https://bleau.info/mammouths/9693.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Magazine (assis)",
+      "url": "https://bleau.info/mammouths/9699.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "aplats",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Réta",
+      "url": "https://bleau.info/mammouths/9705.html",
+      "grade": "6b",
+      "alt_grade": "6a+",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Colonnettes",
+      "url": "https://bleau.info/mammouths/9695.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Trois Cèpses",
+      "url": "https://bleau.info/mammouths/312226.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mystère et Boule de Gomme",
+      "url": "https://bleau.info/mammouths/300394.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Stefan Warsink",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sélacien (droite)",
+      "url": "https://bleau.info/mammouths/308017.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Une Dose de Force",
+      "url": "https://bleau.info/mammouths/315233.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Lézard Vert (assis)",
+      "url": "https://bleau.info/mammouths/315182.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Une Dose d'Équilibre",
+      "url": "https://bleau.info/mammouths/315232.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Patpat, DavideSens",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Complainte du Lamantin",
+      "url": "https://bleau.info/mammouths/22238.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Romain Monnier, François Ghigonis, Loïc Le Denmat",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Lézard Vert",
+      "url": "https://bleau.info/mammouths/313919.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "dévers",
+        "trous",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mammouth Laineux (aller-retour)",
+      "url": "https://bleau.info/mammouths/314852.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Geai de l'Éponge",
+      "url": "https://bleau.info/mammouths/308863.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mammouth Laineux",
+      "url": "https://bleau.info/mammouths/314851.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mammouthon (aller-retour)",
+      "url": "https://bleau.info/mammouths/314787.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Novel (assis)",
+      "url": "https://bleau.info/mammouths/309184.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chauffe Mur",
+      "url": "https://bleau.info/mammouths/9701.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Geai l'Inverse",
+      "url": "https://bleau.info/mammouths/309053.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "bombé",
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Geai Zippé",
+      "url": "https://bleau.info/mammouths/309054.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Magazine",
+      "url": "https://bleau.info/mammouths/310148.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mammouthon",
+      "url": "https://bleau.info/mammouths/310719.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Novel",
+      "url": "https://bleau.info/mammouths/309182.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bétacarotène",
+      "url": "https://bleau.info/mammouths/312231.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Caro Pied qui Glisse",
+      "url": "https://bleau.info/mammouths/312225.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ass de Caro",
+      "url": "https://bleau.info/mammouths/312230.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Œuf au Plat",
+      "url": "https://bleau.info/mammouths/312233.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Forteresse",
+      "url": "https://bleau.info/mammouths/310076.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pagode (droite)",
+      "url": "https://bleau.info/mammouths/9702.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pagode (gauche)",
+      "url": "https://bleau.info/mammouths/9703.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Geai la Brosse",
+      "url": "https://bleau.info/mammouths/308865.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chemise à Caro",
+      "url": "https://bleau.info/mammouths/312235.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/mammouths/9704.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Caro Gorille",
+      "url": "https://bleau.info/mammouths/312223.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mammoutina",
+      "url": "https://bleau.info/mammouths/310718.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°29 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315053.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mammouthino",
+      "url": "https://bleau.info/mammouths/310717.html",
+      "grade": "3+",
+      "alt_grade": "4-",
+      "first_ascensionist": "Denis Colson",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°18 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315036.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°25 ter Jaune PD]",
+      "url": "https://bleau.info/mammouths/315045.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°33 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315054.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°45 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315068.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Caro t'Cake",
+      "url": "https://bleau.info/mammouths/312219.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°9 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315017.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°22 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315039.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°25 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315044.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°46 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315066.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°31 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/313078.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°12 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315018.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°14 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315029.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°18 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315035.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°23 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315041.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°29 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315049.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°37 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315056.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°39 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315058.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°41 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315060.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°31 Jaune PD]",
+      "url": "https://bleau.info/mammouths/313077.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°8 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315019.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°7 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315020.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "descente",
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°6 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315021.html",
+      "grade": "2+",
+      "alt_grade": "3-",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle",
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°19 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315033.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°20 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315034.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle",
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°27 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315047.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°28 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315048.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°30 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315050.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°35 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315055.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°38 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315057.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°45 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315065.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°15 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315069.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Carotte Ramping",
+      "url": "https://bleau.info/mammouths/312218.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cheminée",
+      "url": "https://bleau.info/mammouths/312221.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "cheminée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Teet à Caro",
+      "url": "https://bleau.info/mammouths/312217.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°D Jaune PD]",
+      "url": "https://bleau.info/mammouths/312934.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°1 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312935.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°1 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/312936.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°11 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312937.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "descente",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°12 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312938.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°16 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312939.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°10 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312982.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°42 Jaune PD]",
+      "url": "https://bleau.info/mammouths/312983.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°13 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315027.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°17 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315037.html",
+      "grade": "2",
+      "alt_grade": "3",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°25 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315043.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°33 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315052.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°36 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315059.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°40 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315061.html",
+      "grade": "2",
+      "alt_grade": "3",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°42 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315062.html",
+      "grade": "2",
+      "alt_grade": "3",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°43 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315063.html",
+      "grade": "2",
+      "alt_grade": "3",
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°5 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315016.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°14 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315028.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°32 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315030.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°21 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315038.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°26 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315046.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°34 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315051.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°46 bis Jaune PD]",
+      "url": "https://bleau.info/mammouths/315067.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°24 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315042.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°44 Jaune PD]",
+      "url": "https://bleau.info/mammouths/315064.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Léo D",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

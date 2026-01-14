@@ -1,0 +1,3057 @@
+{
+  "sector": "Rocher d'Avon",
+  "problems": [
+    {
+      "name": "Big Puppy",
+      "url": "https://bleau.info/avon/312185.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Debry",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bien Plus Subtil",
+      "url": "https://bleau.info/avon/306523.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Doigts de Paille (assis)",
+      "url": "https://bleau.info/avon/300009.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "Thomas Willenberg",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Master of Puppy",
+      "url": "https://bleau.info/avon/312184.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Debry",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Total Freak",
+      "url": "https://bleau.info/avon/22055.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bien Subtil (droite)",
+      "url": "https://bleau.info/avon/306521.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Face Blok",
+      "url": "https://bleau.info/avon/20275.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Doigts de Paille",
+      "url": "https://bleau.info/avon/2394.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Thomas Willenberg",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Subtilement Long",
+      "url": "https://bleau.info/avon/306522.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cosa Nostra",
+      "url": "https://bleau.info/avon/363.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Emmanuel Ratouis",
+      "styles": [
+        "dalle",
+        "fissure",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Face Tosh",
+      "url": "https://bleau.info/avon/313981.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Pierre Shankland",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Freak of the Weak",
+      "url": "https://bleau.info/avon/21177.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "toit",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Garde Barrière (assis)",
+      "url": "https://bleau.info/avon/314612.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Téton Salvateur",
+      "url": "https://bleau.info/avon/306322.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "MR73",
+      "url": "https://bleau.info/avon/19318.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pulsion",
+      "url": "https://bleau.info/avon/1108.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bas les Masques",
+      "url": "https://bleau.info/avon/306413.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe PICARD",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basta (assis)",
+      "url": "https://bleau.info/avon/11610.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Marc Montchaussé",
+      "styles": [
+        "départ assis",
+        "toit",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bien Subtil",
+      "url": "https://bleau.info/avon/306520.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Calamity Jane",
+      "url": "https://bleau.info/avon/361.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Double Pastis",
+      "url": "https://bleau.info/avon/305741.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Raphaël L, Simon Dumaire",
+      "styles": [
+        "traversée",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Fil à Plomb",
+      "url": "https://bleau.info/avon/1114.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Geek",
+      "url": "https://bleau.info/avon/19038.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "David Evrard, Olivier Lebreton",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Avon Rateur (prolongé)",
+      "url": "https://bleau.info/avon/314609.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "ABC",
+      "url": "https://bleau.info/avon/20041.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "C. Pas 7a",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bas les Masques (retour raccourci)",
+      "url": "https://bleau.info/avon/306418.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basta (rallongé)",
+      "url": "https://bleau.info/avon/303973.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Ludo Delmotte",
+      "styles": [
+        "traversée d-g",
+        "jeté",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cartoon (assis)",
+      "url": "https://bleau.info/avon/186397.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Carrière",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "De Cartoon à Fil à Plomb",
+      "url": "https://bleau.info/avon/306281.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Douceur de Bleau (assis)",
+      "url": "https://bleau.info/avon/303899.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Avon Rateur (gauche)",
+      "url": "https://bleau.info/avon/313998.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Binou le Gris, Bastien Durand, Valouchka",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Chosette",
+      "url": "https://bleau.info/avon/14747.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Frank Scherrer",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Danseur",
+      "url": "https://bleau.info/avon/362.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Bruno Dizien",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Chiens de Garde (assis)",
+      "url": "https://bleau.info/avon/303900.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Master of Puppets",
+      "url": "https://bleau.info/avon/19009.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Ivan Moreels",
+      "styles": [
+        "proue",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Master of Puppets (direct)",
+      "url": "https://bleau.info/avon/23417.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "proue",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "MR73 (direct)",
+      "url": "https://bleau.info/avon/138029.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Sébastien Frigault, Pepito",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rampe à Gratouilles",
+      "url": "https://bleau.info/avon/314610.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rasta (rallongé)",
+      "url": "https://bleau.info/avon/21353.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "jeté",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Secrets d'Alcôve (assis)",
+      "url": "https://bleau.info/avon/189356.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, ⋅∴⋅",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sensuelle et sans Sucre",
+      "url": "https://bleau.info/avon/2391.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "réglettes",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Arc  (direct assis)",
+      "url": "https://bleau.info/avon/313552.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Katon, Quentin Plateau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bas les Masques (retour)",
+      "url": "https://bleau.info/avon/306416.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basta",
+      "url": "https://bleau.info/avon/1110.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Marc Montchaussé",
+      "styles": [
+        "jeté",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Catalyseur Express",
+      "url": "https://bleau.info/avon/306590.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Flash",
+      "url": "https://bleau.info/avon/24759.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "saut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Garde Barrière",
+      "url": "https://bleau.info/avon/314611.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jeunesse Volée (assis)",
+      "url": "https://bleau.info/avon/19006.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, ⋅∴⋅",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Avon Rateur",
+      "url": "https://bleau.info/avon/18654.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Danseur (avec l'arête assis)",
+      "url": "https://bleau.info/avon/313982.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Théophile Marotte-Dumontet",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Sacrifice de l'Index (en traversée)",
+      "url": "https://bleau.info/avon/306587.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Règles de Bleau",
+      "url": "https://bleau.info/avon/305843.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Pastis",
+      "url": "https://bleau.info/avon/302995.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Matthias Jezequel",
+      "styles": [
+        "jeté",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pierre, Papier, Ciseaux",
+      "url": "https://bleau.info/avon/310588.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Marco Lefebvre",
+      "styles": [
+        "surplomb",
+        "réglettes",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Soupçons (assis)",
+      "url": "https://bleau.info/avon/22894.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thomas Collignon",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Stricto Sensu",
+      "url": "https://bleau.info/avon/306279.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Stricto Sensu (retour)",
+      "url": "https://bleau.info/avon/306280.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tu Meke Mantle (assis)",
+      "url": "https://bleau.info/avon/21176.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "réta",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Abysse",
+      "url": "https://bleau.info/avon/2390.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "fissure",
+        "mur",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Arc",
+      "url": "https://bleau.info/avon/304170.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jyrki Kauko",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Arc  (direct)",
+      "url": "https://bleau.info/avon/313551.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Katon, Quentin Plateau",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bob du Grand Huit (droite)",
+      "url": "https://bleau.info/avon/306417.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cartoon",
+      "url": "https://bleau.info/avon/359.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Carrière",
+      "styles": [
+        "mur",
+        "fissure",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cause Perdue",
+      "url": "https://bleau.info/avon/24758.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Défaut de Pixels",
+      "url": "https://bleau.info/avon/2388.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Douceur de Bleau",
+      "url": "https://bleau.info/avon/303898.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dual Choc (direct)",
+      "url": "https://bleau.info/avon/307394.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fourberie",
+      "url": "https://bleau.info/avon/19008.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Impatience",
+      "url": "https://bleau.info/avon/2389.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "arête",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Impatience Abyssale",
+      "url": "https://bleau.info/avon/312845.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "arête",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Julovsky (direct)",
+      "url": "https://bleau.info/avon/302225.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Marc LEHNER, Maël Derio",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Imprévue",
+      "url": "https://bleau.info/avon/303000.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle aux Pas Perdus",
+      "url": "https://bleau.info/avon/11608.html",
+      "grade": "7a",
+      "alt_grade": "6c",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fissure de Droite",
+      "url": "https://bleau.info/avon/360.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Danseur (avec l'arête)",
+      "url": "https://bleau.info/avon/303818.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Passe-Plats",
+      "url": "https://bleau.info/avon/9021.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Sacrifice de l'Index",
+      "url": "https://bleau.info/avon/306586.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "fissure",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Morceau de Choix",
+      "url": "https://bleau.info/avon/14474.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Bruno Riote",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pasta",
+      "url": "https://bleau.info/avon/21760.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pluie Acide",
+      "url": "https://bleau.info/avon/1107.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rasta (assis)",
+      "url": "https://bleau.info/avon/11611.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste",
+      "styles": [
+        "toit",
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Réchauffage (assis)",
+      "url": "https://bleau.info/avon/305756.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Beau Pedro Roi du Tango (assis)",
+      "url": "https://bleau.info/avon/306412.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Christophe PICARD",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Coquette",
+      "url": "https://bleau.info/avon/306589.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dual Choc",
+      "url": "https://bleau.info/avon/1109.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Évaporée / L'Angle Réfractaire",
+      "url": "https://bleau.info/avon/11595.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Julovsky",
+      "url": "https://bleau.info/avon/17430.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER, Maël Derio",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Orgueilleux (assis)",
+      "url": "https://bleau.info/avon/302829.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le s'Avon",
+      "url": "https://bleau.info/avon/20044.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxence Goualin",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Réchauffage",
+      "url": "https://bleau.info/avon/302499.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Triangle (gauche)",
+      "url": "https://bleau.info/avon/305846.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Assis sur le Non (assis)",
+      "url": "https://bleau.info/avon/20266.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Bob du Grand Huit",
+      "url": "https://bleau.info/avon/306409.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Christophe PICARD",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Die Linke Rechts",
+      "url": "https://bleau.info/avon/309079.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Électron (assis)",
+      "url": "https://bleau.info/avon/300045.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Bruno Riote",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Free of Charge",
+      "url": "https://bleau.info/avon/9024.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jeu que Dalle",
+      "url": "https://bleau.info/avon/9023.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jeunesse Volée",
+      "url": "https://bleau.info/avon/19005.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Julovska",
+      "url": "https://bleau.info/avon/17431.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER, Maël Derio",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Oubliée",
+      "url": "https://bleau.info/avon/19178.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Passe-Muraille",
+      "url": "https://bleau.info/avon/18700.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Sébastien Papillon",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Renard et le Corbeau / Bouffée d'Avane",
+      "url": "https://bleau.info/avon/14482.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls, Laurent Darlot",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Secrets d'Alcôve",
+      "url": "https://bleau.info/avon/19007.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Beau Pedro Roi du Tango",
+      "url": "https://bleau.info/avon/306410.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe PICARD",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Orgueilleux (assis gauche)",
+      "url": "https://bleau.info/avon/303474.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Bart van Raaij",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Méthode Couet",
+      "url": "https://bleau.info/avon/11609.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surplomb",
+      "url": "https://bleau.info/avon/11571.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Rayures",
+      "url": "https://bleau.info/avon/19162.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pente Douce (assis)",
+      "url": "https://bleau.info/avon/19153.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Double Crac",
+      "url": "https://bleau.info/avon/23702.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "traversée d-g",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Électron",
+      "url": "https://bleau.info/avon/9022.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Pepito, Bruno Riote",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Roose Verte",
+      "url": "https://bleau.info/avon/300261.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Wolff Braeckman, Philip Mahy",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nimetön Nimi",
+      "url": "https://bleau.info/avon/305045.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gerhard Pfäffle",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Triangle (droite)",
+      "url": "https://bleau.info/avon/305845.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Vivement le WE",
+      "url": "https://bleau.info/avon/306588.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cosette (assis)",
+      "url": "https://bleau.info/avon/300049.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Alexis Etienne, Pascal Etienne",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Die Linke",
+      "url": "https://bleau.info/avon/19149.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Etienne, Pascal Etienne",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Interaction",
+      "url": "https://bleau.info/avon/18640.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle au Trou",
+      "url": "https://bleau.info/avon/19158.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Danseuse",
+      "url": "https://bleau.info/avon/20047.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Diagonale",
+      "url": "https://bleau.info/avon/14476.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Rotillon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Vague",
+      "url": "https://bleau.info/avon/19160.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bel Inconnu",
+      "url": "https://bleau.info/avon/302498.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Bauge Est",
+      "url": "https://bleau.info/avon/19167.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hasta",
+      "url": "https://bleau.info/avon/22057.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Siem Aerts",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Orgueilleux",
+      "url": "https://bleau.info/avon/12264.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Bruno Riote, Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée des Ciseaux",
+      "url": "https://bleau.info/avon/309792.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Péril Jeune",
+      "url": "https://bleau.info/avon/20359.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Romain Monnier",
+      "styles": [
+        "arête",
+        "aplats",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pilier Dérobé",
+      "url": "https://bleau.info/avon/18584.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Requin",
+      "url": "https://bleau.info/avon/14491.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pente Douce",
+      "url": "https://bleau.info/avon/19152.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rasta",
+      "url": "https://bleau.info/avon/302497.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste",
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sentier Bleu",
+      "url": "https://bleau.info/avon/14475.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Soupçons",
+      "url": "https://bleau.info/avon/12263.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tu Meke Mantle",
+      "url": "https://bleau.info/avon/21097.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Ben Rohde",
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Appel d'Urgence",
+      "url": "https://bleau.info/avon/11614.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Bruno Riote",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Catho-Dick",
+      "url": "https://bleau.info/avon/18645.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ion",
+      "url": "https://bleau.info/avon/14477.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Bruno Riote",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jérémiades",
+      "url": "https://bleau.info/avon/11613.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Étau Limeur / La Lime à Ongles",
+      "url": "https://bleau.info/avon/14492.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Délation Générale",
+      "url": "https://bleau.info/avon/19177.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La s'Avonnette",
+      "url": "https://bleau.info/avon/20065.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Stéphane Hérondelle",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Verdure",
+      "url": "https://bleau.info/avon/14490.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Dièdre Abyssal",
+      "url": "https://bleau.info/avon/14473.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "dièdre"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pendu",
+      "url": "https://bleau.info/avon/18602.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Chiens de Garde",
+      "url": "https://bleau.info/avon/19172.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, ⋅∴⋅",
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Ciseaux",
+      "url": "https://bleau.info/avon/14478.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Little Puppet",
+      "url": "https://bleau.info/avon/19321.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Roman par P",
+      "url": "https://bleau.info/avon/19163.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Va par Là",
+      "url": "https://bleau.info/avon/19161.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle (direct)",
+      "url": "https://bleau.info/avon/11573.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Invendu",
+      "url": "https://bleau.info/avon/18643.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Ondulation",
+      "url": "https://bleau.info/avon/19154.html",
+      "grade": "5",
+      "alt_grade": "4+",
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "dièdre",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Ronce / Prostitution",
+      "url": "https://bleau.info/avon/14483.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls, Laurent Darlot",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Toile Cirée",
+      "url": "https://bleau.info/avon/11572.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Tranquillité",
+      "url": "https://bleau.info/avon/11612.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pied à Coulisse",
+      "url": "https://bleau.info/avon/12262.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pilier du n°4 bleu",
+      "url": "https://bleau.info/avon/22067.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rétablissement (assis)",
+      "url": "https://bleau.info/avon/18604.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Puppy Love",
+      "url": "https://bleau.info/avon/303349.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy van Rijn",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Second Choix",
+      "url": "https://bleau.info/avon/18642.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19170.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19181.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Conte n°2",
+      "url": "https://bleau.info/avon/19175.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Conte n°3",
+      "url": "https://bleau.info/avon/19176.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cosette",
+      "url": "https://bleau.info/avon/19150.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Etienne, Pascal Etienne",
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Électrolyse",
+      "url": "https://bleau.info/avon/19148.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Féminité",
+      "url": "https://bleau.info/avon/19164.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête Feuilletée",
+      "url": "https://bleau.info/avon/18601.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "La Fausse Tranquillité",
+      "url": "https://bleau.info/avon/18887.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Question des Tiques",
+      "url": "https://bleau.info/avon/19085.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Long Goodbye",
+      "url": "https://bleau.info/avon/18606.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Assis sur le Non",
+      "url": "https://bleau.info/avon/19171.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "fissure",
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bac 4 Plus",
+      "url": "https://bleau.info/avon/19146.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Voie Dure à Bras  (assis)",
+      "url": "https://bleau.info/avon/310352.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Chanteur",
+      "url": "https://bleau.info/avon/18607.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pas de Géant",
+      "url": "https://bleau.info/avon/5527.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Rut",
+      "url": "https://bleau.info/avon/18656.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sentier Jaune",
+      "url": "https://bleau.info/avon/18641.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "O Reguinho",
+      "url": "https://bleau.info/avon/17108.html",
+      "grade": "4+",
+      "alt_grade": "4",
+      "first_ascensionist": "Frédéric Bodin",
+      "styles": [
+        "mur",
+        "fissure",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Récréation",
+      "url": "https://bleau.info/avon/18605.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/18603.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "bombé"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19169.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Anode 1",
+      "url": "https://bleau.info/avon/18644.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "mur",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Belle Envolée",
+      "url": "https://bleau.info/avon/18585.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle de la Dalle au Trou",
+      "url": "https://bleau.info/avon/19159.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hérétique",
+      "url": "https://bleau.info/avon/5518.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chamoniarde (assis)",
+      "url": "https://bleau.info/avon/309563.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle au Trou (gauche)",
+      "url": "https://bleau.info/avon/19157.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle du Col",
+      "url": "https://bleau.info/avon/22068.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Grand Boulevard",
+      "url": "https://bleau.info/avon/5519.html",
+      "grade": "4",
+      "alt_grade": "4+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Jeu de Dalles",
+      "url": "https://bleau.info/avon/5526.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Râtelier",
+      "url": "https://bleau.info/avon/19173.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lumineux",
+      "url": "https://bleau.info/avon/19145.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nadia",
+      "url": "https://bleau.info/avon/19165.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle",
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête Verte",
+      "url": "https://bleau.info/avon/5525.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Argus Satiné",
+      "url": "https://bleau.info/avon/305077.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cheminée",
+      "url": "https://bleau.info/avon/18697.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Pénible",
+      "url": "https://bleau.info/avon/5528.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Grand Réta",
+      "url": "https://bleau.info/avon/305062.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bec",
+      "url": "https://bleau.info/avon/13756.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Bossettes du n°4 bleu",
+      "url": "https://bleau.info/avon/22066.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Préchauffage",
+      "url": "https://bleau.info/avon/18655.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19155.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Pierre Coulon",
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19168.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Conte n°1",
+      "url": "https://bleau.info/avon/19174.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Éric Puls",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dalle en Si",
+      "url": "https://bleau.info/avon/13004.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Étrave",
+      "url": "https://bleau.info/avon/5529.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Exposito",
+      "url": "https://bleau.info/avon/18695.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Orange Sanguine",
+      "url": "https://bleau.info/avon/13760.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dalle au Gratton",
+      "url": "https://bleau.info/avon/5532.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle du Rouleau",
+      "url": "https://bleau.info/avon/13754.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fresque",
+      "url": "https://bleau.info/avon/5530.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Muraille de Chine",
+      "url": "https://bleau.info/avon/18696.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Sœur",
+      "url": "https://bleau.info/avon/13759.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tranquillité",
+      "url": "https://bleau.info/avon/13758.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Grand Réta",
+      "url": "https://bleau.info/avon/18694.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Mur de Chine",
+      "url": "https://bleau.info/avon/2393.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Chauffe Marcel",
+      "url": "https://bleau.info/avon/19147.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ève",
+      "url": "https://bleau.info/avon/19166.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Éclair",
+      "url": "https://bleau.info/avon/18691.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "dalle"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Inter Bleue",
+      "url": "https://bleau.info/avon/19539.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fêlure",
+      "url": "https://bleau.info/avon/13747.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Tangente",
+      "url": "https://bleau.info/avon/5520.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Pavé",
+      "url": "https://bleau.info/avon/18698.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pilier Ouest",
+      "url": "https://bleau.info/avon/13755.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Toboggan",
+      "url": "https://bleau.info/avon/5523.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Toboggan",
+      "url": "https://bleau.info/avon/19151.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle",
+      "url": "https://bleau.info/avon/5509.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "L'Élégant",
+      "url": "https://bleau.info/avon/5524.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Éveil",
+      "url": "https://bleau.info/avon/13751.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Chamoniarde",
+      "url": "https://bleau.info/avon/18693.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Claudie",
+      "url": "https://bleau.info/avon/5522.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Descente du Grand Réta",
+      "url": "https://bleau.info/avon/305061.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Verte",
+      "url": "https://bleau.info/avon/300680.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Roche Feuilletée",
+      "url": "https://bleau.info/avon/13748.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Sentinelle",
+      "url": "https://bleau.info/avon/5512.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée de l'Argus",
+      "url": "https://bleau.info/avon/305076.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "traversée d-g",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Voie Dure à Bras",
+      "url": "https://bleau.info/avon/13757.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Petit Dru",
+      "url": "https://bleau.info/avon/5516.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Rétablissement",
+      "url": "https://bleau.info/avon/5517.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Rouleau",
+      "url": "https://bleau.info/avon/13753.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Zigzag",
+      "url": "https://bleau.info/avon/5531.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Les Dentelles",
+      "url": "https://bleau.info/avon/5513.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Épines",
+      "url": "https://bleau.info/avon/13749.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "- [n°4 Bleu AD+]",
+      "url": "https://bleau.info/avon/18692.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Argus Bleu",
+      "url": "https://bleau.info/avon/305075.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Inter Verte",
+      "url": "https://bleau.info/avon/304757.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Banlieue",
+      "url": "https://bleau.info/avon/13750.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Dalle du Grand Réta",
+      "url": "https://bleau.info/avon/305059.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle Verte",
+      "url": "https://bleau.info/avon/5521.html",
+      "grade": "2+",
+      "alt_grade": "3-",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Dame Jeanne d'Avon",
+      "url": "https://bleau.info/avon/5533.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Roche Feuilletée",
+      "url": "https://bleau.info/avon/5515.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Muret",
+      "url": "https://bleau.info/avon/13752.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Petit Grépon",
+      "url": "https://bleau.info/avon/5514.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle (à gauche)",
+      "url": "https://bleau.info/avon/5511.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle en Pente",
+      "url": "https://bleau.info/avon/5510.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/avon/19156.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

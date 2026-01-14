@@ -1,0 +1,39 @@
+{
+  "sector": "Argeville (PP)",
+  "problems": [
+    {
+      "name": "Le Rempart d'Argeville (droite)",
+      "url": "https://bleau.info/argeville/15952.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rempart d'Argeville (gauche)",
+      "url": "https://bleau.info/argeville/15950.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rempart d'Argeville centre",
+      "url": "https://bleau.info/argeville/15951.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

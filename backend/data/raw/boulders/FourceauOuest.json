@@ -1,0 +1,523 @@
+{
+  "sector": "Rocher Fourceau",
+  "problems": [
+    {
+      "name": "Le Grand S",
+      "url": "https://bleau.info/FourceauOuest/311815.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "boucle",
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coincé pour Toujours (droite) - Basculera Point",
+      "url": "https://bleau.info/FourceauOuest/311814.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "boucle",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coincé pour Toujours (droite)",
+      "url": "https://bleau.info/FourceauOuest/311799.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Longue Solitude",
+      "url": "https://bleau.info/FourceauOuest/311783.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "1er Festival (en traversée)",
+      "url": "https://bleau.info/FourceauOuest/311787.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coincé Pour Toujours",
+      "url": "https://bleau.info/FourceauOuest/311798.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "F1 à Louer",
+      "url": "https://bleau.info/FourceauOuest/311774.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Laisse-Toi(t) Tomber",
+      "url": "https://bleau.info/FourceauOuest/311809.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Murmure de Carrière",
+      "url": "https://bleau.info/FourceauOuest/311811.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basculera Point (en traversée)",
+      "url": "https://bleau.info/FourceauOuest/311802.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dure Vie de Carrier (assis)",
+      "url": "https://bleau.info/FourceauOuest/311765.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fraiche Solitude",
+      "url": "https://bleau.info/FourceauOuest/311782.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sans Cesse et sans Fin (du bas)",
+      "url": "https://bleau.info/FourceauOuest/311767.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "1er Festival",
+      "url": "https://bleau.info/FourceauOuest/311786.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Basculera Point",
+      "url": "https://bleau.info/FourceauOuest/311801.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Donk Maar",
+      "url": "https://bleau.info/FourceauOuest/311886.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Haute Solitude",
+      "url": "https://bleau.info/FourceauOuest/311785.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petite Solitude",
+      "url": "https://bleau.info/FourceauOuest/311784.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sans Cesse et Sans Fin",
+      "url": "https://bleau.info/FourceauOuest/311770.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sans Cesse et Sans Fin (en traversée)",
+      "url": "https://bleau.info/FourceauOuest/311769.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Appartement Rénové",
+      "url": "https://bleau.info/FourceauOuest/311772.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cherche Appartement (gauche)",
+      "url": "https://bleau.info/FourceauOuest/311804.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plats Durables",
+      "url": "https://bleau.info/FourceauOuest/311812.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dure Vie de Carrier",
+      "url": "https://bleau.info/FourceauOuest/311764.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Évidence Tardive",
+      "url": "https://bleau.info/FourceauOuest/311810.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hasard",
+      "url": "https://bleau.info/FourceauOuest/311766.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Adieu l'Afrique",
+      "url": "https://bleau.info/FourceauOuest/311813.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "haut",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Après la Plage",
+      "url": "https://bleau.info/FourceauOuest/311790.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cherche Appartement",
+      "url": "https://bleau.info/FourceauOuest/311803.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dérive Vers l'Extrême Droite",
+      "url": "https://bleau.info/FourceauOuest/311797.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Évident Celui-là",
+      "url": "https://bleau.info/FourceauOuest/311800.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Haut Boulot!",
+      "url": "https://bleau.info/FourceauOuest/311884.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "dévers",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Haut Faîte",
+      "url": "https://bleau.info/FourceauOuest/311881.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Au Bord de Plage",
+      "url": "https://bleau.info/FourceauOuest/311789.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fissurette",
+      "url": "https://bleau.info/FourceauOuest/311768.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "aplats",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Haut se Court",
+      "url": "https://bleau.info/FourceauOuest/311885.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "surplomb",
+        "bombé",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Un Toit et du Soleil",
+      "url": "https://bleau.info/FourceauOuest/311771.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Avant la Plage",
+      "url": "https://bleau.info/FourceauOuest/311788.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Compote de Doigts",
+      "url": "https://bleau.info/FourceauOuest/308154.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Saut à la Plage",
+      "url": "https://bleau.info/FourceauOuest/311791.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Back Up",
+      "url": "https://bleau.info/FourceauOuest/311880.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Flight of Icarus",
+      "url": "https://bleau.info/FourceauOuest/308496.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Antoine Le Moing",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Enroulée",
+      "url": "https://bleau.info/FourceauOuest/308155.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "sector": "Dampierre Maincourt",
+  "circuits": [
+    {
+      "name": "Blanc EN",
+      "url": "https://bleau.info/maincourt/circuit214.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/maincourt/254099.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/maincourt/72949.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/maincourt/203567.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/maincourt/83449.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/maincourt/252906.html"
+        },
+        {
+          "id": "4 ter",
+          "url": "https://bleau.info/maincourt/288052.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/maincourt/280675.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/maincourt/108316.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/maincourt/81099.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/maincourt/266344.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/maincourt/124422.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/maincourt/141971.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/maincourt/82947.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/maincourt/298632.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/maincourt/158512.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/maincourt/274797.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/maincourt/231598.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/maincourt/188735.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/maincourt/242019.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/maincourt/265442.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/maincourt/195825.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/maincourt/289800.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/maincourt/76464.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/maincourt/205314.html"
+        },
+        {
+          "id": "19 bis",
+          "url": "https://bleau.info/maincourt/204421.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/maincourt/252548.html"
+        },
+        {
+          "id": "20 bis",
+          "url": "https://bleau.info/maincourt/34076.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/maincourt/241071.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/maincourt/239792.html"
+        },
+        {
+          "id": "21 ter",
+          "url": "https://bleau.info/maincourt/127113.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/maincourt/228724.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/maincourt/133884.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/maincourt/181693.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/maincourt/198803.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/maincourt/195859.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/maincourt/51846.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/maincourt/123692.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/maincourt/279129.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/maincourt/86168.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/maincourt/40385.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/maincourt/207362.html"
+        }
+      ]
+    },
+    {
+      "name": "Jaune PD-",
+      "url": "https://bleau.info/maincourt/circuit215.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/maincourt/14584.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/maincourt/14585.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/maincourt/14586.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/maincourt/14587.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/maincourt/14588.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/maincourt/14589.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/maincourt/14590.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/maincourt/14591.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/maincourt/14592.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/maincourt/14593.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/maincourt/14594.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/maincourt/14595.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/maincourt/14596.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/maincourt/14597.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/maincourt/14598.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/maincourt/14599.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/maincourt/14600.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/maincourt/14601.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/maincourt/14602.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/maincourt/14603.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/maincourt/14658.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/maincourt/15253.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/maincourt/15254.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/maincourt/15255.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/maincourt/71107.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/maincourt/15256.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/maincourt/15257.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/maincourt/15258.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/maincourt/15259.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/maincourt/15260.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/maincourt/15261.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD",
+      "url": "https://bleau.info/maincourt/circuit213.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/maincourt/15262.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/maincourt/15263.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/maincourt/15264.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/maincourt/15265.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/maincourt/15266.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/maincourt/15267.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/maincourt/15268.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/maincourt/15269.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/maincourt/15270.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/maincourt/15271.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/maincourt/15272.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/maincourt/15273.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/maincourt/277808.html"
+        },
+        {
+          "id": "12 ter",
+          "url": "https://bleau.info/maincourt/144236.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/maincourt/15274.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/maincourt/21576.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/maincourt/15275.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/maincourt/15276.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/maincourt/15277.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/maincourt/15278.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/maincourt/15279.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/maincourt/306530.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/maincourt/15280.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/maincourt/15281.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/maincourt/15282.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/maincourt/308899.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/maincourt/15283.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/maincourt/15284.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/maincourt/15285.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/maincourt/99706.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/maincourt/15286.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/maincourt/15287.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/maincourt/49817.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/maincourt/15288.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/maincourt/15289.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/maincourt/15290.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/maincourt/15291.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/maincourt/15292.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/maincourt/15293.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/maincourt/15294.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/maincourt/15295.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/maincourt/15296.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/maincourt/15297.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/maincourt/15298.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/maincourt/15299.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/maincourt/15300.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/maincourt/15301.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/maincourt/15302.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/maincourt/15303.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/maincourt/15304.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/maincourt/15305.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/maincourt/15306.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/maincourt/15307.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/maincourt/15308.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/maincourt/15309.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/maincourt/15310.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/maincourt/15311.html"
+        },
+        {
+          "id": "50 bis",
+          "url": "https://bleau.info/maincourt/306532.html"
+        },
+        {
+          "id": "51",
+          "url": "https://bleau.info/maincourt/15312.html"
+        },
+        {
+          "id": "51 bis",
+          "url": "https://bleau.info/maincourt/306533.html"
+        },
+        {
+          "id": "52",
+          "url": "https://bleau.info/maincourt/15313.html"
+        },
+        {
+          "id": "52 bis",
+          "url": "https://bleau.info/maincourt/116345.html"
+        },
+        {
+          "id": "53",
+          "url": "https://bleau.info/maincourt/15314.html"
+        },
+        {
+          "id": "54",
+          "url": "https://bleau.info/maincourt/15315.html"
+        },
+        {
+          "id": "55",
+          "url": "https://bleau.info/maincourt/15316.html"
+        },
+        {
+          "id": "56",
+          "url": "https://bleau.info/maincourt/15317.html"
+        },
+        {
+          "id": "57",
+          "url": "https://bleau.info/maincourt/15318.html"
+        },
+        {
+          "id": "58",
+          "url": "https://bleau.info/maincourt/15319.html"
+        },
+        {
+          "id": "58 bis",
+          "url": "https://bleau.info/maincourt/38639.html"
+        },
+        {
+          "id": "59",
+          "url": "https://bleau.info/maincourt/15320.html"
+        },
+        {
+          "id": "60",
+          "url": "https://bleau.info/maincourt/15321.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu TD-",
+      "url": "https://bleau.info/maincourt/circuit207.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/maincourt/8812.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/maincourt/8759.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/maincourt/8760.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/maincourt/8813.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/maincourt/8814.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/maincourt/8763.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/maincourt/8815.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/maincourt/8816.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/maincourt/8817.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/maincourt/8818.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/maincourt/8819.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/maincourt/8820.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/maincourt/8821.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/maincourt/8822.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/maincourt/8823.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/maincourt/8773.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/maincourt/306534.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/maincourt/8824.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/maincourt/8825.html"
+        },
+        {
+          "id": "14 ter",
+          "url": "https://bleau.info/maincourt/8776.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/maincourt/8826.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/maincourt/8827.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/maincourt/8828.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD+",
+      "url": "https://bleau.info/maincourt/circuit208.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/maincourt/8799.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/maincourt/8800.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/maincourt/8801.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/maincourt/8802.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/maincourt/8803.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/maincourt/19894.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/maincourt/8804.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/maincourt/8805.html"
+        },
+        {
+          "id": "7 ter",
+          "url": "https://bleau.info/maincourt/8806.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/maincourt/8807.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/maincourt/8808.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/maincourt/8809.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/maincourt/8810.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/maincourt/8811.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/maincourt/8829.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/maincourt/8830.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/maincourt/8784.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/maincourt/8831.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/maincourt/8832.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/maincourt/8833.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/maincourt/8834.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/maincourt/8539.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/maincourt/8835.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/maincourt/8836.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/maincourt/8837.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/maincourt/8838.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/maincourt/8839.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/maincourt/8840.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/maincourt/8841.html"
+        }
+      ]
+    }
+  ]
+}

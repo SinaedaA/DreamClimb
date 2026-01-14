@@ -1,0 +1,691 @@
+{
+  "sector": "Bois du Rocher",
+  "problems": [
+    {
+      "name": "Bastata",
+      "url": "https://bleau.info/boisdurocher/300679.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bastata (droite)",
+      "url": "https://bleau.info/boisdurocher/306430.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Totale de Katioushka",
+      "url": "https://bleau.info/boisdurocher/10072.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "départ assis",
+        "surplomb",
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Thunderbolt",
+      "url": "https://bleau.info/boisdurocher/300486.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Katioushka",
+      "url": "https://bleau.info/boisdurocher/10015.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Plaud",
+      "styles": [
+        "proue",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Petrouchka (prolongé)",
+      "url": "https://bleau.info/boisdurocher/302799.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Azurite",
+      "url": "https://bleau.info/boisdurocher/300485.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voie de l'Alhambra",
+      "url": "https://bleau.info/boisdurocher/302408.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Toile de Fond",
+      "url": "https://bleau.info/boisdurocher/17669.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Covid Monster 19 (assis)",
+      "url": "https://bleau.info/boisdurocher/307169.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno de Meyer, nicolas vantorre",
+      "styles": [
+        "aplats",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Katioushka (gauche)",
+      "url": "https://bleau.info/boisdurocher/11169.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Plaud",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Mini-Chose",
+      "url": "https://bleau.info/boisdurocher/17656.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard, Philippe Dumez",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Temps Modernes",
+      "url": "https://bleau.info/boisdurocher/17652.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bord de Fuite",
+      "url": "https://bleau.info/boisdurocher/300484.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "proue",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Chasse à l'Homme",
+      "url": "https://bleau.info/boisdurocher/17659.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Covid Monster 19",
+      "url": "https://bleau.info/boisdurocher/307168.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno de Meyer, nicolas vantorre",
+      "styles": [
+        "aplats",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Flanc de Katioushka",
+      "url": "https://bleau.info/boisdurocher/25082.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pattes de Velours",
+      "url": "https://bleau.info/boisdurocher/17666.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Petite Sauce",
+      "url": "https://bleau.info/boisdurocher/17665.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petrouchka",
+      "url": "https://bleau.info/boisdurocher/141423.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jérémy Lecouvert",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Grand Veneur",
+      "url": "https://bleau.info/boisdurocher/17657.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Terrier",
+      "url": "https://bleau.info/boisdurocher/17649.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "dévers",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zone Verte",
+      "url": "https://bleau.info/boisdurocher/17664.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bien Malachite ne Profite Jamais",
+      "url": "https://bleau.info/boisdurocher/306362.html",
+      "grade": "6c",
+      "alt_grade": "6b",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Bedaine de l'Été",
+      "url": "https://bleau.info/boisdurocher/300785.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Monster Grippe",
+      "url": "https://bleau.info/boisdurocher/307831.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Nerfs à Vif",
+      "url": "https://bleau.info/boisdurocher/17661.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "dévers",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Du Plomb dans l'Aile",
+      "url": "https://bleau.info/boisdurocher/17653.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Main Verte",
+      "url": "https://bleau.info/boisdurocher/17651.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Tour Infernale",
+      "url": "https://bleau.info/boisdurocher/17655.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Penchant",
+      "url": "https://bleau.info/boisdurocher/17662.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "No Foot",
+      "url": "https://bleau.info/boisdurocher/309833.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fuillangle",
+      "url": "https://bleau.info/boisdurocher/17648.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ho Hisse",
+      "url": "https://bleau.info/boisdurocher/300483.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Âge de Pierre",
+      "url": "https://bleau.info/boisdurocher/17650.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sable Émouvant",
+      "url": "https://bleau.info/boisdurocher/17641.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19258.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Contre-Plongée",
+      "url": "https://bleau.info/boisdurocher/17658.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Courant d'Air",
+      "url": "https://bleau.info/boisdurocher/17642.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Retord",
+      "url": "https://bleau.info/boisdurocher/17647.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vert Dur",
+      "url": "https://bleau.info/boisdurocher/17654.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aérobloc",
+      "url": "https://bleau.info/boisdurocher/17646.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Huître",
+      "url": "https://bleau.info/boisdurocher/17667.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Plaisir de la Forme (et inversement)",
+      "url": "https://bleau.info/boisdurocher/10073.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Prise de Terre",
+      "url": "https://bleau.info/boisdurocher/17663.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chapeau Pointu",
+      "url": "https://bleau.info/boisdurocher/17645.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coup de Vent",
+      "url": "https://bleau.info/boisdurocher/17644.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Écailles",
+      "url": "https://bleau.info/boisdurocher/17643.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Pied au Plancher",
+      "url": "https://bleau.info/boisdurocher/17668.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pluies Acides",
+      "url": "https://bleau.info/boisdurocher/17660.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Plein Nord",
+      "url": "https://bleau.info/boisdurocher/17640.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Au Voleur!",
+      "url": "https://bleau.info/boisdurocher/19257.html",
+      "grade": "5-",
+      "alt_grade": "4+",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19263.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19262.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19260.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19261.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19259.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/boisdurocher/19264.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

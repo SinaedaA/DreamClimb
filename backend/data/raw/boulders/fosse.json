@@ -1,0 +1,499 @@
+{
+  "sector": "La Fosse aux Loups",
+  "problems": [
+    {
+      "name": "Les Chululs (assis)",
+      "url": "https://bleau.info/fosse/310737.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Antoine Maire",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Chululs",
+      "url": "https://bleau.info/fosse/308172.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "inversées"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Super Bouffon (assis)",
+      "url": "https://bleau.info/fosse/19803.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Fenrir",
+      "url": "https://bleau.info/fosse/308062.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Fissure Enchantée (assis)",
+      "url": "https://bleau.info/fosse/19805.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fabrice Frébourg",
+      "styles": [
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Nain Précieux",
+      "url": "https://bleau.info/fosse/448.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Philippe Le Denmat, Eric Létot",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Super Bouffon",
+      "url": "https://bleau.info/fosse/449.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Chromosome",
+      "url": "https://bleau.info/fosse/309474.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Roue de Secours",
+      "url": "https://bleau.info/fosse/312311.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fissure Enchantée",
+      "url": "https://bleau.info/fosse/447.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Bouffon (assis)",
+      "url": "https://bleau.info/fosse/19804.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Bérurier",
+      "url": "https://bleau.info/fosse/309472.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Vie en Rose",
+      "url": "https://bleau.info/fosse/16581.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bac Pas Pire",
+      "url": "https://bleau.info/fosse/310756.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Carina, Fred",
+      "styles": [
+        "dévers",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Complice",
+      "url": "https://bleau.info/fosse/308171.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Saloperie",
+      "url": "https://bleau.info/fosse/16587.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Bouffon",
+      "url": "https://bleau.info/fosse/16578.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Ambiance",
+      "url": "https://bleau.info/fosse/16576.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Bûcheron",
+      "url": "https://bleau.info/fosse/309473.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Corne de Bouc",
+      "url": "https://bleau.info/fosse/16571.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Crapaud Souriant",
+      "url": "https://bleau.info/fosse/16594.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Un Air de Buoux",
+      "url": "https://bleau.info/fosse/16564.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Cran d'Arrêt",
+      "url": "https://bleau.info/fosse/16567.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pilier de Verre",
+      "url": "https://bleau.info/fosse/16588.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Orly Nanteau",
+      "url": "https://bleau.info/fosse/16586.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Purée de Limaces",
+      "url": "https://bleau.info/fosse/16592.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Vu sous cet Angle",
+      "url": "https://bleau.info/fosse/16580.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Bouffon Enchanté",
+      "url": "https://bleau.info/fosse/16575.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Casse-Gueule",
+      "url": "https://bleau.info/fosse/16583.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Dièdre Pourpre",
+      "url": "https://bleau.info/fosse/16589.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dièdre"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pas de Loup",
+      "url": "https://bleau.info/fosse/16582.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Maître Corbeau",
+      "url": "https://bleau.info/fosse/16565.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Maître Crapaud",
+      "url": "https://bleau.info/fosse/16572.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Maudit Corbeau",
+      "url": "https://bleau.info/fosse/16577.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Racine Carrée",
+      "url": "https://bleau.info/fosse/16568.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Retour à la Case Départ",
+      "url": "https://bleau.info/fosse/16563.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Triste Fin",
+      "url": "https://bleau.info/fosse/16595.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "L'Angle Mort",
+      "url": "https://bleau.info/fosse/16585.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le P'tit Trou",
+      "url": "https://bleau.info/fosse/16579.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Roi des Trolls",
+      "url": "https://bleau.info/fosse/16591.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Solitaire",
+      "url": "https://bleau.info/fosse/16593.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Robin des Bois",
+      "url": "https://bleau.info/fosse/16590.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Bâbord Toute",
+      "url": "https://bleau.info/fosse/16566.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Marbrée",
+      "url": "https://bleau.info/fosse/16574.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Renfrougne",
+      "url": "https://bleau.info/fosse/16584.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Bonne Marche",
+      "url": "https://bleau.info/fosse/16570.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Diablotin",
+      "url": "https://bleau.info/fosse/16569.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Fissure à Papy",
+      "url": "https://bleau.info/fosse/16573.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "sector": "Côtes de Courances (RBs)",
+  "problems": [
+    {
+      "name": "Djoumba",
+      "url": "https://bleau.info/courances/19188.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Plaud",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Djembé",
+      "url": "https://bleau.info/courances/19189.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Plein des Sens (aller-retour)",
+      "url": "https://bleau.info/courances/19030.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Hiatus",
+      "url": "https://bleau.info/courances/8545.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Hiatus (assis)",
+      "url": "https://bleau.info/courances/19033.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Olivier Lebreton, David Evrard",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Plein des Sens",
+      "url": "https://bleau.info/courances/18899.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Focus",
+      "url": "https://bleau.info/courances/17708.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen, Thierry Plaud",
+      "styles": [
+        "toit",
+        "dévers",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Petit Excalibur",
+      "url": "https://bleau.info/courances/313789.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fredrik Sydstrand",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Titanesque",
+      "url": "https://bleau.info/courances/19501.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Un Quart de Cercle",
+      "url": "https://bleau.info/courances/305048.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Fluctuat Nec Mergitur (assis)",
+      "url": "https://bleau.info/courances/17886.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "départ assis",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Force du Présent",
+      "url": "https://bleau.info/courances/305054.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Mémoire du Futur (direct)",
+      "url": "https://bleau.info/courances/305050.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas Normal Celui-Là",
+      "url": "https://bleau.info/courances/305049.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ras les Pâquerettes",
+      "url": "https://bleau.info/courances/19316.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Spécimen",
+      "url": "https://bleau.info/courances/17707.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "dévers",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Darkness",
+      "url": "https://bleau.info/courances/307371.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "jeté",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jasmine",
+      "url": "https://bleau.info/courances/75944.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Coursive",
+      "url": "https://bleau.info/courances/17892.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Mémoire du Futur (gauche)",
+      "url": "https://bleau.info/courances/305051.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Premier Dé",
+      "url": "https://bleau.info/courances/17709.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Fluctuat Nec Mergitur",
+      "url": "https://bleau.info/courances/17887.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Philoute (assis)",
+      "url": "https://bleau.info/courances/302702.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Frank Scherrer, Philippe Dumez",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rampe Tranquillous",
+      "url": "https://bleau.info/courances/305052.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bornéo",
+      "url": "https://bleau.info/courances/19569.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Corps de Joie",
+      "url": "https://bleau.info/courances/305053.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cubitus",
+      "url": "https://bleau.info/courances/23815.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Philippe Dumez, Stéphan Denys",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dalle du Cube",
+      "url": "https://bleau.info/courances/23829.html",
+      "grade": "6c",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cœur Slave",
+      "url": "https://bleau.info/courances/19317.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mentor",
+      "url": "https://bleau.info/courances/17710.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Caduque",
+      "url": "https://bleau.info/courances/8546.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Dumez, Stéphan Denys",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cœur Croate",
+      "url": "https://bleau.info/courances/20351.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Revue de Presse",
+      "url": "https://bleau.info/courances/310318.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy Zwiebel",
+      "styles": [
+        "mur",
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Django",
+      "url": "https://bleau.info/courances/19314.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Philoute",
+      "url": "https://bleau.info/courances/302703.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Frank Scherrer, Philippe Dumez",
+      "styles": [
+        "surplomb",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Pieds dans les Yeux",
+      "url": "https://bleau.info/courances/8547.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Djibouti",
+      "url": "https://bleau.info/courances/19313.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/courances/19315.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

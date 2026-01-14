@@ -1,0 +1,782 @@
+{
+  "sector": "Franchard Hauts Sablons",
+  "problems": [
+    {
+      "name": "Buisson",
+      "url": "https://bleau.info/hautssablons/306889.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Nicolas Pelorson, Maxime Baroud",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Ornements",
+      "url": "https://bleau.info/hautssablons/301583.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "El Pato (assis)",
+      "url": "https://bleau.info/hautssablons/309278.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Gauche au Pouvoir (rallongé)",
+      "url": "https://bleau.info/hautssablons/301550.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Ola (assis)",
+      "url": "https://bleau.info/hautssablons/17129.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sunshine (assis)",
+      "url": "https://bleau.info/hautssablons/310645.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Véro P., Cedric Nasse",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Brulaap (bas)",
+      "url": "https://bleau.info/hautssablons/312828.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "El Pato",
+      "url": "https://bleau.info/hautssablons/305754.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Gauche au Pouvoir",
+      "url": "https://bleau.info/hautssablons/301549.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Ola",
+      "url": "https://bleau.info/hautssablons/9870.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Frank Scherrer",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ola mon Cul (assis)",
+      "url": "https://bleau.info/hautssablons/309281.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sacré Bleau",
+      "url": "https://bleau.info/hautssablons/301585.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sunshine",
+      "url": "https://bleau.info/hautssablons/302140.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Assiette Bleausarde (rallongé)",
+      "url": "https://bleau.info/hautssablons/301547.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Beefeater",
+      "url": "https://bleau.info/hautssablons/306069.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Coince Cul",
+      "url": "https://bleau.info/hautssablons/9871.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Matthieu Dutray",
+      "styles": [
+        "toit",
+        "départ assis",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Grand Gamin",
+      "url": "https://bleau.info/hautssablons/301542.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "haut",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ola mon Cul",
+      "url": "https://bleau.info/hautssablons/309279.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Perfect Present",
+      "url": "https://bleau.info/hautssablons/306076.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Porte à Gauche",
+      "url": "https://bleau.info/hautssablons/301538.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Shine",
+      "url": "https://bleau.info/hautssablons/302136.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sunlight (assis)",
+      "url": "https://bleau.info/hautssablons/310620.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Véro P., Cedric Nasse",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Brulaap",
+      "url": "https://bleau.info/hautssablons/12641.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Dennis Teijsse",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Frivolité",
+      "url": "https://bleau.info/hautssablons/301546.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Repos Actif",
+      "url": "https://bleau.info/hautssablons/301584.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sunlight",
+      "url": "https://bleau.info/hautssablons/302142.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "The Last Waffle (gauche)",
+      "url": "https://bleau.info/hautssablons/139051.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Toutes des Précieuses",
+      "url": "https://bleau.info/hautssablons/301541.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Assiette Bleausarde",
+      "url": "https://bleau.info/hautssablons/301548.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Changing of the Guard",
+      "url": "https://bleau.info/hautssablons/306070.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester, Helen Dudley",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Délit de Droite",
+      "url": "https://bleau.info/hautssablons/301551.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Infinite Down",
+      "url": "https://bleau.info/hautssablons/12642.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Dennis Teijsse",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fée Clochette",
+      "url": "https://bleau.info/hautssablons/303088.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Précieuses (par le haut)",
+      "url": "https://bleau.info/hautssablons/301540.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "traversée",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Moonwalk",
+      "url": "https://bleau.info/hautssablons/302132.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sentry Post",
+      "url": "https://bleau.info/hautssablons/306068.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "fissure",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sun (assis)",
+      "url": "https://bleau.info/hautssablons/306650.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Stevie van Zutphen, Lionel Demenais, Jean Marc Patreau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tape Cul",
+      "url": "https://bleau.info/hautssablons/9869.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Frank Scherrer",
+      "styles": [
+        "toit",
+        "jeté",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "The Last Waffle",
+      "url": "https://bleau.info/hautssablons/306072.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Moraine",
+      "url": "https://bleau.info/hautssablons/20854.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Wulf Schneider",
+      "styles": [
+        "dévers",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Complexe du Castor",
+      "url": "https://bleau.info/hautssablons/303090.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Light",
+      "url": "https://bleau.info/hautssablons/302138.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Porte à Droite",
+      "url": "https://bleau.info/hautssablons/301539.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tranquillité",
+      "url": "https://bleau.info/hautssablons/301545.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fée Clochette (raccourci)",
+      "url": "https://bleau.info/hautssablons/303087.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Vito Grat'",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le P'tit Dernier",
+      "url": "https://bleau.info/hautssablons/301589.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Moon",
+      "url": "https://bleau.info/hautssablons/302134.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas du Fictif",
+      "url": "https://bleau.info/hautssablons/301564.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Petite mais Sexy",
+      "url": "https://bleau.info/hautssablons/303089.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sauté d'Écaille",
+      "url": "https://bleau.info/hautssablons/307084.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy Zwiebel, Christophe Grelaud",
+      "styles": [
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sun",
+      "url": "https://bleau.info/hautssablons/302135.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Little Moon",
+      "url": "https://bleau.info/hautssablons/302133.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "The Present Imperfect",
+      "url": "https://bleau.info/hautssablons/306075.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Fait Avéré",
+      "url": "https://bleau.info/hautssablons/301563.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Green Mossy Thing",
+      "url": "https://bleau.info/hautssablons/306074.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Réta Clochette",
+      "url": "https://bleau.info/hautssablons/303086.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Vito Grat'",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Subjunctive",
+      "url": "https://bleau.info/hautssablons/306077.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Gargoyle",
+      "url": "https://bleau.info/hautssablons/306071.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "traversée g-d",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sous l'Eau",
+      "url": "https://bleau.info/hautssablons/20839.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Wulf Schneider",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Avantage Petit",
+      "url": "https://bleau.info/hautssablons/308013.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Fenêtre à Droite",
+      "url": "https://bleau.info/hautssablons/308015.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Lis Ken",
+      "url": "https://bleau.info/hautssablons/308014.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 4.0
+    }
+  ]
+}

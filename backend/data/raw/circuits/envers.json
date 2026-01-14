@@ -1,0 +1,683 @@
+{
+  "sector": "Apremont Envers",
+  "circuits": [
+    {
+      "name": "Jaune PD",
+      "url": "https://bleau.info/envers/circuit31.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/envers/4968.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/envers/4969.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/envers/4970.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/envers/4971.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/envers/4972.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/envers/4973.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/envers/4974.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/envers/4975.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/envers/4976.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/envers/4977.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/envers/4978.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/envers/4979.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/envers/4980.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/envers/4981.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/envers/4982.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/envers/4983.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/envers/4984.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/envers/4985.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/envers/4986.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/envers/4987.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/envers/4988.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/envers/4989.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/envers/4990.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/envers/4991.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/envers/4992.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/envers/4993.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/envers/4994.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/envers/4995.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/envers/4996.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/envers/4997.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/envers/4998.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/envers/4999.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/envers/5000.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/envers/5001.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/envers/5002.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/envers/5003.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/envers/5004.html"
+        },
+        {
+          "id": "37 bis",
+          "url": "https://bleau.info/envers/5005.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/envers/5006.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/envers/5007.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/envers/5008.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/envers/5009.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/envers/5010.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/envers/5011.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/envers/5012.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/envers/5013.html"
+        },
+        {
+          "id": "45 bis",
+          "url": "https://bleau.info/envers/5014.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/envers/5015.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/envers/5016.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/envers/5017.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/envers/5018.html"
+        },
+        {
+          "id": "49 bis",
+          "url": "https://bleau.info/envers/311674.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/envers/5019.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/envers/circuit32.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/envers/311420.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/envers/311419.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/envers/5023.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/envers/5024.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/envers/5022.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/envers/5026.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/envers/5027.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/envers/5025.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/envers/5029.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/envers/5030.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/envers/5031.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/envers/5036.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/envers/5038.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/envers/5034.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/envers/5060.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/envers/5059.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/envers/5064.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/envers/5040.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/envers/5062.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/envers/5041.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/envers/5039.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/envers/5043.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/envers/5044.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/envers/5046.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/envers/5047.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/envers/5048.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/envers/5049.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/envers/5050.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/envers/5051.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/envers/5028.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/envers/5053.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/envers/5054.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/envers/5055.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/envers/5056.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/envers/5057.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/portesdesert/5035.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/portesdesert/5058.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/portesdesert/5032.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/portesdesert/5061.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/envers/5037.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD",
+      "url": "https://bleau.info/envers/circuit33.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/envers/5068.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/envers/5069.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/envers/22929.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/envers/5071.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/envers/22930.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/envers/5072.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/envers/5073.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/envers/5074.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/envers/5075.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/envers/5076.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/envers/5077.html"
+        },
+        {
+          "id": "8 bis",
+          "url": "https://bleau.info/envers/5078.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/envers/5079.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/envers/5080.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/envers/5081.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/envers/5082.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/envers/5083.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/envers/5084.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/envers/5085.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/envers/5086.html"
+        },
+        {
+          "id": "15 bis",
+          "url": "https://bleau.info/envers/5087.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/envers/5088.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/envers/5089.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/envers/5090.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/envers/5091.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/envers/5092.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/envers/5093.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/envers/5094.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/envers/5095.html"
+        },
+        {
+          "id": "20 bis",
+          "url": "https://bleau.info/envers/5096.html"
+        },
+        {
+          "id": "20 ter",
+          "url": "https://bleau.info/envers/5097.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/envers/5098.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/envers/5099.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/envers/5100.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/envers/5101.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/envers/5102.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/envers/5103.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/envers/5104.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/envers/5105.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/envers/5106.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/envers/5107.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/envers/5108.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/envers/5109.html"
+        },
+        {
+          "id": "30 bis",
+          "url": "https://bleau.info/envers/5110.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/envers/5111.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/envers/5113.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/envers/5114.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/envers/5115.html"
+        },
+        {
+          "id": "34 bis",
+          "url": "https://bleau.info/envers/5116.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/envers/5117.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/envers/5118.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/envers/5123.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/envers/5124.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/envers/22925.html"
+        },
+        {
+          "id": "39 bis",
+          "url": "https://bleau.info/envers/5125.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/envers/5127.html"
+        },
+        {
+          "id": "40 bis",
+          "url": "https://bleau.info/envers/5128.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/envers/22926.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/envers/5122.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/envers/22927.html"
+        },
+        {
+          "id": "43 bis",
+          "url": "https://bleau.info/envers/5121.html"
+        },
+        {
+          "id": "43 ter",
+          "url": "https://bleau.info/envers/5126.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/envers/5129.html"
+        },
+        {
+          "id": "44 bis",
+          "url": "https://bleau.info/envers/5130.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/envers/5131.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/envers/5132.html"
+        },
+        {
+          "id": "46 bis",
+          "url": "https://bleau.info/envers/22928.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/envers/5133.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/envers/5134.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/envers/5135.html"
+        },
+        {
+          "id": "49 bis",
+          "url": "https://bleau.info/envers/5136.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/envers/5137.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1298 @@
+{
+  "sector": "Éléphant Ouest",
+  "problems": [
+    {
+      "name": "Jeu d'Été",
+      "url": "https://bleau.info/ouest/18883.html",
+      "grade": "8b",
+      "alt_grade": "8a+",
+      "first_ascensionist": "Pascal Gagneux",
+      "styles": [
+        "toit",
+        "boucle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "El Àcrata",
+      "url": "https://bleau.info/ouest/1775.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "boucle",
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hors la Loi",
+      "url": "https://bleau.info/ouest/19726.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Thomas",
+      "styles": [
+        "toit",
+        "traversée d-g"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Tête dans les Nuages",
+      "url": "https://bleau.info/ouest/438.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de Sans Toit ni Loi",
+      "url": "https://bleau.info/ouest/19020.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Plaud",
+      "styles": [
+        "toit",
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sans Toit ni Loi (direct)",
+      "url": "https://bleau.info/ouest/314289.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Ludo Delmotte",
+      "styles": [
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Six Roses en Pack",
+      "url": "https://bleau.info/ouest/307042.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Air Sweden (rallongé)",
+      "url": "https://bleau.info/ouest/18542.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "jeté",
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Embuscade",
+      "url": "https://bleau.info/ouest/11194.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Boucle du Facteur Premier",
+      "url": "https://bleau.info/ouest/18555.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Max, Alain Denis, Thierry Guéguen",
+      "styles": [
+        "toit",
+        "traversée"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée aux Deux Colonnes",
+      "url": "https://bleau.info/ouest/18543.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "P'tête à Deux Mains?",
+      "url": "https://bleau.info/ouest/9199.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Sans Toit ni Loi",
+      "url": "https://bleau.info/ouest/17723.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Olivier Roman",
+      "styles": [
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Sherpa",
+      "url": "https://bleau.info/ouest/1490.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Francis Hélias",
+      "styles": [
+        "toit",
+        "monodoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sherpa (direct)",
+      "url": "https://bleau.info/ouest/314288.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Ludo Delmotte",
+      "styles": [
+        "toit"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Sherpa et Plus si Affinités",
+      "url": "https://bleau.info/ouest/18554.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Da Capo",
+      "url": "https://bleau.info/ouest/12007.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Julien Nadiras, Manuel Marquès",
+      "styles": [
+        "pilier",
+        "aplats",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Didicace",
+      "url": "https://bleau.info/ouest/9104.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gargamel",
+      "url": "https://bleau.info/ouest/433.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "surplomb",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Goldorak",
+      "url": "https://bleau.info/ouest/21521.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Prodhomme",
+      "styles": [
+        "jeté",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Splatch de Grosminet",
+      "url": "https://bleau.info/ouest/19754.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "traversée",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ouest Coast",
+      "url": "https://bleau.info/ouest/303405.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "arête",
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Stratosphère",
+      "url": "https://bleau.info/ouest/303404.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Transpotting",
+      "url": "https://bleau.info/ouest/1524.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Daniel Dulac",
+      "styles": [
+        "proue",
+        "surplomb",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Air Sweden",
+      "url": "https://bleau.info/ouest/17278.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Stefan Pettersson",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Équivogue (direct)",
+      "url": "https://bleau.info/ouest/21061.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "dalle",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jaws (assis)",
+      "url": "https://bleau.info/ouest/308173.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Romuald Bussy",
+      "styles": [
+        "dévers",
+        "départ assis",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Splatch",
+      "url": "https://bleau.info/ouest/19753.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Azraël et le Cosmoschtroumpf",
+      "url": "https://bleau.info/ouest/19759.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers",
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Désengagé (assis)",
+      "url": "https://bleau.info/ouest/14320.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Stéphan Denys, Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dumbo (gauche)",
+      "url": "https://bleau.info/ouest/21703.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dumbo's Ear",
+      "url": "https://bleau.info/ouest/22041.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Yannick Marchand",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grosminet",
+      "url": "https://bleau.info/ouest/18659.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Haut de Forme",
+      "url": "https://bleau.info/ouest/446.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Jaws",
+      "url": "https://bleau.info/ouest/17555.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Kinder Surprise",
+      "url": "https://bleau.info/ouest/13582.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Cosmoschtroumpf",
+      "url": "https://bleau.info/ouest/19758.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers",
+        "réta",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Grand Toit (assis)",
+      "url": "https://bleau.info/ouest/300705.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Grand Toit (droite assis)",
+      "url": "https://bleau.info/ouest/303623.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Dominguez JP",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Los Castagnettes",
+      "url": "https://bleau.info/ouest/300554.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pac et Tri",
+      "url": "https://bleau.info/ouest/12009.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sherpack",
+      "url": "https://bleau.info/ouest/311591.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Binou le Gris",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Splatch",
+      "url": "https://bleau.info/ouest/2298.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Greg Sobczak",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "The Wave",
+      "url": "https://bleau.info/ouest/303629.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Un Jeu pour Toit (retour)",
+      "url": "https://bleau.info/ouest/305809.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cap à l'Ouest",
+      "url": "https://bleau.info/ouest/303930.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cœur de Lion (assis)",
+      "url": "https://bleau.info/ouest/12636.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Dennis Teijsse",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Elephant Man (assis)",
+      "url": "https://bleau.info/ouest/1024.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "départ assis",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Équivogue",
+      "url": "https://bleau.info/ouest/2296.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Équivogue (droite)",
+      "url": "https://bleau.info/ouest/304429.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Dan Bennett",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Nerfs à Vif",
+      "url": "https://bleau.info/ouest/445.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot",
+      "styles": [
+        "surplomb",
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ode à Did",
+      "url": "https://bleau.info/ouest/9103.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "départ assis",
+        "monodoigts",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Sous le Ciel, Estel",
+      "url": "https://bleau.info/ouest/60606.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Un Jeu pour Toit (retour raccourci)",
+      "url": "https://bleau.info/ouest/305808.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À l'Ouest",
+      "url": "https://bleau.info/ouest/303931.html",
+      "grade": "7a",
+      "alt_grade": "6c",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cœur de Lion",
+      "url": "https://bleau.info/ouest/443.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "réglettes",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Coléoïdes",
+      "url": "https://bleau.info/ouest/306441.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Comme il vous Plaira",
+      "url": "https://bleau.info/ouest/12008.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Coup de Soleil",
+      "url": "https://bleau.info/ouest/17594.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Rémi Perinet, Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Désengagé",
+      "url": "https://bleau.info/ouest/14319.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys, Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dumbo",
+      "url": "https://bleau.info/ouest/21702.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Aileron du Requin",
+      "url": "https://bleau.info/ouest/442.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "réta",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Couille du Diable",
+      "url": "https://bleau.info/ouest/300552.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Dernière Chance (assis)",
+      "url": "https://bleau.info/ouest/17588.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Jaffry, Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Ratiche",
+      "url": "https://bleau.info/ouest/21696.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tristoon Salson",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Grand Toit",
+      "url": "https://bleau.info/ouest/9200.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Grand Toit (droite)",
+      "url": "https://bleau.info/ouest/303460.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Jérémie Ruez, Fred Prochazka",
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Un Jeu pour Toit",
+      "url": "https://bleau.info/ouest/18544.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "World Cup (assis)",
+      "url": "https://bleau.info/ouest/22708.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Extraction des Enfers",
+      "url": "https://bleau.info/ouest/308627.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Détente Rapide",
+      "url": "https://bleau.info/ouest/17597.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Spectre",
+      "url": "https://bleau.info/ouest/444.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "réta",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas de Panique (assis)",
+      "url": "https://bleau.info/ouest/308174.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Romuald Bussy",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Elephant Man",
+      "url": "https://bleau.info/ouest/17584.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jack's Picnic",
+      "url": "https://bleau.info/ouest/21704.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Amuse Doigts",
+      "url": "https://bleau.info/ouest/17598.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Lézard Gauchiste",
+      "url": "https://bleau.info/ouest/312864.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Schtroumpf Aqueux",
+      "url": "https://bleau.info/ouest/21266.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lonely Boy",
+      "url": "https://bleau.info/ouest/311628.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "pilier",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lune et Tri",
+      "url": "https://bleau.info/ouest/17602.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Pas de Panique",
+      "url": "https://bleau.info/ouest/17556.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas de Panique (gauche assis)",
+      "url": "https://bleau.info/ouest/308175.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Romuald Bussy",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Surprise Partie",
+      "url": "https://bleau.info/ouest/300553.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Curlew",
+      "url": "https://bleau.info/ouest/312487.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Max Opitz",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dernière Chance",
+      "url": "https://bleau.info/ouest/17587.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Gonflée",
+      "url": "https://bleau.info/ouest/17586.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Lézard",
+      "url": "https://bleau.info/ouest/14318.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Los Castagnettes (direct)",
+      "url": "https://bleau.info/ouest/308628.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Migration",
+      "url": "https://bleau.info/ouest/313819.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Zoe Duby",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas de Panique (gauche)",
+      "url": "https://bleau.info/ouest/17719.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Swaj",
+      "url": "https://bleau.info/ouest/311719.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Carina, Fred, Romain Pigeat",
+      "styles": [
+        "arête",
+        "départ assis",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "World Cup",
+      "url": "https://bleau.info/ouest/22707.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Philippe Dumez, Stéphane Brette",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dernière Génération",
+      "url": "https://bleau.info/ouest/313818.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rampataplan",
+      "url": "https://bleau.info/ouest/17595.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Schtroumpf",
+      "url": "https://bleau.info/ouest/42691.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "surplomb",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Surprise sur Prise",
+      "url": "https://bleau.info/ouest/17593.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chamoniarde",
+      "url": "https://bleau.info/ouest/17590.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Muraille de Chine",
+      "url": "https://bleau.info/ouest/17589.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Retraite Anticipée",
+      "url": "https://bleau.info/ouest/17591.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Saut de Puce",
+      "url": "https://bleau.info/ouest/17592.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Décollage Immédiat",
+      "url": "https://bleau.info/ouest/17599.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Désuette",
+      "url": "https://bleau.info/ouest/17596.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Super Tanker",
+      "url": "https://bleau.info/ouest/17585.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Journey's End",
+      "url": "https://bleau.info/ouest/313820.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Zoe Duby",
+      "styles": [
+        "mur",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chocolaté",
+      "url": "https://bleau.info/ouest/17600.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réta"
+      ],
+      "rating": null
+    }
+  ]
+}

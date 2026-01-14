@@ -1,0 +1,743 @@
+{
+  "sector": "Rocher du Télégraphe",
+  "circuits": [
+    {
+      "name": "Caramel EN",
+      "url": "https://bleau.info/telegraphe2/circuit266.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/telegraphe2/290235.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/telegraphe2/197351.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/telegraphe2/96968.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/telegraphe2/146482.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/telegraphe2/65646.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/telegraphe2/55308.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/telegraphe2/65412.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/telegraphe2/279535.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/telegraphe2/230509.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/telegraphe2/112724.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/telegraphe2/115666.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/telegraphe2/78610.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/telegraphe2/130351.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/telegraphe2/136651.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/telegraphe2/170533.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/telegraphe2/160270.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/telegraphe2/104726.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/telegraphe2/107531.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/telegraphe2/124040.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/telegraphe2/276751.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/telegraphe2/252407.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/telegraphe2/202660.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/telegraphe2/61161.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/telegraphe2/224852.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/telegraphe2/35569.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/telegraphe2/79456.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/telegraphe2/96104.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/telegraphe2/62227.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/telegraphe2/59857.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/telegraphe2/271066.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/telegraphe2/265981.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/telegraphe2/223256.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/telegraphe2/161362.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/telegraphe2/162136.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/telegraphe2/215943.html"
+        }
+      ]
+    },
+    {
+      "name": "Rose EN",
+      "url": "https://bleau.info/telegraphe2/circuit333.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/telegraphe2/310509.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/telegraphe2/310510.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/telegraphe2/310511.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/telegraphe2/310512.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/telegraphe2/310513.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/telegraphe2/310514.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/telegraphe2/310515.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/telegraphe2/310516.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/telegraphe2/310517.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/telegraphe2/310518.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/telegraphe2/310519.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/telegraphe2/310520.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/telegraphe2/310521.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/telegraphe2/310522.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/telegraphe2/310523.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/telegraphe2/310524.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/telegraphe2/310525.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/telegraphe2/310526.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/telegraphe2/310527.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/telegraphe2/310528.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/telegraphe2/310529.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/telegraphe2/310530.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/telegraphe2/310531.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/telegraphe2/310532.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/telegraphe2/310533.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/telegraphe2/310534.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/telegraphe2/310535.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/telegraphe2/310538.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/telegraphe2/310537.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/telegraphe2/310539.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/telegraphe2/310542.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/telegraphe2/310544.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/telegraphe2/310545.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/telegraphe2/310546.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/telegraphe2/310551.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/telegraphe2/310550.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/telegraphe2/310547.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/telegraphe2/310561.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/telegraphe2/310562.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/telegraphe2/310563.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/telegraphe2/310564.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/telegraphe2/310552.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/telegraphe2/310553.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/telegraphe2/310554.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/telegraphe2/310555.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/telegraphe2/310556.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/telegraphe2/310557.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/telegraphe2/310558.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/telegraphe2/310559.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/telegraphe2/310560.html"
+        }
+      ]
+    },
+    {
+      "name": "Jaune PD+",
+      "url": "https://bleau.info/telegraphe2/circuit329.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/telegraphe2/57678.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/telegraphe2/141236.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/telegraphe2/40996.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/telegraphe2/203964.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/telegraphe2/45796.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/telegraphe2/174388.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/telegraphe2/192026.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/telegraphe2/91976.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/telegraphe2/112705.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/telegraphe2/283095.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/telegraphe2/157988.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/telegraphe2/113133.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/telegraphe2/131658.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/telegraphe2/160361.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/telegraphe2/168956.html"
+        },
+        {
+          "id": "13 ter",
+          "url": "https://bleau.info/telegraphe2/239003.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/telegraphe2/179983.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/telegraphe2/251848.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/telegraphe2/162566.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/telegraphe2/149510.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/telegraphe2/213743.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/telegraphe2/44227.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/telegraphe2/148163.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/telegraphe2/128240.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/telegraphe2/277707.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/telegraphe2/94373.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/telegraphe2/94152.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/telegraphe2/266729.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/telegraphe2/109041.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/telegraphe2/276116.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/telegraphe2/70108.html"
+        }
+      ]
+    },
+    {
+      "name": "Jaune AD-",
+      "url": "https://bleau.info/telegraphe2/circuit328.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/telegraphe2/247536.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/telegraphe2/306402.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/telegraphe2/232071.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/telegraphe2/290239.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/telegraphe2/220301.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/telegraphe2/138390.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/telegraphe2/288798.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/telegraphe2/173361.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/telegraphe2/148547.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/telegraphe2/275702.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/telegraphe2/266227.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/telegraphe2/83922.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/telegraphe2/206015.html"
+        },
+        {
+          "id": "10 ter",
+          "url": "https://bleau.info/telegraphe2/100134.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/telegraphe2/147673.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/telegraphe2/98334.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/telegraphe2/56483.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/telegraphe2/282916.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/telegraphe2/54764.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/telegraphe2/297715.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/telegraphe2/32539.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/telegraphe2/65846.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/telegraphe2/67424.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/telegraphe2/293212.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/telegraphe2/231023.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/telegraphe2/76722.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/telegraphe2/241550.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/telegraphe2/circuit260.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/telegraphe2/13149.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/telegraphe2/13150.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/telegraphe2/13151.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/telegraphe2/13152.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/telegraphe2/13153.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/telegraphe2/13154.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/telegraphe2/13155.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/telegraphe2/13156.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/telegraphe2/13157.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/telegraphe2/13158.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/telegraphe2/13159.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/telegraphe2/13160.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/telegraphe2/13161.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/telegraphe2/13162.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/telegraphe2/13163.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/telegraphe2/13164.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/telegraphe2/13165.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/telegraphe2/13166.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/telegraphe2/13167.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/telegraphe2/13168.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/telegraphe2/13169.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/telegraphe2/13170.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/telegraphe2/13171.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/telegraphe2/13172.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/telegraphe2/13173.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/telegraphe2/13174.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/telegraphe2/13175.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/telegraphe2/13176.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/telegraphe2/13177.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/telegraphe2/13178.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/telegraphe2/13179.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/telegraphe2/13180.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/telegraphe2/13181.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/telegraphe2/13182.html"
+        }
+      ]
+    }
+  ]
+}

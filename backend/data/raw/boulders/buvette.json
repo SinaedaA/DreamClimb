@@ -1,0 +1,541 @@
+{
+  "sector": "Apremont Buvette",
+  "problems": [
+    {
+      "name": "La Liminale",
+      "url": "https://bleau.info/buvette/301330.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Charles Albert",
+      "styles": [
+        "toit",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Kairos",
+      "url": "https://bleau.info/buvette/24603.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault, Mounir Farhat",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Priapisme (droite)",
+      "url": "https://bleau.info/buvette/310419.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "thomas bellissent",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dessous Coquins (assis)",
+      "url": "https://bleau.info/buvette/303913.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Für Alina (assis)",
+      "url": "https://bleau.info/buvette/301926.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Thomas Collignon",
+      "styles": [
+        "proue",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Naine Blanche",
+      "url": "https://bleau.info/buvette/304007.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Priapisme (assis)",
+      "url": "https://bleau.info/buvette/21697.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Greg Gourlet",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dessous Coquins",
+      "url": "https://bleau.info/buvette/303912.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dessous Fripons",
+      "url": "https://bleau.info/buvette/1569.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "surplomb",
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Manta",
+      "url": "https://bleau.info/buvette/24651.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Teddy Deschamps, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Affaire Classée sans Suite",
+      "url": "https://bleau.info/buvette/12549.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Pierre Bouvier",
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Finger Food",
+      "url": "https://bleau.info/buvette/310676.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "nuna nuna, Jan De Smit",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Polêmikôs (gauche)",
+      "url": "https://bleau.info/buvette/22703.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "trous",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Cohérence Cardiaque (retour)",
+      "url": "https://bleau.info/buvette/304178.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Côte à Côte",
+      "url": "https://bleau.info/buvette/23714.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dessous Fripons (raccourci)",
+      "url": "https://bleau.info/buvette/304401.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L’Invertébré",
+      "url": "https://bleau.info/buvette/308239.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Soline Ralite, Louis Gounelle",
+      "styles": [
+        "bombé"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Polêmikôs",
+      "url": "https://bleau.info/buvette/22704.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Priapisme",
+      "url": "https://bleau.info/buvette/21698.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "GJou, Greg Gourlet",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "RétAlbatros",
+      "url": "https://bleau.info/buvette/313573.html",
+      "grade": "7a",
+      "alt_grade": "6c",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Für Alina",
+      "url": "https://bleau.info/buvette/22672.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Le Denmat",
+      "styles": [
+        "proue",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Easyraideuses (aller-retour)",
+      "url": "https://bleau.info/buvette/304046.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Coulisses de l'Histoire",
+      "url": "https://bleau.info/buvette/1568.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Méthode Buteyko",
+      "url": "https://bleau.info/buvette/302561.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cohérence Cardiaque",
+      "url": "https://bleau.info/buvette/304177.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Clélia Clouzeau, Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Déstabilisation",
+      "url": "https://bleau.info/buvette/305375.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Gars Des Bois, C. Larprise",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Easyraideuses (en traversée retour)",
+      "url": "https://bleau.info/buvette/304047.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Maxou",
+      "url": "https://bleau.info/buvette/22705.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Easyraideuses (en traversée)",
+      "url": "https://bleau.info/buvette/304045.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Géostationnaire",
+      "url": "https://bleau.info/buvette/304005.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Méthode Buteyko (direct)",
+      "url": "https://bleau.info/buvette/302567.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Grand Kick (assis)",
+      "url": "https://bleau.info/buvette/301430.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Petit Kick (assis)",
+      "url": "https://bleau.info/buvette/301432.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Géostationnaire (gauche)",
+      "url": "https://bleau.info/buvette/304006.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Procrastination",
+      "url": "https://bleau.info/buvette/305364.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Heiner Blon",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Contrôleur d'Asthme",
+      "url": "https://bleau.info/buvette/303991.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Easyraideuses (assis)",
+      "url": "https://bleau.info/buvette/304034.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "RétAgréable",
+      "url": "https://bleau.info/buvette/313571.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens, Patpat",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Easyraideuses",
+      "url": "https://bleau.info/buvette/304033.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Für Julia",
+      "url": "https://bleau.info/buvette/305365.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Heiner Blon",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Für Sebastian",
+      "url": "https://bleau.info/buvette/305366.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Heiner Blon",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Petit Kick",
+      "url": "https://bleau.info/buvette/301431.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Retour de Flamme",
+      "url": "https://bleau.info/buvette/301433.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Grand Kick",
+      "url": "https://bleau.info/buvette/301429.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    }
+  ]
+}

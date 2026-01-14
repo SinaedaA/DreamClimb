@@ -1,0 +1,664 @@
+{
+  "sector": "Cuvier Sorcières",
+  "problems": [
+    {
+      "name": "Saruman (du bas)",
+      "url": "https://bleau.info/sorcieres/302587.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Nicolas Pelorson",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Proueptologue (assis)",
+      "url": "https://bleau.info/sorcieres/21181.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "GJou, Loïc de Saint Etienne",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Saruman",
+      "url": "https://bleau.info/sorcieres/301281.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Miss Tick",
+      "url": "https://bleau.info/sorcieres/301282.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "surplomb",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Sauté de Porc, c'est pas Sorcier",
+      "url": "https://bleau.info/sorcieres/302839.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Christophe Grelaud, Jules Nicouleau",
+      "styles": [
+        "toit",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Danse des Sorcières",
+      "url": "https://bleau.info/sorcieres/301271.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Petit Tas Petit",
+      "url": "https://bleau.info/sorcieres/21186.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Âpre Houx (assis)",
+      "url": "https://bleau.info/sorcieres/301366.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Proueptologue",
+      "url": "https://bleau.info/sorcieres/21183.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Alain Perros, Loïc de Saint Etienne",
+      "styles": [
+        "proue",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mitochondriaque",
+      "url": "https://bleau.info/sorcieres/301269.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "traversée g-d",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Presse-toi (assis)",
+      "url": "https://bleau.info/sorcieres/310548.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Yoann Moreau, Mélanie Jeulin",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tas Réta Tas",
+      "url": "https://bleau.info/sorcieres/21184.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "De Houx à Pin",
+      "url": "https://bleau.info/sorcieres/21411.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "De Pin à Houx",
+      "url": "https://bleau.info/sorcieres/21410.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Gymnécologue (assis)",
+      "url": "https://bleau.info/sorcieres/21182.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Alain Perros, Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sortilège",
+      "url": "https://bleau.info/sorcieres/301277.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "arête",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Baba Yaga",
+      "url": "https://bleau.info/sorcieres/301276.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Doboshova",
+      "url": "https://bleau.info/sorcieres/301391.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Prodhomme",
+      "styles": [
+        "jeté",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Hélice",
+      "url": "https://bleau.info/sorcieres/21412.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Houx Là Là!",
+      "url": "https://bleau.info/sorcieres/301364.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "J'Échauf Pas",
+      "url": "https://bleau.info/sorcieres/302116.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Observatoire des Sorcières",
+      "url": "https://bleau.info/sorcieres/301270.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "saut",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Gymnécologue",
+      "url": "https://bleau.info/sorcieres/21180.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Alain Perros, Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gandalf",
+      "url": "https://bleau.info/sorcieres/301279.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "C'est Houx qu'on s'Assoit?",
+      "url": "https://bleau.info/sorcieres/301362.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arcade des Sorcières",
+      "url": "https://bleau.info/sorcieres/301268.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Mito Logique",
+      "url": "https://bleau.info/sorcieres/301286.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Asphodèle",
+      "url": "https://bleau.info/sorcieres/301283.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Entourloupe",
+      "url": "https://bleau.info/sorcieres/301363.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Merlin",
+      "url": "https://bleau.info/sorcieres/301275.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Radagast",
+      "url": "https://bleau.info/sorcieres/301285.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Who's Houx?",
+      "url": "https://bleau.info/sorcieres/301367.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Échauf",
+      "url": "https://bleau.info/sorcieres/21185.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "pilier",
+        "saut",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vers Houx?",
+      "url": "https://bleau.info/sorcieres/301369.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Befana",
+      "url": "https://bleau.info/sorcieres/301288.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "C'est Houx?",
+      "url": "https://bleau.info/sorcieres/301361.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Karaba",
+      "url": "https://bleau.info/sorcieres/301273.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle des Meurtrières",
+      "url": "https://bleau.info/sorcieres/308277.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Baguette Magique",
+      "url": "https://bleau.info/sorcieres/301289.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle des Sorcières",
+      "url": "https://bleau.info/sorcieres/313094.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Hugo Lavenant",
+      "styles": [
+        "arête",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pélagie",
+      "url": "https://bleau.info/sorcieres/301284.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Presse-toi",
+      "url": "https://bleau.info/sorcieres/310549.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Yoann Moreau, Mélanie Jeulin",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Âpre Houx",
+      "url": "https://bleau.info/sorcieres/301365.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Meurtrières",
+      "url": "https://bleau.info/sorcieres/308278.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vers Houx? (droite)",
+      "url": "https://bleau.info/sorcieres/301370.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Couloir des Sorcières",
+      "url": "https://bleau.info/sorcieres/301272.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gorillo",
+      "url": "https://bleau.info/sorcieres/308431.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Sorcières de Salem",
+      "url": "https://bleau.info/sorcieres/301287.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lady Van Tassel",
+      "url": "https://bleau.info/sorcieres/301280.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Scoubidou",
+      "url": "https://bleau.info/sorcieres/301368.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Carabosse",
+      "url": "https://bleau.info/sorcieres/301278.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dumbledore",
+      "url": "https://bleau.info/sorcieres/301274.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fissure des Sorcières",
+      "url": "https://bleau.info/sorcieres/301267.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "fissure",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle Amadou (gauche)",
+      "url": "https://bleau.info/sorcieres/301953.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Presse-Citron",
+      "url": "https://bleau.info/sorcieres/301954.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

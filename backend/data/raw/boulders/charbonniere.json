@@ -1,0 +1,583 @@
+{
+  "sector": "Bois d'Auvers (RdC)",
+  "problems": [
+    {
+      "name": "Hold-Up le Bloc",
+      "url": "https://bleau.info/charbonniere/270827.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "proue",
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Shogun",
+      "url": "https://bleau.info/charbonniere/20553.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Confinouf!",
+      "url": "https://bleau.info/charbonniere/112117.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Quarante Haines",
+      "url": "https://bleau.info/charbonniere/127869.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "surplomb",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Arête au Confinement!",
+      "url": "https://bleau.info/charbonniere/30950.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cherchez le Confiné",
+      "url": "https://bleau.info/charbonniere/83329.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Moins d'un Kilomètre (prolongé)",
+      "url": "https://bleau.info/charbonniere/100625.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "À Vue de Nez",
+      "url": "https://bleau.info/charbonniere/192122.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "proue",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Arquée Masquée",
+      "url": "https://bleau.info/charbonniere/254128.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Beauty Full",
+      "url": "https://bleau.info/charbonniere/15348.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bras Cassés (du bas)",
+      "url": "https://bleau.info/charbonniere/15351.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Confiné Caché",
+      "url": "https://bleau.info/charbonniere/204694.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Déconfinement (gauche)",
+      "url": "https://bleau.info/charbonniere/261948.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Père Est Maître (en traversée)",
+      "url": "https://bleau.info/charbonniere/290400.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sanglier d'Érymante",
+      "url": "https://bleau.info/charbonniere/15349.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Moins d'un Kilomètre",
+      "url": "https://bleau.info/charbonniere/72571.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rönin",
+      "url": "https://bleau.info/charbonniere/20552.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "haut",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/charbonniere/301221.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Déconfinement",
+      "url": "https://bleau.info/charbonniere/230116.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Haïku",
+      "url": "https://bleau.info/charbonniere/20550.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tanuki",
+      "url": "https://bleau.info/charbonniere/20554.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Vue de Nez (gauche)",
+      "url": "https://bleau.info/charbonniere/99901.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Arête de Carrière (direct)",
+      "url": "https://bleau.info/charbonniere/132759.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dans le Périmètre (droite)",
+      "url": "https://bleau.info/charbonniere/130963.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Haïku (droite)",
+      "url": "https://bleau.info/charbonniere/20549.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Philippe Dumez",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Balade des Confinés",
+      "url": "https://bleau.info/charbonniere/79962.html",
+      "grade": "6c",
+      "alt_grade": "6b",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Arête de Carrière",
+      "url": "https://bleau.info/charbonniere/231449.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Geisha",
+      "url": "https://bleau.info/charbonniere/20555.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Père Est Maître",
+      "url": "https://bleau.info/charbonniere/203303.html",
+      "grade": "6b+",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "À Vue de Nez (droite)",
+      "url": "https://bleau.info/charbonniere/168052.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Arête de Carrière (droite)",
+      "url": "https://bleau.info/charbonniere/124857.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Azuki",
+      "url": "https://bleau.info/charbonniere/20551.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bras Cassés",
+      "url": "https://bleau.info/charbonniere/315194.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Confinîle Flottante",
+      "url": "https://bleau.info/charbonniere/267973.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dans le Périmètre",
+      "url": "https://bleau.info/charbonniere/257667.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Hanami",
+      "url": "https://bleau.info/charbonniere/20556.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard, Philippe Dumez",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Fils est Sûr (en traversée)",
+      "url": "https://bleau.info/charbonniere/266546.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sans Raciner",
+      "url": "https://bleau.info/charbonniere/314749.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégory Boussac, gestes cedric",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Fils est Sûr",
+      "url": "https://bleau.info/charbonniere/196121.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "fissure",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trouf",
+      "url": "https://bleau.info/charbonniere/257978.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Anthony Notebaert",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Câlin Confiné",
+      "url": "https://bleau.info/charbonniere/263357.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Jouet de Bloc",
+      "url": "https://bleau.info/charbonniere/260377.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Titrou",
+      "url": "https://bleau.info/charbonniere/50973.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "toit",
+        "réta",
+        "trous"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Dentelles et Champignons",
+      "url": "https://bleau.info/charbonniere/15350.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bof",
+      "url": "https://bleau.info/charbonniere/181816.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Anthony Notebaert",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Montée d’Eden",
+      "url": "https://bleau.info/charbonniere/314750.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégory Boussac",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Travail de Famille",
+      "url": "https://bleau.info/charbonniere/246377.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Noah Halbe",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

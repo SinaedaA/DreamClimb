@@ -1,0 +1,1030 @@
+{
+  "sector": "Restant du Long Rocher Ouest",
+  "problems": [
+    {
+      "name": "L'Orfèvre (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/306495.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand, Jérémie Cogan",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Ruche",
+      "url": "https://bleau.info/longrochergrandesvallees/308477.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Jérémie Cogan, Fabien Marchand, Pierre Broyer",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Planète Épiée (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/306494.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand, Jérémie Cogan",
+      "styles": [
+        "aplats",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Arête Scherrer (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/14118.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Diagonale (prolongé)",
+      "url": "https://bleau.info/longrochergrandesvallees/306496.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Magic Stick (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/17561.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Teddy Deschamps",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sisbé (droite assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/308606.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête Scherrer",
+      "url": "https://bleau.info/longrochergrandesvallees/11820.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Frank Scherrer",
+      "styles": [
+        "arête",
+        "jeté",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lancé Comme un Frelon (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/315078.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lancé comme un Petit Frelon",
+      "url": "https://bleau.info/longrochergrandesvallees/308607.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sisbé (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/315079.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fred, Carina",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tréfonds",
+      "url": "https://bleau.info/longrochergrandesvallees/306499.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Fin des Temps",
+      "url": "https://bleau.info/longrochergrandesvallees/11782.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Damien Roguiez, Aurélien Sassier",
+      "styles": [
+        "dévers",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Magic Stick",
+      "url": "https://bleau.info/longrochergrandesvallees/11837.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Serein (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/20157.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jyrki Kauko",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Émerge",
+      "url": "https://bleau.info/longrochergrandesvallees/303188.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Reuben Tinsdeall",
+      "styles": [
+        "arête",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Ballade des Petits",
+      "url": "https://bleau.info/longrochergrandesvallees/301580.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lancé comme un Frelon",
+      "url": "https://bleau.info/longrochergrandesvallees/11817.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Philippe Dumez",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Hachoir",
+      "url": "https://bleau.info/longrochergrandesvallees/306498.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Triangle",
+      "url": "https://bleau.info/longrochergrandesvallees/306497.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mensonge au Télétravail",
+      "url": "https://bleau.info/longrochergrandesvallees/307799.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Planète Épiée",
+      "url": "https://bleau.info/longrochergrandesvallees/11835.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "aplats",
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rincewind (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/20978.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Damien Roguiez, David Evrard",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Serein",
+      "url": "https://bleau.info/longrochergrandesvallees/20156.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jyrki Kauko",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Slimfast",
+      "url": "https://bleau.info/longrochergrandesvallees/11781.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Peu Pieds",
+      "url": "https://bleau.info/longrochergrandesvallees/11809.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Final Jet",
+      "url": "https://bleau.info/longrochergrandesvallees/11826.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle au Dessus de la Route (assis)",
+      "url": "https://bleau.info/longrochergrandesvallees/308963.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Orfèvre",
+      "url": "https://bleau.info/longrochergrandesvallees/11821.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Oublié",
+      "url": "https://bleau.info/longrochergrandesvallees/301581.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Diagonale",
+      "url": "https://bleau.info/longrochergrandesvallees/11823.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Totale",
+      "url": "https://bleau.info/longrochergrandesvallees/11816.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Monolithe",
+      "url": "https://bleau.info/longrochergrandesvallees/309476.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Petite Collation",
+      "url": "https://bleau.info/longrochergrandesvallees/13258.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pinchy Lady",
+      "url": "https://bleau.info/longrochergrandesvallees/20227.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jyrki Kauko",
+      "styles": [
+        "dévers",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vague à Bond",
+      "url": "https://bleau.info/longrochergrandesvallees/11833.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Damien Roguiez",
+      "styles": [
+        "mur",
+        "jeté",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Wobbly Block",
+      "url": "https://bleau.info/longrochergrandesvallees/12637.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Dennis Teijsse",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "C'est Pas Sisbé",
+      "url": "https://bleau.info/longrochergrandesvallees/11819.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Compressor",
+      "url": "https://bleau.info/longrochergrandesvallees/11815.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La P'tite Trav",
+      "url": "https://bleau.info/longrochergrandesvallees/11814.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Teigne",
+      "url": "https://bleau.info/longrochergrandesvallees/18661.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Sisbé",
+      "url": "https://bleau.info/longrochergrandesvallees/11818.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bas Fond",
+      "url": "https://bleau.info/longrochergrandesvallees/11829.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Emergency",
+      "url": "https://bleau.info/longrochergrandesvallees/13257.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gaspard",
+      "url": "https://bleau.info/longrochergrandesvallees/20566.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "bidoigts"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jour de Repos",
+      "url": "https://bleau.info/longrochergrandesvallees/12628.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "départ assis",
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle au Dessus de la Route",
+      "url": "https://bleau.info/longrochergrandesvallees/308962.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Porte (droite)",
+      "url": "https://bleau.info/longrochergrandesvallees/11813.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée de la Microcupule",
+      "url": "https://bleau.info/longrochergrandesvallees/18664.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Dormeur",
+      "url": "https://bleau.info/longrochergrandesvallees/11831.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petite Crampe",
+      "url": "https://bleau.info/longrochergrandesvallees/11838.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Petite Marie",
+      "url": "https://bleau.info/longrochergrandesvallees/11834.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Skoda",
+      "url": "https://bleau.info/longrochergrandesvallees/303187.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Reuben Tinsdeall",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Uhu",
+      "url": "https://bleau.info/longrochergrandesvallees/313433.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Harrison Ford",
+      "url": "https://bleau.info/longrochergrandesvallees/309478.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Baquet Trompeur",
+      "url": "https://bleau.info/longrochergrandesvallees/11822.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Randonnain",
+      "url": "https://bleau.info/longrochergrandesvallees/11832.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Merimeche",
+      "styles": [
+        "dalle",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ric",
+      "url": "https://bleau.info/longrochergrandesvallees/11825.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Santriche",
+      "url": "https://bleau.info/longrochergrandesvallees/11811.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À Peu Pieds (direct)",
+      "url": "https://bleau.info/longrochergrandesvallees/18662.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Contre-Emploi",
+      "url": "https://bleau.info/longrochergrandesvallees/13295.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Doux Rivages",
+      "url": "https://bleau.info/longrochergrandesvallees/11836.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Microcupule",
+      "url": "https://bleau.info/longrochergrandesvallees/18665.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Porte",
+      "url": "https://bleau.info/longrochergrandesvallees/11812.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Passage",
+      "url": "https://bleau.info/longrochergrandesvallees/306500.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Marchand",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Neness",
+      "url": "https://bleau.info/longrochergrandesvallees/11810.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Petite Marie (direct)",
+      "url": "https://bleau.info/longrochergrandesvallees/300719.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pince Oreille",
+      "url": "https://bleau.info/longrochergrandesvallees/11828.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rac",
+      "url": "https://bleau.info/longrochergrandesvallees/11824.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Haut Fond",
+      "url": "https://bleau.info/longrochergrandesvallees/11830.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Joue Gauche de Petite Marie",
+      "url": "https://bleau.info/longrochergrandesvallees/20560.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "inversées",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nvivo",
+      "url": "https://bleau.info/longrochergrandesvallees/309479.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rincewind",
+      "url": "https://bleau.info/longrochergrandesvallees/303137.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Damien Roguiez, David Evrard",
+      "styles": [
+        "réta",
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Stratagème",
+      "url": "https://bleau.info/longrochergrandesvallees/11827.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée au Dessus de la Route",
+      "url": "https://bleau.info/longrochergrandesvallees/308964.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Demain",
+      "url": "https://bleau.info/longrochergrandesvallees/18663.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Joue Droite de Petite Marie",
+      "url": "https://bleau.info/longrochergrandesvallees/20562.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Doigt de Dieu",
+      "url": "https://bleau.info/longrochergrandesvallees/20567.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longrochergrandesvallees/11839.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Aurélien Sassier, Damien Roguiez",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fourth",
+      "url": "https://bleau.info/longrochergrandesvallees/309481.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle au Dessus de la Route",
+      "url": "https://bleau.info/longrochergrandesvallees/309477.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Deux Bonsaïs",
+      "url": "https://bleau.info/longrochergrandesvallees/20565.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ozone",
+      "url": "https://bleau.info/longrochergrandesvallees/309480.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Edward Gow-Smith",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longrochergrandesvallees/20564.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longrochergrandesvallees/20563.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

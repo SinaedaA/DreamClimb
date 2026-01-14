@@ -1,0 +1,951 @@
+{
+  "sector": "La Padôle (RdC)",
+  "circuits": [
+    {
+      "name": "Jaune PD",
+      "url": "https://bleau.info/padole/circuit314.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/24323.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/24324.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/24325.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/24326.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/24327.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/24328.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/24329.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/24330.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/24331.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/24332.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/24333.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/24334.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/padole/254967.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/24335.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/24336.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/padole/197493.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/24337.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/24338.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/24339.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/24340.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/24341.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/24342.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/24343.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/24344.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/24345.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/padole/24346.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/24347.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/24348.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/padole/24349.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/padole/24350.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/padole/82906.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/padole/287815.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/padole/154933.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/padole/179105.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/padole/305834.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/padole/circuit153.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/18144.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/18145.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/18146.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/7133.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/18151.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/18147.html"
+        },
+        {
+          "id": "6 bis",
+          "url": "https://bleau.info/padole/18148.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/18149.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/18150.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/18152.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/18153.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/7134.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/18163.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/padole/18154.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/7135.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/18157.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/18156.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/18164.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/padole/305887.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/18155.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/18158.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/18159.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/18165.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/18162.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/18172.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/18167.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/padole/305882.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/18168.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/18169.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/padole/7150.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/padole/18170.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/padole/18171.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/padole/305884.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/padole/18160.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/padole/305883.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/padole/18173.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D",
+      "url": "https://bleau.info/padole/circuit147.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/7166.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/7142.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/7143.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/7144.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/7145.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/7146.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/18166.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/padole/7147.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/7167.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/241931.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/7149.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/61635.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/77499.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/64180.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/7178.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/7176.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/7151.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/125332.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/padole/7153.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/7154.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/7157.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/22893.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/7158.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/7159.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/7161.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/7163.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/padole/7162.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/padole/circuit149.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/7196.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/7197.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/7198.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/20049.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/7201.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/20050.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/7202.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/7203.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/7204.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/7205.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/7206.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/7207.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/7208.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/7209.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/7210.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/7211.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/7212.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/7213.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/7214.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/7215.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/7216.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/7217.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/7218.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/7219.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/7220.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/padole/7221.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/padole/7222.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/padole/7223.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/padole/7224.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/padole/7225.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/padole/7226.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/padole/7227.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/padole/7228.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/padole/7229.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/padole/7230.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD",
+      "url": "https://bleau.info/padole/circuit148.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/213378.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/219002.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/7170.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/7168.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/padole/153261.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/7169.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/7171.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/7180.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/7177.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/7173.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/132612.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/padole/7174.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/7175.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/padole/7179.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/7152.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/292189.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/padole/7182.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/7184.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/7181.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/7183.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/22892.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/7185.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/7188.html"
+        },
+        {
+          "id": "19 bis",
+          "url": "https://bleau.info/padole/7189.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/7190.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/7194.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/7193.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/padole/7192.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/7191.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/7164.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/7187.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD+",
+      "url": "https://bleau.info/padole/circuit150.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/6916.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/6917.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/6918.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/6919.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/6920.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/6921.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/6922.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/6923.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/6924.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/6925.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/6926.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/6927.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/6928.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/6929.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/6930.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/6931.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/6933.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/6932.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/6934.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/6935.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/6936.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/6937.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/6938.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/6939.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/6940.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/padole/6941.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/padole/15652.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/padole/15653.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/padole/6942.html"
+        }
+      ]
+    },
+    {
+      "name": "Blanc ED+",
+      "url": "https://bleau.info/padole/circuit151.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/padole/15352.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/padole/6943.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/padole/15353.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/padole/15354.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/padole/20039.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/padole/6945.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/padole/6946.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/padole/1584.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/padole/15355.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/padole/15356.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/padole/15357.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/padole/6947.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/padole/6948.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/padole/6949.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/padole/6950.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/padole/6951.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/padole/6952.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/padole/15358.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/padole/15359.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/padole/15360.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/padole/15361.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/padole/11856.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/padole/9006.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/padole/11857.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/padole/15362.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/padole/15363.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/padole/15364.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/padole/6953.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/padole/15365.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/padole/15366.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/padole/15367.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/padole/6955.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/padole/24030.html"
+        }
+      ]
+    }
+  ]
+}

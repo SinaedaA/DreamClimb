@@ -1,0 +1,498 @@
+{
+  "sector": "Rocher de la Tortue",
+  "problems": [
+    {
+      "name": "Mi-Ange, Mi-Démon (retour-aller)",
+      "url": "https://bleau.info/tortue/305715.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Audacieux (gauche)",
+      "url": "https://bleau.info/tortue/304251.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mi-Ange, Mi-Démon (retour)",
+      "url": "https://bleau.info/tortue/305639.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Laukus Marrant (assis)",
+      "url": "https://bleau.info/tortue/314131.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mi-Ange, Mi-Démon",
+      "url": "https://bleau.info/tortue/305638.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mi-Singe, Mi-Dindon (aller-retour)",
+      "url": "https://bleau.info/tortue/314935.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Audacieux",
+      "url": "https://bleau.info/tortue/304250.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Mi-Singe, Mi-Dindon (retour-aller)",
+      "url": "https://bleau.info/tortue/314936.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ode aux Cieux",
+      "url": "https://bleau.info/tortue/305744.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mi-Singe, Mi-Dindon",
+      "url": "https://bleau.info/tortue/308160.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mi-Singe, Mi-Dindon (retour)",
+      "url": "https://bleau.info/tortue/308692.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Opus Marron (assis)",
+      "url": "https://bleau.info/tortue/314364.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tête de Groin",
+      "url": "https://bleau.info/tortue/309464.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Laukus Marrant",
+      "url": "https://bleau.info/tortue/314130.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Laurent Darlot, Markus Neher",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mi-Porc, Mi-Cochon",
+      "url": "https://bleau.info/tortue/314366.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mi-Sage, Mi-Dément",
+      "url": "https://bleau.info/tortue/308159.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tête de Groin (en traversée)",
+      "url": "https://bleau.info/tortue/309463.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Capricieux",
+      "url": "https://bleau.info/tortue/308931.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Capricieux (gauche)",
+      "url": "https://bleau.info/tortue/308933.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Irrévérencieux (droite)",
+      "url": "https://bleau.info/tortue/308932.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "arête",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Diablotine",
+      "url": "https://bleau.info/tortue/306676.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Irrévérencieux",
+      "url": "https://bleau.info/tortue/308930.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Diablotine (direct)",
+      "url": "https://bleau.info/tortue/306771.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Diablotine (gauche)",
+      "url": "https://bleau.info/tortue/309869.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mi-Figue, Mi-Raisin",
+      "url": "https://bleau.info/tortue/314365.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mi-Vache, Mi-Thon",
+      "url": "https://bleau.info/tortue/312556.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Douteux (droite)",
+      "url": "https://bleau.info/tortue/314107.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher, Catherine Attiger",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Petite Diablotine",
+      "url": "https://bleau.info/tortue/308183.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN,  Françoise Vergognan",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Trou du Groin",
+      "url": "https://bleau.info/tortue/309868.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mi-Sage, Mi-Dément (direct)",
+      "url": "https://bleau.info/tortue/312555.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "aplats",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tête de Groin (direct)",
+      "url": "https://bleau.info/tortue/311341.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Bart van Raaij",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Ennuyeux",
+      "url": "https://bleau.info/tortue/314129.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Nain Chaude",
+      "url": "https://bleau.info/tortue/307835.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lokus Marrant",
+      "url": "https://bleau.info/tortue/314132.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Malicieux",
+      "url": "https://bleau.info/tortue/308927.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Malicieux (droite)",
+      "url": "https://bleau.info/tortue/308928.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Douteux",
+      "url": "https://bleau.info/tortue/308929.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Dion",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lokus Marrant (droite)",
+      "url": "https://bleau.info/tortue/314133.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Opus Marron",
+      "url": "https://bleau.info/tortue/314135.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Délicieux",
+      "url": "https://bleau.info/tortue/314128.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Catherine Attiger, Markus Neher",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

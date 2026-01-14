@@ -1,0 +1,1519 @@
+{
+  "sector": "Coquibus Auvergne (RBs)",
+  "problems": [
+    {
+      "name": "Totale Révolution Libertaire",
+      "url": "https://bleau.info/auvergne/13652.html",
+      "grade": "8b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée",
+        "boucle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Révolution Libertaire",
+      "url": "https://bleau.info/auvergne/12206.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Libertaire",
+      "url": "https://bleau.info/auvergne/12203.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rebelle (assis)",
+      "url": "https://bleau.info/auvergne/310069.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Catherine Miquel",
+      "styles": [
+        "toit",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Révolution",
+      "url": "https://bleau.info/auvergne/12204.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Liaison d'Ange Heureuse",
+      "url": "https://bleau.info/auvergne/19841.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Liaison Dangereuse (gauche)",
+      "url": "https://bleau.info/auvergne/312597.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Libertaire par la Boîte à Lettres",
+      "url": "https://bleau.info/auvergne/12205.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Libertaire par Monotoit",
+      "url": "https://bleau.info/auvergne/15424.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Même Pas Froid",
+      "url": "https://bleau.info/auvergne/24043.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Révolution (par la Boîte à Lettres)",
+      "url": "https://bleau.info/auvergne/12207.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "King Crotale",
+      "url": "https://bleau.info/auvergne/14392.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Meurou, Julien Lefebvre",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Liaison Dangereuse",
+      "url": "https://bleau.info/auvergne/19842.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Roc à Dos",
+      "url": "https://bleau.info/auvergne/306014.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Roch ODDO",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Autonomie",
+      "url": "https://bleau.info/auvergne/12433.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Autonomie (assis)",
+      "url": "https://bleau.info/auvergne/12553.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "arête",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "King Cobra",
+      "url": "https://bleau.info/auvergne/12166.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "ASM (prolongé)",
+      "url": "https://bleau.info/auvergne/303701.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Crotale",
+      "url": "https://bleau.info/auvergne/14391.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Franck Meurou, Julien Lefebvre",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Drapeau Noir",
+      "url": "https://bleau.info/auvergne/12453.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Silences d'Alban",
+      "url": "https://bleau.info/auvergne/12183.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rebelle",
+      "url": "https://bleau.info/auvergne/12188.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Pablo Honrado",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Compression Ministérielle (assis)",
+      "url": "https://bleau.info/auvergne/12431.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "pilier",
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Détour sur Tour (du bas)",
+      "url": "https://bleau.info/auvergne/314452.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dévers'Grand Soir",
+      "url": "https://bleau.info/auvergne/12434.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Femme, Femme, Femme",
+      "url": "https://bleau.info/auvergne/12467.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "King Auvergne (en traversée)",
+      "url": "https://bleau.info/auvergne/308634.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Crunch Stat'",
+      "url": "https://bleau.info/auvergne/12439.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "arête",
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Situationniste (assis)",
+      "url": "https://bleau.info/auvergne/12168.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Rebelles de l'À Six",
+      "url": "https://bleau.info/auvergne/314679.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Little Cobra",
+      "url": "https://bleau.info/auvergne/12169.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Little Crotale",
+      "url": "https://bleau.info/auvergne/14390.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Meurou, Julien Lefebvre",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Little King Combi",
+      "url": "https://bleau.info/auvergne/14393.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Meurou, Julien Lefebvre",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Marche ou Crève... (assis)",
+      "url": "https://bleau.info/auvergne/309375.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Max et Laisse Faire Ailleurs",
+      "url": "https://bleau.info/auvergne/12182.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Max",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Pas Xénophobe",
+      "url": "https://bleau.info/auvergne/21456.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Taïpan",
+      "url": "https://bleau.info/auvergne/21532.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "À Six c'est Assez (assis)",
+      "url": "https://bleau.info/auvergne/12429.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "ASM",
+      "url": "https://bleau.info/auvergne/303698.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Détour sur Tour",
+      "url": "https://bleau.info/auvergne/314451.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dragon Rouge",
+      "url": "https://bleau.info/auvergne/308709.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Est-ce une Voie?",
+      "url": "https://bleau.info/auvergne/12202.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "King Auvergne",
+      "url": "https://bleau.info/auvergne/308542.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Anarcho-Tic",
+      "url": "https://bleau.info/auvergne/12447.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Traversée d'Aurélien",
+      "url": "https://bleau.info/auvergne/12193.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Traversée de Zénophobie",
+      "url": "https://bleau.info/auvergne/12426.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "pilier",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Succès Sœur de Pierre",
+      "url": "https://bleau.info/auvergne/12441.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Valeurs du Rugby",
+      "url": "https://bleau.info/auvergne/303702.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Marche ou Crève...",
+      "url": "https://bleau.info/auvergne/12181.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Bienvenu",
+      "styles": [
+        "réta",
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Monotoit",
+      "url": "https://bleau.info/auvergne/12199.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Par delà la Mêlée",
+      "url": "https://bleau.info/auvergne/12437.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Queen Auvergne (en traversée)",
+      "url": "https://bleau.info/auvergne/137486.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Aurélien (assis)",
+      "url": "https://bleau.info/auvergne/12192.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Cobra Minable",
+      "url": "https://bleau.info/auvergne/308705.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Internationale 7",
+      "url": "https://bleau.info/auvergne/12444.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Libre Penchée",
+      "url": "https://bleau.info/auvergne/12422.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Queen Auvergne",
+      "url": "https://bleau.info/auvergne/103870.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Laurent Darlot, Frédéric Buc",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tiens Bon la Hampe!",
+      "url": "https://bleau.info/auvergne/12454.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Zénophobie (assis)",
+      "url": "https://bleau.info/auvergne/12425.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "pilier",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Camarade Vitamine",
+      "url": "https://bleau.info/auvergne/12449.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dragon Rouge (raccourci)",
+      "url": "https://bleau.info/auvergne/91188.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Âme Ailée",
+      "url": "https://bleau.info/auvergne/12436.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Libération",
+      "url": "https://bleau.info/auvergne/12455.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Situationniste (assis gauche)",
+      "url": "https://bleau.info/auvergne/310151.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Nocomodov",
+      "url": "https://bleau.info/auvergne/16991.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ovalie",
+      "url": "https://bleau.info/auvergne/303703.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "bombé",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "RCT (prolongé)",
+      "url": "https://bleau.info/auvergne/303700.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "traversée g-d",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zénophobie",
+      "url": "https://bleau.info/auvergne/12424.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À Six c'est Assez",
+      "url": "https://bleau.info/auvergne/25063.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cobra",
+      "url": "https://bleau.info/auvergne/12167.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Compression Ministérielle",
+      "url": "https://bleau.info/auvergne/25065.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "pilier",
+        "bombé"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Pas Rebelle",
+      "url": "https://bleau.info/auvergne/12457.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Sans Sœur",
+      "url": "https://bleau.info/auvergne/12442.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Par la Grande Galaxie",
+      "url": "https://bleau.info/auvergne/21670.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Duval",
+      "styles": [
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Parcelle Érotique",
+      "url": "https://bleau.info/auvergne/12435.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Aurélien",
+      "url": "https://bleau.info/auvergne/12191.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Boîte à Lettres",
+      "url": "https://bleau.info/auvergne/12201.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bruits d'Auto-Gestion",
+      "url": "https://bleau.info/auvergne/12443.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dos Rebelle (direct)",
+      "url": "https://bleau.info/auvergne/12427.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Échauffement 3",
+      "url": "https://bleau.info/auvergne/12198.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Automne-Homme",
+      "url": "https://bleau.info/auvergne/12438.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Plateforme d'Archinov (assis)",
+      "url": "https://bleau.info/auvergne/313962.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Bob B, Louise Sieg",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de la Dalle d'Aurélien",
+      "url": "https://bleau.info/auvergne/12195.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "départ assis",
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Première Œuvre",
+      "url": "https://bleau.info/auvergne/301255.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Markus Neher",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Second Silence",
+      "url": "https://bleau.info/auvergne/12184.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tétutéton",
+      "url": "https://bleau.info/auvergne/12200.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dame Réglette (assis)",
+      "url": "https://bleau.info/auvergne/12432.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Avide Dante",
+      "url": "https://bleau.info/auvergne/12428.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Plateforme d'Archinov",
+      "url": "https://bleau.info/auvergne/12173.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Une Poignée Rebelle",
+      "url": "https://bleau.info/auvergne/12187.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Une Poignée Rebelle (assis)",
+      "url": "https://bleau.info/auvergne/307468.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Berenger Courbet, Pascal Auroy",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Auvergne (en traversée)",
+      "url": "https://bleau.info/auvergne/217219.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dame Réglette",
+      "url": "https://bleau.info/auvergne/12177.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Des Beignes et des Pavés",
+      "url": "https://bleau.info/auvergne/12448.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Déver'Soir",
+      "url": "https://bleau.info/auvergne/12176.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Échauffement 2",
+      "url": "https://bleau.info/auvergne/12197.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle d'Aurélien",
+      "url": "https://bleau.info/auvergne/12194.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Liber bis",
+      "url": "https://bleau.info/auvergne/12423.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "RCT",
+      "url": "https://bleau.info/auvergne/303699.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Michael Corme",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Échauffement Parlementaire",
+      "url": "https://bleau.info/auvergne/307467.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Encoinçant",
+      "url": "https://bleau.info/auvergne/308706.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ante Raide",
+      "url": "https://bleau.info/auvergne/12440.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Auvergne",
+      "url": "https://bleau.info/auvergne/308541.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ça Descend dans la Rue",
+      "url": "https://bleau.info/auvergne/12450.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dos Rebelle",
+      "url": "https://bleau.info/auvergne/12189.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Échauffement 1",
+      "url": "https://bleau.info/auvergne/12196.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Échauf'Fourré",
+      "url": "https://bleau.info/auvergne/12430.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Opposant",
+      "url": "https://bleau.info/auvergne/12180.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Bande à Raide Urgence",
+      "url": "https://bleau.info/auvergne/12446.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nom-Sens",
+      "url": "https://bleau.info/auvergne/12171.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Première Première",
+      "url": "https://bleau.info/auvergne/308193.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Jordi Tornés Torrent",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tu Voles Quand?",
+      "url": "https://bleau.info/auvergne/12452.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Craquelures",
+      "url": "https://bleau.info/auvergne/12186.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Enlèvement",
+      "url": "https://bleau.info/auvergne/308707.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Échauf'Art",
+      "url": "https://bleau.info/auvergne/12445.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Tour d'Auvergne",
+      "url": "https://bleau.info/auvergne/12190.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Situationniste",
+      "url": "https://bleau.info/auvergne/310247.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Premier Silence",
+      "url": "https://bleau.info/auvergne/12185.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tranche de Bleu",
+      "url": "https://bleau.info/auvergne/12451.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Archinoff",
+      "url": "https://bleau.info/auvergne/12172.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Enlovement",
+      "url": "https://bleau.info/auvergne/308708.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pression",
+      "url": "https://bleau.info/auvergne/12178.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Grattons de Kronstadt",
+      "url": "https://bleau.info/auvergne/12174.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dalle Opposée",
+      "url": "https://bleau.info/auvergne/12179.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gratouillis",
+      "url": "https://bleau.info/auvergne/12170.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Échauffée",
+      "url": "https://bleau.info/auvergne/12175.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

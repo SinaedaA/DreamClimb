@@ -1,0 +1,205 @@
+{
+  "sector": "Noisy-sur-École (RdC)",
+  "problems": [
+    {
+      "name": "Muramasa",
+      "url": "https://bleau.info/noisy/256005.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "proue",
+        "toit"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Backyard Lockdown",
+      "url": "https://bleau.info/noisy/181322.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bancroche (assis)",
+      "url": "https://bleau.info/noisy/241443.html",
+      "grade": "7a+",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bancroche (droite assis)",
+      "url": "https://bleau.info/noisy/254249.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Backyard Lockdown (gauche)",
+      "url": "https://bleau.info/noisy/113354.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas à Toit (aller-retour)",
+      "url": "https://bleau.info/noisy/208462.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pas à Toit (retour-aller)",
+      "url": "https://bleau.info/noisy/124820.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bancroche (droite)",
+      "url": "https://bleau.info/noisy/45641.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bancroche",
+      "url": "https://bleau.info/noisy/40997.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pas à Toit",
+      "url": "https://bleau.info/noisy/64828.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas à Toit (retour)",
+      "url": "https://bleau.info/noisy/42110.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Hamon",
+      "url": "https://bleau.info/noisy/106848.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Faciès (assis)",
+      "url": "https://bleau.info/noisy/118072.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "No Paparazzi",
+      "url": "https://bleau.info/noisy/188829.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Anthony Notebaert",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Faciès",
+      "url": "https://bleau.info/noisy/70107.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Saya",
+      "url": "https://bleau.info/noisy/228820.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fissure à Noah",
+      "url": "https://bleau.info/noisy/105393.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Noah Halbe",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sector": "Rocher Fourceau Est",
+  "problems": [
+    {
+      "name": "Ni Grand Ni Petit",
+      "url": "https://bleau.info/fourceau/311773.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Café Allongé",
+      "url": "https://bleau.info/fourceau/308030.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Caféine",
+      "url": "https://bleau.info/fourceau/308027.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Expresso",
+      "url": "https://bleau.info/fourceau/308029.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Grain de Café",
+      "url": "https://bleau.info/fourceau/308028.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    }
+  ]
+}

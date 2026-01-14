@@ -1,0 +1,1459 @@
+{
+  "sector": "Beauvais Télégraphe",
+  "problems": [
+    {
+      "name": "La Boucle du Rempart",
+      "url": "https://bleau.info/telegraphe/105.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bombé Menteur",
+      "url": "https://bleau.info/telegraphe/104.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Mandarine Merveilleuse (du fond)",
+      "url": "https://bleau.info/telegraphe/15404.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "11 Novembre",
+      "url": "https://bleau.info/telegraphe/14306.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Dominique Yvorel",
+      "styles": [
+        "mur",
+        "départ assis",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fais Gaffe",
+      "url": "https://bleau.info/telegraphe/101.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Picotille",
+      "url": "https://bleau.info/telegraphe/102.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "inversées"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Pas de Problème",
+      "url": "https://bleau.info/telegraphe/309872.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "John Doe",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Super-Crack",
+      "url": "https://bleau.info/telegraphe/103.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "fissure",
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Grenouille Verte (direct)",
+      "url": "https://bleau.info/telegraphe/18552.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Maarten Nieuwenhuijsen",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Grenouille Verte",
+      "url": "https://bleau.info/telegraphe/14317.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Puce",
+      "url": "https://bleau.info/telegraphe/14316.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Mandarine Merveilleuse",
+      "url": "https://bleau.info/telegraphe/300731.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "11 Novembre (droite)",
+      "url": "https://bleau.info/telegraphe/22659.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Assis Toit Là",
+      "url": "https://bleau.info/telegraphe/14308.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Dominique Yvorel",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Infranchissable",
+      "url": "https://bleau.info/telegraphe/15403.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Au Bord du Vice",
+      "url": "https://bleau.info/telegraphe/15595.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gros Pouf",
+      "url": "https://bleau.info/telegraphe/307624.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Dalle Menteuse",
+      "url": "https://bleau.info/telegraphe/15440.html",
+      "grade": "6a",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Menhir Montant",
+      "url": "https://bleau.info/telegraphe/14310.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Dominique Yvorel",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boulder (direct)",
+      "url": "https://bleau.info/telegraphe/23447.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "C'est Fait, c'est Sûr!",
+      "url": "https://bleau.info/telegraphe/14307.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Frédératrice",
+      "url": "https://bleau.info/telegraphe/23448.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Arachnéenne",
+      "url": "https://bleau.info/telegraphe/15460.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle Menteuse (gauche)",
+      "url": "https://bleau.info/telegraphe/23449.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Fille de Son Père",
+      "url": "https://bleau.info/telegraphe/15454.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "La Pataphysique",
+      "url": "https://bleau.info/telegraphe/15452.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Croissant Vert",
+      "url": "https://bleau.info/telegraphe/15464.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sitting Boule",
+      "url": "https://bleau.info/telegraphe/14311.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Dominique Yvorel",
+      "styles": [
+        "mur",
+        "réta",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Boulder",
+      "url": "https://bleau.info/telegraphe/15447.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Détournement",
+      "url": "https://bleau.info/telegraphe/307625.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fingers of the Running",
+      "url": "https://bleau.info/telegraphe/23433.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Genouflexion",
+      "url": "https://bleau.info/telegraphe/15445.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Élastique",
+      "url": "https://bleau.info/telegraphe/15458.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Gargotte",
+      "url": "https://bleau.info/telegraphe/15466.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Latex",
+      "url": "https://bleau.info/telegraphe/15448.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Passe Muraille",
+      "url": "https://bleau.info/telegraphe/23439.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pleine Face",
+      "url": "https://bleau.info/telegraphe/23442.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pof Dalle",
+      "url": "https://bleau.info/telegraphe/14309.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Dominique Yvorel",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Toxique Man",
+      "url": "https://bleau.info/telegraphe/307669.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jean Bond",
+      "url": "https://bleau.info/telegraphe/23446.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Joliesse",
+      "url": "https://bleau.info/telegraphe/15462.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Secrétaire",
+      "url": "https://bleau.info/telegraphe/23427.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Crux",
+      "url": "https://bleau.info/telegraphe/15450.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Cul Terreux",
+      "url": "https://bleau.info/telegraphe/15456.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Les Vaguelettes",
+      "url": "https://bleau.info/telegraphe/15446.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Piocheur",
+      "url": "https://bleau.info/telegraphe/23450.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pleine Dalle",
+      "url": "https://bleau.info/telegraphe/307655.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito, Blokeur",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Raz de Pavé",
+      "url": "https://bleau.info/telegraphe/15435.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Rétabominable",
+      "url": "https://bleau.info/telegraphe/15469.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Talon Externe",
+      "url": "https://bleau.info/telegraphe/23435.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Évidence",
+      "url": "https://bleau.info/telegraphe/23441.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "trous"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Jolie Parade",
+      "url": "https://bleau.info/telegraphe/23428.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kwak",
+      "url": "https://bleau.info/telegraphe/23452.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Agréable",
+      "url": "https://bleau.info/telegraphe/23434.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'En Caisse",
+      "url": "https://bleau.info/telegraphe/15449.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Patte en l'Air",
+      "url": "https://bleau.info/telegraphe/23429.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Rallonge",
+      "url": "https://bleau.info/telegraphe/15434.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bureau",
+      "url": "https://bleau.info/telegraphe/23426.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Livre Ouvert",
+      "url": "https://bleau.info/telegraphe/15451.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Au Pied du Mur",
+      "url": "https://bleau.info/telegraphe/23443.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Carre Externe",
+      "url": "https://bleau.info/telegraphe/15441.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "D'Alterne",
+      "url": "https://bleau.info/telegraphe/15439.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Émoussé",
+      "url": "https://bleau.info/telegraphe/23437.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Obscénité",
+      "url": "https://bleau.info/telegraphe/18068.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fracture",
+      "url": "https://bleau.info/telegraphe/23432.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Gonflée",
+      "url": "https://bleau.info/telegraphe/18063.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Laideur",
+      "url": "https://bleau.info/telegraphe/18073.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "dalle",
+        "expo"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Le Fondement",
+      "url": "https://bleau.info/telegraphe/23445.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Mauvais Placement",
+      "url": "https://bleau.info/telegraphe/15461.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Plomb",
+      "url": "https://bleau.info/telegraphe/15437.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Recoin",
+      "url": "https://bleau.info/telegraphe/23454.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Sommital",
+      "url": "https://bleau.info/telegraphe/15453.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Médaillon en Creux",
+      "url": "https://bleau.info/telegraphe/23431.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Passe Partout",
+      "url": "https://bleau.info/telegraphe/23438.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Double Bond",
+      "url": "https://bleau.info/telegraphe/15455.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Encore du Bouleau",
+      "url": "https://bleau.info/telegraphe/15438.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Fosbury",
+      "url": "https://bleau.info/telegraphe/15443.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fossile de Faciès",
+      "url": "https://bleau.info/telegraphe/23440.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jolie Bossette",
+      "url": "https://bleau.info/telegraphe/15436.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Encoche",
+      "url": "https://bleau.info/telegraphe/23451.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Incertaine",
+      "url": "https://bleau.info/telegraphe/15467.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Œil du Cyclope",
+      "url": "https://bleau.info/telegraphe/15468.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Boule à Ongles",
+      "url": "https://bleau.info/telegraphe/23436.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Lame",
+      "url": "https://bleau.info/telegraphe/23453.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Bilboquet",
+      "url": "https://bleau.info/telegraphe/23456.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Coquillage",
+      "url": "https://bleau.info/telegraphe/23455.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Farfouilleux",
+      "url": "https://bleau.info/telegraphe/15463.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Entremise",
+      "url": "https://bleau.info/telegraphe/23430.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Éraflure",
+      "url": "https://bleau.info/telegraphe/15442.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Eunnuque",
+      "url": "https://bleau.info/telegraphe/15459.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Patte en l'Air",
+      "url": "https://bleau.info/telegraphe/15444.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "Les Beaufs",
+      "url": "https://bleau.info/telegraphe/15457.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Beauvaisienne",
+      "url": "https://bleau.info/telegraphe/15432.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Jumelle",
+      "url": "https://bleau.info/telegraphe/15433.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Piste Verte",
+      "url": "https://bleau.info/telegraphe/15465.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Garde-Fou",
+      "url": "https://bleau.info/telegraphe/6796.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Pupitre",
+      "url": "https://bleau.info/telegraphe/6810.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Addition",
+      "url": "https://bleau.info/telegraphe/6776.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Ardue",
+      "url": "https://bleau.info/telegraphe/6782.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête du Bilboquet",
+      "url": "https://bleau.info/telegraphe/6795.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Empreinte",
+      "url": "https://bleau.info/telegraphe/6802.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Encoignure",
+      "url": "https://bleau.info/telegraphe/6777.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Épreuve",
+      "url": "https://bleau.info/telegraphe/6817.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Hypothétique",
+      "url": "https://bleau.info/telegraphe/6812.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "La Bascule",
+      "url": "https://bleau.info/telegraphe/6784.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Cassure",
+      "url": "https://bleau.info/telegraphe/6804.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Façade",
+      "url": "https://bleau.info/telegraphe/6799.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Frimousse",
+      "url": "https://bleau.info/telegraphe/6801.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Muraillette",
+      "url": "https://bleau.info/telegraphe/6800.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Vaurienne",
+      "url": "https://bleau.info/telegraphe/6774.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Bilboquet",
+      "url": "https://bleau.info/telegraphe/6790.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Blocus",
+      "url": "https://bleau.info/telegraphe/6813.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Duplex",
+      "url": "https://bleau.info/telegraphe/6788.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 1.5
+    },
+    {
+      "name": "Le Miroir",
+      "url": "https://bleau.info/telegraphe/6785.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pan",
+      "url": "https://bleau.info/telegraphe/6805.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Soubassement",
+      "url": "https://bleau.info/telegraphe/6793.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Sournois",
+      "url": "https://bleau.info/telegraphe/6792.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Moutons",
+      "url": "https://bleau.info/telegraphe/6786.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "Rebondissement",
+      "url": "https://bleau.info/telegraphe/6809.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Délirium",
+      "url": "https://bleau.info/telegraphe/6779.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Ancêtre",
+      "url": "https://bleau.info/telegraphe/6794.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Élancée",
+      "url": "https://bleau.info/telegraphe/6789.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Rampe",
+      "url": "https://bleau.info/telegraphe/6787.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "La Session",
+      "url": "https://bleau.info/telegraphe/6803.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Cellier",
+      "url": "https://bleau.info/telegraphe/6811.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Culminant",
+      "url": "https://bleau.info/telegraphe/6791.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Sous-Sol",
+      "url": "https://bleau.info/telegraphe/6783.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 4.0
+    },
+    {
+      "name": "Sœurette",
+      "url": "https://bleau.info/telegraphe/6775.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Confus",
+      "url": "https://bleau.info/telegraphe/18074.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Autre Plaque",
+      "url": "https://bleau.info/telegraphe/6781.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "L'Étape",
+      "url": "https://bleau.info/telegraphe/6807.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Douce",
+      "url": "https://bleau.info/telegraphe/6780.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "La Plaque",
+      "url": "https://bleau.info/telegraphe/6778.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Fil de l'Air",
+      "url": "https://bleau.info/telegraphe/6808.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": 3.0
+    },
+    {
+      "name": "Ma Boule",
+      "url": "https://bleau.info/telegraphe/18078.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    }
+  ]
+}

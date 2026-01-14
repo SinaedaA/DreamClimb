@@ -1,0 +1,667 @@
+{
+  "sector": "Mont Aigu",
+  "circuits": [
+    {
+      "name": "Jaune PD",
+      "url": "https://bleau.info/aigu/circuit70.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/aigu/5363.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/aigu/5364.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/aigu/39496.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/aigu/5365.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/aigu/5380.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/aigu/21397.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/aigu/5378.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/aigu/5366.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/aigu/5367.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/aigu/5368.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/aigu/5369.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/aigu/5370.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/aigu/5371.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/aigu/5372.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/aigu/5373.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/aigu/5374.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/aigu/5375.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/aigu/5376.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/aigu/5377.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/aigu/5381.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/aigu/5382.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/aigu/5383.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/aigu/5384.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/aigu/5385.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/aigu/5386.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/aigu/5387.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/aigu/5388.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/aigu/5389.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/aigu/5390.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/aigu/5391.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/aigu/5392.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/aigu/5393.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/aigu/5394.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/aigu/5395.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/aigu/5396.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/aigu/5397.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD",
+      "url": "https://bleau.info/aigu/circuit71.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/aigu/3323.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/aigu/3324.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/aigu/3325.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/aigu/3326.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/aigu/3327.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/aigu/3328.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/aigu/3329.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/aigu/153524.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/aigu/3330.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/aigu/3331.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/aigu/3332.html"
+        },
+        {
+          "id": "8 bis",
+          "url": "https://bleau.info/aigu/3333.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/aigu/3334.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/aigu/3335.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/aigu/3336.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/aigu/3337.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/aigu/3338.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/aigu/3339.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/aigu/3340.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/aigu/3341.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/aigu/3342.html"
+        },
+        {
+          "id": "15 bis",
+          "url": "https://bleau.info/aigu/3343.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/aigu/3344.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/aigu/3345.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/aigu/3346.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/aigu/3347.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/aigu/3348.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/aigu/3349.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/aigu/3350.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/aigu/3351.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/aigu/3352.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/aigu/3354.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/aigu/3355.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/aigu/3356.html"
+        },
+        {
+          "id": "24 ter",
+          "url": "https://bleau.info/aigu/3357.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/aigu/3358.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/aigu/3359.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/aigu/3360.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/aigu/3362.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/aigu/3363.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/aigu/3364.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/aigu/3365.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/aigu/3366.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/aigu/3367.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/aigu/3368.html"
+        },
+        {
+          "id": "32 bis",
+          "url": "https://bleau.info/aigu/3369.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/aigu/3370.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/aigu/3371.html"
+        },
+        {
+          "id": "34 bis",
+          "url": "https://bleau.info/aigu/3372.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/aigu/3373.html"
+        },
+        {
+          "id": "35 bis",
+          "url": "https://bleau.info/aigu/3374.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/aigu/3375.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/aigu/3376.html"
+        },
+        {
+          "id": "37 bis",
+          "url": "https://bleau.info/aigu/269194.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/aigu/3377.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/aigu/3378.html"
+        },
+        {
+          "id": "39 bis",
+          "url": "https://bleau.info/aigu/3379.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/aigu/3380.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/aigu/3381.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/aigu/3382.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/aigu/3383.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/aigu/3384.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/aigu/3385.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/aigu/3386.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/aigu/3387.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/aigu/3388.html"
+        },
+        {
+          "id": "48 bis",
+          "url": "https://bleau.info/aigu/314841.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/aigu/circuit72.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/aigu/5398.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/aigu/5399.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/aigu/9014.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/aigu/5400.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/aigu/5401.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/aigu/9016.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/aigu/5402.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/aigu/5403.html"
+        },
+        {
+          "id": "6 bis",
+          "url": "https://bleau.info/aigu/9026.html"
+        },
+        {
+          "id": "6 ter",
+          "url": "https://bleau.info/aigu/9141.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/aigu/5404.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/aigu/5405.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/aigu/5406.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/aigu/5407.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/aigu/5408.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/aigu/5409.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/aigu/5410.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/aigu/5411.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/aigu/5412.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/aigu/5413.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/aigu/5414.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/aigu/5415.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/aigu/5416.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/aigu/5417.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/aigu/5418.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/aigu/5419.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/aigu/5420.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/aigu/5421.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/aigu/5422.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/aigu/5423.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/aigu/5424.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/aigu/5425.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/aigu/5426.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/aigu/5427.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/aigu/5428.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/aigu/5429.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/aigu/5430.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/aigu/5431.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/aigu/5432.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/aigu/5433.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/aigu/5434.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/aigu/5435.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/aigu/5436.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/aigu/5437.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/aigu/5438.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/aigu/5439.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/aigu/5440.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/aigu/5441.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/aigu/5442.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/aigu/5443.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/aigu/5444.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/aigu/5445.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/aigu/5446.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/aigu/5447.html"
+        },
+        {
+          "id": "51",
+          "url": "https://bleau.info/aigu/5448.html"
+        },
+        {
+          "id": "52",
+          "url": "https://bleau.info/aigu/5451.html"
+        },
+        {
+          "id": "53",
+          "url": "https://bleau.info/aigu/5452.html"
+        },
+        {
+          "id": "54",
+          "url": "https://bleau.info/aigu/5453.html"
+        }
+      ]
+    }
+  ]
+}

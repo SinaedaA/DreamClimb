@@ -1,0 +1,458 @@
+{
+  "sector": "Coquibus Roche Feuilletée (RBs)",
+  "problems": [
+    {
+      "name": "Absalom (du fond)",
+      "url": "https://bleau.info/rochefeuilletee/23590.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "expo",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Balade des Pendus",
+      "url": "https://bleau.info/rochefeuilletee/1366.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "surplomb",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de Phineas",
+      "url": "https://bleau.info/rochefeuilletee/23605.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de Rabbit's Skin",
+      "url": "https://bleau.info/rochefeuilletee/23607.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée g-d",
+        "dièdre"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chiquenaudes",
+      "url": "https://bleau.info/rochefeuilletee/9755.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "haut",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Hommage aux Pieds Nus",
+      "url": "https://bleau.info/rochefeuilletee/9757.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dalle",
+        "aplats",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Course aux Nuages",
+      "url": "https://bleau.info/rochefeuilletee/17700.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Maigre Pitance (rallongé)",
+      "url": "https://bleau.info/rochefeuilletee/9756.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "départ assis",
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Phineas (assis)",
+      "url": "https://bleau.info/rochefeuilletee/23604.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Absalom",
+      "url": "https://bleau.info/rochefeuilletee/23589.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "pincettes",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Effeuillage",
+      "url": "https://bleau.info/rochefeuilletee/308257.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lakmé",
+      "url": "https://bleau.info/rochefeuilletee/23598.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "toit",
+        "haut",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Phineas",
+      "url": "https://bleau.info/rochefeuilletee/23600.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Superheavy",
+      "url": "https://bleau.info/rochefeuilletee/20534.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bombe du Genre pas Mal",
+      "url": "https://bleau.info/rochefeuilletee/18589.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Frais de Recherche",
+      "url": "https://bleau.info/rochefeuilletee/18776.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Maigre Pitance",
+      "url": "https://bleau.info/rochefeuilletee/9754.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Railroad",
+      "url": "https://bleau.info/rochefeuilletee/23606.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Uprising",
+      "url": "https://bleau.info/rochefeuilletee/23588.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "proue",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Temps Modernes",
+      "url": "https://bleau.info/rochefeuilletee/23592.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Betula Pendula",
+      "url": "https://bleau.info/rochefeuilletee/23602.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Limelight",
+      "url": "https://bleau.info/rochefeuilletee/23593.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "One Leaders",
+      "url": "https://bleau.info/rochefeuilletee/20547.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "toit",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ptosis",
+      "url": "https://bleau.info/rochefeuilletee/23597.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "haut",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Between Showers",
+      "url": "https://bleau.info/rochefeuilletee/23594.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "aplats",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tango Tangles",
+      "url": "https://bleau.info/rochefeuilletee/23595.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Attraction",
+      "url": "https://bleau.info/rochefeuilletee/23591.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "trous",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Roulette Russe",
+      "url": "https://bleau.info/rochefeuilletee/23596.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Loin des Yeux",
+      "url": "https://bleau.info/rochefeuilletee/23587.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "One Leaders (droite)",
+      "url": "https://bleau.info/rochefeuilletee/20587.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "toit",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rabbit's Skin",
+      "url": "https://bleau.info/rochefeuilletee/23599.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dièdre",
+        "inversées",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Jeu de la Fissure",
+      "url": "https://bleau.info/rochefeuilletee/23603.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Attrapoir (assis)",
+      "url": "https://bleau.info/rochefeuilletee/190558.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Diabolo",
+      "url": "https://bleau.info/rochefeuilletee/280206.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fossaire",
+      "url": "https://bleau.info/rochefeuilletee/98828.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Jeu de la Dalle",
+      "url": "https://bleau.info/rochefeuilletee/23601.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Attrapoir",
+      "url": "https://bleau.info/rochefeuilletee/177654.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,1287 @@
+{
+  "sector": "Le Miroir Magique",
+  "problems": [
+    {
+      "name": "Durmitor (en traversée)",
+      "url": "https://bleau.info/miroirmagique/313913.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Retour aux Sources",
+      "url": "https://bleau.info/miroirmagique/313897.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cœur de Pierre (assis)",
+      "url": "https://bleau.info/miroirmagique/314776.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Durnache",
+      "url": "https://bleau.info/miroirmagique/314560.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Un Seul Mot",
+      "url": "https://bleau.info/miroirmagique/314769.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "surplomb",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cœur de Pierre",
+      "url": "https://bleau.info/miroirmagique/313989.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Coup d'Éclats",
+      "url": "https://bleau.info/miroirmagique/313988.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dargonne King",
+      "url": "https://bleau.info/miroirmagique/313986.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Durmitor (assis)",
+      "url": "https://bleau.info/miroirmagique/313896.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Informateur (assis)",
+      "url": "https://bleau.info/miroirmagique/314943.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pluie Processionnaire (assis)",
+      "url": "https://bleau.info/miroirmagique/313875.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Informateur",
+      "url": "https://bleau.info/miroirmagique/314768.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "proue",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Toumbana",
+      "url": "https://bleau.info/miroirmagique/313864.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Toumbana (gauche)",
+      "url": "https://bleau.info/miroirmagique/314487.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pluie Processionnaire",
+      "url": "https://bleau.info/miroirmagique/313872.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Pluie Processionnaire (retour)",
+      "url": "https://bleau.info/miroirmagique/314816.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Entre les Arbres, Gère",
+      "url": "https://bleau.info/miroirmagique/314815.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Miroir, mon Beau Miroir",
+      "url": "https://bleau.info/miroirmagique/313773.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ne Triche Pas, ne Démens Pas",
+      "url": "https://bleau.info/miroirmagique/313870.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rayon de Lune (assis)",
+      "url": "https://bleau.info/miroirmagique/313967.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sortie du Chapeau",
+      "url": "https://bleau.info/miroirmagique/315071.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "dévers",
+        "aplats",
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sortie du Chapeau (direct)",
+      "url": "https://bleau.info/miroirmagique/315072.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pêché d'Orgueil",
+      "url": "https://bleau.info/miroirmagique/313770.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Souplesse entre Ciel et Terre",
+      "url": "https://bleau.info/miroirmagique/313890.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tout ce que J'Aime",
+      "url": "https://bleau.info/miroirmagique/314814.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "inversées",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Remplaçant",
+      "url": "https://bleau.info/miroirmagique/313940.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Ne Triche Pas, ne Mens Pas",
+      "url": "https://bleau.info/miroirmagique/313869.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Danger Urticant",
+      "url": "https://bleau.info/miroirmagique/313874.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dérive Narcissique",
+      "url": "https://bleau.info/miroirmagique/313894.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Durmitor",
+      "url": "https://bleau.info/miroirmagique/313895.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Entre les Arbres, Gère (en traversée)",
+      "url": "https://bleau.info/miroirmagique/314821.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Intrépide",
+      "url": "https://bleau.info/miroirmagique/313704.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Créature",
+      "url": "https://bleau.info/miroirmagique/313888.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Médaillon",
+      "url": "https://bleau.info/miroirmagique/313987.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Routard Galactique",
+      "url": "https://bleau.info/miroirmagique/313997.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Coupé en Deux",
+      "url": "https://bleau.info/miroirmagique/313884.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Démence",
+      "url": "https://bleau.info/miroirmagique/313703.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Malicieux",
+      "url": "https://bleau.info/miroirmagique/313893.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pouvoir de l'Inconscient (droite)",
+      "url": "https://bleau.info/miroirmagique/313702.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rayon de Lune",
+      "url": "https://bleau.info/miroirmagique/313966.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "dévers",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Toi l'Immortel",
+      "url": "https://bleau.info/miroirmagique/313892.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "dévers",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bloody Mary",
+      "url": "https://bleau.info/miroirmagique/313699.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Étoile Polaire",
+      "url": "https://bleau.info/miroirmagique/313698.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fosse",
+      "url": "https://bleau.info/miroirmagique/313778.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Libertin du Ciel",
+      "url": "https://bleau.info/miroirmagique/313880.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Passage des Farfadets",
+      "url": "https://bleau.info/miroirmagique/313887.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Frangins",
+      "url": "https://bleau.info/miroirmagique/313990.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cobra Crack",
+      "url": "https://bleau.info/miroirmagique/313775.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Eric Allayaud, Régis Allayaud",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Corps Céleste",
+      "url": "https://bleau.info/miroirmagique/313891.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Agrafe",
+      "url": "https://bleau.info/miroirmagique/313774.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Eric Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Illusion Comique",
+      "url": "https://bleau.info/miroirmagique/313772.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Inattendue",
+      "url": "https://bleau.info/miroirmagique/313881.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Directe du King",
+      "url": "https://bleau.info/miroirmagique/313985.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud",
+      "styles": [
+        "mur",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bitoniau",
+      "url": "https://bleau.info/miroirmagique/313868.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pouvoir de l'Inconscient",
+      "url": "https://bleau.info/miroirmagique/313701.html",
+      "grade": "5-",
+      "alt_grade": "5",
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Premier Étage",
+      "url": "https://bleau.info/miroirmagique/313889.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "RétArbres",
+      "url": "https://bleau.info/miroirmagique/314822.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "aplats",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basique (assis)",
+      "url": "https://bleau.info/miroirmagique/313706.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Diagonale",
+      "url": "https://bleau.info/miroirmagique/313992.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sournois",
+      "url": "https://bleau.info/miroirmagique/313886.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Sept Lumières",
+      "url": "https://bleau.info/miroirmagique/313771.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sécession",
+      "url": "https://bleau.info/miroirmagique/314807.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Titan",
+      "url": "https://bleau.info/miroirmagique/313965.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Espiègle",
+      "url": "https://bleau.info/miroirmagique/313885.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Image Fidèle",
+      "url": "https://bleau.info/miroirmagique/313769.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Narcisse",
+      "url": "https://bleau.info/miroirmagique/313921.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Démangeaison",
+      "url": "https://bleau.info/miroirmagique/313873.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ombre du Bourreau",
+      "url": "https://bleau.info/miroirmagique/313883.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Conque",
+      "url": "https://bleau.info/miroirmagique/313993.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Les Frangins (direct)",
+      "url": "https://bleau.info/miroirmagique/313991.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Frères Grimm",
+      "url": "https://bleau.info/miroirmagique/313879.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sortie dans la Jungle",
+      "url": "https://bleau.info/miroirmagique/313662.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Miroir Magique (assis)",
+      "url": "https://bleau.info/miroirmagique/314327.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "dalle",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Blanche Neige",
+      "url": "https://bleau.info/miroirmagique/313899.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "arête",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Colonne de Grès",
+      "url": "https://bleau.info/miroirmagique/313697.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Délit",
+      "url": "https://bleau.info/miroirmagique/314315.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Écaille",
+      "url": "https://bleau.info/miroirmagique/313994.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Œil de la Sorcière",
+      "url": "https://bleau.info/miroirmagique/313922.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chenille",
+      "url": "https://bleau.info/miroirmagique/313871.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Division de Cassini",
+      "url": "https://bleau.info/miroirmagique/313969.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Goulotte",
+      "url": "https://bleau.info/miroirmagique/313995.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "cheminée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de la Sorcière",
+      "url": "https://bleau.info/miroirmagique/313924.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Miroir aux Fées",
+      "url": "https://bleau.info/miroirmagique/313923.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Voleur de Scooter",
+      "url": "https://bleau.info/miroirmagique/313776.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Eric Allayaud, Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vérité Invisible",
+      "url": "https://bleau.info/miroirmagique/313878.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basique",
+      "url": "https://bleau.info/miroirmagique/313705.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bryophyte",
+      "url": "https://bleau.info/miroirmagique/313663.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Face à Face",
+      "url": "https://bleau.info/miroirmagique/313768.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Éperon",
+      "url": "https://bleau.info/miroirmagique/313996.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de la Reine",
+      "url": "https://bleau.info/miroirmagique/314314.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Condamné",
+      "url": "https://bleau.info/miroirmagique/313882.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Alexis Allayaud, Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Minot",
+      "url": "https://bleau.info/miroirmagique/314316.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Réfugié",
+      "url": "https://bleau.info/miroirmagique/314312.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Sept Chevaliers",
+      "url": "https://bleau.info/miroirmagique/313700.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mercure",
+      "url": "https://bleau.info/miroirmagique/313968.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mufasa",
+      "url": "https://bleau.info/miroirmagique/314325.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Reflet",
+      "url": "https://bleau.info/miroirmagique/313696.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rubus",
+      "url": "https://bleau.info/miroirmagique/314311.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sept Ans de Malheur",
+      "url": "https://bleau.info/miroirmagique/313695.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle de la Reine",
+      "url": "https://bleau.info/miroirmagique/314313.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Miroir Magique",
+      "url": "https://bleau.info/miroirmagique/313694.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chance",
+      "url": "https://bleau.info/miroirmagique/314321.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Danse du Scarabée",
+      "url": "https://bleau.info/miroirmagique/314322.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "traversée g-d",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Méchante Reine",
+      "url": "https://bleau.info/miroirmagique/313777.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Scarabée",
+      "url": "https://bleau.info/miroirmagique/314318.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Bambins",
+      "url": "https://bleau.info/miroirmagique/314317.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Phobos",
+      "url": "https://bleau.info/miroirmagique/314326.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rhino",
+      "url": "https://bleau.info/miroirmagique/314319.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Simba",
+      "url": "https://bleau.info/miroirmagique/314323.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": "Régis Allayaud",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

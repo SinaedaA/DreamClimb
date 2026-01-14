@@ -1,0 +1,826 @@
+{
+  "sector": "Coquibus Arcades (RBs)",
+  "problems": [
+    {
+      "name": "La Galinette Cendrée",
+      "url": "https://bleau.info/arcades/1528.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "départ assis",
+        "surplomb",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Paradoxe de Zénon",
+      "url": "https://bleau.info/arcades/22047.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault, Mounir Farhat",
+      "styles": [
+        "surplomb",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Yahtzee (assis)",
+      "url": "https://bleau.info/arcades/19533.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Cage aux Fauves (assis)",
+      "url": "https://bleau.info/arcades/264354.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Little Hero",
+      "url": "https://bleau.info/arcades/19543.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Huecoco",
+      "url": "https://bleau.info/arcades/19715.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Cage aux Fauves",
+      "url": "https://bleau.info/arcades/1521.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Chasseur",
+      "url": "https://bleau.info/arcades/311125.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Yahtzee",
+      "url": "https://bleau.info/arcades/17008.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "proue",
+        "aplats",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Yahtzee (droite assis)",
+      "url": "https://bleau.info/arcades/19534.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Sébastien Frigault, Pascal Thomas",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Point à la Ligne",
+      "url": "https://bleau.info/arcades/19515.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Hypo-Tonus",
+      "url": "https://bleau.info/arcades/19140.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Mules-Action",
+      "url": "https://bleau.info/arcades/19128.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sinus-X (assis)",
+      "url": "https://bleau.info/arcades/19138.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tête d'Enclume (assis)",
+      "url": "https://bleau.info/arcades/19705.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "expo",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bernard le Mythe",
+      "url": "https://bleau.info/arcades/19131.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Irénée Bernard",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Ligne de Faîte",
+      "url": "https://bleau.info/arcades/19514.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Spéciale Dédicace",
+      "url": "https://bleau.info/arcades/19719.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "proue",
+        "expo",
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tête d'Enclume",
+      "url": "https://bleau.info/arcades/19516.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "proue",
+        "réta",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Yahtzee (droite)",
+      "url": "https://bleau.info/arcades/19532.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Merimeche, David Evrard",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Arête à Héros",
+      "url": "https://bleau.info/arcades/19118.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Jardin des Nains",
+      "url": "https://bleau.info/arcades/19116.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sinus-X",
+      "url": "https://bleau.info/arcades/19139.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Spatule-Action",
+      "url": "https://bleau.info/arcades/19098.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Too Little",
+      "url": "https://bleau.info/arcades/19117.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vire Rage à Plat",
+      "url": "https://bleau.info/arcades/19105.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Crouic-Crouic",
+      "url": "https://bleau.info/arcades/19129.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le G Ko",
+      "url": "https://bleau.info/arcades/19102.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "inversées",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Ligne de Fuite",
+      "url": "https://bleau.info/arcades/19512.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Old Beauty",
+      "url": "https://bleau.info/arcades/19109.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Truc-Muche",
+      "url": "https://bleau.info/arcades/19135.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Court-Rage",
+      "url": "https://bleau.info/arcades/19141.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "CSP",
+      "url": "https://bleau.info/arcades/19111.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Œil de la Limace",
+      "url": "https://bleau.info/arcades/19716.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers",
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Décote d'Irène",
+      "url": "https://bleau.info/arcades/19124.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Tordue",
+      "url": "https://bleau.info/arcades/19114.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rat-Battu",
+      "url": "https://bleau.info/arcades/19144.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Toit Perché",
+      "url": "https://bleau.info/arcades/19513.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ouech-Ouech",
+      "url": "https://bleau.info/arcades/19103.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "réta",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Beauté Fatale",
+      "url": "https://bleau.info/arcades/19122.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "expo",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beauty Free",
+      "url": "https://bleau.info/arcades/19108.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bergeronnette Grise",
+      "url": "https://bleau.info/arcades/310316.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy Zwiebel",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Colossus",
+      "url": "https://bleau.info/arcades/19097.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "bombé",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Durillon",
+      "url": "https://bleau.info/arcades/19106.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Évitation",
+      "url": "https://bleau.info/arcades/19110.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Griffondor",
+      "url": "https://bleau.info/arcades/19104.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "réglettes",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Serpentar",
+      "url": "https://bleau.info/arcades/19115.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "aplats",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bœuf-Carotte",
+      "url": "https://bleau.info/arcades/19127.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cunédiforme",
+      "url": "https://bleau.info/arcades/19137.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gnagnagna",
+      "url": "https://bleau.info/arcades/19123.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Oblication",
+      "url": "https://bleau.info/arcades/19112.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Truc",
+      "url": "https://bleau.info/arcades/19134.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Atti-Rance",
+      "url": "https://bleau.info/arcades/19121.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "expo",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pompieds",
+      "url": "https://bleau.info/arcades/19120.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Frustrée",
+      "url": "https://bleau.info/arcades/19132.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Machin",
+      "url": "https://bleau.info/arcades/19133.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Manucure",
+      "url": "https://bleau.info/arcades/19099.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Manufacture",
+      "url": "https://bleau.info/arcades/19100.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mi-Tard",
+      "url": "https://bleau.info/arcades/19136.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas-Sable",
+      "url": "https://bleau.info/arcades/19113.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rhomboïde",
+      "url": "https://bleau.info/arcades/19125.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Prise aux Niais",
+      "url": "https://bleau.info/arcades/19101.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "trous",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Poussée Initiale",
+      "url": "https://bleau.info/arcades/19126.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Quatre Air Pillar",
+      "url": "https://bleau.info/arcades/19107.html",
+      "grade": "4",
+      "alt_grade": "4+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chauffe Pieds",
+      "url": "https://bleau.info/arcades/19119.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sarkophage",
+      "url": "https://bleau.info/arcades/19130.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    }
+  ]
+}

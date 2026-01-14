@@ -1,0 +1,972 @@
+{
+  "sector": "Gorges du Houx Oiseaux de Proie",
+  "problems": [
+    {
+      "name": "Bicarburation (retour-aller)",
+      "url": "https://bleau.info/oiseauxdeproie/314790.html",
+      "grade": "8b",
+      "alt_grade": "8b+",
+      "first_ascensionist": "Caro Sinno",
+      "styles": [
+        "traversée",
+        "toit",
+        "trous"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Bicarburation (aller-retour)",
+      "url": "https://bleau.info/oiseauxdeproie/303185.html",
+      "grade": "8a+",
+      "alt_grade": "8b",
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "traversée",
+        "toit",
+        "trous"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Bicarburation",
+      "url": "https://bleau.info/oiseauxdeproie/12705.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Bicarbure (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/309064.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Aller-retour de l'Envers",
+      "url": "https://bleau.info/oiseauxdeproie/302355.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "toit",
+        "traversée",
+        "bidoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Retour-aller de l'Envers",
+      "url": "https://bleau.info/oiseauxdeproie/314791.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "William Caldwell",
+      "styles": [
+        "traversée",
+        "toit",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "À l'Envers",
+      "url": "https://bleau.info/oiseauxdeproie/12706.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À l'Envers (retour)",
+      "url": "https://bleau.info/oiseauxdeproie/20655.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bicarburation (retour)",
+      "url": "https://bleau.info/oiseauxdeproie/302357.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bicarbure",
+      "url": "https://bleau.info/oiseauxdeproie/165075.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bi Haut Woman (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/308936.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À l'Endroit (retour-aller)",
+      "url": "https://bleau.info/oiseauxdeproie/303274.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Goranovitch",
+      "url": "https://bleau.info/oiseauxdeproie/21152.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Il n'est Jamais Trop Tard (assis)",
+      "url": "https://bleau.info/oiseauxdeproie/186489.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bi Haut (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/308935.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bi Haut Woman",
+      "url": "https://bleau.info/oiseauxdeproie/305275.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Myriam Motteau",
+      "styles": [
+        "traversée d-g",
+        "bidoigts",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À l'Endroit (aller-retour)",
+      "url": "https://bleau.info/oiseauxdeproie/303273.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Goranovsky",
+      "url": "https://bleau.info/oiseauxdeproie/21153.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "dévers",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Bi Haut",
+      "url": "https://bleau.info/oiseauxdeproie/12709.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "bidoigts",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bi se Marque (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/308934.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bi Yo",
+      "url": "https://bleau.info/oiseauxdeproie/306092.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Yo Mrvn",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Bi Yo Masse",
+      "url": "https://bleau.info/oiseauxdeproie/309000.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À l'Endroit",
+      "url": "https://bleau.info/oiseauxdeproie/12707.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À l'Endroit (retour)",
+      "url": "https://bleau.info/oiseauxdeproie/302356.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Carburation Verticale",
+      "url": "https://bleau.info/oiseauxdeproie/23719.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Il n'est Jamais Trop Tard",
+      "url": "https://bleau.info/oiseauxdeproie/308657.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bi se Marque",
+      "url": "https://bleau.info/oiseauxdeproie/12708.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "bidoigts",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bi Yo Back",
+      "url": "https://bleau.info/oiseauxdeproie/306093.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Yo Mrvn",
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pafwoman",
+      "url": "https://bleau.info/oiseauxdeproie/300820.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Vestige Archéologique",
+      "url": "https://bleau.info/oiseauxdeproie/31670.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bloc l'Éponge (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/308294.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Yo Mrvn",
+      "styles": [
+        "dévers",
+        "départ assis",
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fatwoman",
+      "url": "https://bleau.info/oiseauxdeproie/8881.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fatwoman Light (en traversée)",
+      "url": "https://bleau.info/oiseauxdeproie/20260.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "fissure",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Été à l’Horizon",
+      "url": "https://bleau.info/oiseauxdeproie/308652.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nyctalus Noctula",
+      "url": "https://bleau.info/oiseauxdeproie/303958.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Oiseaux de Proie",
+      "url": "https://bleau.info/oiseauxdeproie/2142.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Max",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pif, Paf, Pouf",
+      "url": "https://bleau.info/oiseauxdeproie/8880.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bloc l'Éponge (gauche)",
+      "url": "https://bleau.info/oiseauxdeproie/307943.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "nicolas vantorre",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Épaufrure",
+      "url": "https://bleau.info/oiseauxdeproie/308656.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pygmy Woman",
+      "url": "https://bleau.info/oiseauxdeproie/305004.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Robin Steyaert",
+      "styles": [
+        "toit",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Stéréotomie (assis)",
+      "url": "https://bleau.info/oiseauxdeproie/308655.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Travail Soigné",
+      "url": "https://bleau.info/oiseauxdeproie/308660.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Une Petite Cigarette du Sport",
+      "url": "https://bleau.info/oiseauxdeproie/305929.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Stefan Bill Meier",
+      "styles": [
+        "proue",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Ligne Franche",
+      "url": "https://bleau.info/oiseauxdeproie/308661.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bloc l'Éponge",
+      "url": "https://bleau.info/oiseauxdeproie/12710.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "bidoigts",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Fatwoman Light",
+      "url": "https://bleau.info/oiseauxdeproie/13201.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "fissure",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Grande Traversée Fatale",
+      "url": "https://bleau.info/oiseauxdeproie/310695.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Faiseur d'Illusion",
+      "url": "https://bleau.info/oiseauxdeproie/311979.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "toit",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pouf, Paf, Pif",
+      "url": "https://bleau.info/oiseauxdeproie/302105.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Brunet",
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Quatre Encoches",
+      "url": "https://bleau.info/oiseauxdeproie/308662.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rouleau Sauvage",
+      "url": "https://bleau.info/oiseauxdeproie/20431.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Stéréotomie",
+      "url": "https://bleau.info/oiseauxdeproie/303964.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "arête",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pour le Plaisir",
+      "url": "https://bleau.info/oiseauxdeproie/308659.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aux Briseurs de Pierre (assis)",
+      "url": "https://bleau.info/oiseauxdeproie/81717.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Victime",
+      "url": "https://bleau.info/oiseauxdeproie/310833.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Raphaël Menudier",
+      "styles": [
+        "arête",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Réta en Joie",
+      "url": "https://bleau.info/oiseauxdeproie/308658.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Suspicion",
+      "url": "https://bleau.info/oiseauxdeproie/308651.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vestige de Pointe",
+      "url": "https://bleau.info/oiseauxdeproie/112803.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Meurtrière (direct)",
+      "url": "https://bleau.info/oiseauxdeproie/309094.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Aux Briseurs de Pierre",
+      "url": "https://bleau.info/oiseauxdeproie/303963.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Divergence",
+      "url": "https://bleau.info/oiseauxdeproie/311707.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Guili Golo",
+      "url": "https://bleau.info/oiseauxdeproie/303943.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jeu de Vilains",
+      "url": "https://bleau.info/oiseauxdeproie/308654.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle du Pavé",
+      "url": "https://bleau.info/oiseauxdeproie/303961.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "mur",
+        "réta"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Petite Traversée Fatale",
+      "url": "https://bleau.info/oiseauxdeproie/310694.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "traversée g-d",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chamouni",
+      "url": "https://bleau.info/oiseauxdeproie/303957.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Jeux de Mains",
+      "url": "https://bleau.info/oiseauxdeproie/308653.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hiver à l'Horizon",
+      "url": "https://bleau.info/oiseauxdeproie/311706.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Meurtrière",
+      "url": "https://bleau.info/oiseauxdeproie/307213.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Bidoigt Fatal",
+      "url": "https://bleau.info/oiseauxdeproie/310693.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "dévers",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pavé",
+      "url": "https://bleau.info/oiseauxdeproie/303962.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Petit Pavé",
+      "url": "https://bleau.info/oiseauxdeproie/303965.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Naïveté",
+      "url": "https://bleau.info/oiseauxdeproie/310687.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fortification",
+      "url": "https://bleau.info/oiseauxdeproie/309096.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Pointe",
+      "url": "https://bleau.info/oiseauxdeproie/307214.html",
+      "grade": "5",
+      "alt_grade": "5-",
+      "first_ascensionist": "Julien Dagmey",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Meurtrière (droite)",
+      "url": "https://bleau.info/oiseauxdeproie/309095.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sans Quête et Sans Maître",
+      "url": "https://bleau.info/oiseauxdeproie/311981.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Fanny Allayaud",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Surplomb du Pavé",
+      "url": "https://bleau.info/oiseauxdeproie/303966.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    }
+  ]
+}

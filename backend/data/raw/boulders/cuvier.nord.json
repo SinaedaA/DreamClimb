@@ -1,0 +1,3053 @@
+{
+  "sector": "Cuvier Nord",
+  "problems": [
+    {
+      "name": "Kingdom",
+      "url": "https://bleau.info/cuvier.nord/312169.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Tristan Chouvy",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Wostok 1",
+      "url": "https://bleau.info/cuvier.nord/20867.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Willenberg",
+      "styles": [
+        "jeté",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Entre Art et Nature",
+      "url": "https://bleau.info/cuvier.nord/20599.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Michele Caminati",
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Art de l'Exploration Gestuelle (par le bas)",
+      "url": "https://bleau.info/cuvier.nord/304376.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ludus (assis)",
+      "url": "https://bleau.info/cuvier.nord/300562.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Apollo",
+      "url": "https://bleau.info/cuvier.nord/301503.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Charles Albert, Grégoire Thibault",
+      "styles": [
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Art and Nature",
+      "url": "https://bleau.info/cuvier.nord/20168.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Willenberg",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Art de l'Exploration Gestuelle (par le haut)",
+      "url": "https://bleau.info/cuvier.nord/304375.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Art de la Diagonale (en traversée)",
+      "url": "https://bleau.info/cuvier.nord/260.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Asphyxié (assis)",
+      "url": "https://bleau.info/cuvier.nord/300406.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Antoine Crevot, Mounir Farhat, Grégoire Thibault",
+      "styles": [
+        "surplomb",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Asphyxié (droite assis)",
+      "url": "https://bleau.info/cuvier.nord/314766.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Hugo Chaffiotte",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Elastiband",
+      "url": "https://bleau.info/cuvier.nord/300471.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Extrapole",
+      "url": "https://bleau.info/cuvier.nord/962.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Art de l'Exploration",
+      "url": "https://bleau.info/cuvier.nord/300287.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Esprit du Geste (retour-aller)",
+      "url": "https://bleau.info/cuvier.nord/302203.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Huître Volante",
+      "url": "https://bleau.info/cuvier.nord/300267.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "inversées",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Gladiateurs",
+      "url": "https://bleau.info/cuvier.nord/300403.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Makhno (intégral)",
+      "url": "https://bleau.info/cuvier.nord/150705.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Phoenix (aller-retour)",
+      "url": "https://bleau.info/cuvier.nord/300893.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "traversée",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Phoenix (intégral)",
+      "url": "https://bleau.info/cuvier.nord/300338.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Beat Cheese (assis)",
+      "url": "https://bleau.info/cuvier.nord/300393.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "inversées",
+        "jeté",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Idéfix",
+      "url": "https://bleau.info/cuvier.nord/20548.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Esprit du Geste (aller-retour)",
+      "url": "https://bleau.info/cuvier.nord/302201.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le 49-3",
+      "url": "https://bleau.info/cuvier.nord/300557.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Elric Besnier, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Poignards Volants",
+      "url": "https://bleau.info/cuvier.nord/300459.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "pincettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Love Symbol (assis)",
+      "url": "https://bleau.info/cuvier.nord/300479.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Collignon",
+      "styles": [
+        "pilier",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Makhno intégral (aller-retour)",
+      "url": "https://bleau.info/cuvier.nord/301833.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Nature",
+      "url": "https://bleau.info/cuvier.nord/20170.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Willenberg",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Phoebus",
+      "url": "https://bleau.info/cuvier.nord/300888.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau",
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Phoenix",
+      "url": "https://bleau.info/cuvier.nord/300337.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tao Te King",
+      "url": "https://bleau.info/cuvier.nord/300401.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "jeté",
+        "aplats",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Abraracourcix",
+      "url": "https://bleau.info/cuvier.nord/11438.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "départ assis",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Asphyxié (droite)",
+      "url": "https://bleau.info/cuvier.nord/300473.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Au Royaume des Elfes (du fond)",
+      "url": "https://bleau.info/cuvier.nord/300453.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beat Cheese",
+      "url": "https://bleau.info/cuvier.nord/300451.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Bastien Durand, Grégoire Thibault",
+      "styles": [
+        "inversées",
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dolus",
+      "url": "https://bleau.info/cuvier.nord/300889.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jean Marc Patreau",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dominus (gauche)",
+      "url": "https://bleau.info/cuvier.nord/300335.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Horus Dessous",
+      "url": "https://bleau.info/cuvier.nord/311672.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles C",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Art de la Diagonale (assis)",
+      "url": "https://bleau.info/cuvier.nord/300290.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Esprit du Geste (par le bas)",
+      "url": "https://bleau.info/cuvier.nord/300286.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Avare, Pierre Gonzales, Grégoire Clouzeau",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Vision d'Ultron (assis)",
+      "url": "https://bleau.info/cuvier.nord/300919.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "réta",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le 49-3 (gauche)",
+      "url": "https://bleau.info/cuvier.nord/300558.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Petit Fonx",
+      "url": "https://bleau.info/cuvier.nord/300461.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Ludus",
+      "url": "https://bleau.info/cuvier.nord/300563.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "dévers",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ludus (sans convention)",
+      "url": "https://bleau.info/cuvier.nord/300339.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Makhno  (prolongé)",
+      "url": "https://bleau.info/cuvier.nord/300323.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rencontre Plafonnique",
+      "url": "https://bleau.info/cuvier.nord/1420.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Patrick Arias",
+      "styles": [
+        "toit",
+        "proue"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rencontre Plus-Tonique",
+      "url": "https://bleau.info/cuvier.nord/311937.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Lionel Fraissard, Martin Morlet",
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tita-Nique",
+      "url": "https://bleau.info/cuvier.nord/1421.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Patrick Arias",
+      "styles": [
+        "toit",
+        "proue",
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Vision",
+      "url": "https://bleau.info/cuvier.nord/300466.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Asphyxie",
+      "url": "https://bleau.info/cuvier.nord/300405.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Grégoire Thibault, Yohan Chuzeville",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dominus (droite)",
+      "url": "https://bleau.info/cuvier.nord/300333.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Folklore Britannique (assis)",
+      "url": "https://bleau.info/cuvier.nord/300275.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Art de la Diagonale",
+      "url": "https://bleau.info/cuvier.nord/300289.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Esprit du Geste",
+      "url": "https://bleau.info/cuvier.nord/253030.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Avare, Pierre Gonzales, Grégoire Clouzeau",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Œuf de Pacte (droite)",
+      "url": "https://bleau.info/cuvier.nord/300294.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Gardien d'Horus",
+      "url": "https://bleau.info/cuvier.nord/300465.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Love Symbol",
+      "url": "https://bleau.info/cuvier.nord/300457.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Seljoukides",
+      "url": "https://bleau.info/cuvier.nord/300402.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Mounir Farhat, Thomas Markowicz, Grégoire Thibault",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vibranium",
+      "url": "https://bleau.info/cuvier.nord/300292.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Abominaffreux (assis)",
+      "url": "https://bleau.info/cuvier.nord/300356.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Artefact",
+      "url": "https://bleau.info/cuvier.nord/300404.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Mounir Farhat, Kevin Thibault, Grégoire Thibault",
+      "styles": [
+        "proue",
+        "aplats",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Asphyxié",
+      "url": "https://bleau.info/cuvier.nord/300472.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Au Royaume des Elfes",
+      "url": "https://bleau.info/cuvier.nord/300400.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "jeté",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Dynamic Love (en traversée)",
+      "url": "https://bleau.info/cuvier.nord/300458.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "inversées",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fantasmabouse",
+      "url": "https://bleau.info/cuvier.nord/300784.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Fantasmagorique",
+      "url": "https://bleau.info/cuvier.nord/300280.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Xavier Gouraud, Stéphane Carcone, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fantasme",
+      "url": "https://bleau.info/cuvier.nord/300282.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Explorateur",
+      "url": "https://bleau.info/cuvier.nord/300285.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Huître (assis)",
+      "url": "https://bleau.info/cuvier.nord/300288.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Œuf de Pacte",
+      "url": "https://bleau.info/cuvier.nord/300293.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "bombé",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Belle Étoile",
+      "url": "https://bleau.info/cuvier.nord/300392.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "arête",
+        "aplats",
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Petite Prune",
+      "url": "https://bleau.info/cuvier.nord/300274.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Vision d'Ultron",
+      "url": "https://bleau.info/cuvier.nord/300918.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Frédéric Buc",
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Bactriane (gauche)",
+      "url": "https://bleau.info/cuvier.nord/300365.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Dos Fin",
+      "url": "https://bleau.info/cuvier.nord/300374.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Makhno",
+      "url": "https://bleau.info/cuvier.nord/300284.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Max, Alain Denis",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Makhno (sortie par Ludus)",
+      "url": "https://bleau.info/cuvier.nord/301884.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Panoramix",
+      "url": "https://bleau.info/cuvier.nord/11439.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Gounelle",
+      "styles": [
+        "départ assis",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas Pire",
+      "url": "https://bleau.info/cuvier.nord/20818.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Réta Love",
+      "url": "https://bleau.info/cuvier.nord/300460.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sentinelle",
+      "url": "https://bleau.info/cuvier.nord/300352.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "The Last One",
+      "url": "https://bleau.info/cuvier.nord/23146.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "aplats",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tortue Ninja",
+      "url": "https://bleau.info/cuvier.nord/300340.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trompe l'Œil",
+      "url": "https://bleau.info/cuvier.nord/955.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Vibranium (placé)",
+      "url": "https://bleau.info/cuvier.nord/300291.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Viper",
+      "url": "https://bleau.info/cuvier.nord/300336.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vipère Poussette",
+      "url": "https://bleau.info/cuvier.nord/300468.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Clouzeau, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vipère Poussette (droite direct)",
+      "url": "https://bleau.info/cuvier.nord/300470.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dauphin de l'Irrawaddy (assis)",
+      "url": "https://bleau.info/cuvier.nord/300388.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dynamic Love",
+      "url": "https://bleau.info/cuvier.nord/300456.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Vasseur, Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Huître (gauche)",
+      "url": "https://bleau.info/cuvier.nord/300482.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "inversées",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Décevante",
+      "url": "https://bleau.info/cuvier.nord/300272.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio, Tony Fouchereau",
+      "styles": [
+        "fissure",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Bactriane",
+      "url": "https://bleau.info/cuvier.nord/300364.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ultron (direct)",
+      "url": "https://bleau.info/cuvier.nord/300920.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray, Hugo Cottray",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vipère Poussette (droite)",
+      "url": "https://bleau.info/cuvier.nord/300469.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Stéphane Carcone, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Affrominable (assis)",
+      "url": "https://bleau.info/cuvier.nord/300355.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Arrache-toi d'Là!",
+      "url": "https://bleau.info/cuvier.nord/8410.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Asphyxie (direct)",
+      "url": "https://bleau.info/cuvier.nord/300474.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Dauphin de l'Irrawaddy",
+      "url": "https://bleau.info/cuvier.nord/300373.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dominus",
+      "url": "https://bleau.info/cuvier.nord/300332.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Faux Penchant",
+      "url": "https://bleau.info/cuvier.nord/8423.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tortue Sentinelle",
+      "url": "https://bleau.info/cuvier.nord/305404.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ultron",
+      "url": "https://bleau.info/cuvier.nord/300467.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Jean-Hervé Baudot, Tony Fouchereau, Stéphane Carcone",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Voyage en Oppos",
+      "url": "https://bleau.info/cuvier.nord/8412.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Abominaffreux",
+      "url": "https://bleau.info/cuvier.nord/300357.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Belle Arête (en traversée)",
+      "url": "https://bleau.info/cuvier.nord/300271.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphane Carcone, Xavier Gouraud, Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Trompette dans l'Œil",
+      "url": "https://bleau.info/cuvier.nord/300620.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Petit Mono",
+      "url": "https://bleau.info/cuvier.nord/300273.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "monodoigts",
+        "jeté"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Rencontre Covidique",
+      "url": "https://bleau.info/cuvier.nord/311935.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Martin Morlet, Lionel Fraissard",
+      "styles": [
+        "surplomb",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Autre Chose",
+      "url": "https://bleau.info/cuvier.nord/8420.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Tarif Syndical",
+      "url": "https://bleau.info/cuvier.nord/300412.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno Lazzerini",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Love Compresse",
+      "url": "https://bleau.info/cuvier.nord/300475.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Thierry Vasseur, Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Poivre et Sel",
+      "url": "https://bleau.info/cuvier.nord/16252.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rondeur Digeste",
+      "url": "https://bleau.info/cuvier.nord/8419.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Clarus",
+      "url": "https://bleau.info/cuvier.nord/301529.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Théorème (assis)",
+      "url": "https://bleau.info/cuvier.nord/302500.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Nix",
+      "url": "https://bleau.info/cuvier.nord/302502.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Talon Glacé",
+      "url": "https://bleau.info/cuvier.nord/21405.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "À Michel",
+      "url": "https://bleau.info/cuvier.nord/21404.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Homme de Pierre",
+      "url": "https://bleau.info/cuvier.nord/8407.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Belle Arête",
+      "url": "https://bleau.info/cuvier.nord/8406.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Bonne Aventure",
+      "url": "https://bleau.info/cuvier.nord/8413.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Finaude",
+      "url": "https://bleau.info/cuvier.nord/8422.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Foire aux Grattons",
+      "url": "https://bleau.info/cuvier.nord/8411.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Murène",
+      "url": "https://bleau.info/cuvier.nord/8414.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "trous",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Love les Réglettes",
+      "url": "https://bleau.info/cuvier.nord/300455.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Thierry Vasseur, Xavier Gouraud, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Makhno (direct)",
+      "url": "https://bleau.info/cuvier.nord/300283.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Max, Alain Denis",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pleine Fougère",
+      "url": "https://bleau.info/cuvier.nord/8416.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Six à la Douzaine",
+      "url": "https://bleau.info/cuvier.nord/302212.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Dominguez JP, thomas vidal",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tom Pouce",
+      "url": "https://bleau.info/cuvier.nord/8405.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tortue Ninja (droite)",
+      "url": "https://bleau.info/cuvier.nord/300351.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vipérine (droite)",
+      "url": "https://bleau.info/cuvier.nord/300372.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Affrominable",
+      "url": "https://bleau.info/cuvier.nord/300354.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "trous",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Écho et Deus",
+      "url": "https://bleau.info/cuvier.nord/8417.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gaffe à l'Arbre",
+      "url": "https://bleau.info/cuvier.nord/8425.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Grosses Baffes",
+      "url": "https://bleau.info/cuvier.nord/8424.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Proue (assis)",
+      "url": "https://bleau.info/cuvier.nord/300378.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Maxillaire",
+      "url": "https://bleau.info/cuvier.nord/300564.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sandwich / Le Z",
+      "url": "https://bleau.info/cuvier.nord/8428.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Triangle des Bermudes",
+      "url": "https://bleau.info/cuvier.nord/8415.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lucie",
+      "url": "https://bleau.info/cuvier.nord/8418.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pilier et Rondeurs",
+      "url": "https://bleau.info/cuvier.nord/8421.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Spatulos",
+      "url": "https://bleau.info/cuvier.nord/300375.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Thierry Vasseur, Laurent Bardiau, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boule et Mike (assis)",
+      "url": "https://bleau.info/cuvier.nord/302501.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Folklore Britannique",
+      "url": "https://bleau.info/cuvier.nord/300277.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête de Marbre",
+      "url": "https://bleau.info/cuvier.nord/8403.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Intégrale",
+      "url": "https://bleau.info/cuvier.nord/4107.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Oblique",
+      "url": "https://bleau.info/cuvier.nord/8408.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Brasbus",
+      "url": "https://bleau.info/cuvier.nord/4105.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Caryl Chessman",
+      "url": "https://bleau.info/cuvier.nord/300443.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chanceuse",
+      "url": "https://bleau.info/cuvier.nord/300376.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Grande Crevasse",
+      "url": "https://bleau.info/cuvier.nord/4102.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Pause",
+      "url": "https://bleau.info/cuvier.nord/8409.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Proue",
+      "url": "https://bleau.info/cuvier.nord/8404.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Saignante",
+      "url": "https://bleau.info/cuvier.nord/21407.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Tangente",
+      "url": "https://bleau.info/cuvier.nord/4091.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Billard",
+      "url": "https://bleau.info/cuvier.nord/8427.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Repos du Guerrier",
+      "url": "https://bleau.info/cuvier.nord/8426.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Love le Trou",
+      "url": "https://bleau.info/cuvier.nord/300454.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Thierry Vasseur, Xavier Gouraud",
+      "styles": [
+        "dévers",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Problème de Taille",
+      "url": "https://bleau.info/cuvier.nord/301261.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vipérine",
+      "url": "https://bleau.info/cuvier.nord/300371.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Isolée n°1",
+      "url": "https://bleau.info/cuvier.nord/300410.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Olive",
+      "url": "https://bleau.info/cuvier.nord/4084.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Chaufferette (retour-aller)",
+      "url": "https://bleau.info/cuvier.nord/300445.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †, Jean-Claude Valluet",
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pince-Nez",
+      "url": "https://bleau.info/cuvier.nord/21408.html",
+      "grade": "5-",
+      "alt_grade": "4+",
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "mur",
+        "trous",
+        "pincettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Caryl",
+      "url": "https://bleau.info/cuvier.nord/300442.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Coccinelle",
+      "url": "https://bleau.info/cuvier.nord/4101.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Cotangente",
+      "url": "https://bleau.info/cuvier.nord/4092.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Dérivée",
+      "url": "https://bleau.info/cuvier.nord/4099.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Malchanceuse",
+      "url": "https://bleau.info/cuvier.nord/4086.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trop Blême de Paille",
+      "url": "https://bleau.info/cuvier.nord/302573.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Isolée n°2",
+      "url": "https://bleau.info/cuvier.nord/300380.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chaufferette",
+      "url": "https://bleau.info/cuvier.nord/300416.html",
+      "grade": "4",
+      "alt_grade": "4+",
+      "first_ascensionist": "Michel Buisson †, Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Marie-Antoinette",
+      "url": "https://bleau.info/cuvier.nord/4087.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Sécante",
+      "url": "https://bleau.info/cuvier.nord/4094.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Pascal",
+      "url": "https://bleau.info/cuvier.nord/300448.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Culot",
+      "url": "https://bleau.info/cuvier.nord/4103.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Rhinocéros",
+      "url": "https://bleau.info/cuvier.nord/4106.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Trou du Michel",
+      "url": "https://bleau.info/cuvier.nord/300438.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †, Jean-Claude Valluet, Sébastien Lavoine",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle à Malice",
+      "url": "https://bleau.info/cuvier.nord/300436.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dauphine",
+      "url": "https://bleau.info/cuvier.nord/300452.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fausse Oppo",
+      "url": "https://bleau.info/cuvier.nord/4108.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Trompe à Vide",
+      "url": "https://bleau.info/cuvier.nord/300462.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le  Coupe Gorge",
+      "url": "https://bleau.info/cuvier.nord/4088.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Bedeau",
+      "url": "https://bleau.info/cuvier.nord/300360.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Couloir Chessman",
+      "url": "https://bleau.info/cuvier.nord/300440.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Dièdre Moussu",
+      "url": "https://bleau.info/cuvier.nord/4095.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dièdre",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Nid de Guêpes",
+      "url": "https://bleau.info/cuvier.nord/4098.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Taxi-Mètre",
+      "url": "https://bleau.info/cuvier.nord/300414.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †",
+      "styles": [
+        "mur",
+        "réglettes",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Faux Rognons",
+      "url": "https://bleau.info/cuvier.nord/300426.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lève ta Patte",
+      "url": "https://bleau.info/cuvier.nord/300413.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "N'Ose Pas",
+      "url": "https://bleau.info/cuvier.nord/300358.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Alternance",
+      "url": "https://bleau.info/cuvier.nord/4100.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Angle Moussu",
+      "url": "https://bleau.info/cuvier.nord/300447.html",
+      "grade": "3+",
+      "alt_grade": "4-",
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle Vierge",
+      "url": "https://bleau.info/cuvier.nord/300439.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Appétit Cône",
+      "url": "https://bleau.info/cuvier.nord/300415.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "mur",
+        "dalle",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Orange Bleue",
+      "url": "https://bleau.info/cuvier.nord/4083.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Petit Mur",
+      "url": "https://bleau.info/cuvier.nord/1896.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rébus",
+      "url": "https://bleau.info/cuvier.nord/4082.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Thé Orem",
+      "url": "https://bleau.info/cuvier.nord/300434.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Théorème",
+      "url": "https://bleau.info/cuvier.nord/4090.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Turbot",
+      "url": "https://bleau.info/cuvier.nord/300432.html",
+      "grade": "3+",
+      "alt_grade": "4-",
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lève la Cuisse",
+      "url": "https://bleau.info/cuvier.nord/4089.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Boule et Mike",
+      "url": "https://bleau.info/cuvier.nord/300295.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "bombé",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Échine",
+      "url": "https://bleau.info/cuvier.nord/4096.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Huître",
+      "url": "https://bleau.info/cuvier.nord/4093.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Déviation",
+      "url": "https://bleau.info/cuvier.nord/1895.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grande Cheminée",
+      "url": "https://bleau.info/cuvier.nord/4104.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "cheminée"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Mangeuse de Pin",
+      "url": "https://bleau.info/cuvier.nord/300409.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Patinoire",
+      "url": "https://bleau.info/cuvier.nord/4085.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surplomb des Dames",
+      "url": "https://bleau.info/cuvier.nord/4109.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Arc-Bouter",
+      "url": "https://bleau.info/cuvier.nord/300431.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Envers du Pascal",
+      "url": "https://bleau.info/cuvier.nord/1897.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Orichalque",
+      "url": "https://bleau.info/cuvier.nord/300444.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Malchance",
+      "url": "https://bleau.info/cuvier.nord/300428.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Nageoire",
+      "url": "https://bleau.info/cuvier.nord/300417.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †, Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Patinette",
+      "url": "https://bleau.info/cuvier.nord/300427.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Poisse",
+      "url": "https://bleau.info/cuvier.nord/300430.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "dalle",
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bison",
+      "url": "https://bleau.info/cuvier.nord/300441.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Citron",
+      "url": "https://bleau.info/cuvier.nord/300367.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Listel",
+      "url": "https://bleau.info/cuvier.nord/300423.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "aplats",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur à Malice",
+      "url": "https://bleau.info/cuvier.nord/300437.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Pinces du Homard",
+      "url": "https://bleau.info/cuvier.nord/300411.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "aplats",
+        "pincettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Rognons",
+      "url": "https://bleau.info/cuvier.nord/300425.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet, Michel Buisson †",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mithril",
+      "url": "https://bleau.info/cuvier.nord/300362.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête Michel",
+      "url": "https://bleau.info/cuvier.nord/21406.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Esseulée",
+      "url": "https://bleau.info/cuvier.nord/300446.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle de la Variante Bleue",
+      "url": "https://bleau.info/cuvier.nord/300384.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle du Rébus",
+      "url": "https://bleau.info/cuvier.nord/300368.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grande Dalle",
+      "url": "https://bleau.info/cuvier.nord/4097.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Planquée",
+      "url": "https://bleau.info/cuvier.nord/300433.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Verte",
+      "url": "https://bleau.info/cuvier.nord/1894.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Faux Vis'Âge",
+      "url": "https://bleau.info/cuvier.nord/300383.html",
+      "grade": "2+",
+      "alt_grade": "3",
+      "first_ascensionist": "Michel Buisson †, Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Grattons du Rébus",
+      "url": "https://bleau.info/cuvier.nord/300369.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Yeux",
+      "url": "https://bleau.info/cuvier.nord/300359.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ami Shell",
+      "url": "https://bleau.info/cuvier.nord/300361.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pilier de l'Isolée",
+      "url": "https://bleau.info/cuvier.nord/300381.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Suspens",
+      "url": "https://bleau.info/cuvier.nord/302993.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Achille S.",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle de l'Isolée",
+      "url": "https://bleau.info/cuvier.nord/300382.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Double Fissure",
+      "url": "https://bleau.info/cuvier.nord/300418.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Mirabelle",
+      "url": "https://bleau.info/cuvier.nord/300385.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "arête",
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Vierge et l'Enfant",
+      "url": "https://bleau.info/cuvier.nord/300449.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rest'Là",
+      "url": "https://bleau.info/cuvier.nord/300450.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dent Carriée",
+      "url": "https://bleau.info/cuvier.nord/300363.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fissure du Lézard",
+      "url": "https://bleau.info/cuvier.nord/300424.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Golloge",
+      "url": "https://bleau.info/cuvier.nord/300420.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Bac à Fleurs",
+      "url": "https://bleau.info/cuvier.nord/300435.html",
+      "grade": "1+",
+      "alt_grade": "2-",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pas de Brie",
+      "url": "https://bleau.info/cuvier.nord/300366.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petipas",
+      "url": "https://bleau.info/cuvier.nord/300421.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    }
+  ]
+}

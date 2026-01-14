@@ -1,0 +1,881 @@
+{
+  "sector": "Mont Pivot",
+  "problems": [
+    {
+      "name": "Le Passeur (du bas)",
+      "url": "https://bleau.info/pivot/22653.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Tyler Landman, C. Pas 7a",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Problemos",
+      "url": "https://bleau.info/pivot/210665.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Traversée de l'Imparfait",
+      "url": "https://bleau.info/pivot/307712.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Moria",
+      "url": "https://bleau.info/pivot/309901.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Mikael Uponen",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zlatan",
+      "url": "https://bleau.info/pivot/21442.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Chris Cazin, Pierre Délas",
+      "styles": [
+        "surplomb",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Belle Crasse",
+      "url": "https://bleau.info/pivot/12293.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "monodoigts",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Kendo",
+      "url": "https://bleau.info/pivot/700.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voie Active (gauche)",
+      "url": "https://bleau.info/pivot/306774.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pancras (assis)",
+      "url": "https://bleau.info/pivot/702.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "arête",
+        "départ assis",
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Recherche en Platernité (Acte 4)",
+      "url": "https://bleau.info/pivot/22723.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Ludovic Guérin, Jo Montchaussé",
+      "styles": [
+        "traversée",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Recherche en Platernité (Acte 5)",
+      "url": "https://bleau.info/pivot/22724.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Ludovic Guérin, Jo Montchaussé",
+      "styles": [
+        "traversée",
+        "aplats",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Stalker",
+      "url": "https://bleau.info/pivot/22654.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault, Mounir Farhat",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "À Bout de Souffle",
+      "url": "https://bleau.info/pivot/12621.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Jan De Smit",
+      "styles": [
+        "surplomb",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voie Active",
+      "url": "https://bleau.info/pivot/305613.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Retour de l'Imparfait",
+      "url": "https://bleau.info/pivot/306773.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "S'Asseoir sur le Passé",
+      "url": "https://bleau.info/pivot/306775.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Belle Gueule (assis)",
+      "url": "https://bleau.info/pivot/2242.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "départ assis",
+        "monodoigts"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Erebor",
+      "url": "https://bleau.info/pivot/305612.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Imparfait du Subversif",
+      "url": "https://bleau.info/pivot/8858.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Max",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Recherche en Platernité (Acte 3)",
+      "url": "https://bleau.info/pivot/22722.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Ludovic Guérin, Jo Montchaussé",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ty Monos",
+      "url": "https://bleau.info/pivot/11065.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "mur",
+        "monodoigts",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Double Détente",
+      "url": "https://bleau.info/pivot/701.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Voie Active (droite)",
+      "url": "https://bleau.info/pivot/308691.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pancras",
+      "url": "https://bleau.info/pivot/699.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "surplomb",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Recherche en Platernité (Acte 2)",
+      "url": "https://bleau.info/pivot/22721.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Ludovic Guérin, Jo Montchaussé",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "The Battle of Minas Tirith",
+      "url": "https://bleau.info/pivot/309903.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Mikael Uponen",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Belle Gueule",
+      "url": "https://bleau.info/pivot/698.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "monodoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Imparfait (droite)",
+      "url": "https://bleau.info/pivot/305716.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Dernier des Géants",
+      "url": "https://bleau.info/pivot/2243.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réglettes",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Passeur",
+      "url": "https://bleau.info/pivot/22716.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Minas Tirith",
+      "url": "https://bleau.info/pivot/309902.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Mikael Uponen",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pulpo",
+      "url": "https://bleau.info/pivot/307027.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Recherche en Platernité (Acte 1)",
+      "url": "https://bleau.info/pivot/22720.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Ludovic Guérin, Jo Montchaussé",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Plutonium",
+      "url": "https://bleau.info/pivot/8844.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Acapulpo",
+      "url": "https://bleau.info/pivot/307030.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Aglarond",
+      "url": "https://bleau.info/pivot/309904.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Mikael Uponen",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée d'El Nonozze",
+      "url": "https://bleau.info/pivot/12279.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Antoine Eydoux",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Voie Passive",
+      "url": "https://bleau.info/pivot/306874.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "surplomb",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pulco",
+      "url": "https://bleau.info/pivot/307028.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Stigmate",
+      "url": "https://bleau.info/pivot/303412.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tournedos (assis)",
+      "url": "https://bleau.info/pivot/303418.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vacuité",
+      "url": "https://bleau.info/pivot/305637.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Imparfait",
+      "url": "https://bleau.info/pivot/309922.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Red Heat",
+      "url": "https://bleau.info/pivot/23521.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Rêve Lucide",
+      "url": "https://bleau.info/pivot/313999.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Damien Smeets",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Acapulco",
+      "url": "https://bleau.info/pivot/307029.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arbre de Vie",
+      "url": "https://bleau.info/pivot/21745.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête droite de Karmazze (assis)",
+      "url": "https://bleau.info/pivot/300094.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Romain Gautier, Sébastien Herbst",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête gauche de Karmazze (assis)",
+      "url": "https://bleau.info/pivot/300090.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "No Problemos",
+      "url": "https://bleau.info/pivot/303413.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Stéphan Denys, David Evrard",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Parasol",
+      "url": "https://bleau.info/pivot/21743.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Singularité",
+      "url": "https://bleau.info/pivot/303411.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête droite de Karmazze",
+      "url": "https://bleau.info/pivot/12273.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Romain Gautier, Sébastien Herbst",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Kwak",
+      "url": "https://bleau.info/pivot/22537.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Kris Lauwers",
+      "styles": [
+        "proue",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Arête gauche de Karmazze",
+      "url": "https://bleau.info/pivot/12272.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle de Karmazze (gauche)",
+      "url": "https://bleau.info/pivot/12275.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "départ assis",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Réta central d'El Nonozze",
+      "url": "https://bleau.info/pivot/12277.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Antoine Eydoux",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Réta gauche d'El Nonozze (assis)",
+      "url": "https://bleau.info/pivot/300152.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Antoine Eydoux, Sébastien Herbst",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Radium",
+      "url": "https://bleau.info/pivot/12551.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tout se Grimpe",
+      "url": "https://bleau.info/pivot/12280.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Sébastien Herbst",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Triple Hop",
+      "url": "https://bleau.info/pivot/22538.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Dieter Foqué",
+      "styles": [
+        "surplomb",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Réta droit d'El Nonozze",
+      "url": "https://bleau.info/pivot/12278.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Antoine Eydoux",
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Réta gauche d'El Nonozze",
+      "url": "https://bleau.info/pivot/12276.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Antoine Eydoux, Sébastien Herbst",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Piton Royal",
+      "url": "https://bleau.info/pivot/309050.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Lepierrey",
+      "styles": [
+        "fissure",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Radium (gauche)",
+      "url": "https://bleau.info/pivot/300086.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Tournedos",
+      "url": "https://bleau.info/pivot/303417.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle de Karmazze (direct)",
+      "url": "https://bleau.info/pivot/12274.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Thibault Ménager",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rêve Humide",
+      "url": "https://bleau.info/pivot/8352.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Marcassin Sauvage",
+      "url": "https://bleau.info/pivot/300268.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Zachari Godfroid",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Imparfait (gauche)",
+      "url": "https://bleau.info/pivot/309923.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Squid",
+      "url": "https://bleau.info/pivot/309063.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    }
+  ]
+}

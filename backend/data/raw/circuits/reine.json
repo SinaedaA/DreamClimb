@@ -1,0 +1,549 @@
+{
+  "sector": "Rocher de la Reine",
+  "circuits": [
+    {
+      "name": "Jaune PD+",
+      "url": "https://bleau.info/reine/circuit202.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/reine/16400.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/reine/16342.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/reine/313276.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/reine/16343.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/reine/16344.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/reine/16345.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/reine/313277.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/reine/16346.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/reine/16347.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/reine/16348.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/reine/16349.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/reine/314168.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/reine/16350.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/reine/16351.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/reine/16352.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/reine/314167.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/reine/16353.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/reine/16354.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/reine/16355.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/reine/16356.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/reine/16357.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/reine/16358.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/reine/16359.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/reine/16360.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/reine/16361.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/reine/16362.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/reine/16363.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/reine/16364.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/reine/16365.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/reine/16366.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/reine/16367.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/reine/16368.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/reine/16369.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/reine/16370.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/reine/16371.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/reine/16372.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/reine/16373.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/reine/16374.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/reine/16375.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/reine/16376.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/reine/16377.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/reine/16378.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/reine/16379.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/reine/16380.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/reine/16381.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/reine/16382.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/reine/16383.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/reine/16384.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/reine/16385.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/reine/16386.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/reine/16387.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/reine/16388.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/reine/16389.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/reine/16390.html"
+        },
+        {
+          "id": "51",
+          "url": "https://bleau.info/reine/16391.html"
+        },
+        {
+          "id": "52",
+          "url": "https://bleau.info/reine/16392.html"
+        },
+        {
+          "id": "53",
+          "url": "https://bleau.info/reine/16393.html"
+        },
+        {
+          "id": "54",
+          "url": "https://bleau.info/reine/16394.html"
+        },
+        {
+          "id": "55",
+          "url": "https://bleau.info/reine/16395.html"
+        },
+        {
+          "id": "56",
+          "url": "https://bleau.info/reine/16396.html"
+        },
+        {
+          "id": "57",
+          "url": "https://bleau.info/reine/16397.html"
+        },
+        {
+          "id": "58",
+          "url": "https://bleau.info/reine/16398.html"
+        },
+        {
+          "id": "58 bis",
+          "url": "https://bleau.info/reine/313278.html"
+        },
+        {
+          "id": "59",
+          "url": "https://bleau.info/reine/16399.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/reine/circuit186.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/reine/5534.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/reine/5535.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/reine/5536.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/reine/5537.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/reine/5538.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/reine/5539.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/reine/5540.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/reine/5541.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/reine/5542.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/reine/5543.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/reine/5544.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/reine/5545.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/reine/5546.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/reine/5558.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/reine/5548.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/reine/5549.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/reine/5550.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/reine/5551.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/reine/5552.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/reine/5553.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/reine/5554.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/reine/5555.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/reine/5556.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/reine/5557.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/reine/5547.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/reine/5559.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/reine/5560.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/reine/5561.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/reine/5562.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/reine/5563.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/reine/5564.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/reine/5565.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/reine/5566.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/reine/5567.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/reine/5568.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/reine/5569.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/reine/5570.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/reine/5571.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/reine/5572.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/reine/5573.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/reine/5574.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/reine/5575.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/reine/5576.html"
+        },
+        {
+          "id": "38 bis",
+          "url": "https://bleau.info/reine/5577.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/reine/5578.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/reine/5579.html"
+        },
+        {
+          "id": "40 bis",
+          "url": "https://bleau.info/reine/5580.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/reine/5581.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/reine/5582.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/reine/5583.html"
+        },
+        {
+          "id": "43 bis",
+          "url": "https://bleau.info/reine/5584.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/reine/5585.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/reine/5586.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/reine/5587.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/reine/5588.html"
+        },
+        {
+          "id": "47 bis",
+          "url": "https://bleau.info/reine/5589.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/reine/5590.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/reine/5591.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/reine/5592.html"
+        },
+        {
+          "id": "51",
+          "url": "https://bleau.info/reine/5593.html"
+        },
+        {
+          "id": "51 bis",
+          "url": "https://bleau.info/reine/5594.html"
+        },
+        {
+          "id": "52",
+          "url": "https://bleau.info/reine/5595.html"
+        },
+        {
+          "id": "52 bis",
+          "url": "https://bleau.info/reine/5596.html"
+        },
+        {
+          "id": "53",
+          "url": "https://bleau.info/reine/5597.html"
+        },
+        {
+          "id": "54",
+          "url": "https://bleau.info/reine/5598.html"
+        },
+        {
+          "id": "55",
+          "url": "https://bleau.info/reine/5599.html"
+        },
+        {
+          "id": "55 bis",
+          "url": "https://bleau.info/reine/5600.html"
+        },
+        {
+          "id": "56",
+          "url": "https://bleau.info/reine/5601.html"
+        },
+        {
+          "id": "57",
+          "url": "https://bleau.info/reine/5602.html"
+        }
+      ]
+    }
+  ]
+}

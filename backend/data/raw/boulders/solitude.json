@@ -1,0 +1,2698 @@
+{
+  "sector": "Apremont Vallon de la Solitude",
+  "problems": [
+    {
+      "name": "La Fessue (droite assis)",
+      "url": "https://bleau.info/solitude/24789.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Elric Besnier, Thomas Collignon",
+      "styles": [
+        "dévers",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Toucouleur",
+      "url": "https://bleau.info/solitude/1179.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "En Mémoire de Madiba",
+      "url": "https://bleau.info/solitude/22251.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau, Olivier Gx",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "bombé"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Globe Climbing",
+      "url": "https://bleau.info/solitude/24803.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Elric Besnier, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "jeté",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Aflopende Zaak",
+      "url": "https://bleau.info/solitude/1309.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jos Leenen",
+      "styles": [
+        "surplomb",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Albarrableau",
+      "url": "https://bleau.info/solitude/22255.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit",
+        "proue",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bullhead",
+      "url": "https://bleau.info/solitude/305393.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jan Gorrebeeck",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Hécatombe",
+      "url": "https://bleau.info/solitude/1332.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc Le Denmat",
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Intégrale de la Moderne",
+      "url": "https://bleau.info/solitude/22253.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "P'tit Œuf (assis)",
+      "url": "https://bleau.info/solitude/1798.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Vive l'Ampleur (assis)",
+      "url": "https://bleau.info/solitude/24728.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Grégoire Thibault",
+      "styles": [
+        "proue",
+        "expo",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Ictus Amnésique",
+      "url": "https://bleau.info/solitude/24802.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "arête",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fessue (droite)",
+      "url": "https://bleau.info/solitude/24788.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "dévers",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "P'tit Œuf",
+      "url": "https://bleau.info/solitude/1797.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Frank Scherrer",
+      "styles": [
+        "bombé",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Vive l'Ampleur",
+      "url": "https://bleau.info/solitude/1181.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "proue",
+        "expo",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fil à Plats (gauche)",
+      "url": "https://bleau.info/solitude/24793.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Œuf à la Coque (gauche)",
+      "url": "https://bleau.info/solitude/24800.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mandela (assis)",
+      "url": "https://bleau.info/solitude/22250.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau, Olivier Gx, Gérald Coste",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mandela (gauche assis)",
+      "url": "https://bleau.info/solitude/301930.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Titœuf",
+      "url": "https://bleau.info/solitude/1180.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Titœuf (assis)",
+      "url": "https://bleau.info/solitude/16964.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Deltaroc",
+      "url": "https://bleau.info/solitude/441.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Deltaroc (assis)",
+      "url": "https://bleau.info/solitude/24528.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jérémy Lecouvert, Bertrand Ville",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Fil à Plats",
+      "url": "https://bleau.info/solitude/24792.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Rampe à la Coque",
+      "url": "https://bleau.info/solitude/302804.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Verlen (en traversée)",
+      "url": "https://bleau.info/solitude/24804.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Madiba",
+      "url": "https://bleau.info/solitude/22252.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "bombé",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Madila (assis)",
+      "url": "https://bleau.info/solitude/23851.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Babis",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mandela",
+      "url": "https://bleau.info/solitude/22248.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes",
+        "inversées"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mandela (gauche)",
+      "url": "https://bleau.info/solitude/301929.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pré Crime",
+      "url": "https://bleau.info/solitude/24799.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "aplats",
+        "réta",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quiproquo (assis)",
+      "url": "https://bleau.info/solitude/16963.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Vivre en Pleurs",
+      "url": "https://bleau.info/solitude/20596.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Prodhomme",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Yes We Can",
+      "url": "https://bleau.info/solitude/19508.html",
+      "grade": "7a",
+      "alt_grade": "6c",
+      "first_ascensionist": "Patrick Sercki, Thierry Vasseur",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Grimper sur des Œufs",
+      "url": "https://bleau.info/solitude/24796.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "aplats",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Grosse T'Oeuf",
+      "url": "https://bleau.info/solitude/24794.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Guillaume Levernier, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Fessue",
+      "url": "https://bleau.info/solitude/13709.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Tirelire",
+      "url": "https://bleau.info/solitude/13713.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Verlen",
+      "url": "https://bleau.info/solitude/13791.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dévers",
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pas dans ton Assiette",
+      "url": "https://bleau.info/solitude/19387.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bruno Lazzerini, Tony Fouchereau",
+      "styles": [
+        "toit",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas dans ton Assiette (en traversée)",
+      "url": "https://bleau.info/solitude/19388.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Bruno Lazzerini, Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pébrock (assis gauche)",
+      "url": "https://bleau.info/solitude/24791.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Crépuscule",
+      "url": "https://bleau.info/solitude/13711.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Demain l'Aube (assis)",
+      "url": "https://bleau.info/solitude/24787.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gonetitsup",
+      "url": "https://bleau.info/solitude/13796.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Œuf à la Coque",
+      "url": "https://bleau.info/solitude/24801.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Madila",
+      "url": "https://bleau.info/solitude/22254.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes",
+        "inversées"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Quiproquo",
+      "url": "https://bleau.info/solitude/11079.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Marc Montchaussé",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Subterfuge",
+      "url": "https://bleau.info/solitude/13710.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Zika",
+      "url": "https://bleau.info/solitude/24798.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Amanite Tue-Mouche",
+      "url": "https://bleau.info/solitude/22243.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "bombé",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pébrock (assis)",
+      "url": "https://bleau.info/solitude/24790.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Yes Week-End",
+      "url": "https://bleau.info/solitude/19507.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Patrick Sercki, Thierry Vasseur",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fil de Soie",
+      "url": "https://bleau.info/solitude/13708.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jackpot",
+      "url": "https://bleau.info/solitude/302612.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête Delta",
+      "url": "https://bleau.info/solitude/24797.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, Guillaume Levernier",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Moderne (assis)",
+      "url": "https://bleau.info/solitude/301292.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Crépuscule des Idoles (assis)",
+      "url": "https://bleau.info/solitude/24795.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur de l'Ankylose",
+      "url": "https://bleau.info/solitude/16402.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Noir et Blanc",
+      "url": "https://bleau.info/solitude/13790.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zuma",
+      "url": "https://bleau.info/solitude/301296.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Demain l'Aube",
+      "url": "https://bleau.info/solitude/17147.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Champignon de Paris",
+      "url": "https://bleau.info/solitude/22242.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Dunouau, Jean-Pierre Briand, Tony Fouchereau",
+      "styles": [
+        "bombé",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Trompette de la Mort",
+      "url": "https://bleau.info/solitude/22247.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Dunouau, Jean-Pierre Briand, Tony Fouchereau",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Crépuscule des Idoles",
+      "url": "https://bleau.info/solitude/24805.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tombola (droite)",
+      "url": "https://bleau.info/solitude/13793.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tombola (gauche)",
+      "url": "https://bleau.info/solitude/13792.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Web Direct",
+      "url": "https://bleau.info/solitude/16401.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zorro y est Arrivé",
+      "url": "https://bleau.info/solitude/2596.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°25 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2722.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/solitude/13797.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Aux Enfants d'Alep",
+      "url": "https://bleau.info/solitude/301297.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Arête Anthropoïde (assis)",
+      "url": "https://bleau.info/solitude/301294.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Fissure de l'Ankylose",
+      "url": "https://bleau.info/solitude/13795.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Phallus",
+      "url": "https://bleau.info/solitude/2729.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°10 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2704.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Détournement de Finger",
+      "url": "https://bleau.info/solitude/2629.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Ante Phallus",
+      "url": "https://bleau.info/solitude/2728.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "expo"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "L'Arête Anthropoïde",
+      "url": "https://bleau.info/solitude/13794.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Oreille à Napo",
+      "url": "https://bleau.info/solitude/2594.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Originale",
+      "url": "https://bleau.info/solitude/2618.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "La Girolle",
+      "url": "https://bleau.info/solitude/22245.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau, Xavier Gouraud",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée des Mirages",
+      "url": "https://bleau.info/solitude/2617.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Surplomb de l'Anneau de Corde",
+      "url": "https://bleau.info/solitude/2705.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta",
+        "traversée d-g"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "- [n°25 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2720.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chimpanzman",
+      "url": "https://bleau.info/solitude/2624.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cohésion (assis)",
+      "url": "https://bleau.info/solitude/301293.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gamme Diatonique",
+      "url": "https://bleau.info/solitude/2597.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arythmie",
+      "url": "https://bleau.info/solitude/2607.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Moderne",
+      "url": "https://bleau.info/solitude/2714.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Politique",
+      "url": "https://bleau.info/solitude/2700.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée du Mycologue",
+      "url": "https://bleau.info/solitude/2711.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Muraille",
+      "url": "https://bleau.info/solitude/17152.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Taille Crayon",
+      "url": "https://bleau.info/solitude/2611.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°29 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2726.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Dendrophile",
+      "url": "https://bleau.info/solitude/2591.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Doigt d'Acier",
+      "url": "https://bleau.info/solitude/2601.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fascination",
+      "url": "https://bleau.info/solitude/2593.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Horizon Magique",
+      "url": "https://bleau.info/solitude/2587.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Appui du Pharmacien",
+      "url": "https://bleau.info/solitude/2627.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Écart-Type",
+      "url": "https://bleau.info/solitude/2620.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Dalle Lisse et sans Prise",
+      "url": "https://bleau.info/solitude/2725.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Fissure Diabolique",
+      "url": "https://bleau.info/solitude/2606.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée de l'Ankylose",
+      "url": "https://bleau.info/solitude/2622.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Grand Canyon",
+      "url": "https://bleau.info/solitude/2630.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Premier des Cinq",
+      "url": "https://bleau.info/solitude/2696.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Le Surplomb Impossible",
+      "url": "https://bleau.info/solitude/2718.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Malaise Naissant",
+      "url": "https://bleau.info/solitude/2603.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°24 bis Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/2612.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°5 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2697.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°8 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2701.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°8 ter Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2702.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°26 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2721.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Abduction",
+      "url": "https://bleau.info/solitude/2590.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Anthropoïde 2",
+      "url": "https://bleau.info/solitude/2614.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Anthropoïde 3",
+      "url": "https://bleau.info/solitude/2615.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cohésion",
+      "url": "https://bleau.info/solitude/2616.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Craquant comme des Biscottes",
+      "url": "https://bleau.info/solitude/301295.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dalle Divine",
+      "url": "https://bleau.info/solitude/2588.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Danse Concise",
+      "url": "https://bleau.info/solitude/2592.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Fessier",
+      "url": "https://bleau.info/solitude/304107.html",
+      "grade": "4",
+      "alt_grade": "5",
+      "first_ascensionist": "Barthélémy Schaar",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Hublot",
+      "url": "https://bleau.info/solitude/2609.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Pétulance Vibrante",
+      "url": "https://bleau.info/solitude/2599.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Philarski",
+      "url": "https://bleau.info/solitude/2604.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tarzan",
+      "url": "https://bleau.info/solitude/2595.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "dièdre"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Trou d'Abondance",
+      "url": "https://bleau.info/solitude/2610.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Vierge Antarctique",
+      "url": "https://bleau.info/solitude/2621.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zone Sensible",
+      "url": "https://bleau.info/solitude/2608.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°16 Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/2602.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°34 Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/2623.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°1 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2690.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°1 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2691.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "mur",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°6 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2698.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°16 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2710.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°18 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2712.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "- [n°21 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2715.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°27 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2723.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°28 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2724.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°30 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2727.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°15 ter Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/148592.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Déduction",
+      "url": "https://bleau.info/solitude/2589.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Enfantement",
+      "url": "https://bleau.info/solitude/2598.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Diagonale",
+      "url": "https://bleau.info/solitude/2716.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La JCV'Idées",
+      "url": "https://bleau.info/solitude/304392.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Libert Tine",
+      "url": "https://bleau.info/solitude/304261.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pilier de l'Anguleuse",
+      "url": "https://bleau.info/solitude/304219.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Libert †",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pébrock",
+      "url": "https://bleau.info/solitude/2626.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Symphonie Magique",
+      "url": "https://bleau.info/solitude/2625.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°19 Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/2605.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "mur"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "- [n°3 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2693.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°4 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2694.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°4 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2695.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°7 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2699.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "- [n°9 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2703.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°12 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2706.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°13 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2707.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°14 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2708.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°15 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2709.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "expo"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "- [n°22 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2717.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°15 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/270715.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "- [n°17 bis Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/19731.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "- [n°10 Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/311537.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Anthropoïde 1",
+      "url": "https://bleau.info/solitude/2613.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Clin d'Œil",
+      "url": "https://bleau.info/solitude/304221.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Cazeaux",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coconuts",
+      "url": "https://bleau.info/solitude/2628.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Angle du Ouf",
+      "url": "https://bleau.info/solitude/304348.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Lève-ta-Patte (droite)",
+      "url": "https://bleau.info/solitude/304213.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Pas Facile",
+      "url": "https://bleau.info/solitude/304343.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Champignon",
+      "url": "https://bleau.info/solitude/2713.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pile Liée",
+      "url": "https://bleau.info/solitude/304333.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Promenade Digeste",
+      "url": "https://bleau.info/solitude/2619.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Voyage, Voyage",
+      "url": "https://bleau.info/solitude/304299.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "- [n°14 Bleu baltique D+]",
+      "url": "https://bleau.info/solitude/2600.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°2 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2692.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°24 Fraise écrasée D+]",
+      "url": "https://bleau.info/solitude/2719.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "réta"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Abri Sot",
+      "url": "https://bleau.info/solitude/304253.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Bossue",
+      "url": "https://bleau.info/solitude/304338.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Lève-ta-Patte (gauche)",
+      "url": "https://bleau.info/solitude/304214.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Thirion",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Souriante",
+      "url": "https://bleau.info/solitude/304309.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Chapeau-Cloche",
+      "url": "https://bleau.info/solitude/304244.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Départ",
+      "url": "https://bleau.info/solitude/19734.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Alt 124",
+      "url": "https://bleau.info/solitude/304215.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dos d'Âne",
+      "url": "https://bleau.info/solitude/304289.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Frais'Âge",
+      "url": "https://bleau.info/solitude/304325.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'AD Rance",
+      "url": "https://bleau.info/solitude/304346.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'An Vieux",
+      "url": "https://bleau.info/solitude/304268.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Animal",
+      "url": "https://bleau.info/solitude/304278.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Effet Mur",
+      "url": "https://bleau.info/solitude/304307.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Envieux (en traversée)",
+      "url": "https://bleau.info/solitude/304270.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta",
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Balançoire",
+      "url": "https://bleau.info/solitude/304352.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Brioche de Gauche",
+      "url": "https://bleau.info/solitude/304336.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Diagonale du Ouf",
+      "url": "https://bleau.info/solitude/304349.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fuyante",
+      "url": "https://bleau.info/solitude/304351.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Taxi",
+      "url": "https://bleau.info/solitude/304217.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Buisson †",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Ouf",
+      "url": "https://bleau.info/solitude/304347.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pend'Âge",
+      "url": "https://bleau.info/solitude/304341.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Trist'Test",
+      "url": "https://bleau.info/solitude/304339.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Effet Mur de Droite",
+      "url": "https://bleau.info/solitude/304308.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Borgne",
+      "url": "https://bleau.info/solitude/304252.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Boulaie",
+      "url": "https://bleau.info/solitude/304344.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Brioche",
+      "url": "https://bleau.info/solitude/304335.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle du Borgne",
+      "url": "https://bleau.info/solitude/304277.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Goulotte du Pin",
+      "url": "https://bleau.info/solitude/304321.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Lézarde",
+      "url": "https://bleau.info/solitude/304225.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rando",
+      "url": "https://bleau.info/solitude/304326.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Sans l'Arbre",
+      "url": "https://bleau.info/solitude/304281.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Esse",
+      "url": "https://bleau.info/solitude/304287.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Requin",
+      "url": "https://bleau.info/solitude/304257.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Sourire du Plombier",
+      "url": "https://bleau.info/solitude/304310.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Des Sentes",
+      "url": "https://bleau.info/solitude/304332.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Anguleuse",
+      "url": "https://bleau.info/solitude/304218.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête du Requin",
+      "url": "https://bleau.info/solitude/304258.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Endormi",
+      "url": "https://bleau.info/solitude/304279.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Envieux",
+      "url": "https://bleau.info/solitude/304269.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Boule",
+      "url": "https://bleau.info/solitude/304345.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Décente",
+      "url": "https://bleau.info/solitude/304322.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Descente de Lit",
+      "url": "https://bleau.info/solitude/304259.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Poignée",
+      "url": "https://bleau.info/solitude/304226.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cas Veau",
+      "url": "https://bleau.info/solitude/304254.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur du Clin d'Œil",
+      "url": "https://bleau.info/solitude/304222.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Porte-à-Faux",
+      "url": "https://bleau.info/solitude/304227.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "fissure",
+        "dièdre"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rétaplat",
+      "url": "https://bleau.info/solitude/304271.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Apolitique",
+      "url": "https://bleau.info/solitude/304350.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Rince-Dalle",
+      "url": "https://bleau.info/solitude/304285.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Bacs",
+      "url": "https://bleau.info/solitude/304290.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mûre",
+      "url": "https://bleau.info/solitude/304337.html",
+      "grade": "2-",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Despente",
+      "url": "https://bleau.info/solitude/304342.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Facile",
+      "url": "https://bleau.info/solitude/304391.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "dalle",
+        "descente"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Vers le Bas",
+      "url": "https://bleau.info/solitude/304229.html",
+      "grade": "1+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "descente",
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

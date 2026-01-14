@@ -1,0 +1,491 @@
+{
+  "sector": "Rocher d'Avon Est",
+  "problems": [
+    {
+      "name": "Lame et Diane",
+      "url": "https://bleau.info/avonest/18562.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "aplats",
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Unis Vers Cythère",
+      "url": "https://bleau.info/avonest/18582.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Étreinte",
+      "url": "https://bleau.info/avonest/18566.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Presse t'Atterre",
+      "url": "https://bleau.info/avonest/18578.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Presse Pas Pieds",
+      "url": "https://bleau.info/avonest/18576.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Col Chic",
+      "url": "https://bleau.info/avonest/18561.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Presse t'Atterre (droite)",
+      "url": "https://bleau.info/avonest/18579.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Jet d'Eau de Diane",
+      "url": "https://bleau.info/avonest/14471.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Leela (assis)",
+      "url": "https://bleau.info/avonest/309043.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy Zwiebel",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chasse et Croisé",
+      "url": "https://bleau.info/avonest/18565.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Après Séance",
+      "url": "https://bleau.info/avonest/18583.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Danse avec Toit",
+      "url": "https://bleau.info/avonest/14467.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Chapeau de Diane",
+      "url": "https://bleau.info/avonest/14472.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Chasse-Peau (assis)",
+      "url": "https://bleau.info/avonest/300052.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Chasse-Peau",
+      "url": "https://bleau.info/avonest/18569.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Presse-Bouc",
+      "url": "https://bleau.info/avonest/18580.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Plein Soleil",
+      "url": "https://bleau.info/avonest/14468.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Arc à Diane (assis)",
+      "url": "https://bleau.info/avonest/312530.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Guillaume Mainbourg",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Arête du Chasse-Peau",
+      "url": "https://bleau.info/avonest/18570.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Leela",
+      "url": "https://bleau.info/avonest/309044.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Jimmy Zwiebel",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Appel du Pied",
+      "url": "https://bleau.info/avonest/14470.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Encore plus Court (assis)",
+      "url": "https://bleau.info/avonest/304143.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Gilles Cote Raide",
+      "url": "https://bleau.info/avonest/18912.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arc à Diane",
+      "url": "https://bleau.info/avonest/18571.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Mauvaise Pente",
+      "url": "https://bleau.info/avonest/14469.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Site Rond",
+      "url": "https://bleau.info/avonest/18581.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chasse à Court",
+      "url": "https://bleau.info/avonest/18574.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Traversée du Surplomb Jaune",
+      "url": "https://bleau.info/avonest/18914.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Bas Bleu",
+      "url": "https://bleau.info/avonest/18563.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Pressoir",
+      "url": "https://bleau.info/avonest/18577.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Surplomb Jaune",
+      "url": "https://bleau.info/avonest/18573.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pied d'Appel",
+      "url": "https://bleau.info/avonest/306557.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Edgar durand",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Mange Peau",
+      "url": "https://bleau.info/avonest/18567.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Claude Valluet",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Dièdre du Surplomb Jaune",
+      "url": "https://bleau.info/avonest/18572.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dièdre"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Masse-Peau",
+      "url": "https://bleau.info/avonest/18916.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Rondeurs de Diane",
+      "url": "https://bleau.info/avonest/18575.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Encore plus Court",
+      "url": "https://bleau.info/avonest/18917.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Flèche Bleue du Col",
+      "url": "https://bleau.info/avonest/22069.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Le Réta-Peau",
+      "url": "https://bleau.info/avonest/18568.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Angle",
+      "url": "https://bleau.info/avonest/18699.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Réta du Surplomb Jaune",
+      "url": "https://bleau.info/avonest/18913.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "- [n°D Bleu AD+]",
+      "url": "https://bleau.info/avonest/18709.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "sector": "Franchard Hautes Plaines",
+  "circuits": [
+    {
+      "name": "Jaune PD-",
+      "url": "https://bleau.info/plaines/circuit41.html",
+      "problems": [
+        {
+          "id": "D",
+          "url": "https://bleau.info/plaines/177553.html"
+        },
+        {
+          "id": "D bis",
+          "url": "https://bleau.info/plaines/126541.html"
+        },
+        {
+          "id": "1",
+          "url": "https://bleau.info/plaines/5212.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/plaines/5213.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/plaines/5214.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/plaines/5215.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/plaines/5216.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/plaines/5217.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/plaines/5218.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/plaines/5219.html"
+        },
+        {
+          "id": "7 ter",
+          "url": "https://bleau.info/plaines/163281.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/plaines/5220.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/plaines/5221.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/plaines/5222.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/plaines/5223.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/plaines/5224.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/plaines/5225.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/plaines/5226.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/plaines/5227.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/plaines/5228.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/plaines/5229.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/plaines/5230.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/plaines/5231.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/plaines/5232.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/plaines/5281.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/plaines/5276.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/plaines/5275.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/plaines/5277.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/plaines/5278.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/plaines/5279.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/plaines/5282.html"
+        }
+      ]
+    },
+    {
+      "name": "Jaune PD+",
+      "url": "https://bleau.info/plaines/circuit42.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/plaines/3062.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/plaines/3070.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/plaines/3068.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/plaines/3063.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/plaines/135444.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/plaines/142728.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/plaines/51170.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/plaines/83564.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/plaines/3071.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/plaines/3064.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/plaines/3072.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/plaines/3065.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/plaines/3073.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/plaines/3079.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/plaines/3076.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/plaines/3091.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/plaines/134162.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/plaines/3081.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/plaines/3080.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/plaines/297445.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/plaines/3083.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/plaines/3069.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/plaines/79448.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/plaines/3086.html"
+        },
+        {
+          "id": "19 bis",
+          "url": "https://bleau.info/plaines/177908.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/plaines/3087.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/plaines/126521.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/plaines/3088.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/plaines/3075.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/plaines/36705.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/plaines/291024.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/plaines/282578.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/plaines/293764.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/plaines/172406.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/plaines/132216.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/plaines/309603.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/plaines/214393.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/plaines/3078.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/plaines/62754.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/plaines/192274.html"
+        },
+        {
+          "id": "32 bis",
+          "url": "https://bleau.info/plaines/3084.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/plaines/circuit43.html",
+      "problems": [
+        {
+          "id": "D",
+          "url": "https://bleau.info/plaines/5233.html"
+        },
+        {
+          "id": "1",
+          "url": "https://bleau.info/plaines/5234.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/plaines/5235.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/plaines/5236.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/plaines/5238.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/plaines/309553.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/plaines/5239.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/plaines/5240.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/plaines/309551.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/plaines/309552.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/plaines/5241.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/plaines/5242.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/plaines/5243.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/plaines/5244.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/plaines/5245.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/plaines/5246.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/plaines/221472.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/plaines/5280.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/plaines/5251.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/plaines/5250.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/plaines/5248.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/plaines/5252.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/plaines/5247.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/plaines/5255.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/plaines/207400.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/plaines/309550.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/plaines/5254.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/plaines/5256.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/plaines/20151.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/plaines/5257.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/plaines/5258.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/plaines/5259.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/plaines/5260.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/plaines/314780.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/plaines/314781.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/plaines/5263.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/plaines/5264.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/plaines/5265.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/plaines/5266.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/plaines/5267.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/plaines/5268.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/plaines/5269.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/plaines/5270.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/plaines/5271.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/plaines/5272.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/plaines/5274.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/plaines/133704.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/plaines/197412.html"
+        }
+      ]
+    }
+  ]
+}

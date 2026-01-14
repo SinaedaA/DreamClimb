@@ -1,0 +1,893 @@
+{
+  "sector": "Puiselet Mont Sarrasin",
+  "circuits": [
+    {
+      "name": "Jaune PD",
+      "url": "https://bleau.info/sarrazin/circuit340.html",
+      "problems": [
+        {
+          "id": "D",
+          "url": "https://bleau.info/sarrazin/292790.html"
+        },
+        {
+          "id": "1",
+          "url": "https://bleau.info/sarrazin/176025.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/sarrazin/52397.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/sarrazin/243381.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/sarrazin/251895.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/sarrazin/259767.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/sarrazin/271936.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/sarrazin/228463.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/sarrazin/40523.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/sarrazin/291753.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/sarrazin/278046.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/sarrazin/96374.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/sarrazin/284819.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/sarrazin/288861.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/sarrazin/57704.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/sarrazin/147015.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/sarrazin/44492.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/sarrazin/123629.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/sarrazin/249467.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/sarrazin/232259.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/sarrazin/168057.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/sarrazin/240223.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/sarrazin/281331.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/sarrazin/222236.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/sarrazin/171574.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/sarrazin/165014.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/sarrazin/149366.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/sarrazin/201244.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/sarrazin/173597.html"
+        },
+        {
+          "id": "25 bis",
+          "url": "https://bleau.info/sarrazin/117798.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/sarrazin/245110.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/sarrazin/49451.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/sarrazin/129913.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/sarrazin/53204.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/sarrazin/234811.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/sarrazin/163720.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/sarrazin/270392.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/sarrazin/247674.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/sarrazin/214469.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/sarrazin/157884.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/sarrazin/70505.html"
+        },
+        {
+          "id": "36 bis",
+          "url": "https://bleau.info/sarrazin/37257.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/sarrazin/266693.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/sarrazin/138515.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/sarrazin/261054.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/sarrazin/71250.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/sarrazin/219675.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/sarrazin/119527.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/sarrazin/184672.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/sarrazin/145497.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/sarrazin/251887.html"
+        },
+        {
+          "id": "45 bis",
+          "url": "https://bleau.info/sarrazin/46918.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/sarrazin/190267.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/sarrazin/145092.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/sarrazin/162966.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/sarrazin/294143.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/sarrazin/181755.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/sarrazin/circuit261.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/sarrazin/19194.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/sarrazin/19195.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/sarrazin/19196.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/sarrazin/19197.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/sarrazin/19198.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/sarrazin/19199.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/sarrazin/19200.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/sarrazin/19201.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/sarrazin/19202.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/sarrazin/19204.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/sarrazin/12726.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/sarrazin/19205.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/sarrazin/19206.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/sarrazin/19207.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/sarrazin/19208.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/sarrazin/19209.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/sarrazin/12725.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/sarrazin/19210.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/sarrazin/19211.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/sarrazin/19212.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/sarrazin/19213.html"
+        },
+        {
+          "id": "15 bis",
+          "url": "https://bleau.info/sarrazin/12727.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/sarrazin/19214.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/sarrazin/19215.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/sarrazin/19216.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/sarrazin/12724.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/sarrazin/12728.html"
+        },
+        {
+          "id": "19 bis",
+          "url": "https://bleau.info/sarrazin/19250.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/sarrazin/19218.html"
+        },
+        {
+          "id": "20 bis",
+          "url": "https://bleau.info/sarrazin/12729.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/sarrazin/19219.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/sarrazin/19220.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/sarrazin/12765.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/sarrazin/19222.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/sarrazin/19223.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/sarrazin/19224.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/sarrazin/19225.html"
+        },
+        {
+          "id": "27 bis",
+          "url": "https://bleau.info/sarrazin/12721.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/sarrazin/19226.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/sarrazin/19227.html"
+        },
+        {
+          "id": "28 ter",
+          "url": "https://bleau.info/sarrazin/19228.html"
+        },
+        {
+          "id": "28 quat",
+          "url": "https://bleau.info/sarrazin/19229.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/sarrazin/19230.html"
+        },
+        {
+          "id": "29 bis",
+          "url": "https://bleau.info/sarrazin/19231.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/sarrazin/19232.html"
+        },
+        {
+          "id": "30 bis",
+          "url": "https://bleau.info/sarrazin/19233.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/sarrazin/19234.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/sarrazin/19235.html"
+        },
+        {
+          "id": "32 bis",
+          "url": "https://bleau.info/sarrazin/12732.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/sarrazin/19237.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/sarrazin/19238.html"
+        },
+        {
+          "id": "34 bis",
+          "url": "https://bleau.info/sarrazin/12734.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/sarrazin/19239.html"
+        },
+        {
+          "id": "35 bis",
+          "url": "https://bleau.info/sarrazin/12735.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/sarrazin/19240.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/sarrazin/12717.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/sarrazin/19241.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/sarrazin/19242.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/sarrazin/19243.html"
+        },
+        {
+          "id": "40 bis",
+          "url": "https://bleau.info/sarrazin/12718.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/sarrazin/19244.html"
+        },
+        {
+          "id": "41 bis",
+          "url": "https://bleau.info/sarrazin/19245.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/sarrazin/19246.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/sarrazin/12719.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/sarrazin/19247.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/sarrazin/19248.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/sarrazin/19249.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/sarrazin/12733.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/sarrazin/12731.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D",
+      "url": "https://bleau.info/sarrazin/circuit262.html",
+      "problems": [
+        {
+          "id": "D",
+          "url": "https://bleau.info/sarrazin/314535.html"
+        },
+        {
+          "id": "1",
+          "url": "https://bleau.info/sarrazin/302164.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/sarrazin/314537.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/sarrazin/302165.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/sarrazin/300349.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/sarrazin/302166.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/sarrazin/302167.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/sarrazin/310292.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/sarrazin/302168.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/sarrazin/19217.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/sarrazin/302169.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/sarrazin/302170.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/sarrazin/302171.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/sarrazin/12762.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/sarrazin/314648.html"
+        },
+        {
+          "id": "9 ter",
+          "url": "https://bleau.info/sarrazin/314649.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/sarrazin/302172.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/sarrazin/12763.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/sarrazin/12747.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/sarrazin/12746.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/sarrazin/12736.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/sarrazin/302174.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/sarrazin/16067.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/sarrazin/302175.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/sarrazin/12741.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/sarrazin/12740.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/sarrazin/302200.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/sarrazin/302176.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/sarrazin/12738.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/sarrazin/302177.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/sarrazin/302178.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/sarrazin/302179.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/sarrazin/302180.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/sarrazin/302182.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/sarrazin/302183.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/sarrazin/302184.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/sarrazin/302185.html"
+        },
+        {
+          "id": "23 ter",
+          "url": "https://bleau.info/sarrazin/302186.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/sarrazin/302187.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/sarrazin/302188.html"
+        },
+        {
+          "id": "25 bis",
+          "url": "https://bleau.info/sarrazin/302189.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/sarrazin/302190.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/sarrazin/314337.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/sarrazin/302192.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/sarrazin/302193.html"
+        },
+        {
+          "id": "29 bis",
+          "url": "https://bleau.info/sarrazin/300569.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/sarrazin/302194.html"
+        },
+        {
+          "id": "30 bis",
+          "url": "https://bleau.info/sarrazin/302195.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/sarrazin/314336.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/sarrazin/314335.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/sarrazin/302196.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/sarrazin/302197.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/sarrazin/12770.html"
+        },
+        {
+          "id": "35 bis",
+          "url": "https://bleau.info/sarrazin/12771.html"
+        }
+      ]
+    },
+    {
+      "name": "Noir TD+",
+      "url": "https://bleau.info/sarrazin/circuit263.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/sarrazin/12772.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/sarrazin/12773.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/sarrazin/12774.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/sarrazin/12805.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/sarrazin/12775.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/sarrazin/12806.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/sarrazin/12776.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/sarrazin/12777.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/sarrazin/12778.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/sarrazin/12779.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/sarrazin/12780.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/sarrazin/12781.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/sarrazin/12782.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/sarrazin/12807.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/sarrazin/12783.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/sarrazin/12784.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/sarrazin/12785.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/sarrazin/12786.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/sarrazin/12787.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/sarrazin/12788.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/sarrazin/12789.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/sarrazin/12790.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/sarrazin/12791.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/sarrazin/12792.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/sarrazin/12793.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/sarrazin/12794.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/sarrazin/12795.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/sarrazin/12796.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/sarrazin/12797.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/sarrazin/12798.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/sarrazin/12799.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/sarrazin/12800.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/sarrazin/12801.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/sarrazin/12802.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/sarrazin/12803.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/sarrazin/12804.html"
+        }
+      ]
+    }
+  ]
+}

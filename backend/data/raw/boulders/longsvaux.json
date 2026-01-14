@@ -1,0 +1,918 @@
+{
+  "sector": "Coquibus Longs Vaux (RBs)",
+  "problems": [
+    {
+      "name": "Satan i Helvete (assis)",
+      "url": "https://bleau.info/longsvaux/9675.html",
+      "grade": null,
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "départ assis",
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Angama (Fata i Helvete en traversée)",
+      "url": "https://bleau.info/longsvaux/11919.html",
+      "grade": "8c",
+      "alt_grade": null,
+      "first_ascensionist": "Daï Koyamada",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Satan i Helvete  (départ bas)",
+      "url": "https://bleau.info/longsvaux/305778.html",
+      "grade": "8b+",
+      "alt_grade": "8c",
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Fata i Helvete",
+      "url": "https://bleau.info/longsvaux/9595.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Daï Koyamada",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Fata Morgana (assis)",
+      "url": "https://bleau.info/longsvaux/9674.html",
+      "grade": "8b",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "départ assis",
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Satan i Helvete",
+      "url": "https://bleau.info/longsvaux/2236.html",
+      "grade": "8b",
+      "alt_grade": "8b+",
+      "first_ascensionist": "David Graham",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Fata Morgana (départ bas)",
+      "url": "https://bleau.info/longsvaux/9594.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Daï Koyamada",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Adréna Line (direct)",
+      "url": "https://bleau.info/longsvaux/20545.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "jeté",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Belle de Nuit",
+      "url": "https://bleau.info/longsvaux/13640.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Thomas",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fata Morgana",
+      "url": "https://bleau.info/longsvaux/1499.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À Préhension",
+      "url": "https://bleau.info/longsvaux/1377.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Jour",
+      "url": "https://bleau.info/longsvaux/1378.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "toit"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Jour et la Nuit",
+      "url": "https://bleau.info/longsvaux/12003.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Los Banditos",
+      "url": "https://bleau.info/longsvaux/2237.html",
+      "grade": "7c+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Sébastien Frigault, Julien Nadiras, Olivier Lebreton",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Belle de Jour",
+      "url": "https://bleau.info/longsvaux/1380.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Nuit",
+      "url": "https://bleau.info/longsvaux/1379.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Phobos Moon",
+      "url": "https://bleau.info/longsvaux/2360.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Kees Mak",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longsvaux/1384.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Compression",
+      "url": "https://bleau.info/longsvaux/1746.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Nadiras",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Jour d'Hiver",
+      "url": "https://bleau.info/longsvaux/13639.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Cordilière des Andes",
+      "url": "https://bleau.info/longsvaux/20541.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Long Jour de Mouillard",
+      "url": "https://bleau.info/longsvaux/12145.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "traversée d-g",
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bande de Chiffes Molles (direct)",
+      "url": "https://bleau.info/longsvaux/20540.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Laurent Vigouroux, Cédric Chatagnon",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "e-Ball",
+      "url": "https://bleau.info/longsvaux/20537.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "dièdre",
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Jour de Mouillard",
+      "url": "https://bleau.info/longsvaux/12147.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Croc",
+      "url": "https://bleau.info/longsvaux/12024.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Spookybus",
+      "url": "https://bleau.info/longsvaux/110536.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Bruno de Meyer",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tonnerre de Brest",
+      "url": "https://bleau.info/longsvaux/1375.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "fissure",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longsvaux/1383.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "arête",
+        "départ assis",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bande de Chiffes Molles",
+      "url": "https://bleau.info/longsvaux/20544.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau, François-Xavier Joubert, Cédric Chatagnon",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Boumfer",
+      "url": "https://bleau.info/longsvaux/20804.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Andrej Bolán",
+      "styles": [
+        "surplomb",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Compression (gauche)",
+      "url": "https://bleau.info/longsvaux/21494.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pierre Délas",
+      "styles": [
+        "surplomb",
+        "aplats",
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Doris",
+      "url": "https://bleau.info/longsvaux/20533.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Neil Hart, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "toit",
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fourmiz",
+      "url": "https://bleau.info/longsvaux/1376.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "inversées"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Holé",
+      "url": "https://bleau.info/longsvaux/1381.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Christian Roumégoux",
+      "styles": [
+        "surplomb",
+        "jeté",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Diktat du Hamac",
+      "url": "https://bleau.info/longsvaux/8997.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis",
+        "toit",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Paumes d'Amour",
+      "url": "https://bleau.info/longsvaux/308298.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Pente Douce",
+      "url": "https://bleau.info/longsvaux/1385.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Zone Crépusculaire",
+      "url": "https://bleau.info/longsvaux/20530.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau, Laurent Vigouroux, Cédric Chatagnon",
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "À Vaux l'Eau",
+      "url": "https://bleau.info/longsvaux/20538.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Décompression",
+      "url": "https://bleau.info/longsvaux/20280.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Déimos",
+      "url": "https://bleau.info/longsvaux/9686.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Descends ta Mère",
+      "url": "https://bleau.info/longsvaux/8999.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée d-g",
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Épaule et Jeté",
+      "url": "https://bleau.info/longsvaux/1500.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "jeté",
+        "surplomb",
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "i-Ball",
+      "url": "https://bleau.info/longsvaux/20536.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "dalle",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Je le Vaux Bien",
+      "url": "https://bleau.info/longsvaux/9677.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Balade de Nemo",
+      "url": "https://bleau.info/longsvaux/20532.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Prétention",
+      "url": "https://bleau.info/longsvaux/247631.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Etienne Beauchataud, Félix Cosserat",
+      "styles": [
+        "toit",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Assis",
+      "url": "https://bleau.info/longsvaux/1382.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "surplomb",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Psychotrope",
+      "url": "https://bleau.info/longsvaux/11505.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Jérôme Chaput",
+      "styles": [
+        "mur",
+        "dévers",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Quand Vous Voulez pour le Test",
+      "url": "https://bleau.info/longsvaux/20542.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau, François-Xavier Joubert, Laurent Vigouroux",
+      "styles": [
+        "dalle",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sunset Arête (assis)",
+      "url": "https://bleau.info/longsvaux/281921.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tension Inversée",
+      "url": "https://bleau.info/longsvaux/9000.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Moule à Gaufres",
+      "url": "https://bleau.info/longsvaux/9687.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Travers de Porc",
+      "url": "https://bleau.info/longsvaux/8996.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Adréna Line",
+      "url": "https://bleau.info/longsvaux/20543.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Almost There",
+      "url": "https://bleau.info/longsvaux/152621.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête de Phobos Moon",
+      "url": "https://bleau.info/longsvaux/8446.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "mur",
+        "fissure",
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Arête du Container",
+      "url": "https://bleau.info/longsvaux/305967.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Bout du Gland",
+      "url": "https://bleau.info/longsvaux/20535.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Cédric Chatagnon, François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Sunset Arête",
+      "url": "https://bleau.info/longsvaux/226457.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longsvaux/9688.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Allayaud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "À Préhension (gauche)",
+      "url": "https://bleau.info/longsvaux/308044.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "nicolas vantorre, Bruno de Meyer, Frederik De Backker",
+      "styles": [
+        "traversée",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Mur de la Cordilière des Andes",
+      "url": "https://bleau.info/longsvaux/20539.html",
+      "grade": "6b+",
+      "alt_grade": "6c+",
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau, Laurent Vigouroux",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Poisson Clown",
+      "url": "https://bleau.info/longsvaux/20531.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Neil Hart, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rico",
+      "url": "https://bleau.info/longsvaux/229368.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête du Container (gauche)",
+      "url": "https://bleau.info/longsvaux/305968.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Grande Crémaillère",
+      "url": "https://bleau.info/longsvaux/20436.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Dièdre Fou",
+      "url": "https://bleau.info/longsvaux/20437.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dièdre"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Poisson Chirurgien",
+      "url": "https://bleau.info/longsvaux/20529.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Neil Hart, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Réta du Hamac",
+      "url": "https://bleau.info/longsvaux/8998.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "P'tit Dévers",
+      "url": "https://bleau.info/longsvaux/9689.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Denis",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/longsvaux/8995.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Almost Almost There",
+      "url": "https://bleau.info/longsvaux/304512.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Gâche",
+      "url": "https://bleau.info/longsvaux/140312.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Crémaillère",
+      "url": "https://bleau.info/longsvaux/20438.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "sector": "Apremont Désert",
+  "circuits": [
+    {
+      "name": "Jaune PD+",
+      "url": "https://bleau.info/desert/circuit26.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/desert/2749.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/desert/306977.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/desert/306979.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/desert/175961.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/desert/192041.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/desert/187740.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/desert/2751.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/desert/110854.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/desert/171162.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/desert/34547.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/desert/57151.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/desert/156614.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/desert/2770.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/desert/35773.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/desert/159607.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/desert/108064.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/desert/306980.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/desert/59070.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/desert/186611.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/desert/2756.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/desert/179383.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/desert/308807.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/desert/2758.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/desert/195531.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/desert/2759.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/desert/2761.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/desert/2762.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/desert/186082.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/desert/152669.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/desert/2752.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD",
+      "url": "https://bleau.info/desert/circuit28.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/desert/4862.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/desert/310917.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/desert/4863.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/desert/307099.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/desert/4864.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/desert/4865.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/desert/4866.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/desert/4867.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/desert/310925.html"
+        },
+        {
+          "id": "7 bis",
+          "url": "https://bleau.info/desert/4868.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/desert/4869.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/desert/4870.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/desert/310926.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/desert/4872.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/desert/4873.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/desert/4874.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/desert/4875.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/desert/4876.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/desert/4877.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/desert/4878.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/desert/310927.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/desert/4879.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/desert/310928.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/desert/4880.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/desert/4881.html"
+        },
+        {
+          "id": "18 ter",
+          "url": "https://bleau.info/desert/310929.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/desert/4882.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/desert/4883.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/desert/4884.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/desert/4885.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/desert/310930.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/desert/4886.html"
+        },
+        {
+          "id": "22 ter",
+          "url": "https://bleau.info/desert/310931.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/desert/4887.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/desert/310939.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/desert/4888.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/desert/310941.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/desert/4890.html"
+        },
+        {
+          "id": "25 bis",
+          "url": "https://bleau.info/desert/310915.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/desert/4891.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/desert/4892.html"
+        },
+        {
+          "id": "26 ter",
+          "url": "https://bleau.info/desert/310944.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/desert/4893.html"
+        },
+        {
+          "id": "27 bis",
+          "url": "https://bleau.info/desert/310942.html"
+        },
+        {
+          "id": "27 ter",
+          "url": "https://bleau.info/desert/310943.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/desert/4894.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/desert/4895.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/desert/4896.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/desert/4897.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/desert/4898.html"
+        },
+        {
+          "id": "32 bis",
+          "url": "https://bleau.info/desert/4899.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/desert/4900.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/desert/4901.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/desert/4902.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/desert/circuit349.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/desert/2737.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/desert/306978.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/desert/307047.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/desert/2736.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/desert/307049.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/desert/2768.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/desert/2769.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/desert/308214.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/desert/237232.html"
+        },
+        {
+          "id": "8 bis",
+          "url": "https://bleau.info/desert/2750.html"
+        },
+        {
+          "id": "8 ter",
+          "url": "https://bleau.info/desert/137380.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/desert/110199.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/desert/37759.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/desert/281963.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/desert/2739.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/desert/228439.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/desert/45106.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/desert/2753.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/desert/68173.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/desert/2741.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/desert/99922.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/desert/204615.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/desert/2757.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/desert/2766.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/desert/241683.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/desert/17396.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/desert/2764.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/desert/42211.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/desert/134982.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/desert/246774.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/desert/308211.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/desert/83162.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/desert/270787.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/desert/59526.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/desert/2743.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/desert/201374.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/desert/circuit30.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/desert/4934.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/desert/4935.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/desert/4936.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/desert/4937.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/desert/4938.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/desert/4939.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/desert/4940.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/desert/4941.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/desert/4942.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/desert/4943.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/desert/4944.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/desert/4945.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/desert/4946.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/desert/4947.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/desert/4948.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/desert/4949.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/desert/310945.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/desert/4950.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/desert/4951.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/desert/4952.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/desert/4953.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/desert/4954.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/desert/4955.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/desert/4956.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/desert/4957.html"
+        },
+        {
+          "id": "20 bis",
+          "url": "https://bleau.info/desert/4958.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/desert/4959.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/desert/4960.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/desert/4961.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/desert/4962.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/desert/4963.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/desert/4964.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/desert/4965.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/desert/4966.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/desert/4967.html"
+        }
+      ]
+    }
+  ]
+}

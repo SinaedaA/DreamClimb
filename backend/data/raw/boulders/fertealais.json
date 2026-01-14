@@ -1,0 +1,94 @@
+{
+  "sector": "La Ferté-Alais",
+  "problems": [
+    {
+      "name": "Prometheus (assis)",
+      "url": "https://bleau.info/fertealais/302860.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "pilier",
+        "départ assis",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Troisième Œil",
+      "url": "https://bleau.info/fertealais/309120.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "Ménœtios (assis)",
+      "url": "https://bleau.info/fertealais/305143.html",
+      "grade": "7b",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Prometheus",
+      "url": "https://bleau.info/fertealais/302227.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "trous",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/fertealais/2228.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ménœtios",
+      "url": "https://bleau.info/fertealais/305141.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "mur",
+        "réglettes",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Xénomorphe",
+      "url": "https://bleau.info/fertealais/302232.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "expo"
+      ],
+      "rating": 4.0
+    }
+  ]
+}

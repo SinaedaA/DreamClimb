@@ -1,0 +1,589 @@
+{
+  "sector": "Gorge aux Merisiers",
+  "problems": [
+    {
+      "name": "Les Plats Tannent",
+      "url": "https://bleau.info/merisiers/13729.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Multiplication des Pains (rallongé)",
+      "url": "https://bleau.info/merisiers/308337.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Version d'Écorce",
+      "url": "https://bleau.info/merisiers/13730.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Multiplication des Pains",
+      "url": "https://bleau.info/merisiers/13733.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray,",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tiendra le Temps de... (droite)",
+      "url": "https://bleau.info/merisiers/308343.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Un peu Plié",
+      "url": "https://bleau.info/merisiers/13728.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Version d'Écorce (retour)",
+      "url": "https://bleau.info/merisiers/308340.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Carriériste",
+      "url": "https://bleau.info/merisiers/308341.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Aigle Entier",
+      "url": "https://bleau.info/merisiers/13746.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cyprès du But",
+      "url": "https://bleau.info/merisiers/13743.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Essence Ordinaire",
+      "url": "https://bleau.info/merisiers/13720.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Six Clopes",
+      "url": "https://bleau.info/merisiers/308339.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tilleul-Menthe (en traversée)",
+      "url": "https://bleau.info/merisiers/308338.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arbre à Pains",
+      "url": "https://bleau.info/merisiers/13731.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Cyclo-Tronc",
+      "url": "https://bleau.info/merisiers/13744.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tiendra le Temps de...",
+      "url": "https://bleau.info/merisiers/308342.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tilleul-Menthe",
+      "url": "https://bleau.info/merisiers/13732.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray, Jean-Hervé Baudot",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Trictrac",
+      "url": "https://bleau.info/merisiers/24630.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Hêtre et le Fainéant",
+      "url": "https://bleau.info/merisiers/13736.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Orme des Cavernes",
+      "url": "https://bleau.info/merisiers/13741.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jet de Poids",
+      "url": "https://bleau.info/merisiers/308582.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "jeté",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Mendiée",
+      "url": "https://bleau.info/merisiers/13738.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Moultezim",
+      "url": "https://bleau.info/merisiers/302753.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Saule Haut",
+      "url": "https://bleau.info/merisiers/13724.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Boule au Noir",
+      "url": "https://bleau.info/merisiers/13719.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Change de Chêne!",
+      "url": "https://bleau.info/merisiers/13739.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Dutour sent le Sapin",
+      "url": "https://bleau.info/merisiers/13726.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Frêne au Logis",
+      "url": "https://bleau.info/merisiers/13721.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Abri Côté",
+      "url": "https://bleau.info/merisiers/13742.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Charme Fou",
+      "url": "https://bleau.info/merisiers/13735.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pin Total",
+      "url": "https://bleau.info/merisiers/13723.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pêcher Mignon",
+      "url": "https://bleau.info/merisiers/13737.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Hoopke",
+      "url": "https://bleau.info/merisiers/302273.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "arne libert, Ben vdc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L’Arête des Carriers",
+      "url": "https://bleau.info/merisiers/308874.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Clément Marche",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mélèze Majesté",
+      "url": "https://bleau.info/merisiers/13725.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Noyer son Chagrin",
+      "url": "https://bleau.info/merisiers/13734.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sauvage et Bleau",
+      "url": "https://bleau.info/merisiers/19307.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gêné, Vrillé",
+      "url": "https://bleau.info/merisiers/13727.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Houx Vert du Bas",
+      "url": "https://bleau.info/merisiers/13718.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Poids Statique",
+      "url": "https://bleau.info/merisiers/308876.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Clément Marche",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Château d'If",
+      "url": "https://bleau.info/merisiers/13745.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pommier",
+      "url": "https://bleau.info/merisiers/19305.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Frêne Éthique",
+      "url": "https://bleau.info/merisiers/19308.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Trou des Carriers",
+      "url": "https://bleau.info/merisiers/308875.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Clément Marche",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Limite 2 Aunes",
+      "url": "https://bleau.info/merisiers/13722.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sylvestre Mérite un Pain",
+      "url": "https://bleau.info/merisiers/13740.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aulne Niyou",
+      "url": "https://bleau.info/merisiers/19306.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Est-ce Poire?",
+      "url": "https://bleau.info/merisiers/19304.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Poire en Trois",
+      "url": "https://bleau.info/merisiers/19303.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

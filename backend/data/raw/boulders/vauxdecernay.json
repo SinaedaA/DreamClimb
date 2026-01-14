@@ -1,0 +1,516 @@
+{
+  "sector": "Les Vaux de Cernay",
+  "problems": [
+    {
+      "name": "Les Triceps",
+      "url": "https://bleau.info/vauxdecernay/10959.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "L'Exil",
+      "url": "https://bleau.info/vauxdecernay/10997.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "T'es Fou Pascal",
+      "url": "https://bleau.info/vauxdecernay/10992.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Mâchoire",
+      "url": "https://bleau.info/vauxdecernay/10996.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Voie des Nomades",
+      "url": "https://bleau.info/vauxdecernay/10990.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vite le Topo Sort",
+      "url": "https://bleau.info/vauxdecernay/10976.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée du Lichen",
+      "url": "https://bleau.info/vauxdecernay/10974.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Bon Gratton",
+      "url": "https://bleau.info/vauxdecernay/10991.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Surplomb du Ventre",
+      "url": "https://bleau.info/vauxdecernay/10956.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Vaux",
+      "url": "https://bleau.info/vauxdecernay/10993.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Soul River",
+      "url": "https://bleau.info/vauxdecernay/10964.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Directe (à gauche)",
+      "url": "https://bleau.info/vauxdecernay/10955.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Inversée",
+      "url": "https://bleau.info/vauxdecernay/10979.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Dalle de l'Angle",
+      "url": "https://bleau.info/vauxdecernay/10980.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Trou Sauveur",
+      "url": "https://bleau.info/vauxdecernay/10977.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Les Biscotos",
+      "url": "https://bleau.info/vauxdecernay/10958.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée du Grand Pas",
+      "url": "https://bleau.info/vauxdecernay/10975.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Mur au Trou",
+      "url": "https://bleau.info/vauxdecernay/10954.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Réta",
+      "url": "https://bleau.info/vauxdecernay/10978.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Trapéziste",
+      "url": "https://bleau.info/vauxdecernay/10957.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Les Grattons d'Évelyne",
+      "url": "https://bleau.info/vauxdecernay/10999.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rascalounet",
+      "url": "https://bleau.info/vauxdecernay/10982.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bocianomania",
+      "url": "https://bleau.info/vauxdecernay/10983.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Tempête",
+      "url": "https://bleau.info/vauxdecernay/10969.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Traversée des Enfants",
+      "url": "https://bleau.info/vauxdecernay/10988.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Dinosaure",
+      "url": "https://bleau.info/vauxdecernay/10960.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée",
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Boutx",
+      "url": "https://bleau.info/vauxdecernay/10967.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Esperanza",
+      "url": "https://bleau.info/vauxdecernay/10971.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Ancien Jaune",
+      "url": "https://bleau.info/vauxdecernay/10987.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Appui-Main",
+      "url": "https://bleau.info/vauxdecernay/10973.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Arêté Préfectoral",
+      "url": "https://bleau.info/vauxdecernay/10970.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Éperon",
+      "url": "https://bleau.info/vauxdecernay/10965.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Ergot",
+      "url": "https://bleau.info/vauxdecernay/10962.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Dalle aux Moines",
+      "url": "https://bleau.info/vauxdecernay/10998.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle du CD 78",
+      "url": "https://bleau.info/vauxdecernay/10981.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de l'Abbaye",
+      "url": "https://bleau.info/vauxdecernay/10994.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée des Nains",
+      "url": "https://bleau.info/vauxdecernay/10961.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": 1.0
+    },
+    {
+      "name": "La Traversée du Six",
+      "url": "https://bleau.info/vauxdecernay/10985.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Mur Vert",
+      "url": "https://bleau.info/vauxdecernay/10986.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Retour",
+      "url": "https://bleau.info/vauxdecernay/10966.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Triangle",
+      "url": "https://bleau.info/vauxdecernay/10989.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Réglettes",
+      "url": "https://bleau.info/vauxdecernay/10968.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Natacha et Doudou",
+      "url": "https://bleau.info/vauxdecernay/10984.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sader",
+      "url": "https://bleau.info/vauxdecernay/10963.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "La Lèvre Supérieure",
+      "url": "https://bleau.info/vauxdecernay/10995.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Muret",
+      "url": "https://bleau.info/vauxdecernay/10972.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 1.0
+    }
+  ]
+}

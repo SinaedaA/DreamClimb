@@ -1,0 +1,304 @@
+{
+  "sector": "Rocher de la Reine Nord",
+  "problems": [
+    {
+      "name": "Blackline",
+      "url": "https://bleau.info/cretenord/22143.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "réglettes",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Diable Rouge",
+      "url": "https://bleau.info/cretenord/20651.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Arnaud Ceintre",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Filigrane",
+      "url": "https://bleau.info/cretenord/20653.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "dévers"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Hotline",
+      "url": "https://bleau.info/cretenord/1436.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Nadiras",
+      "styles": [
+        "mur",
+        "arête",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Boulange des Bois Dégaine",
+      "url": "https://bleau.info/cretenord/21100.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Yann Leboulanger",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Comme un Animal (assis)",
+      "url": "https://bleau.info/cretenord/19182.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pierroskinov",
+      "url": "https://bleau.info/cretenord/21098.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Pierro Desbois",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Allô la Terre",
+      "url": "https://bleau.info/cretenord/20648.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pied Caché",
+      "url": "https://bleau.info/cretenord/8451.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat, Eric Lucas",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Vive le Gris (assis)",
+      "url": "https://bleau.info/cretenord/301811.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Allô la Terre, ça Baigne",
+      "url": "https://bleau.info/cretenord/20650.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Comme un Animal",
+      "url": "https://bleau.info/cretenord/8473.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Stéphane Brette",
+      "styles": [
+        "proue",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Plouf à l'Eau (retour-aller)",
+      "url": "https://bleau.info/cretenord/20652.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée",
+        "toit",
+        "expo"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "String Paradise",
+      "url": "https://bleau.info/cretenord/2138.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dalle",
+        "arête",
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Vive le Gris",
+      "url": "https://bleau.info/cretenord/301810.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Angelo Mulas, Laurent Darlot",
+      "styles": [
+        "mur",
+        "inversées",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Soleil Noir",
+      "url": "https://bleau.info/cretenord/1687.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Eric Lucas, Guy Loppé",
+      "styles": [
+        "dalle",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Chip Monks",
+      "url": "https://bleau.info/cretenord/20693.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Katrin Lehmann",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Jeu Jump",
+      "url": "https://bleau.info/cretenord/21099.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "String Paradise (gauche)",
+      "url": "https://bleau.info/cretenord/300225.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dalle",
+        "arête",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lhasa (assis)",
+      "url": "https://bleau.info/cretenord/20695.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Scott Noy",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plouf à l'Eau",
+      "url": "https://bleau.info/cretenord/20649.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Thong Paradise",
+      "url": "https://bleau.info/cretenord/2133.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Lucas",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lhasa",
+      "url": "https://bleau.info/cretenord/20694.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Scott Noy",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Yak Milk Tea",
+      "url": "https://bleau.info/cretenord/20696.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Scott Noy",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    }
+  ]
+}

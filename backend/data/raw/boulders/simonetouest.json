@@ -1,0 +1,690 @@
+{
+  "sector": "Mont Simonet Ouest",
+  "problems": [
+    {
+      "name": "La Proue Mystérieuse (assis)",
+      "url": "https://bleau.info/simonetouest/311113.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Globe-Trotter (retour-aller)",
+      "url": "https://bleau.info/simonetouest/305018.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Catherine Miquel",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Globe-Trotter (retour)",
+      "url": "https://bleau.info/simonetouest/304895.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Proue Mystérieuse",
+      "url": "https://bleau.info/simonetouest/24902.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Globe-Trotter",
+      "url": "https://bleau.info/simonetouest/304894.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Ridules (gauche)",
+      "url": "https://bleau.info/simonetouest/312131.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Requin Blanc (direct assis)",
+      "url": "https://bleau.info/simonetouest/21108.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, François-Xavier Joubert",
+      "styles": [
+        "arête",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Ridules",
+      "url": "https://bleau.info/simonetouest/304523.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "A Cant'a Me",
+      "url": "https://bleau.info/simonetouest/305763.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "arête",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Requin Blanc (assis)",
+      "url": "https://bleau.info/simonetouest/19858.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "C. Pas 7a",
+      "styles": [
+        "arête",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tout à l'Honneur (assis)",
+      "url": "https://bleau.info/simonetouest/304892.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Roussette (assis)",
+      "url": "https://bleau.info/simonetouest/19857.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "C. Pas 7a",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Mur Malin",
+      "url": "https://bleau.info/simonetouest/300422.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "pilier"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Mur Malin (assis)",
+      "url": "https://bleau.info/simonetouest/305091.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Life’s Line (assis)",
+      "url": "https://bleau.info/simonetouest/305116.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Lifting (assis)",
+      "url": "https://bleau.info/simonetouest/304909.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "À la Diète! (en traversée)",
+      "url": "https://bleau.info/simonetouest/304906.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée d-g",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Faut qu'ça Sphaigne!",
+      "url": "https://bleau.info/simonetouest/24901.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Théotime Pardon",
+      "styles": [
+        "arête",
+        "dalle",
+        "expo"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Kilo en Trop (en traversée)",
+      "url": "https://bleau.info/simonetouest/304992.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Alter Ego de Mich' (assis)",
+      "url": "https://bleau.info/simonetouest/304428.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Roussette",
+      "url": "https://bleau.info/simonetouest/19537.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "dévers",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Requin Blanc",
+      "url": "https://bleau.info/simonetouest/2254.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Lifdules",
+      "url": "https://bleau.info/simonetouest/305092.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "David Evrard, Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Life’s Line",
+      "url": "https://bleau.info/simonetouest/304897.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Machin Trucmuche",
+      "url": "https://bleau.info/simonetouest/21166.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Période de Jeûne",
+      "url": "https://bleau.info/simonetouest/304950.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Prise de Comprimé (assis)",
+      "url": "https://bleau.info/simonetouest/21164.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "proue",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Reckless (gauche assis)",
+      "url": "https://bleau.info/simonetouest/304908.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Filip Notebaert, Laurent Darlot",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Régime Sec",
+      "url": "https://bleau.info/simonetouest/304899.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Simonette",
+      "url": "https://bleau.info/simonetouest/300419.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Tout à l'Honneur",
+      "url": "https://bleau.info/simonetouest/304884.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bidule (gauche)",
+      "url": "https://bleau.info/simonetouest/8989.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Kilo en Trop",
+      "url": "https://bleau.info/simonetouest/304898.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pansu (assis)",
+      "url": "https://bleau.info/simonetouest/304888.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pensif",
+      "url": "https://bleau.info/simonetouest/304904.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "yann kispredilov",
+      "styles": [
+        "mur",
+        "jeté",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Reckless (assis)",
+      "url": "https://bleau.info/simonetouest/304893.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Attention à la Marche (assis)",
+      "url": "https://bleau.info/simonetouest/303296.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Bidule",
+      "url": "https://bleau.info/simonetouest/19500.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "En Avant",
+      "url": "https://bleau.info/simonetouest/305117.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Laurent Darlot, Stéphan Denys",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Alter Ego de Mich'",
+      "url": "https://bleau.info/simonetouest/304427.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "arête",
+        "proue",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Reckless (gauche)",
+      "url": "https://bleau.info/simonetouest/304890.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "À la Diète!",
+      "url": "https://bleau.info/simonetouest/304905.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Attention à la Marche",
+      "url": "https://bleau.info/simonetouest/303295.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Vasseur",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lifting",
+      "url": "https://bleau.info/simonetouest/304907.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Prise de Comprimé",
+      "url": "https://bleau.info/simonetouest/21165.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Thierry Vasseur, Eric Jarkoff †",
+      "styles": [
+        "proue",
+        "arête",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ventripotent",
+      "url": "https://bleau.info/simonetouest/304951.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Reckless",
+      "url": "https://bleau.info/simonetouest/304891.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Pince mon Sphaigneur",
+      "url": "https://bleau.info/simonetouest/304581.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Pansu",
+      "url": "https://bleau.info/simonetouest/304887.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pilier Mystérieux",
+      "url": "https://bleau.info/simonetouest/300429.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Dalle droite du Comprimé",
+      "url": "https://bleau.info/simonetouest/21190.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sortie Mickey",
+      "url": "https://bleau.info/simonetouest/21198.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle gauche du Comprimé",
+      "url": "https://bleau.info/simonetouest/21189.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Rampe du Comprimé",
+      "url": "https://bleau.info/simonetouest/21187.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Réta Plat",
+      "url": "https://bleau.info/simonetouest/21209.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Eludib",
+      "url": "https://bleau.info/simonetouest/21199.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

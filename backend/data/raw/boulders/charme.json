@@ -1,0 +1,286 @@
+{
+  "sector": "Vallée de la Charme",
+  "problems": [
+    {
+      "name": "Avanie et Framboise",
+      "url": "https://bleau.info/charme/308806.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Jo Montchaussé, Pascal Boucherie, Thierry Angot",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Banquet",
+      "url": "https://bleau.info/charme/313607.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "boucle",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Framboise Sauvage",
+      "url": "https://bleau.info/charme/308805.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, Pascal Boucherie, Thierry Angot",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Vénus Couchée",
+      "url": "https://bleau.info/charme/312128.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Vénus Couchée (retour)",
+      "url": "https://bleau.info/charme/312130.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Longue Balade du Soir",
+      "url": "https://bleau.info/charme/313601.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade du Soir",
+      "url": "https://bleau.info/charme/313604.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Framboise Myrtille",
+      "url": "https://bleau.info/charme/310078.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Longue Douceur du Soir",
+      "url": "https://bleau.info/charme/313600.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade de Charme (aller-retour)",
+      "url": "https://bleau.info/charme/313617.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade de Charme (retour-aller)",
+      "url": "https://bleau.info/charme/313618.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Framboise",
+      "url": "https://bleau.info/charme/308804.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Jo Montchaussé, Pascal Boucherie, Thierry Angot",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Framboise (retour)",
+      "url": "https://bleau.info/charme/308803.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, Pascal Boucherie, Thierry Angot",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Mauvais Œil",
+      "url": "https://bleau.info/charme/300021.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Solarium",
+      "url": "https://bleau.info/charme/313608.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade de Charme",
+      "url": "https://bleau.info/charme/313615.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade de Charme (retour)",
+      "url": "https://bleau.info/charme/313616.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Douceur du Soir",
+      "url": "https://bleau.info/charme/313605.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Un Grillon en Décembre",
+      "url": "https://bleau.info/charme/313606.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Charme",
+      "url": "https://bleau.info/charme/312127.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Laval",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petite Balade du Soir",
+      "url": "https://bleau.info/charme/313603.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Balade",
+      "url": "https://bleau.info/charme/313602.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Laval",
+      "styles": [
+        "mur",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Relique",
+      "url": "https://bleau.info/charme/300058.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "sector": "Apremont Milan",
+  "circuits": [
+    {
+      "name": "Enchaînement virtuel non fléché PD",
+      "url": "https://bleau.info/milan/circuit380.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/milan/311610.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/milan/311611.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/milan/311557.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/milan/311556.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/milan/311627.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/milan/311626.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/milan/311625.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/milan/311605.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/milan/311451.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/milan/311624.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/milan/311597.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/milan/311437.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/milan/311525.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/milan/5052.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/milan/311574.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/milan/311431.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/milan/311623.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/milan/311411.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/milan/311487.html"
+        }
+      ]
+    },
+    {
+      "name": "Enchaînement virtuel non fléché AD",
+      "url": "https://bleau.info/milan/circuit379.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/milan/311553.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/milan/311554.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/milan/311600.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/milan/311602.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/milan/311328.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/milan/311550.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/milan/311603.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/milan/311604.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/milan/311455.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/milan/311595.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/milan/311450.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/milan/311596.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/milan/311548.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/milan/311594.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/milan/311438.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/milan/311444.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/milan/311568.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/milan/311570.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/milan/309607.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/milan/309609.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/milan/311593.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/milan/311524.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/milan/311523.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/milan/311501.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/milan/311573.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/milan/311432.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/milan/311489.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/milan/311486.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/milan/311485.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/milan/311409.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/milan/311572.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/milan/311465.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/milan/311464.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/milan/311461.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/milan/311571.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/milan/311484.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/milan/311483.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/milan/311414.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/milan/311415.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/milan/311416.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/milan/311456.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/milan/311458.html"
+        }
+      ]
+    },
+    {
+      "name": "Enchaînement virtuel non fléché D",
+      "url": "https://bleau.info/milan/circuit381.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/milan/311552.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/milan/311555.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/milan/311330.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/milan/311331.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/milan/311559.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/milan/311558.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/milan/311562.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/milan/311564.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/milan/311566.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/milan/311567.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/milan/311360.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/milan/311359.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/milan/311363.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/milan/311549.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/milan/311452.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/milan/311454.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/milan/311449.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/milan/311547.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/milan/311446.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/milan/311439.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/milan/311440.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/milan/311443.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/milan/311521.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/milan/311520.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/milan/309606.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/milan/5067.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/milan/311402.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/milan/311403.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/milan/311522.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/milan/311500.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/milan/311499.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/milan/311433.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/milan/311434.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/milan/311426.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/milan/311488.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/milan/311467.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/milan/311463.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/milan/311460.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/milan/311336.html"
+        }
+      ]
+    },
+    {
+      "name": "Enchaînement virtuel non fléché TD",
+      "url": "https://bleau.info/milan/circuit382.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/milan/311329.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/milan/311352.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/milan/311353.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/milan/302593.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/milan/311362.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/milan/311350.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/milan/311447.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/milan/311448.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/milan/311445.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/milan/311436.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/milan/311442.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/milan/311405.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/milan/311404.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/milan/311406.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/milan/311427.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/milan/311428.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/milan/311435.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/milan/311430.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/milan/311425.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/milan/311412.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/milan/311333.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/milan/311334.html"
+        }
+      ]
+    }
+  ]
+}

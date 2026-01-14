@@ -1,0 +1,733 @@
+{
+  "sector": "Montrouget Est (RBs)",
+  "problems": [
+    {
+      "name": "Granitique",
+      "url": "https://bleau.info/montrouget/283416.html",
+      "grade": "8a",
+      "alt_grade": "8a+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Récidive (assis)",
+      "url": "https://bleau.info/montrouget/155825.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plastique Fantastik (retour-aller)",
+      "url": "https://bleau.info/montrouget/19544.html",
+      "grade": "7c+",
+      "alt_grade": "8a",
+      "first_ascensionist": "Jean-Christophe Guibout",
+      "styles": [
+        "traversée",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Zavata",
+      "url": "https://bleau.info/montrouget/53356.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Zone Interdite",
+      "url": "https://bleau.info/montrouget/1520.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Jérôme Ceccaldi",
+      "styles": [
+        "départ assis",
+        "toit",
+        "fissure"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Raie Formée (assis)",
+      "url": "https://bleau.info/montrouget/22155.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pinder",
+      "url": "https://bleau.info/montrouget/145021.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plat Plat Plat",
+      "url": "https://bleau.info/montrouget/108412.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Final Fantasy (direct)",
+      "url": "https://bleau.info/montrouget/149611.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "arête",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "High Liner",
+      "url": "https://bleau.info/montrouget/9488.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Angluée (assis)",
+      "url": "https://bleau.info/montrouget/70789.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pas Vu Pas Pris",
+      "url": "https://bleau.info/montrouget/19292.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "toit",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Plastique Fantastik",
+      "url": "https://bleau.info/montrouget/17734.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Récidive",
+      "url": "https://bleau.info/montrouget/281948.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Figure de Style",
+      "url": "https://bleau.info/montrouget/1519.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jérôme Ceccaldi",
+      "styles": [
+        "départ assis",
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fraîcheur d'Été",
+      "url": "https://bleau.info/montrouget/237530.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gibbon de Paris",
+      "url": "https://bleau.info/montrouget/9486.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Silicon Carne",
+      "url": "https://bleau.info/montrouget/20000.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Andrej Bolán",
+      "styles": [
+        "traversée g-d",
+        "réglettes"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Toit Toit Toit",
+      "url": "https://bleau.info/montrouget/201145.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "GJou",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cham'Adore (assis)",
+      "url": "https://bleau.info/montrouget/19290.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "fissure",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Grottesque",
+      "url": "https://bleau.info/montrouget/9496.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "toit",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Angluée (direct)",
+      "url": "https://bleau.info/montrouget/302811.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Smile",
+      "url": "https://bleau.info/montrouget/17733.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry Guéguen",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Crack Liner",
+      "url": "https://bleau.info/montrouget/146384.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Joris Robyn",
+      "styles": [
+        "fissure",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Angluée",
+      "url": "https://bleau.info/montrouget/9487.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Raie Formée",
+      "url": "https://bleau.info/montrouget/9499.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sale Bouleau (assis)",
+      "url": "https://bleau.info/montrouget/19580.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Au Pied Levé",
+      "url": "https://bleau.info/montrouget/9505.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "départ assis",
+        "traversée g-d",
+        "bombé"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Final Fantasy",
+      "url": "https://bleau.info/montrouget/9503.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sale Bouleau",
+      "url": "https://bleau.info/montrouget/19287.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tenochtitlan",
+      "url": "https://bleau.info/montrouget/21112.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dichotomie",
+      "url": "https://bleau.info/montrouget/9489.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fécondité",
+      "url": "https://bleau.info/montrouget/19270.html",
+      "grade": "6c",
+      "alt_grade": "6b",
+      "first_ascensionist": "Alexis Etienne, Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête du Bouleau (assis)",
+      "url": "https://bleau.info/montrouget/9498.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas de Baggy Baggy",
+      "url": "https://bleau.info/montrouget/9492.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Toipéro",
+      "url": "https://bleau.info/montrouget/310317.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jimmy Zwiebel",
+      "styles": [
+        "proue",
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tzompantli",
+      "url": "https://bleau.info/montrouget/21115.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "mur",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Nez Faste",
+      "url": "https://bleau.info/montrouget/9493.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Lèvre de Feu",
+      "url": "https://bleau.info/montrouget/9506.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis",
+        "fissure",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Remontée Gastrique",
+      "url": "https://bleau.info/montrouget/9494.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "départ assis",
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chihuahua",
+      "url": "https://bleau.info/montrouget/21111.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard, Stéphan Denys, Olivier Lebreton",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Face et Scie",
+      "url": "https://bleau.info/montrouget/9490.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Faut Pas Poucer",
+      "url": "https://bleau.info/montrouget/9507.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Yucatan",
+      "url": "https://bleau.info/montrouget/21109.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys, Olivier Lebreton",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bonne Mine",
+      "url": "https://bleau.info/montrouget/9502.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jet de Lame",
+      "url": "https://bleau.info/montrouget/9491.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc, Gilles Cottray",
+      "styles": [
+        "départ assis",
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête du Bouleau",
+      "url": "https://bleau.info/montrouget/19293.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête",
+        "inversées",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Calaveras",
+      "url": "https://bleau.info/montrouget/21114.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cham'Adore",
+      "url": "https://bleau.info/montrouget/19291.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "⋅∴⋅",
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Angle Grottesque",
+      "url": "https://bleau.info/montrouget/9495.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête des Pavés",
+      "url": "https://bleau.info/montrouget/19351.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne, Pepito",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/9500.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "aplats",
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Veracruz",
+      "url": "https://bleau.info/montrouget/21110.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "David Evrard, Stéphan Denys, Olivier Lebreton",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Dalle Gluante",
+      "url": "https://bleau.info/montrouget/9504.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fissure du Bouleau",
+      "url": "https://bleau.info/montrouget/19294.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/9501.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/9508.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/9497.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/19271.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/19295.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/montrouget/19272.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

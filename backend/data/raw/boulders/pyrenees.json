@@ -1,0 +1,543 @@
+{
+  "sector": "Rocher Gréau Pyrénées",
+  "problems": [
+    {
+      "name": "Pachamama",
+      "url": "https://bleau.info/pyrenees/21744.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Nadiras, Aubin Salmon",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Jusqu'ici Tout Va Bien",
+      "url": "https://bleau.info/pyrenees/312072.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Fabien Chavanneau",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plein Vol",
+      "url": "https://bleau.info/pyrenees/889.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Polypnée",
+      "url": "https://bleau.info/pyrenees/21742.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Gérald Coste, François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Barbecue à l'Élysée",
+      "url": "https://bleau.info/pyrenees/301057.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Art Est à Genoux",
+      "url": "https://bleau.info/pyrenees/21044.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Enfant",
+      "url": "https://bleau.info/pyrenees/301058.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Femme",
+      "url": "https://bleau.info/pyrenees/301056.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "dalle",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zebra 3",
+      "url": "https://bleau.info/pyrenees/301054.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Accelerator",
+      "url": "https://bleau.info/pyrenees/1463.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Bitcoin",
+      "url": "https://bleau.info/pyrenees/307399.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://bleau.info/pyrenees/307400.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête Tupilak",
+      "url": "https://bleau.info/pyrenees/883.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Emmanuel Ratouis",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cardano",
+      "url": "https://bleau.info/pyrenees/307402.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Assimilé",
+      "url": "https://bleau.info/pyrenees/301062.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Assistance",
+      "url": "https://bleau.info/pyrenees/301063.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Céline",
+      "url": "https://bleau.info/pyrenees/300350.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "haut",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Mousquetaires",
+      "url": "https://bleau.info/pyrenees/301820.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "inversées",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lundi de Pentecôte",
+      "url": "https://bleau.info/pyrenees/880.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Retardateur (assis)",
+      "url": "https://bleau.info/pyrenees/301052.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Brutus (assis)",
+      "url": "https://bleau.info/pyrenees/309089.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Salopette",
+      "url": "https://bleau.info/pyrenees/301055.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Labile (assis)",
+      "url": "https://bleau.info/pyrenees/301065.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Milé",
+      "url": "https://bleau.info/pyrenees/301060.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Crispette",
+      "url": "https://bleau.info/pyrenees/301050.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot, Philippe Le Denmat",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Labile",
+      "url": "https://bleau.info/pyrenees/301064.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Royaume des Fées",
+      "url": "https://bleau.info/pyrenees/304844.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime Baroud, Katja Karjalainen",
+      "styles": [
+        "mur",
+        "dalle",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Toit",
+      "url": "https://bleau.info/pyrenees/301059.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Petit Pain",
+      "url": "https://bleau.info/pyrenees/301818.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sans Fortune",
+      "url": "https://bleau.info/pyrenees/308241.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Carina",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Brutus",
+      "url": "https://bleau.info/pyrenees/301041.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Finaude",
+      "url": "https://bleau.info/pyrenees/301048.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot, Philippe Le Denmat",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Téméraire",
+      "url": "https://bleau.info/pyrenees/301047.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Pilier",
+      "url": "https://bleau.info/pyrenees/301049.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot, Philippe Le Denmat",
+      "styles": [
+        "pilier",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Rebords du Monde",
+      "url": "https://bleau.info/pyrenees/313822.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Hugo Meunier",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Feinte",
+      "url": "https://bleau.info/pyrenees/301051.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Retardateur",
+      "url": "https://bleau.info/pyrenees/301053.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Stance",
+      "url": "https://bleau.info/pyrenees/301061.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Doudoune",
+      "url": "https://bleau.info/pyrenees/301045.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Roncier",
+      "url": "https://bleau.info/pyrenees/301043.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Stonemason",
+      "url": "https://bleau.info/pyrenees/313284.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Hunter Damiani",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Jiji",
+      "url": "https://bleau.info/pyrenees/301046.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Minus",
+      "url": "https://bleau.info/pyrenees/301042.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Plaisir d'Automne",
+      "url": "https://bleau.info/pyrenees/301819.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête",
+      "url": "https://bleau.info/pyrenees/310136.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Débonnaire",
+      "url": "https://bleau.info/pyrenees/301044.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    }
+  ]
+}

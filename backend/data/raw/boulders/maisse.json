@@ -1,0 +1,787 @@
+{
+  "sector": "Maisse le Patouillat",
+  "problems": [
+    {
+      "name": "L'Angle Imparfait",
+      "url": "https://bleau.info/maisse/14707.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Grande Patouille (sans le socle)",
+      "url": "https://bleau.info/maisse/306323.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Chanvre",
+      "styles": [
+        "arête",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Angus",
+      "url": "https://bleau.info/maisse/14700.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dévastation Contrôlée",
+      "url": "https://bleau.info/maisse/309790.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "surplomb",
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Maisse Noire (gauche)",
+      "url": "https://bleau.info/maisse/17549.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Vol au-dessus d'un Nid de Coucou",
+      "url": "https://bleau.info/maisse/14702.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chrissharmate Toi!",
+      "url": "https://bleau.info/maisse/14727.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dieu Avait Mis un Kilt",
+      "url": "https://bleau.info/maisse/309794.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "traversée g-d",
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Maisse Noire",
+      "url": "https://bleau.info/maisse/17547.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tibet Libre (rallongé)",
+      "url": "https://bleau.info/maisse/14696.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ça M'Prend les Jours Fériés",
+      "url": "https://bleau.info/maisse/309791.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "traversée d-g",
+        "inversées",
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Coucou Casse-Cou",
+      "url": "https://bleau.info/maisse/14701.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Duty Free",
+      "url": "https://bleau.info/maisse/14690.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Embarquement Immédiat",
+      "url": "https://bleau.info/maisse/14691.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lèvre Intense",
+      "url": "https://bleau.info/maisse/14714.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14680.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14692.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "monodoigts",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grande Patouille",
+      "url": "https://bleau.info/maisse/14708.html",
+      "grade": "6a+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Mur à Louise",
+      "url": "https://bleau.info/maisse/14720.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lychen-Entropie",
+      "url": "https://bleau.info/maisse/14718.html",
+      "grade": "6a+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tibet Libre",
+      "url": "https://bleau.info/maisse/14695.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Delphinus",
+      "url": "https://bleau.info/maisse/14693.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Proue",
+      "url": "https://bleau.info/maisse/14685.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "proue",
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée du Portique",
+      "url": "https://bleau.info/maisse/17545.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Maisse Noire (direct)",
+      "url": "https://bleau.info/maisse/17548.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Perle de Puissance",
+      "url": "https://bleau.info/maisse/14713.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14686.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Épouvant'Caille",
+      "url": "https://bleau.info/maisse/14710.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Mini-Proue",
+      "url": "https://bleau.info/maisse/17546.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cigare",
+      "url": "https://bleau.info/maisse/14679.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Poinçonneur du Patouillat",
+      "url": "https://bleau.info/maisse/14722.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Retour du Poinçonneur",
+      "url": "https://bleau.info/maisse/14724.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Sablier",
+      "url": "https://bleau.info/maisse/14697.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lychen-Entropie (direct)",
+      "url": "https://bleau.info/maisse/302530.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14725.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14681.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14723.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Corne d'Aurochs",
+      "url": "https://bleau.info/maisse/14726.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Surplomb du Voisin",
+      "url": "https://bleau.info/maisse/14698.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Little Angus",
+      "url": "https://bleau.info/maisse/23541.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ninja Kick",
+      "url": "https://bleau.info/maisse/301817.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Kobe Bellinkx",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14705.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/17544.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dodu Dindon",
+      "url": "https://bleau.info/maisse/14749.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "monodoigts"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cigarillo",
+      "url": "https://bleau.info/maisse/14678.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tempête dans un Bénitier",
+      "url": "https://bleau.info/maisse/14694.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14684.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14703.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14706.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Cul Verte",
+      "url": "https://bleau.info/maisse/14688.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Petit Théâtre",
+      "url": "https://bleau.info/maisse/14721.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14683.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14689.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14699.html",
+      "grade": "4+",
+      "alt_grade": "5-",
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Barbouille",
+      "url": "https://bleau.info/maisse/14711.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gribouille",
+      "url": "https://bleau.info/maisse/14712.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Passage Secret",
+      "url": "https://bleau.info/maisse/14719.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/17543.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Dièdre",
+      "url": "https://bleau.info/maisse/14709.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dièdre"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14704.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/17541.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gazouillis",
+      "url": "https://bleau.info/maisse/14715.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Rouge-Gorge",
+      "url": "https://bleau.info/maisse/14717.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14682.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bête à Plumes",
+      "url": "https://bleau.info/maisse/14716.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/17542.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/maisse/14687.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    }
+  ]
+}

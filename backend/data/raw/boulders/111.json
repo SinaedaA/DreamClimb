@@ -1,0 +1,584 @@
+{
+  "sector": "Le 111",
+  "problems": [
+    {
+      "name": "-",
+      "url": "https://bleau.info/111/309840.html",
+      "grade": null,
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aloha (assis)",
+      "url": "https://bleau.info/111/302650.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "pilier",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Chaud Latin (assis)",
+      "url": "https://bleau.info/111/305226.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Thomas Collignon, Maxime Prodhomme",
+      "styles": [
+        "surplomb",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Œil d'Icare",
+      "url": "https://bleau.info/111/11233.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "trous",
+        "monodoigts"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Homme Survolté",
+      "url": "https://bleau.info/111/11207.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Chaud Latin",
+      "url": "https://bleau.info/111/11225.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Négligence",
+      "url": "https://bleau.info/111/303390.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Floater",
+      "url": "https://bleau.info/111/302653.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Œil d'Icare (gauche)",
+      "url": "https://bleau.info/111/11234.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Chienlit",
+      "url": "https://bleau.info/111/11204.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Barricades",
+      "url": "https://bleau.info/111/11221.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier",
+        "fissure",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Insouciance",
+      "url": "https://bleau.info/111/308076.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Insouciance (retour)",
+      "url": "https://bleau.info/111/308077.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Meutes",
+      "url": "https://bleau.info/111/11209.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Oahu (assis)",
+      "url": "https://bleau.info/111/305736.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rêve Gauche",
+      "url": "https://bleau.info/111/11226.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ti Floater",
+      "url": "https://bleau.info/111/302652.html",
+      "grade": "7a",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Mutine Rit",
+      "url": "https://bleau.info/111/11210.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Rue Peste",
+      "url": "https://bleau.info/111/11213.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pin de Damoclès",
+      "url": "https://bleau.info/111/11206.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Grizzly Den",
+      "url": "https://bleau.info/111/314748.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Aller du Veau Doué",
+      "url": "https://bleau.info/111/11205.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Boucle de Damoclès",
+      "url": "https://bleau.info/111/312752.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Haut du Pavé",
+      "url": "https://bleau.info/111/11219.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Temple du Sommeil",
+      "url": "https://bleau.info/111/11231.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Oahu",
+      "url": "https://bleau.info/111/305734.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sur le Pavé, l'Aplat",
+      "url": "https://bleau.info/111/11224.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ardu",
+      "url": "https://bleau.info/111/303391.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Bêtise de Cambrer",
+      "url": "https://bleau.info/111/11212.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Femme d'un Flic",
+      "url": "https://bleau.info/111/11211.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "bombé",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Soulèvement",
+      "url": "https://bleau.info/111/11208.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Damoclès n'a Plus son Pin",
+      "url": "https://bleau.info/111/312751.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Joli, mais...",
+      "url": "https://bleau.info/111/11220.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arc en Ciel",
+      "url": "https://bleau.info/111/11203.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Assaut du Pas Laid Hait",
+      "url": "https://bleau.info/111/11214.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Temple du Sommeil (avec l'arête)",
+      "url": "https://bleau.info/111/11232.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Descente de Peau Lisse",
+      "url": "https://bleau.info/111/11215.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Roc Fort",
+      "url": "https://bleau.info/111/11218.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d",
+        "bombé",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aloha",
+      "url": "https://bleau.info/111/302654.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "pilier",
+        "réglettes"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Kauai",
+      "url": "https://bleau.info/111/305735.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Facule Tactile",
+      "url": "https://bleau.info/111/11230.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Lance-Pierre",
+      "url": "https://bleau.info/111/11222.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Fronde",
+      "url": "https://bleau.info/111/11223.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Cas Niveau",
+      "url": "https://bleau.info/111/11216.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fracture Sociable",
+      "url": "https://bleau.info/111/11217.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Faite Hier",
+      "url": "https://bleau.info/111/11229.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Étroit Trou",
+      "url": "https://bleau.info/111/11227.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "monodoigts"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Trottoir",
+      "url": "https://bleau.info/111/11228.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "sector": "Champs-sur-Essonne",
+  "problems": [
+    {
+      "name": "La Face Nord d'Agribloc",
+      "url": "https://bleau.info/champs/16455.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Arête d'Agribloc",
+      "url": "https://bleau.info/champs/14845.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "arête",
+        "haut"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Renfougne d'Agribloc",
+      "url": "https://bleau.info/champs/14836.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Cyril Bottollier",
+      "styles": [
+        "mur",
+        "fissure",
+        "haut"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "sector": "Bas Cuvier",
+  "circuits": [
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/cuvier/circuit2.html",
+      "problems": [
+        {
+          "id": "D",
+          "url": "https://bleau.info/cuvier/1849.html"
+        },
+        {
+          "id": "1",
+          "url": "https://bleau.info/cuvier/1850.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/cuvier/1851.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/cuvier/1852.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/cuvier/1853.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/cuvier/1854.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/cuvier/1855.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/cuvier/1856.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/cuvier/1857.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/cuvier/1858.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/cuvier/1859.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/cuvier/1860.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/cuvier/1861.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/cuvier/1862.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/cuvier/1863.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/cuvier/1864.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/cuvier/1865.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/cuvier/1866.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/cuvier/1867.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/cuvier/1868.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/cuvier/1869.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/cuvier/1870.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/cuvier/1871.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/cuvier/1872.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/cuvier/1873.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/cuvier/1874.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/cuvier/1875.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/cuvier/1876.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/cuvier/1877.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/cuvier/1878.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/cuvier/1879.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/cuvier/1880.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/cuvier/1881.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/cuvier/1882.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/cuvier/1883.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/cuvier/1884.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/cuvier/1885.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/cuvier/1886.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/cuvier/1887.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/cuvier/1888.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/cuvier/1889.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/cuvier/1890.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/cuvier/1891.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/cuvier/1892.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/cuvier/1893.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/cuvier.nord/1894.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/cuvier.nord/1895.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/cuvier.nord/1896.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/cuvier.nord/1897.html"
+        },
+        {
+          "id": "49",
+          "url": "https://bleau.info/cuvier/1898.html"
+        },
+        {
+          "id": "50",
+          "url": "https://bleau.info/cuvier/1899.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu TD-",
+      "url": "https://bleau.info/cuvier/circuit5.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/cuvier/1900.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/cuvier/1901.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/cuvier/1902.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/cuvier/1903.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/cuvier/1904.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/cuvier/1905.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/cuvier/1906.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/cuvier/1907.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/cuvier/1908.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/cuvier/1909.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/cuvier/1910.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/cuvier/1912.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/cuvier/1913.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/cuvier/1911.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/cuvier/1914.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/cuvier/1915.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/cuvier/1916.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/cuvier/1917.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/cuvier/1918.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/cuvier/1919.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/cuvier/1920.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/cuvier/1921.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/cuvier/1922.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/cuvier/1923.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/cuvier/1924.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/cuvier/1925.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/cuvier/1926.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/cuvier/1927.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/cuvier/1928.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/cuvier/1929.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/cuvier/1930.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/cuvier/1931.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/cuvier/1932.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/cuvier/1933.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/cuvier/1934.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/cuvier/1935.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/cuvier/1936.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/cuvier/1937.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/cuvier/1938.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/cuvier/1939.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/cuvier/1940.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/cuvier/1941.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/cuvier/1942.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/cuvier/1943.html"
+        },
+        {
+          "id": "43",
+          "url": "https://bleau.info/cuvier/1944.html"
+        },
+        {
+          "id": "43 bis",
+          "url": "https://bleau.info/cuvier/14463.html"
+        },
+        {
+          "id": "44",
+          "url": "https://bleau.info/cuvier/1945.html"
+        },
+        {
+          "id": "45",
+          "url": "https://bleau.info/cuvier/1946.html"
+        },
+        {
+          "id": "46",
+          "url": "https://bleau.info/cuvier/1947.html"
+        },
+        {
+          "id": "47",
+          "url": "https://bleau.info/cuvier/1948.html"
+        },
+        {
+          "id": "48",
+          "url": "https://bleau.info/cuvier/1949.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD+",
+      "url": "https://bleau.info/cuvier/circuit6.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/cuvier/1950.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/cuvier/1951.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/cuvier/1952.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/cuvier/1953.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/cuvier/1954.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/cuvier/1955.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/cuvier/1956.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/cuvier/1957.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/cuvier/24365.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/cuvier/1958.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/cuvier/1959.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/cuvier/1960.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/cuvier/1961.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/cuvier/1962.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/cuvier/1963.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/cuvier/1964.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/cuvier/1965.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/cuvier/1966.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/cuvier/1967.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/cuvier/1968.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/cuvier/1491.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/cuvier/2128.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/cuvier/1971.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/cuvier/1972.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/cuvier/1973.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/cuvier/1974.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/cuvier/1975.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/cuvier/1976.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/cuvier/1977.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/cuvier/1980.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/cuvier/1979.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/cuvier/1978.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/cuvier/1981.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/cuvier/1982.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/cuvier/1507.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/cuvier/1984.html"
+        },
+        {
+          "id": "37",
+          "url": "https://bleau.info/cuvier/1985.html"
+        },
+        {
+          "id": "38",
+          "url": "https://bleau.info/cuvier/1986.html"
+        },
+        {
+          "id": "39",
+          "url": "https://bleau.info/cuvier/1987.html"
+        },
+        {
+          "id": "40",
+          "url": "https://bleau.info/cuvier/1988.html"
+        },
+        {
+          "id": "41",
+          "url": "https://bleau.info/cuvier/1989.html"
+        },
+        {
+          "id": "42",
+          "url": "https://bleau.info/cuvier/1990.html"
+        }
+      ]
+    },
+    {
+      "name": "Noir ED-",
+      "url": "https://bleau.info/cuvier/circuit7.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/cuvier/4110.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/cuvier/4111.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/cuvier/4112.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/cuvier/8334.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/cuvier/4114.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/cuvier/4115.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/cuvier/4116.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/cuvier/4117.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/cuvier/4118.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/cuvier/4119.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/cuvier/4120.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/cuvierest/4121.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/cuvierest/4122.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/cuvierest/4123.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/cuvierest/4124.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/cuvierest/4125.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/cuvierest/4126.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/cuvierest/24367.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/cuvierest/4128.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/cuvierest/4129.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/cuvierest/16171.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/cuvierest/4132.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/cuvierest/4130.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/cuvierest/4133.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/cuvierest/4134.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/cuvierest/4135.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/cuvierest/4136.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/cuvierest/4137.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/cuvierest/4140.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/cuvierest/1535.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/cuvierest/4142.html"
+        }
+      ]
+    },
+    {
+      "name": "Blanc ED+",
+      "url": "https://bleau.info/cuvier/circuit8.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/cuvier/1992.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/cuvier/1993.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/cuvier/261.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/cuvier/1994.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/cuvier/1995.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/cuvier/1991.html"
+        },
+        {
+          "id": "4 bis",
+          "url": "https://bleau.info/cuvier/229.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/cuvier/191.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/cuvier/1996.html"
+        },
+        {
+          "id": "6 bis",
+          "url": "https://bleau.info/cuvier/186.html"
+        },
+        {
+          "id": "6 ter",
+          "url": "https://bleau.info/cuvier/253.html"
+        },
+        {
+          "id": "6 quat",
+          "url": "https://bleau.info/cuvier/264.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/cuvier/1997.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/cuvier/1998.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/cuvier/1999.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/cuvier/2000.html"
+        },
+        {
+          "id": "9 ter",
+          "url": "https://bleau.info/cuvier/210.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/cuvier/214.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/cuvier/2001.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/cuvier/2002.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/cuvier/2003.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/cuvier/1145.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/cuvier/202.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/cuvier/2004.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/cuvier/2005.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/cuvier/2006.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/cuvier/248.html"
+        }
+      ]
+    }
+  ]
+}

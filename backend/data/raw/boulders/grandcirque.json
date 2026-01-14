@@ -1,0 +1,41 @@
+{
+  "sector": "Puiselet Grand Cirque",
+  "problems": [
+    {
+      "name": "Montez sans Frapper",
+      "url": "https://bleau.info/grandcirque/311972.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "John Rander, Brigitte Rander",
+      "styles": [
+        "fissure",
+        "avec corde"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Big Crack",
+      "url": "https://bleau.info/grandcirque/309944.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Directe Paraméricaine",
+      "url": "https://bleau.info/grandcirque/309943.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut",
+        "avec corde"
+      ],
+      "rating": null
+    }
+  ]
+}

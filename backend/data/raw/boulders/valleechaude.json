@@ -1,0 +1,789 @@
+{
+  "sector": "Vallée Chaude",
+  "problems": [
+    {
+      "name": "Sforzando",
+      "url": "https://bleau.info/valleechaude/23317.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Allegro",
+      "url": "https://bleau.info/valleechaude/23314.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Complainte de Vallée (droite)",
+      "url": "https://bleau.info/valleechaude/23781.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Allegretto",
+      "url": "https://bleau.info/valleechaude/24191.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Benoît Faure",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bi-Cool (droite)",
+      "url": "https://bleau.info/valleechaude/302538.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Chris Romouk",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Complainte de Vallée (gauche)",
+      "url": "https://bleau.info/valleechaude/23782.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "pincettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Écarte un Maxx (direct)",
+      "url": "https://bleau.info/valleechaude/300767.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Bart van Raaij",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Les Lèvres de Feu (retour-aller)",
+      "url": "https://bleau.info/valleechaude/15396.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "trous"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Ripaille",
+      "url": "https://bleau.info/valleechaude/306772.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Unplugged",
+      "url": "https://bleau.info/valleechaude/23313.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Abyss (du bas)",
+      "url": "https://bleau.info/valleechaude/306804.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "toit",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Bi-Cool",
+      "url": "https://bleau.info/valleechaude/23315.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "dévers",
+        "bidoigts",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Finesse Abyssale",
+      "url": "https://bleau.info/valleechaude/309391.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "boucle",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Itinéraire Abyssal",
+      "url": "https://bleau.info/valleechaude/308926.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David van Bragt",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Itinéraire Abyssal (en traversée)",
+      "url": "https://bleau.info/valleechaude/308944.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David van Bragt",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée d'Abyss (du bas)",
+      "url": "https://bleau.info/valleechaude/306805.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "traversée",
+        "toit",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Abyss",
+      "url": "https://bleau.info/valleechaude/23316.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "toit",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Belle Trouvaille",
+      "url": "https://bleau.info/valleechaude/306328.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Elric Besnier",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Centraille",
+      "url": "https://bleau.info/valleechaude/306672.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Éthique et Toc (retour-aller)",
+      "url": "https://bleau.info/valleechaude/24648.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Full Métal Pétasse",
+      "url": "https://bleau.info/valleechaude/302666.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Full Métal Pétasse (direct)",
+      "url": "https://bleau.info/valleechaude/311015.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Christoph Reichert",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Itinéraire Abyss (en traversée)",
+      "url": "https://bleau.info/valleechaude/23788.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Jan Vercauteren, Jacques Sellers",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Kiss",
+      "url": "https://bleau.info/valleechaude/303110.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Frédéric Buc",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Kiss (retour)",
+      "url": "https://bleau.info/valleechaude/312176.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée d'Abyss",
+      "url": "https://bleau.info/valleechaude/23320.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Alain Dupas",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Jeu d'Écarte",
+      "url": "https://bleau.info/valleechaude/301125.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Lèvres de Feu",
+      "url": "https://bleau.info/valleechaude/15395.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Jo Montchaussé",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "réta"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Les Lèvres de Feu (retour)",
+      "url": "https://bleau.info/valleechaude/304500.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Lost Highway",
+      "url": "https://bleau.info/valleechaude/303330.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lost Highway (retour)",
+      "url": "https://bleau.info/valleechaude/304620.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon, Gars Des Bois",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quand y f'ra Caniculaire",
+      "url": "https://bleau.info/valleechaude/309389.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Sur Place",
+      "url": "https://bleau.info/valleechaude/305176.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "toit",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tube Rider",
+      "url": "https://bleau.info/valleechaude/304815.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "dévers",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tube Rider (en traversée retour)",
+      "url": "https://bleau.info/valleechaude/306060.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "David van Bragt",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tube Rider (en traversée)",
+      "url": "https://bleau.info/valleechaude/304824.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Unplugged (droite)",
+      "url": "https://bleau.info/valleechaude/24578.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Écarte un Maxx",
+      "url": "https://bleau.info/valleechaude/300732.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime",
+      "styles": [
+        "toit",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Itinéraire Abyss",
+      "url": "https://bleau.info/valleechaude/23784.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Jan Vercauteren, Jacques Sellers",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quand y f'ra Caniculaire (droite)",
+      "url": "https://bleau.info/valleechaude/309390.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Surf Betty",
+      "url": "https://bleau.info/valleechaude/304814.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Éthique et Toc",
+      "url": "https://bleau.info/valleechaude/24650.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Éthique et Toc (retour)",
+      "url": "https://bleau.info/valleechaude/24649.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jo Montchaussé, François Venzin",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Kiss Shot",
+      "url": "https://bleau.info/valleechaude/312177.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "toit",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Off the Lip",
+      "url": "https://bleau.info/valleechaude/304813.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "P'tite Plainte",
+      "url": "https://bleau.info/valleechaude/302539.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Chris Romouk",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Retour des Feuilles",
+      "url": "https://bleau.info/valleechaude/310541.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nuisance Sonore",
+      "url": "https://bleau.info/valleechaude/303328.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Brossage Rapide",
+      "url": "https://bleau.info/valleechaude/19087.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Øystein Andresen",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Free Style",
+      "url": "https://bleau.info/valleechaude/300759.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Maxime",
+      "styles": [
+        "toit",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Libération d'Abyss",
+      "url": "https://bleau.info/valleechaude/309469.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David van Bragt",
+      "styles": [
+        "toit",
+        "cheminée",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nova Muscae",
+      "url": "https://bleau.info/valleechaude/300619.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "jeté",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Nuisance Sonore (direct)",
+      "url": "https://bleau.info/valleechaude/303329.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gars Des Bois",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Au Dessous des Feuilles",
+      "url": "https://bleau.info/valleechaude/304817.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tom Haber",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Full Métal Traverse",
+      "url": "https://bleau.info/valleechaude/302667.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Retour à l'Abyss",
+      "url": "https://bleau.info/valleechaude/308730.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "David van Bragt",
+      "styles": [
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Feuilleté Marbré",
+      "url": "https://bleau.info/valleechaude/312258.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Bainvel",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Censurée",
+      "url": "https://bleau.info/valleechaude/311725.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Feuille de Marbre",
+      "url": "https://bleau.info/valleechaude/304816.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Chaudasse",
+      "url": "https://bleau.info/valleechaude/311723.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chaude",
+      "url": "https://bleau.info/valleechaude/311722.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Non Censurée",
+      "url": "https://bleau.info/valleechaude/311724.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "sector": "Rocher des Étroitures",
+  "problems": [
+    {
+      "name": "Le Saut de Chat",
+      "url": "https://bleau.info/etroitures/300827.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Jules Nicouleau",
+      "styles": [
+        "traversée d-g",
+        "inversées",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Voyager (assis)",
+      "url": "https://bleau.info/etroitures/300830.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Une Droite en Pleine Face",
+      "url": "https://bleau.info/etroitures/301087.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Voyager",
+      "url": "https://bleau.info/etroitures/300829.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "pilier",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fanette",
+      "url": "https://bleau.info/etroitures/300828.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mi-Septembre",
+      "url": "https://bleau.info/etroitures/300844.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, Jules Nicouleau, Thomas Collignon",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Petite Pote",
+      "url": "https://bleau.info/etroitures/300836.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "inversées",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Prosper (assis)",
+      "url": "https://bleau.info/etroitures/300826.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Astuce de Bas-Fond",
+      "url": "https://bleau.info/etroitures/301083.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Black Hills",
+      "url": "https://bleau.info/etroitures/300824.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ça Coince pas Mal",
+      "url": "https://bleau.info/etroitures/301082.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Échappatoire",
+      "url": "https://bleau.info/etroitures/301088.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gueule de Requin",
+      "url": "https://bleau.info/etroitures/301080.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mal Assis",
+      "url": "https://bleau.info/etroitures/20584.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mi-Août",
+      "url": "https://bleau.info/etroitures/300840.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Prosper",
+      "url": "https://bleau.info/etroitures/300825.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Quelque Chose dans l'Air",
+      "url": "https://bleau.info/etroitures/301084.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Retour aux Affaires",
+      "url": "https://bleau.info/etroitures/20580.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sashimi",
+      "url": "https://bleau.info/etroitures/303426.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "The Whey of the Warrior (assis)",
+      "url": "https://bleau.info/etroitures/306144.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "joshua penn-watson",
+      "styles": [
+        "dalle",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gueule de Requin (départ direct)",
+      "url": "https://bleau.info/etroitures/301081.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nous Avons le Même Point de Vue",
+      "url": "https://bleau.info/etroitures/301079.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Long Whey",
+      "url": "https://bleau.info/etroitures/306200.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Whey Out West (en traversée)",
+      "url": "https://bleau.info/etroitures/306201.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Justin Roupillon, Melchior Mage",
+      "styles": [
+        "traversée d-g",
+        "dalle",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bien Debout",
+      "url": "https://bleau.info/etroitures/20582.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "dévers",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Canopus (assis)",
+      "url": "https://bleau.info/etroitures/300832.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Shuntage",
+      "url": "https://bleau.info/etroitures/300842.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "The Whey of the Warrior",
+      "url": "https://bleau.info/etroitures/305304.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "joshua penn-watson, Edward Gow-Smith",
+      "styles": [
+        "arête",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Vierge du C...",
+      "url": "https://bleau.info/etroitures/301086.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Whey Out West",
+      "url": "https://bleau.info/etroitures/306143.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Gareth Bishop",
+      "styles": [
+        "traversée g-d",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Ad Hoc",
+      "url": "https://bleau.info/etroitures/300841.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Basic Whey",
+      "url": "https://bleau.info/etroitures/305303.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "joshua penn-watson, Edward Gow-Smith",
+      "styles": [
+        "dévers",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Canopus",
+      "url": "https://bleau.info/etroitures/300831.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fausse Inversée",
+      "url": "https://bleau.info/etroitures/300835.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard, Olivier Lebreton, Stéphan Denys",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Traversée de l'Olibrius",
+      "url": "https://bleau.info/etroitures/300838.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Léthargie",
+      "url": "https://bleau.info/etroitures/300839.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sirius (assis)",
+      "url": "https://bleau.info/etroitures/300834.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Cave",
+      "url": "https://bleau.info/etroitures/20583.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Pileti",
+      "url": "https://bleau.info/etroitures/20581.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Michel Grillère",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Whey Left",
+      "url": "https://bleau.info/etroitures/305302.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "joshua penn-watson, Edward Gow-Smith",
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Yakitori",
+      "url": "https://bleau.info/etroitures/303425.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Croche-Patte",
+      "url": "https://bleau.info/etroitures/300823.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Whey Right",
+      "url": "https://bleau.info/etroitures/305305.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "joshua penn-watson, Edward Gow-Smith",
+      "styles": [
+        "arête",
+        "dalle",
+        "aplats"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Sirius",
+      "url": "https://bleau.info/etroitures/300833.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "L'Olibrius",
+      "url": "https://bleau.info/etroitures/300837.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard, Stéphan Denys, Damien Roguiez",
+      "styles": [
+        "mur",
+        "aplats",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Allez, Péken",
+      "url": "https://bleau.info/etroitures/309002.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sans Peine",
+      "url": "https://bleau.info/etroitures/300843.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Damien Roguiez",
+      "styles": [
+        "traversée g-d",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Achter 't Hoekske",
+      "url": "https://bleau.info/etroitures/310459.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Komaan, Komaan",
+      "url": "https://bleau.info/etroitures/309387.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sick Highball",
+      "url": "https://bleau.info/etroitures/310458.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Venga, Venga",
+      "url": "https://bleau.info/etroitures/309386.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Come On, Come On",
+      "url": "https://bleau.info/etroitures/309388.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

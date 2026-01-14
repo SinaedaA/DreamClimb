@@ -1,0 +1,129 @@
+{
+  "sector": "Blomont les Roches",
+  "problems": [
+    {
+      "name": "Court Métrage (assis)",
+      "url": "https://bleau.info/blomont/19475.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Passage Secret",
+      "url": "https://bleau.info/blomont/19480.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Court Métrage",
+      "url": "https://bleau.info/blomont/19476.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Christophe Laumone",
+      "styles": [
+        "mur",
+        "jeté"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Arête de Blomont",
+      "url": "https://bleau.info/blomont/19481.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Grand Jeu",
+      "url": "https://bleau.info/blomont/19479.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Yano Salaün",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Bayou",
+      "url": "https://bleau.info/blomont/300408.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Yann Leboulanger",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pin Limite (assis)",
+      "url": "https://bleau.info/blomont/314486.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Pin Limite",
+      "url": "https://bleau.info/blomont/314402.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/blomont/19477.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "-",
+      "url": "https://bleau.info/blomont/19478.html",
+      "grade": "4-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": null
+    }
+  ]
+}

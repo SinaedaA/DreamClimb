@@ -1,0 +1,657 @@
+{
+  "sector": "Mont Ussy",
+  "circuits": [
+    {
+      "name": "Jaune PD-",
+      "url": "https://bleau.info/ussy/circuit66.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/ussy/311619.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/ussy/310586.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/ussy/311618.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/ussy/4272.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/ussy/4276.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/ussy/4277.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/ussy/4278.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/ussy/4279.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/ussy/4280.html"
+        },
+        {
+          "id": "8 bis",
+          "url": "https://bleau.info/ussy/4281.html"
+        },
+        {
+          "id": "8 ter",
+          "url": "https://bleau.info/ussy/4282.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/ussy/4283.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/ussy/4284.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/ussy/4285.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/ussy/4286.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/ussy/4287.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/ussy/4288.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/ussy/4289.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/ussy/4290.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/ussy/4291.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/ussy/4292.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/ussy/4293.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/ussy/4294.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/ussy/4295.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/ussy/4296.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/ussy/4297.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/ussy/4298.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/ussy/4299.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/ussy/4300.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/ussy/4301.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/ussy/4302.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/ussy/4303.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/ussy/4304.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/ussy/4305.html"
+        }
+      ]
+    },
+    {
+      "name": "Orange AD+",
+      "url": "https://bleau.info/ussy/circuit67.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/ussy/4306.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/ussy/4307.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/ussy/4308.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/ussy/310543.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/ussy/4310.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/ussy/4311.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/ussy/4312.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/ussy/4271.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/ussy/4313.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/ussy/4315.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/ussy/4316.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/ussy/4317.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/ussy/4275.html"
+        },
+        {
+          "id": "12 ter",
+          "url": "https://bleau.info/ussy/4274.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/ussy/4318.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/ussy/4319.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/ussy/4320.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/ussy/4321.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/ussy/4322.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/ussy/4324.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/ussy/4323.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/ussy/310568.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/ussy/4326.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/ussy/4327.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/ussy/4328.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/ussy/4329.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/ussy/4330.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/ussy/4331.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/ussy/4332.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/ussy/4333.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/ussy/4334.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/ussy/4335.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/ussy/4336.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D+",
+      "url": "https://bleau.info/ussy/circuit278.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/ussy/16071.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/ussy/16072.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/ussy/16073.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/ussy/4309.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/ussy/16075.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/ussy/4314.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/ussy/16077.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/ussy/310569.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/ussy/16080.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/ussy/16081.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/ussy/16082.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/ussy/16083.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/ussy/310492.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/ussy/16084.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/ussy/16085.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/ussy/4325.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/ussy/310491.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/ussy/16089.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/ussy/16090.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/ussy/16093.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/ussy/16094.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/ussy/16095.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/ussy/16096.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/ussy/16098.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/ussy/16100.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/ussy/16101.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/ussy/16102.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/ussy/16104.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/ussy/310570.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/ussy/310571.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/ussy/16105.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/ussy/16103.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/ussy/16074.html"
+        },
+        {
+          "id": "34",
+          "url": "https://bleau.info/ussy/16106.html"
+        },
+        {
+          "id": "35",
+          "url": "https://bleau.info/ussy/16107.html"
+        },
+        {
+          "id": "36",
+          "url": "https://bleau.info/ussy/16108.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge ED",
+      "url": "https://bleau.info/ussy/circuit68.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/ussy/4337.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/ussy/4338.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/ussy/4339.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/ussy/715.html"
+        },
+        {
+          "id": "3 ter",
+          "url": "https://bleau.info/ussy/709.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/ussy/4340.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/ussy/4341.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/ussy/705.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/ussy/4342.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/ussy/4343.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/ussy/4344.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/ussy/4345.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/ussy/1196.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/ussy/22964.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/ussy/2195.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/ussy/713.html"
+        },
+        {
+          "id": "11 ter",
+          "url": "https://bleau.info/ussy/308568.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/ussy/4347.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/ussy/707.html"
+        },
+        {
+          "id": "12 ter",
+          "url": "https://bleau.info/ussy/717.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/ussy/4348.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/ussy/1194.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/ussy/4349.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/ussy/4350.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/ussy/4351.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/ussy/703.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/ussy/4352.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/ussy/4353.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/ussy/1195.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/ussy/4354.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/ussy/4355.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/ussy/4356.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/ussy/4357.html"
+        },
+        {
+          "id": "22 bis",
+          "url": "https://bleau.info/ussy/4358.html"
+        },
+        {
+          "id": "22 ter",
+          "url": "https://bleau.info/ussy/4359.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/ussy/4360.html"
+        },
+        {
+          "id": "23 bis",
+          "url": "https://bleau.info/ussy/4361.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/ussy/4362.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/ussy/4363.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/ussy/24663.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/ussy/4365.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/ussy/4366.html"
+        },
+        {
+          "id": "28 bis",
+          "url": "https://bleau.info/ussy/714.html"
+        },
+        {
+          "id": "28 ter",
+          "url": "https://bleau.info/ussy/11511.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/ussy/4367.html"
+        },
+        {
+          "id": "29 bis",
+          "url": "https://bleau.info/ussy/710.html"
+        },
+        {
+          "id": "30",
+          "url": "https://bleau.info/ussy/4368.html"
+        },
+        {
+          "id": "30 bis",
+          "url": "https://bleau.info/ussy/708.html"
+        },
+        {
+          "id": "31",
+          "url": "https://bleau.info/ussy/4369.html"
+        },
+        {
+          "id": "31 bis",
+          "url": "https://bleau.info/ussy/310585.html"
+        },
+        {
+          "id": "32",
+          "url": "https://bleau.info/ussy/4370.html"
+        },
+        {
+          "id": "32 bis",
+          "url": "https://bleau.info/ussy/704.html"
+        },
+        {
+          "id": "33",
+          "url": "https://bleau.info/ussy/4371.html"
+        },
+        {
+          "id": "33 bis",
+          "url": "https://bleau.info/ussy/712.html"
+        }
+      ]
+    }
+  ]
+}

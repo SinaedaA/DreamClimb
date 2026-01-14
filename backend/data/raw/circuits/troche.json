@@ -1,0 +1,427 @@
+{
+  "sector": "La Troche",
+  "circuits": [
+    {
+      "name": "Jaune PD+",
+      "url": "https://bleau.info/troche/circuit300.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/troche/21630.html"
+        },
+        {
+          "id": "1 bis",
+          "url": "https://bleau.info/troche/21624.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/troche/21632.html"
+        },
+        {
+          "id": "2 bis",
+          "url": "https://bleau.info/troche/13849.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/troche/21633.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/troche/21634.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/troche/21635.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/troche/21636.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/troche/21637.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/troche/21638.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/troche/21639.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/troche/21640.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/troche/21641.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/troche/21625.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/troche/21642.html"
+        },
+        {
+          "id": "12 bis",
+          "url": "https://bleau.info/troche/21623.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/troche/21643.html"
+        },
+        {
+          "id": "13 bis",
+          "url": "https://bleau.info/troche/21626.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/troche/21644.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/troche/21627.html"
+        },
+        {
+          "id": "14 ter",
+          "url": "https://bleau.info/troche/271517.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/troche/21645.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/troche/21646.html"
+        },
+        {
+          "id": "16 bis",
+          "url": "https://bleau.info/troche/21628.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/troche/21647.html"
+        },
+        {
+          "id": "17 bis",
+          "url": "https://bleau.info/troche/21629.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/troche/21648.html"
+        },
+        {
+          "id": "18 bis",
+          "url": "https://bleau.info/troche/21631.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/troche/21649.html"
+        },
+        {
+          "id": "19 bis",
+          "url": "https://bleau.info/troche/21669.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/troche/21650.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/troche/21651.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/troche/21652.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/troche/21653.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/troche/21654.html"
+        },
+        {
+          "id": "24 bis",
+          "url": "https://bleau.info/troche/21661.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/troche/21655.html"
+        },
+        {
+          "id": "25 bis",
+          "url": "https://bleau.info/troche/21662.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/troche/21656.html"
+        },
+        {
+          "id": "26 bis",
+          "url": "https://bleau.info/troche/21663.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/troche/21657.html"
+        },
+        {
+          "id": "27 bis",
+          "url": "https://bleau.info/ussy/21665.html"
+        },
+        {
+          "id": "28",
+          "url": "https://bleau.info/troche/21658.html"
+        },
+        {
+          "id": "29",
+          "url": "https://bleau.info/troche/21659.html"
+        },
+        {
+          "id": "29 bis",
+          "url": "https://bleau.info/troche/21660.html"
+        }
+      ]
+    },
+    {
+      "name": "Bleu D",
+      "url": "https://bleau.info/troche/circuit217.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/troche/11001.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/troche/11002.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/troche/11003.html"
+        },
+        {
+          "id": "3 bis",
+          "url": "https://bleau.info/troche/13848.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/troche/11004.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/troche/11005.html"
+        },
+        {
+          "id": "5 bis",
+          "url": "https://bleau.info/troche/11006.html"
+        },
+        {
+          "id": "5 ter",
+          "url": "https://bleau.info/troche/21671.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/troche/11007.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/troche/11008.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/troche/11009.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/troche/11010.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/troche/11011.html"
+        },
+        {
+          "id": "10 bis",
+          "url": "https://bleau.info/troche/157337.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/troche/11012.html"
+        },
+        {
+          "id": "11 bis",
+          "url": "https://bleau.info/troche/11013.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/troche/11014.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/troche/31994.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/troche/11015.html"
+        },
+        {
+          "id": "14 bis",
+          "url": "https://bleau.info/troche/234376.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/troche/11016.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/troche/11017.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/troche/11018.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/troche/11019.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/troche/11020.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/troche/311394.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/troche/11021.html"
+        },
+        {
+          "id": "21 bis",
+          "url": "https://bleau.info/troche/311395.html"
+        }
+      ]
+    },
+    {
+      "name": "Rouge TD",
+      "url": "https://bleau.info/troche/circuit218.html",
+      "problems": [
+        {
+          "id": "1",
+          "url": "https://bleau.info/troche/11022.html"
+        },
+        {
+          "id": "2",
+          "url": "https://bleau.info/troche/11023.html"
+        },
+        {
+          "id": "3",
+          "url": "https://bleau.info/troche/11024.html"
+        },
+        {
+          "id": "4",
+          "url": "https://bleau.info/troche/11025.html"
+        },
+        {
+          "id": "5",
+          "url": "https://bleau.info/troche/11027.html"
+        },
+        {
+          "id": "6",
+          "url": "https://bleau.info/troche/11028.html"
+        },
+        {
+          "id": "7",
+          "url": "https://bleau.info/troche/11029.html"
+        },
+        {
+          "id": "8",
+          "url": "https://bleau.info/troche/13842.html"
+        },
+        {
+          "id": "9",
+          "url": "https://bleau.info/troche/11030.html"
+        },
+        {
+          "id": "9 bis",
+          "url": "https://bleau.info/troche/13845.html"
+        },
+        {
+          "id": "10",
+          "url": "https://bleau.info/troche/11031.html"
+        },
+        {
+          "id": "11",
+          "url": "https://bleau.info/troche/11032.html"
+        },
+        {
+          "id": "12",
+          "url": "https://bleau.info/troche/311477.html"
+        },
+        {
+          "id": "13",
+          "url": "https://bleau.info/troche/11033.html"
+        },
+        {
+          "id": "14",
+          "url": "https://bleau.info/troche/11034.html"
+        },
+        {
+          "id": "15",
+          "url": "https://bleau.info/troche/11035.html"
+        },
+        {
+          "id": "16",
+          "url": "https://bleau.info/troche/11036.html"
+        },
+        {
+          "id": "17",
+          "url": "https://bleau.info/troche/11037.html"
+        },
+        {
+          "id": "18",
+          "url": "https://bleau.info/troche/11038.html"
+        },
+        {
+          "id": "19",
+          "url": "https://bleau.info/troche/11039.html"
+        },
+        {
+          "id": "20",
+          "url": "https://bleau.info/troche/11040.html"
+        },
+        {
+          "id": "21",
+          "url": "https://bleau.info/troche/11041.html"
+        },
+        {
+          "id": "22",
+          "url": "https://bleau.info/troche/11042.html"
+        },
+        {
+          "id": "23",
+          "url": "https://bleau.info/troche/11043.html"
+        },
+        {
+          "id": "24",
+          "url": "https://bleau.info/troche/11044.html"
+        },
+        {
+          "id": "25",
+          "url": "https://bleau.info/troche/11045.html"
+        },
+        {
+          "id": "26",
+          "url": "https://bleau.info/troche/11046.html"
+        },
+        {
+          "id": "27",
+          "url": "https://bleau.info/troche/15724.html"
+        }
+      ]
+    }
+  ]
+}

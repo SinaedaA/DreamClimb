@@ -1,0 +1,519 @@
+{
+  "sector": "Buthiers Ouest",
+  "problems": [
+    {
+      "name": "Saphir",
+      "url": "https://bleau.info/buthiersouest/304802.html",
+      "grade": "8a",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Les Rois du Pétrole",
+      "url": "https://bleau.info/buthiersouest/691.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Pierre Bouvier",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Roule Ma Poule (assis gauche)",
+      "url": "https://bleau.info/buthiersouest/312889.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Trop de Sécurité Nuit (rallongé)",
+      "url": "https://bleau.info/buthiersouest/312932.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Des Racines et des Aigles",
+      "url": "https://bleau.info/buthiersouest/20853.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "jeté"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Horde Sauvage (gauche)",
+      "url": "https://bleau.info/buthiersouest/20860.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pouce Doudou",
+      "url": "https://bleau.info/buthiersouest/312883.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Trop de Sécurité Nuit",
+      "url": "https://bleau.info/buthiersouest/312933.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ancien Temps (assis)",
+      "url": "https://bleau.info/buthiersouest/313006.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bientôt 60 Rides",
+      "url": "https://bleau.info/buthiersouest/312928.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Croix de Fer, J’me Rétablirai en Enfer",
+      "url": "https://bleau.info/buthiersouest/312929.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jaspe",
+      "url": "https://bleau.info/buthiersouest/304803.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Maxime Baroud",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Lutte Finale (assis)",
+      "url": "https://bleau.info/buthiersouest/20857.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Neil Hart, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Roule ma Poule (du bas)",
+      "url": "https://bleau.info/buthiersouest/312886.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Synchronicité",
+      "url": "https://bleau.info/buthiersouest/312884.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Taisez-Vous et Mangez, Vermines! (assis)",
+      "url": "https://bleau.info/buthiersouest/20861.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "X sans Y",
+      "url": "https://bleau.info/buthiersouest/313005.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ancien Temps",
+      "url": "https://bleau.info/buthiersouest/312891.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Horde Sauvage (assis)",
+      "url": "https://bleau.info/buthiersouest/313143.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "dévers",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Régale Friction",
+      "url": "https://bleau.info/buthiersouest/312888.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "V (gauche)",
+      "url": "https://bleau.info/buthiersouest/312919.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Du Renouveau",
+      "url": "https://bleau.info/buthiersouest/312890.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Gladiateur Contre Maigrelet",
+      "url": "https://bleau.info/buthiersouest/312931.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Horde Sauvage",
+      "url": "https://bleau.info/buthiersouest/20859.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "François-Xavier Joubert, Neil Hart, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Lutte Finale",
+      "url": "https://bleau.info/buthiersouest/20838.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Neil Hart",
+      "styles": [
+        "arête",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "V (droite)",
+      "url": "https://bleau.info/buthiersouest/312918.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Roule Ma Poule",
+      "url": "https://bleau.info/buthiersouest/312885.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Adieu Ninette",
+      "url": "https://bleau.info/buthiersouest/312917.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Appui Coude",
+      "url": "https://bleau.info/buthiersouest/312882.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Des Racines et des Aigles (droite)",
+      "url": "https://bleau.info/buthiersouest/20862.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Neil Hart",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Solarium",
+      "url": "https://bleau.info/buthiersouest/313001.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Renversement du Nez",
+      "url": "https://bleau.info/buthiersouest/313004.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Racines de l'Enfer",
+      "url": "https://bleau.info/buthiersouest/20863.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "François-Xavier Joubert, Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Droit dans le Nez",
+      "url": "https://bleau.info/buthiersouest/313003.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Nez de René (assis droite)",
+      "url": "https://bleau.info/buthiersouest/300800.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Nez de René (assis gauche)",
+      "url": "https://bleau.info/buthiersouest/300799.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Taisez-Vous et Mangez, Vermines!",
+      "url": "https://bleau.info/buthiersouest/300642.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Au Suivant",
+      "url": "https://bleau.info/buthiersouest/312930.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fissurette",
+      "url": "https://bleau.info/buthiersouest/313002.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Nez de René",
+      "url": "https://bleau.info/buthiersouest/300798.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Luca Modoni",
+      "styles": [
+        "proue"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sur ces Entrefesses",
+      "url": "https://bleau.info/buthiersouest/314348.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Justin Roupillon, Fée Desblocs, Melchior Mage",
+      "styles": [
+        "proue",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "The Last of Us",
+      "url": "https://bleau.info/buthiersouest/314340.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "dalle",
+        "inversées"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Paillasson",
+      "url": "https://bleau.info/buthiersouest/305774.html",
+      "grade": "4",
+      "alt_grade": null,
+      "first_ascensionist": "Ander Garcia, Lucie Avril",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

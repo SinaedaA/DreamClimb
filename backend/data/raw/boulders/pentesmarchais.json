@@ -1,0 +1,182 @@
+{
+  "sector": "Les Pentes du Marchais",
+  "problems": [
+    {
+      "name": "La Ruine (assis)",
+      "url": "https://bleau.info/pentesmarchais/300258.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Ruine",
+      "url": "https://bleau.info/pentesmarchais/24293.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fais Toi P'tit (en boucle)",
+      "url": "https://bleau.info/pentesmarchais/314440.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "boucle",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fais-Toi P'tit (retour-aller)",
+      "url": "https://bleau.info/pentesmarchais/314484.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fais-Toi P'tit",
+      "url": "https://bleau.info/pentesmarchais/314660.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "Olivier Joanon",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fais-Toi P'tit (retour)",
+      "url": "https://bleau.info/pentesmarchais/314436.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Blocage",
+      "url": "https://bleau.info/pentesmarchais/24951.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Haute sa Voie",
+      "url": "https://bleau.info/pentesmarchais/310360.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Toit d'Araignée",
+      "url": "https://bleau.info/pentesmarchais/305762.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Carina, Fred",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Quel Tarin!",
+      "url": "https://bleau.info/pentesmarchais/310359.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "jeté",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tais-Toi, Grand!",
+      "url": "https://bleau.info/pentesmarchais/314488.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon, Melchior Mage",
+      "styles": [
+        "traversée d-g",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Contamines",
+      "url": "https://bleau.info/pentesmarchais/310361.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Attention Pente Glissante",
+      "url": "https://bleau.info/pentesmarchais/310358.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fais-Toi Grand",
+      "url": "https://bleau.info/pentesmarchais/314969.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": null
+    }
+  ]
+}

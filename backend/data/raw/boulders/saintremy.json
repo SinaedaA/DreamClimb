@@ -1,0 +1,181 @@
+{
+  "sector": "Saint-Rémy lès Chevreuse",
+  "problems": [
+    {
+      "name": "La Narine du Serpent (gauche direct du bas)",
+      "url": "https://bleau.info/saintremy/314614.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Narine du Serpent (gauche direct)",
+      "url": "https://bleau.info/saintremy/308848.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Narine du Serpent (gauche)",
+      "url": "https://bleau.info/saintremy/307428.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Bond du Serpent",
+      "url": "https://bleau.info/saintremy/308843.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Flanc du Serpent",
+      "url": "https://bleau.info/saintremy/308842.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "trous",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Narine du Serpent (droite)",
+      "url": "https://bleau.info/saintremy/307429.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sans Traîner",
+      "url": "https://bleau.info/saintremy/308850.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "arête",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Rainure",
+      "url": "https://bleau.info/saintremy/308846.html",
+      "grade": "6a",
+      "alt_grade": "6a+",
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "monodoigts",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Rainure (en traversée)",
+      "url": "https://bleau.info/saintremy/308849.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Lombard",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "La Traversée du Gruyère",
+      "url": "https://bleau.info/saintremy/308845.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les P'tits Trous",
+      "url": "https://bleau.info/saintremy/308847.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "François Lombard",
+      "styles": [
+        "réta",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Ras des Feuilles",
+      "url": "https://bleau.info/saintremy/308839.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 1.5
+    },
+    {
+      "name": "Les Oreilles du Serpent",
+      "url": "https://bleau.info/saintremy/308841.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bidoigts",
+        "aplats",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Chauffe-Serpent",
+      "url": "https://bleau.info/saintremy/307430.html",
+      "grade": "3+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "bombé",
+        "trous"
+      ],
+      "rating": 2.5
+    }
+  ]
+}

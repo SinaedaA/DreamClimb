@@ -1,0 +1,336 @@
+{
+  "sector": "Le Calvaire Est",
+  "problems": [
+    {
+      "name": "Bouquet de Grès (direct)",
+      "url": "https://bleau.info/calvaireest/302517.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "SDF",
+      "url": "https://bleau.info/calvaireest/302361.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Triceps en Fête (en traversée)",
+      "url": "https://bleau.info/calvaireest/302413.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "aplats",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Certainement Pas le Premier",
+      "url": "https://bleau.info/calvaireest/302393.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Évasion Fiscale",
+      "url": "https://bleau.info/calvaireest/305827.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "kaiss richard",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grotte de Georges",
+      "url": "https://bleau.info/calvaireest/302392.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Saromoné (en traversée)",
+      "url": "https://bleau.info/calvaireest/302371.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Triceps en Fête",
+      "url": "https://bleau.info/calvaireest/302412.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Évasion Fiscale (sans convention)",
+      "url": "https://bleau.info/calvaireest/305828.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "kaiss richard, MGDSM",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "ISF",
+      "url": "https://bleau.info/calvaireest/305826.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "MGDSM, kaiss richard",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Lyre",
+      "url": "https://bleau.info/calvaireest/302372.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Saromoné",
+      "url": "https://bleau.info/calvaireest/302370.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bouquet de Grès",
+      "url": "https://bleau.info/calvaireest/302518.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Le Cyclope",
+      "url": "https://bleau.info/calvaireest/302360.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur",
+        "trous",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Concours Communs",
+      "url": "https://bleau.info/calvaireest/302516.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "monodoigts",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Bouquet de Grès (droite)",
+      "url": "https://bleau.info/calvaireest/302779.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Étoile Bleue",
+      "url": "https://bleau.info/calvaireest/302373.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Enroulée de Némorosa",
+      "url": "https://bleau.info/calvaireest/302369.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La 440 (gauche)",
+      "url": "https://bleau.info/calvaireest/308949.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Sokol",
+      "url": "https://bleau.info/calvaireest/308951.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "mur",
+        "inversées"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La 440",
+      "url": "https://bleau.info/calvaireest/308948.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Sang Bleu",
+      "url": "https://bleau.info/calvaireest/308893.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "mur",
+        "fissure"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Hippopotomonstrose",
+      "url": "https://bleau.info/calvaireest/308950.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pas le Sang Bleu",
+      "url": "https://bleau.info/calvaireest/308894.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Choixpeau",
+      "url": "https://bleau.info/calvaireest/308838.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "dévers",
+        "trous"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Moussequito",
+      "url": "https://bleau.info/calvaireest/308952.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Barbalala",
+      "url": "https://bleau.info/calvaireest/308892.html",
+      "grade": "2",
+      "alt_grade": null,
+      "first_ascensionist": "Laurène Dupuy, Bob B",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 2.5
+    }
+  ]
+}

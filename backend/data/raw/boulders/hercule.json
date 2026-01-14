@@ -1,0 +1,2503 @@
+{
+  "sector": "Roche d'Hercule",
+  "problems": [
+    {
+      "name": "Calamité (retour-aller)",
+      "url": "https://bleau.info/hercule/314733.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cataclysme (retour-aller)",
+      "url": "https://bleau.info/hercule/314734.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Finement Con (rallongé)",
+      "url": "https://bleau.info/hercule/306549.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Boucle de Rince-Mi (rallongé)",
+      "url": "https://bleau.info/hercule/309265.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Lionel Demenais",
+      "styles": [
+        "boucle",
+        "toit",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Rince Moi",
+      "url": "https://bleau.info/hercule/309526.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "toit",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rince Toit",
+      "url": "https://bleau.info/hercule/309384.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Trop Haut t'es Mort (retour-aller)",
+      "url": "https://bleau.info/hercule/313100.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès, Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "De Rêve Errance à Sotos",
+      "url": "https://bleau.info/hercule/300029.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "toit",
+        "proue"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "L'Œil de Nago",
+      "url": "https://bleau.info/hercule/313096.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Vadim Delakian",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Rêve Errance",
+      "url": "https://bleau.info/hercule/718.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "toit",
+        "proue"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Sois Beau, Étaie le Toit",
+      "url": "https://bleau.info/hercule/303647.html",
+      "grade": "7c",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Paul Quesney, Lionel Demenais, Jean Marc Patreau",
+      "styles": [
+        "boucle",
+        "toit",
+        "bidoigts"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trop Beau pour Toit (aller-retour prolongé)",
+      "url": "https://bleau.info/hercule/303251.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "boucle",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trop Dur pour Toit (en boucle)",
+      "url": "https://bleau.info/hercule/303253.html",
+      "grade": "7c",
+      "alt_grade": "7c+",
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Trop Haut t'es Mort (aller-retour)",
+      "url": "https://bleau.info/hercule/313099.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Cataclysme",
+      "url": "https://bleau.info/hercule/314729.html",
+      "grade": "7b+",
+      "alt_grade": "7c",
+      "first_ascensionist": "Richard Reggio, Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Catastrophe Éclairée",
+      "url": "https://bleau.info/hercule/314666.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Paul Raillon , Arthur CHEMELLE, Richard Reggio",
+      "styles": [
+        "dévers",
+        "jeté",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "De-Ci De-Là",
+      "url": "https://bleau.info/hercule/2342.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "aplats"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de Gazoline",
+      "url": "https://bleau.info/hercule/21496.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Emmanuel Gand",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Traversée de la Casquette du Corona",
+      "url": "https://bleau.info/hercule/306434.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Monde est Stone",
+      "url": "https://bleau.info/hercule/313524.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Temps est Arrêté",
+      "url": "https://bleau.info/hercule/306525.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "arête",
+        "haut",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "M'Éprise (retour-aller prolongé)",
+      "url": "https://bleau.info/hercule/314717.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Henri Godin",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trop Dur pour Toit",
+      "url": "https://bleau.info/hercule/303143.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Pierre-Adrien Calbo, Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Calamité",
+      "url": "https://bleau.info/hercule/314728.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Catastrophe Annoncée (retour-aller)",
+      "url": "https://bleau.info/hercule/309261.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Tristan Chouvy",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Fenbren le Fou",
+      "url": "https://bleau.info/hercule/14301.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Finement Con",
+      "url": "https://bleau.info/hercule/306545.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Kérosène (assis)",
+      "url": "https://bleau.info/hercule/20273.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Cédric Morel",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Balle",
+      "url": "https://bleau.info/hercule/313097.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Vadim Delakian",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Bi-Coronés",
+      "url": "https://bleau.info/hercule/86203.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Libéré!",
+      "url": "https://bleau.info/hercule/306339.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Orange Mécanique (assis)",
+      "url": "https://bleau.info/hercule/303125.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Rince-Mi (rallongé)",
+      "url": "https://bleau.info/hercule/305776.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Babis, Tristan damagnez",
+      "styles": [
+        "traversée d-g",
+        "toit",
+        "trous"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Sotos",
+      "url": "https://bleau.info/hercule/21559.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Roman",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trop Beau pour Toit (prolongé)",
+      "url": "https://bleau.info/hercule/303141.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Pierre-Adrien Calbo, Richard Reggio",
+      "styles": [
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trop Haut t'es Mort",
+      "url": "https://bleau.info/hercule/306527.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trop Haut t'es Mort (retour)",
+      "url": "https://bleau.info/hercule/306528.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Abribus",
+      "url": "https://bleau.info/hercule/21056.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "traversée",
+        "boucle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Cahin-Caha",
+      "url": "https://bleau.info/hercule/13011.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Catastrophe Sismique",
+      "url": "https://bleau.info/hercule/314731.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dyslexie (assis)",
+      "url": "https://bleau.info/hercule/21238.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER",
+      "styles": [
+        "pilier",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Gazoline (assis)",
+      "url": "https://bleau.info/hercule/301649.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "L'Opportuniste (assis)",
+      "url": "https://bleau.info/hercule/24290.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Romuald Bussy",
+      "styles": [
+        "toit",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "La Casquette du Corona",
+      "url": "https://bleau.info/hercule/306429.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "haut"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Le Nonce Apostrophé",
+      "url": "https://bleau.info/hercule/314032.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "boucle",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "M'Éprise (retour-aller)",
+      "url": "https://bleau.info/hercule/314715.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Henri Godin",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "M'Éprise (retour)",
+      "url": "https://bleau.info/hercule/310612.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mon Ami Pierrot",
+      "url": "https://bleau.info/hercule/11553.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Franck Merckel",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Nouvelle Catastrophe (en traversée)",
+      "url": "https://bleau.info/hercule/309763.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "S'en Sortir en Sortant",
+      "url": "https://bleau.info/hercule/306526.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Trop Beau pour Toit",
+      "url": "https://bleau.info/hercule/13805.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Loïc de Saint Etienne, GJou",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Alpha le Croisé (aller-retour)",
+      "url": "https://bleau.info/hercule/314840.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Alpha Roméo (aller-retour)",
+      "url": "https://bleau.info/hercule/314864.html",
+      "grade": "7a",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Annonce Catastrophée (prolongé)",
+      "url": "https://bleau.info/hercule/309240.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Annonce Sismique",
+      "url": "https://bleau.info/hercule/314732.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Richard Reggio, Raphaël Harscoët",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Catastrophe Annoncée (aller-retour)",
+      "url": "https://bleau.info/hercule/309260.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Catastrophe Annoncée (droite)",
+      "url": "https://bleau.info/hercule/306455.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Richard Reggio, Pierre-Adrien Calbo, Pierre Gumila",
+      "styles": [
+        "traversée g-d",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Catastrophe Annoncée (prolongé)",
+      "url": "https://bleau.info/hercule/300726.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Babis, Tristan Damagnez",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Des Versants Nord",
+      "url": "https://bleau.info/hercule/11499.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "surplomb"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Encore Plus de Contraintes",
+      "url": "https://bleau.info/hercule/306546.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fenbren le Droite",
+      "url": "https://bleau.info/hercule/23847.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Fenbren le Gauche",
+      "url": "https://bleau.info/hercule/20922.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Marc LEHNER, Louis Dalençon",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gazoline",
+      "url": "https://bleau.info/hercule/706.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Kérosène",
+      "url": "https://bleau.info/hercule/20274.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Eric Létot",
+      "styles": [
+        "traversée g-d",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Plaie de Nago",
+      "url": "https://bleau.info/hercule/313095.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Vadim Delakian",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pilier de la Roche d'Hercule (assis)",
+      "url": "https://bleau.info/hercule/9002.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "surplomb",
+        "départ assis",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "M'Éprise (prolongé)",
+      "url": "https://bleau.info/hercule/304940.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Thierry de Bertrand",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Nouvelle Catastrophe (en boucle)",
+      "url": "https://bleau.info/hercule/314096.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN, Henri Godin",
+      "styles": [
+        "boucle",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Orange Mécanique",
+      "url": "https://bleau.info/hercule/12714.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Nicolas Doignon",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Orange Mécanique (assis droite)",
+      "url": "https://bleau.info/hercule/304826.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Rince-Doigts",
+      "url": "https://bleau.info/hercule/1200.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rince-Mi",
+      "url": "https://bleau.info/hercule/1199.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rodéo du Covid (assis)",
+      "url": "https://bleau.info/hercule/57097.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Alvinas la Reine",
+      "url": "https://bleau.info/hercule/14457.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Annonce Catastrophée",
+      "url": "https://bleau.info/hercule/309262.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Catastrophe Annoncée",
+      "url": "https://bleau.info/hercule/23672.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Désobéissance (retour)",
+      "url": "https://bleau.info/hercule/275946.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée g-d",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Disponible en Distanciel",
+      "url": "https://bleau.info/hercule/306541.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Idée Fixe",
+      "url": "https://bleau.info/hercule/21055.html",
+      "grade": "6c+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Idiotie (rallongé)",
+      "url": "https://bleau.info/hercule/306457.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Temps Changent",
+      "url": "https://bleau.info/hercule/306538.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "M'Éprise",
+      "url": "https://bleau.info/hercule/11503.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée d-g",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Presse Agrume (direct)",
+      "url": "https://bleau.info/hercule/302822.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Marsan",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sanguinette",
+      "url": "https://bleau.info/hercule/24289.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sismique",
+      "url": "https://bleau.info/hercule/314661.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Sylvain Capron, Richard Reggio, Raphaël Harscoët",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "réta"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Alpha le Croisé",
+      "url": "https://bleau.info/hercule/314836.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Alpha Roméo",
+      "url": "https://bleau.info/hercule/314838.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beta Rodéo (aller-retour)",
+      "url": "https://bleau.info/hercule/314865.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Catastrophe Annoncée (gauche)",
+      "url": "https://bleau.info/hercule/306454.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Richard Reggio, Pierre-Adrien Calbo, Pierre Gumila",
+      "styles": [
+        "traversée g-d",
+        "départ assis",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Des Versants Nord-Est",
+      "url": "https://bleau.info/hercule/309366.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Laurent Darlot, Christian Merimeche",
+      "styles": [
+        "traversée d-g",
+        "surplomb"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Désobéissance",
+      "url": "https://bleau.info/hercule/276063.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "traversée d-g",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dyslexie",
+      "url": "https://bleau.info/hercule/11552.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "pilier",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "El Velibo",
+      "url": "https://bleau.info/hercule/14300.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, Vincent Morel",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Idiotie",
+      "url": "https://bleau.info/hercule/18900.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Pepito",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jeté de Coin",
+      "url": "https://bleau.info/hercule/309648.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Loïc Brunet",
+      "styles": [
+        "traversée d-g",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Jeté de Coin (prolongé)",
+      "url": "https://bleau.info/hercule/315147.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Christian Hoyer",
+      "styles": [
+        "traversée d-g",
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Longe du T-Rex",
+      "url": "https://bleau.info/hercule/314736.html",
+      "grade": "6c",
+      "alt_grade": "7a",
+      "first_ascensionist": "TRAN, DavideSens",
+      "styles": [
+        "traversée g-d",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Statique d'El Frelo",
+      "url": "https://bleau.info/hercule/13715.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Alain Perros, GJou, Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "expo"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Vrai Travail (assis)",
+      "url": "https://bleau.info/hercule/21094.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Temps Changent (droite)",
+      "url": "https://bleau.info/hercule/306543.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Les Temps Changent (gauche)",
+      "url": "https://bleau.info/hercule/306539.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nouvelle Catastrophe",
+      "url": "https://bleau.info/hercule/309762.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur",
+        "réglettes",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Rodéo du Covid",
+      "url": "https://bleau.info/hercule/178282.html",
+      "grade": "6c",
+      "alt_grade": "6c+",
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "réta"
+      ],
+      "rating": 2.0
+    },
+    {
+      "name": "Sortie Champêtre",
+      "url": "https://bleau.info/hercule/310611.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sustainability (en traversée retour-aller)",
+      "url": "https://bleau.info/hercule/308316.html",
+      "grade": "6c",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Melchior Mage",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Attention Surveillance (droite)",
+      "url": "https://bleau.info/hercule/196567.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Durabilité",
+      "url": "https://bleau.info/hercule/309759.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "El Ceriso del Gato",
+      "url": "https://bleau.info/hercule/311163.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Villon",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fenbren le Long",
+      "url": "https://bleau.info/hercule/308212.html",
+      "grade": "6b+",
+      "alt_grade": "6b",
+      "first_ascensionist": "Thomin Benjamin, Sorin Rad",
+      "styles": [
+        "traversée g-d",
+        "mur",
+        "dévers"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Idée Courte",
+      "url": "https://bleau.info/hercule/21057.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "trous"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Opportuniste",
+      "url": "https://bleau.info/hercule/24291.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Gargominy",
+      "styles": [
+        "proue"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Gruyère (assis)",
+      "url": "https://bleau.info/hercule/300193.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Statique d'El Lolo",
+      "url": "https://bleau.info/hercule/14299.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, Vincent Morel",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Attention Surveillance",
+      "url": "https://bleau.info/hercule/74829.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beta le Palefrenier",
+      "url": "https://bleau.info/hercule/314837.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Melchior Mage, Justin Roupillon",
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Beta Rodéo",
+      "url": "https://bleau.info/hercule/314839.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Melchior Mage, Justin Roupillon",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ça Passe ou ça Casse",
+      "url": "https://bleau.info/hercule/15346.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Loïc de Saint Etienne",
+      "styles": [
+        "dévers",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Dramatique",
+      "url": "https://bleau.info/hercule/314730.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Fabien Brones Bloasis, Charles Capron, Raphaël Harscoët",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "El Ceriso del Gato (droite)",
+      "url": "https://bleau.info/hercule/311164.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Julien Villon",
+      "styles": [
+        "surplomb"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Et Vanne et Sang",
+      "url": "https://bleau.info/hercule/11502.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [],
+      "rating": null
+    },
+    {
+      "name": "Gros Bidon",
+      "url": "https://bleau.info/hercule/15512.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Philippe Le Denmat",
+      "styles": [
+        "aplats",
+        "dalle"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Antre au Noir",
+      "url": "https://bleau.info/hercule/11500.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "dévers"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Oublié",
+      "url": "https://bleau.info/hercule/13692.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Pente aux Mines",
+      "url": "https://bleau.info/hercule/11498.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "mur",
+        "trous",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Pilier de la Roche d'Hercule",
+      "url": "https://bleau.info/hercule/9003.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "dévers",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Statique d'El Momo",
+      "url": "https://bleau.info/hercule/14298.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, Vincent Morel",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Trou Noir",
+      "url": "https://bleau.info/hercule/12713.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "bidoigts"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Sustainability (en traversée)",
+      "url": "https://bleau.info/hercule/308056.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "German Vegan Climbing Machine",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Trou Love",
+      "url": "https://bleau.info/hercule/21058.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Clarafe",
+      "url": "https://bleau.info/hercule/314663.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "Clara REGGIO, Raphaël Harscoët , Richard Reggio",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Usurpateurs (droite)",
+      "url": "https://bleau.info/hercule/302925.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "M'Éprise (direct)",
+      "url": "https://bleau.info/hercule/23668.html",
+      "grade": "6a+",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Presse Agrume (droite)",
+      "url": "https://bleau.info/hercule/302826.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Des Versants Droite",
+      "url": "https://bleau.info/hercule/306338.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Hercule Poirot",
+      "url": "https://bleau.info/hercule/15514.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Icarnation",
+      "url": "https://bleau.info/hercule/13716.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, Alain Perros, GJou",
+      "styles": [
+        "toit",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Angle de M'Éprise",
+      "url": "https://bleau.info/hercule/23667.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Le Gruyère (assis droite)",
+      "url": "https://bleau.info/hercule/302797.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mini-Mi",
+      "url": "https://bleau.info/hercule/308053.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "proue",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Mise en Bras",
+      "url": "https://bleau.info/hercule/11497.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Not Inspiration",
+      "url": "https://bleau.info/hercule/13693.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "Pas Vu pas Prise",
+      "url": "https://bleau.info/hercule/15347.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "GJou, Loïc de Saint Etienne",
+      "styles": [
+        "toit"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Presse Agrume",
+      "url": "https://bleau.info/hercule/302823.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "proue",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Proue S",
+      "url": "https://bleau.info/hercule/15378.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne",
+      "styles": [
+        "proue",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Sustainability (assis)",
+      "url": "https://bleau.info/hercule/308055.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "U and Me (assis)",
+      "url": "https://bleau.info/hercule/306326.html",
+      "grade": "6a",
+      "alt_grade": null,
+      "first_ascensionist": "simon barazer, Bérengère Guérin",
+      "styles": [
+        "mur",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Calmos",
+      "url": "https://bleau.info/hercule/13694.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Coin Coin",
+      "url": "https://bleau.info/hercule/314565.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Fissure",
+      "url": "https://bleau.info/hercule/15513.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "fissure"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Les Usurpateurs",
+      "url": "https://bleau.info/hercule/23671.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Pandémie",
+      "url": "https://bleau.info/hercule/307098.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": "Gaillard Tom",
+      "styles": [
+        "dévers",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sustainability",
+      "url": "https://bleau.info/hercule/308054.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Début Prometteur",
+      "url": "https://bleau.info/hercule/23669.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Faux Rêveur",
+      "url": "https://bleau.info/hercule/11501.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Gilles Cottray",
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Petite Méprise (assis)",
+      "url": "https://bleau.info/hercule/301345.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mini-Fa",
+      "url": "https://bleau.info/hercule/314401.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "TRAN",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Naomi",
+      "url": "https://bleau.info/hercule/23670.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Sigma le Cavalier",
+      "url": "https://bleau.info/hercule/15379.html",
+      "grade": "5",
+      "alt_grade": "5+",
+      "first_ascensionist": "Loïc de Saint Etienne",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Bakken Sleuren",
+      "url": "https://bleau.info/hercule/314286.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Timon de Nood",
+      "styles": [
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Dynamo",
+      "url": "https://bleau.info/hercule/15515.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Petite Méprise (droite)",
+      "url": "https://bleau.info/hercule/23674.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Vrai Travail",
+      "url": "https://bleau.info/hercule/149098.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pas de Panique",
+      "url": "https://bleau.info/hercule/13717.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "Loïc de Saint Etienne, Alain Perros, GJou",
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "U and Me",
+      "url": "https://bleau.info/hercule/306325.html",
+      "grade": "5-",
+      "alt_grade": null,
+      "first_ascensionist": "simon barazer, Bérengère Guérin",
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Le Gruyère",
+      "url": "https://bleau.info/hercule/13667.html",
+      "grade": "4+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "La Loi de Janus",
+      "url": "https://bleau.info/hercule/313159.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "mur",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "La Petite Méprise",
+      "url": "https://bleau.info/hercule/23673.html",
+      "grade": "3",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "dalle"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Fou de l'Hadès",
+      "url": "https://bleau.info/hercule/313198.html",
+      "grade": "3-",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Posez-y Donc!",
+      "url": "https://bleau.info/hercule/313199.html",
+      "grade": "2+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Papillon",
+      "styles": [
+        "mur"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Anubis Fils d’Isis",
+      "url": "https://bleau.info/hercule/313196.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aphrodite Fuit",
+      "url": "https://bleau.info/hercule/313165.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Apollon Joue de la Lyre",
+      "url": "https://bleau.info/hercule/313164.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Arès en Paix",
+      "url": "https://bleau.info/hercule/313181.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle",
+        "fissure"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Artémis et Porthos",
+      "url": "https://bleau.info/hercule/313179.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Athéna sans les Poux",
+      "url": "https://bleau.info/hercule/313180.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Aton ou Amon",
+      "url": "https://bleau.info/hercule/313197.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cronos sans Compter",
+      "url": "https://bleau.info/hercule/313186.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Cybèle au Bois",
+      "url": "https://bleau.info/hercule/313166.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Démeter à Terre",
+      "url": "https://bleau.info/hercule/313176.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dioné Épouse de Zeus",
+      "url": "https://bleau.info/hercule/313191.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "arête"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Dionysos Ivre",
+      "url": "https://bleau.info/hercule/313183.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Euphron Sportif",
+      "url": "https://bleau.info/hercule/313193.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dévers",
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hadès le Bavard",
+      "url": "https://bleau.info/hercule/313201.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hadès le Direct",
+      "url": "https://bleau.info/hercule/313202.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hadès le Silencieux",
+      "url": "https://bleau.info/hercule/313175.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "trous"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hébé le Jeune",
+      "url": "https://bleau.info/hercule/313195.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Héphaïstos en Feu",
+      "url": "https://bleau.info/hercule/313182.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Héra Minagrobis",
+      "url": "https://bleau.info/hercule/313178.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hermès Communique",
+      "url": "https://bleau.info/hercule/313189.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Hestia au Foyer",
+      "url": "https://bleau.info/hercule/313177.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Isis sans Osiris",
+      "url": "https://bleau.info/hercule/313167.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Janus sans Coup Fourré",
+      "url": "https://bleau.info/hercule/313158.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Junon pour la Parade",
+      "url": "https://bleau.info/hercule/313163.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Jupiter à Terre",
+      "url": "https://bleau.info/hercule/313162.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Lêtô Mère d’Artémis",
+      "url": "https://bleau.info/hercule/313192.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mars en Guerre",
+      "url": "https://bleau.info/hercule/313184.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Métis et Téthys",
+      "url": "https://bleau.info/hercule/313190.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Minerve m'Énerve",
+      "url": "https://bleau.info/hercule/313172.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Mithra sans Garantie",
+      "url": "https://bleau.info/hercule/313171.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Osiris sans Isis",
+      "url": "https://bleau.info/hercule/313168.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Ouranos jusqu’au Ciel",
+      "url": "https://bleau.info/hercule/313194.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Pandore en Boîte",
+      "url": "https://bleau.info/hercule/313188.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Perséphone et ses Pieds",
+      "url": "https://bleau.info/hercule/313185.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Poséidon en Nage",
+      "url": "https://bleau.info/hercule/313174.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Quirinus Rira Bien",
+      "url": "https://bleau.info/hercule/313160.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Rhéa Lisse",
+      "url": "https://bleau.info/hercule/313187.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Saturne sans Anneau",
+      "url": "https://bleau.info/hercule/313161.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Zeus chez les Grecs",
+      "url": "https://bleau.info/hercule/313173.html",
+      "grade": "1",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "dalle"
+      ],
+      "rating": null
+    }
+  ]
+}

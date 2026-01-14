@@ -1,0 +1,335 @@
+{
+  "sector": "Roche au Four",
+  "problems": [
+    {
+      "name": "Petit Brigand (du bas)",
+      "url": "https://bleau.info/four/24645.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Huître Bleue (retour-aller)",
+      "url": "https://bleau.info/four/312198.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "DavideSens",
+      "styles": [
+        "traversée g-d",
+        "traversée d-g",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Nuit Debout (direct gauche)",
+      "url": "https://bleau.info/four/300815.html",
+      "grade": "7b",
+      "alt_grade": "7b+",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Huître Bleue (aller-retour)",
+      "url": "https://bleau.info/four/21422.html",
+      "grade": "7a+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Grande Traversée de la Crise Climatique",
+      "url": "https://bleau.info/four/21436.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Grande Traversée du Monde Virtuel",
+      "url": "https://bleau.info/four/21440.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "proue",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Misfits",
+      "url": "https://bleau.info/four/20475.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Misfits (direct)",
+      "url": "https://bleau.info/four/20476.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard, Laurent Darlot",
+      "styles": [
+        "arête",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Nuit Debout (direct)",
+      "url": "https://bleau.info/four/300591.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "Romain Balp",
+      "styles": [
+        "dévers",
+        "jeté",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Pleine Mesure",
+      "url": "https://bleau.info/four/20478.html",
+      "grade": "7a+",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard",
+      "styles": [
+        "arête",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Demi-Mesure",
+      "url": "https://bleau.info/four/20477.html",
+      "grade": "7a",
+      "alt_grade": "7b",
+      "first_ascensionist": "David Evrard, Christian Merimeche",
+      "styles": [
+        "arête",
+        "dalle",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Huître Bleue",
+      "url": "https://bleau.info/four/19410.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Bernard Théret",
+      "styles": [
+        "traversée d-g",
+        "départ assis",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Huître Bleue (retour)",
+      "url": "https://bleau.info/four/308834.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "départ assis",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Misfits (direct debout)",
+      "url": "https://bleau.info/four/300478.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "David Evrard, Stéphan Denys",
+      "styles": [
+        "arête",
+        "dévers"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Nuit Debout (gauche)",
+      "url": "https://bleau.info/four/300590.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Tony Fouchereau",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Petit Brigand",
+      "url": "https://bleau.info/four/24644.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton, David Evrard",
+      "styles": [
+        "toit",
+        "départ assis"
+      ],
+      "rating": 2.5
+    },
+    {
+      "name": "La Traversée de la Crise Climatique",
+      "url": "https://bleau.info/four/21432.html",
+      "grade": "6c+",
+      "alt_grade": "7a",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "traversée d-g",
+        "dévers",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Huître Perlière",
+      "url": "https://bleau.info/four/21421.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Hervé Baudot, Tony Fouchereau",
+      "styles": [
+        "proue",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Nuit Debout",
+      "url": "https://bleau.info/four/300014.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": "Pascal Etienne",
+      "styles": [
+        "arête",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Crise Climatique",
+      "url": "https://bleau.info/four/21437.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Thierry Vasseur, Sébastien Herbst, Tony Fouchereau",
+      "styles": [
+        "dévers",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "La Traversée du Monde Virtuel",
+      "url": "https://bleau.info/four/21439.html",
+      "grade": "6b",
+      "alt_grade": "6b+",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "traversée g-d",
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tête d'Humérus",
+      "url": "https://bleau.info/four/21438.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Herbst, Thierry Vasseur",
+      "styles": [
+        "dévers",
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Charnière de l’Huître Bleue",
+      "url": "https://bleau.info/four/312199.html",
+      "grade": "6a+",
+      "alt_grade": null,
+      "first_ascensionist": "DavideSens, Patpat",
+      "styles": [
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Monde Virtuel (gauche)",
+      "url": "https://bleau.info/four/21435.html",
+      "grade": "5+",
+      "alt_grade": "6a",
+      "first_ascensionist": "Thierry Vasseur, Tony Fouchereau",
+      "styles": [
+        "surplomb",
+        "trous",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Le Réta de l’Huître Bleue",
+      "url": "https://bleau.info/four/312074.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "réta",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Monde Virtuel",
+      "url": "https://bleau.info/four/21434.html",
+      "grade": "5",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "départ assis"
+      ],
+      "rating": 3.0
+    }
+  ]
+}

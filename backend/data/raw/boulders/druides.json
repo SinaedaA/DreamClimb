@@ -1,0 +1,506 @@
+{
+  "sector": "Franchard Druides",
+  "problems": [
+    {
+      "name": "O.G. Man",
+      "url": "https://bleau.info/druides/14139.html",
+      "grade": "8a+",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "surplomb",
+        "départ assis"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Caliméro",
+      "url": "https://bleau.info/druides/534.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "aplats"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Sakura",
+      "url": "https://bleau.info/druides/2160.html",
+      "grade": "8a",
+      "alt_grade": null,
+      "first_ascensionist": "Jean-Pierre Bouvier",
+      "styles": [
+        "traversée d-g",
+        "réglettes"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Presse-moi Fort",
+      "url": "https://bleau.info/druides/16044.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers",
+        "aplats"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Une Page de ta Vie",
+      "url": "https://bleau.info/druides/306803.html",
+      "grade": "7c+",
+      "alt_grade": null,
+      "first_ascensionist": "Sébastien Frigault",
+      "styles": [
+        "traversée g-d",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "52 Gérard",
+      "url": "https://bleau.info/druides/11636.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Pochon, Julien Nadiras",
+      "styles": [
+        "toit",
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Boucle Chaleureuse",
+      "url": "https://bleau.info/druides/304880.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Manuel Marquès",
+      "styles": [
+        "boucle",
+        "surplomb",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "L'Antre des Druides",
+      "url": "https://bleau.info/druides/11635.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Vincent Pochon",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Manifeste",
+      "url": "https://bleau.info/druides/312984.html",
+      "grade": "7c",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "mur"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Anachronisme (direct)",
+      "url": "https://bleau.info/druides/304576.html",
+      "grade": "7b+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "toit"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Presse-moi Fort (direct)",
+      "url": "https://bleau.info/druides/15414.html",
+      "grade": "7b+",
+      "alt_grade": "7b",
+      "first_ascensionist": null,
+      "styles": [
+        "proue",
+        "dévers"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Anachronisme (droite)",
+      "url": "https://bleau.info/druides/304790.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Francesco Cavinato",
+      "styles": [
+        "toit",
+        "traversée g-d",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Anachronisme Détour",
+      "url": "https://bleau.info/druides/302985.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Clearcut",
+      "url": "https://bleau.info/druides/301619.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "jeté"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Fantaisie Brésilienne",
+      "url": "https://bleau.info/druides/1291.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Emmanuel Ratouis",
+      "styles": [
+        "dalle"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Même Limonade",
+      "url": "https://bleau.info/druides/23732.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Olivier Lebreton",
+      "styles": [
+        "mur",
+        "réglettes",
+        "aplats"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Mort à Crédit (assis)",
+      "url": "https://bleau.info/druides/17609.html",
+      "grade": "7b",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Gérald Coste, Tony Fouchereau, Rémi Perinet",
+      "styles": [
+        "mur",
+        "arête",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Woodsman",
+      "url": "https://bleau.info/druides/302983.html",
+      "grade": "7b",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Anachronisme",
+      "url": "https://bleau.info/druides/301944.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "toit",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gorilla Fish (prolongé)",
+      "url": "https://bleau.info/druides/301806.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "toit",
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "L'Enclume",
+      "url": "https://bleau.info/druides/1486.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphan Denys",
+      "styles": [
+        "mur",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Opinions",
+      "url": "https://bleau.info/druides/312986.html",
+      "grade": "7a+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "aplats",
+        "départ assis"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Fer de Lance",
+      "url": "https://bleau.info/druides/23801.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Stéphane Brette, Stéphan Denys",
+      "styles": [
+        "proue",
+        "jeté"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Gorilla Fish",
+      "url": "https://bleau.info/druides/301704.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Gorilla Fish (direct)",
+      "url": "https://bleau.info/druides/301800.html",
+      "grade": "7a",
+      "alt_grade": "7a+",
+      "first_ascensionist": "Filip Notebaert",
+      "styles": [
+        "toit",
+        "réta",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "La Chandelle (assis)",
+      "url": "https://bleau.info/druides/304842.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "C. Larprise, Vito Grat'",
+      "styles": [
+        "mur",
+        "haut",
+        "départ assis"
+      ],
+      "rating": 4.0
+    },
+    {
+      "name": "Le Carré",
+      "url": "https://bleau.info/druides/313399.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "mur",
+        "arête"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Lumberjack",
+      "url": "https://bleau.info/druides/301620.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Jason Kester",
+      "styles": [
+        "proue",
+        "dévers",
+        "départ assis"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Mort à Crédit",
+      "url": "https://bleau.info/druides/1290.html",
+      "grade": "7a",
+      "alt_grade": null,
+      "first_ascensionist": "Emmanuel Ratouis",
+      "styles": [
+        "mur",
+        "arête",
+        "réta"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Tout Contre Moi (assis)",
+      "url": "https://bleau.info/druides/302230.html",
+      "grade": "6c+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Chandelle",
+      "url": "https://bleau.info/druides/304841.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "haut"
+      ],
+      "rating": 5.0
+    },
+    {
+      "name": "Le Cube",
+      "url": "https://bleau.info/druides/313400.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "Fred",
+      "styles": [
+        "mur",
+        "dalle",
+        "réglettes"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Phormol",
+      "url": "https://bleau.info/druides/301857.html",
+      "grade": "6c",
+      "alt_grade": null,
+      "first_ascensionist": "C. Larprise",
+      "styles": [
+        "arête",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Suggestion",
+      "url": "https://bleau.info/druides/312985.html",
+      "grade": "6b+",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "traversée d-g",
+        "aplats"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Valeriano",
+      "url": "https://bleau.info/druides/312255.html",
+      "grade": "6b+",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "pilier",
+        "réta"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Écailleur de Poisson",
+      "url": "https://bleau.info/druides/301807.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Helen Dudley",
+      "styles": [
+        "mur",
+        "inversées",
+        "départ assis"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "L'Antre des Druides (droite)",
+      "url": "https://bleau.info/druides/15371.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "toit",
+        "jeté"
+      ],
+      "rating": 3.5
+    },
+    {
+      "name": "Ramune",
+      "url": "https://bleau.info/druides/23733.html",
+      "grade": "6b",
+      "alt_grade": "6c",
+      "first_ascensionist": null,
+      "styles": [
+        "mur",
+        "réglettes"
+      ],
+      "rating": 3.0
+    },
+    {
+      "name": "Tout Contre Moi",
+      "url": "https://bleau.info/druides/302231.html",
+      "grade": "6b",
+      "alt_grade": null,
+      "first_ascensionist": "Laurent Darlot",
+      "styles": [
+        "pilier"
+      ],
+      "rating": null
+    },
+    {
+      "name": "La Môme Rit",
+      "url": "https://bleau.info/druides/304843.html",
+      "grade": "6a",
+      "alt_grade": "6b",
+      "first_ascensionist": null,
+      "styles": [
+        "fissure",
+        "haut",
+        "expo"
+      ],
+      "rating": null
+    },
+    {
+      "name": "Tour de Mousse",
+      "url": "https://bleau.info/druides/301618.html",
+      "grade": "5+",
+      "alt_grade": null,
+      "first_ascensionist": null,
+      "styles": [
+        "traversée g-d",
+        "fissure",
+        "départ assis"
+      ],
+      "rating": 4.0
+    }
+  ]
+}
