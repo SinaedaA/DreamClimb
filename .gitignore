@@ -21,7 +21,7 @@ venv/
 *.sqlite3
 
 # Scraped data (too large)
-backend/data/raw/
+#backend/data/raw/
 
 # IDEs
 .vscode/
