@@ -24,6 +24,13 @@ CIRC_LVLS = ["EN", "F", "PD-", "PD", "PD+", "AD-", "AD", "AD+",
 def main():
     db = SessionLocal()
 
+    # Check if data already loaded
+    existing_sectors = db.query(Sector).count()
+    if existing_sectors > 0:
+        print(f"✅ Data already loaded ({existing_sectors} sectors found). Skipping.")
+        db.close()
+        return
+
     boulder_path = Path(__file__).parent.parent / "data" / "raw" / "boulders"
     circuit_path = Path(__file__).parent.parent / "data" / "raw" / "circuits"
     
