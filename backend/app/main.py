@@ -2,7 +2,7 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import sectors, problems, circuits
+from app.routers import sectors, problems, circuits, questionnaire
 
 app = FastAPI(title = "Bleau Recommender API", version = "0.1.0")
 
@@ -17,6 +17,7 @@ app.add_middleware(
 app.include_router(problems.router, prefix="/api", tags=["problems"])
 app.include_router(sectors.router, prefix="/api", tags=["sectors"])
 app.include_router(circuits.router, prefix="/api", tags=["circuits"])
+app.include_router(questionnaire.router, prefix="/api", tags=["questionnaire"])
 
 # Test endpoint
 @app.get("/")

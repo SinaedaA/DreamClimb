@@ -1,5 +1,6 @@
 ## Pydantic schemas for request and response models (for API later)
 from pydantic import BaseModel
+from typing import List, Optional
 
 class SectorResponse(BaseModel):
     id: int
@@ -49,3 +50,17 @@ class CircuitProblemResponse(BaseModel):
 
     class Config:
         from_attributes = True
+
+
+# For receiving questionnaire data
+class QuestionnaireSubmission(BaseModel):
+    gender: str | None = None
+    height: int | None = None
+    arm_span: int | None = None
+    climbed_problem_ids: List[str]  # List of problem IDs
+    preferred_tags: List[str]  # List of style tags
+
+# For getting available tags
+class TagOption(BaseModel):
+    tag: str
+    count: int  # How many problems have this tag

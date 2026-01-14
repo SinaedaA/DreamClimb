@@ -1,7 +1,8 @@
 # SQLAlchemy models (table definitions)
-from sqlalchemy import Column, Integer, String, ForeignKey, UniqueConstraint, Float
+from sqlalchemy import Column, Integer, String, ForeignKey, UniqueConstraint, Float, DateTime
 from sqlalchemy.orm import relationship
 from .database import Base
+from datetime import datetime
 
 class Sector(Base):
     __tablename__ = "sectors"
@@ -53,3 +54,40 @@ class Circuit(Base):
     sector_id = Column(Integer, ForeignKey("sectors.id"))
     sector = relationship("Sector", back_populates="circuits")
     circuit_problems = relationship("CircuitProblem", back_populates="circuit")
+
+# Add to existing models.py
+
+class UserResponse(Base):
+    __tablename__ = "user_responses"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    # Demographics
+    gender = Column(String, nullable=True)
+    height = Column(Integer, nullable=True)  # in cm
+    arm_span = Column(Integer, nullable=True)  # in cm
+    
+    # Timestamp
+    created_at = Column(DateTime, default=datetime.utcnow)
+    
+    # Relationships
+    climbed_problems = relationship("UserClimbedProblem", back_populates="user_response")
+    preferred_tags = relationship("UserPreferredTag", back_populates="user_response")
+
+class UserClimbedProblem(Base):
+    __tablename__ = "user_climbed_problems"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    user_response_id = Column(Integer, ForeignKey("user_responses.id"))
+    problem_id = Column(String, ForeignKey("problems.id"))
+    
+    user_response = relationship("UserResponse", back_populates="climbed_problems")
+    problem = relationship("Problem")
+
+class UserPreferredTag(Base):
+    __tablename__ = "user_preferred_tags"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    user_response_id = Column(Integer, ForeignKey("user_responses.id"))
+    tag = Column(String)  # e.g., "dévers", "réglettes"
+    
+    user_response = relationship("UserResponse", back_populates="preferred_tags")
