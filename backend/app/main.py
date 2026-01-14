@@ -9,7 +9,11 @@ app = FastAPI(title = "Bleau Recommender API", version = "0.1.0")
 # Allow frontend to connect
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, specify your frontend URL
+    allow_origins=[
+        "https://*.vercel.app",  # All Vercel preview deployments
+        "http://localhost:5173",  # Local development
+        # Add your custom domain later if you have one
+    ],
     allow_methods=["*"],
     allow_headers=["*"],
 )

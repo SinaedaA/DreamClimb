@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react'
 
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api'
+
 function Questionnaire() {
   // Form state
   const [gender, setGender] = useState('')
@@ -15,7 +17,7 @@ function Questionnaire() {
   
   // Load available tags on mount
   useEffect(() => {
-    fetch('http://localhost:8000/api/questionnaire/available-tags')
+    fetch(`${API_URL}/questionnaire/available-tags`)
       .then(res => res.json())
       .then(data => setAvailableTags(data))
   }, [])
@@ -23,7 +25,7 @@ function Questionnaire() {
   // Search problems as user types
   useEffect(() => {
     if (problemSearch.length > 2) {
-      fetch(`http://localhost:8000/api/questionnaire/search-problems?q=${problemSearch}`)
+      fetch(`${API_URL}/questionnaire/search-problems?q=${problemSearch}`)
         .then(res => res.json())
         .then(data => setProblemResults(data))
     } else {
@@ -62,7 +64,7 @@ function Questionnaire() {
       preferred_tags: preferredTags
     }
     
-    const response = await fetch('http://localhost:8000/api/questionnaire/submit', {
+    const response = await fetch(`${API_URL}/questionnaire/submit`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(submission)
