@@ -83,7 +83,14 @@ function Questionnaire() {
   
   return (
     <div className="max-w-2xl mx-auto p-6">
-      <h1 className="text-3xl font-bold mb-6">Climbing Questionnaire</h1>
+        <h1 className="text-3xl font-bold mb-6">DreamClimb Survey</h1>
+        <p className="mb-6 text-left rtl:text-right text-body md:text-l">
+              To help us improve the DreamClimb boulder recommendation system, please fill out this short survey about the problems
+              you've topped in Fontainebleau, and your preferred climbing styles. <br/><br/>
+              We also collect some basic climber characteristics (all optional), such as <b>gender</b>, <b>height</b>, and <b>arm span</b>.
+              These will help the model recommend problems that suit each and everyone's physique, based on other users' experience!
+              Your data will be anonymized and used solely for research purposes, and system improvement.
+        </p>  
       
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* Demographics */}

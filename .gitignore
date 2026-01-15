@@ -4,6 +4,7 @@ test/
 
 ## ignore .env
 backend/.env
+frontend/.env.local
 
 ## ignore Python cache files
 # Python
