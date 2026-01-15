@@ -10,7 +10,7 @@ app = FastAPI(title = "DreamClimb API", version = "0.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://dreamclimb.vercel.app",  # Your actual Vercel domain
+        "https://dreamclimb-survey.vercel.app",  # Your actual Vercel domain
         "https://*.vercel.app",  # All Vercel preview URLs
         "http://localhost:5173"  # Local dev
     ],
