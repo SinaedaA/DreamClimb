@@ -11,9 +11,9 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://dreamclimb-survey.vercel.app",  # Your actual Vercel domain
-        "https://*.vercel.app",  # All Vercel preview URLs
         "http://localhost:5173"  # Local dev
     ],
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

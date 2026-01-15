@@ -3,7 +3,7 @@ temp/
 test/
 
 ## ignore .env
-.env
+backend/.env
 
 ## ignore Python cache files
 # Python
