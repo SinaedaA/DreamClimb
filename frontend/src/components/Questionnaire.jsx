@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { CLIMBING_TAGS } from './data/climbingTags'
+import { CLIMBING_TAGS } from '../data/climbingTags'
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api'
 
