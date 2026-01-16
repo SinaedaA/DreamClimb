@@ -1,9 +1,12 @@
 # SQLAlchemy models (table definitions)
-from sqlalchemy import Column, Integer, String, ForeignKey, UniqueConstraint, Float, DateTime
+from sqlalchemy import Column, Integer, String, ForeignKey, UniqueConstraint, Float, DateTime, Boolean
 from sqlalchemy.orm import relationship
 from .database import Base
 from datetime import datetime
 
+# =================================
+# Fontainebleau specific models
+# =================================
 class Sector(Base):
     __tablename__ = "sectors"
     id = Column(Integer, primary_key=True, index=True)
@@ -55,12 +58,18 @@ class Circuit(Base):
     sector = relationship("Sector", back_populates="circuits")
     circuit_problems = relationship("CircuitProblem", back_populates="circuit")
 
-# Add to existing models.py
-
+# ====================
+# User models
+# ====================
 class UserResponse(Base):
     __tablename__ = "user_responses"
-    
+
     id = Column(Integer, primary_key=True, index=True)
+    browser_id = Column(String, index=True)
+    email = Column(String, nullable=True, index=True)
+    update_code = Column(String, nullable=True)
+    subscribe_newsletter = Column(Boolean, default=False)
+    
     # Demographics
     gender = Column(String, nullable=True)
     height = Column(Integer, nullable=True)  # in cm

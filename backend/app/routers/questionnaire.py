@@ -1,10 +1,12 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from typing import List
+import secrets
 from app.database import SessionLocal
 from app.models import UserResponse, UserClimbedProblem, UserPreferredTag, Problem
 from app.schemas import QuestionnaireSubmission, TagOption, ProblemResponse
 from app.translations import translate_tag
+from datetime import datetime
 
 router = APIRouter()
 
@@ -20,39 +22,153 @@ def submit_questionnaire(
     submission: QuestionnaireSubmission,
     db: Session = Depends(get_db)
 ):
-    """Submit a completed questionnaire"""
+    """
+    Submit or update a climbing questionnaire.
+    Handles returning users by merging data.
+    """
     
-    # Create user response
-    user_response = UserResponse(
-        gender=submission.gender,
-        height=submission.height,
-        arm_span=submission.arm_span
-    )
-    db.add(user_response)
-    db.flush()  # Get the ID
+    # ==========================================
+    # STEP 1: Find existing user
+    # ==========================================
+    existing_user = None
+    match_method = None
     
-    # Add climbed problems
-    for problem_id in submission.climbed_problem_ids:
-        climbed = UserClimbedProblem(
-            user_response_id=user_response.id,
-            problem_id=problem_id
+    # Try browser_id first (most reliable)
+    if submission.browser_id:
+        existing_user = db.query(UserResponse).filter(
+            UserResponse.browser_id == submission.browser_id
+        ).first()
+        if existing_user:
+            match_method = "browser_id"
+    
+    # Fallback to email if provided and no browser match
+    if not existing_user and submission.email:
+        existing_user = db.query(UserResponse).filter(
+            UserResponse.email == submission.email
+        ).first()
+        if existing_user:
+            match_method = "email"
+
+    # Fallback to update_code if provided and no previous match
+    if not existing_user and submission.update_code:
+        existing_user = db.query(UserResponse).filter(
+            UserResponse.update_code == submission.update_code
+        ).first()
+        if existing_user:
+            match_method = "update_code"
+    
+    # ==========================================
+    # STEP 2A: Update existing user
+    # ==========================================
+    if existing_user:
+        print(f"Found existing user {existing_user.id} via {match_method}")
+        
+        # Update demographics (only if new values provided)
+        if submission.gender:
+            existing_user.gender = submission.gender
+        if submission.height:
+            existing_user.height = submission.height
+        if submission.arm_span:
+            existing_user.arm_span = submission.arm_span
+        
+        # Update email if provided
+        if submission.email:
+            existing_user.email = submission.email
+        
+        # Update browser_id if provided (user might have switched browsers)
+        if submission.browser_id and not existing_user.browser_id:
+            existing_user.browser_id = submission.browser_id
+        
+        # MERGE CLIMBED PROBLEMS (don't duplicate)
+        existing_problem_ids = {
+            cp.problem_id 
+            for cp in existing_user.climbed_problems
+        }
+        
+        new_problem_count = 0
+        for problem_id in submission.climbed_problem_ids:
+            if problem_id not in existing_problem_ids:
+                # Add new problem
+                climbed = UserClimbedProblem(
+                    user_response_id=existing_user.id,
+                    problem_id=problem_id
+                )
+                db.add(climbed)
+                new_problem_count += 1
+        
+        # MERGE PREFERRED TAGS
+        existing_tags = {
+            upt.tag 
+            for upt in existing_user.preferred_tags
+        }
+        new_tags = 0
+        for tag in submission.preferred_tags:
+            if tag not in existing_tags:
+                pref_tag = UserPreferredTag(
+                    user_response_id=existing_user.id,
+                    tag=tag
+                )
+                db.add(pref_tag)
+                new_tags += 1
+        
+        db.commit()
+        
+        total_problems = len(existing_problem_ids) + new_problem_count
+        
+        return {
+            "message": "Profile updated successfully!",
+            "user_id": existing_user.id,
+            "update_code": existing_user.update_code,
+            "is_update": True,
+            "new_problems_added": new_problem_count,
+            "total_problems": total_problems,
+            "matched_via": match_method
+        }
+    
+    # ==========================================
+    # STEP 2B: Create new user
+    # ==========================================
+    else:
+        print("Creating new user profile")
+        # Create user response
+        user_response = UserResponse(
+            browser_id=submission.browser_id,
+            email=submission.email,
+            update_code=secrets.token_hex(4).upper(),
+            gender=submission.gender,
+            height=submission.height,
+            arm_span=submission.arm_span,
+            created_at=datetime.utcnow()
         )
-        db.add(climbed)
-    
-    # Add preferred tags
-    for tag in submission.preferred_tags:
-        pref_tag = UserPreferredTag(
-            user_response_id=user_response.id,
-            tag=tag
-        )
-        db.add(pref_tag)
-    
-    db.commit()
-    
-    return {
-        "message": "Topped boulders submitted successfully!",
-        "response_id": user_response.id
-    }
+        db.add(user_response)
+        db.flush()  # Get the ID
+        
+        # Add climbed problems
+        for problem_id in submission.climbed_problem_ids:
+            climbed = UserClimbedProblem(
+                user_response_id=user_response.id,
+                problem_id=problem_id
+            )
+            db.add(climbed)
+        
+        # Add preferred tags
+        for tag in submission.preferred_tags:
+            pref_tag = UserPreferredTag(
+                user_response_id=user_response.id,
+                tag=tag
+            )
+            db.add(pref_tag)
+        
+        db.commit()
+        
+        return {
+            "message": "Profile created successfully!",
+            "user_id": user_response.id,
+            "update_code": user_response.update_code,
+            "is_update": False,
+            "total_problems": len(submission.climbed_problem_ids),
+            "matched_via": None
+        }
 
 @router.get("/questionnaire/available-tags")
 def get_available_tags(
@@ -173,3 +289,32 @@ def filter_problems(
         return result
     else:
         return problems
+    
+@router.get("/questionnaire/stats")
+def get_questionnaire_stats(db: Session = Depends(get_db)):
+    """Get statistics about collected data"""
+    
+    total_users = db.query(UserResponse).count()
+    total_problems_logged = db.query(UserClimbedProblem).count()
+    
+    # Users with email
+    users_with_email = db.query(UserResponse).filter(
+        UserResponse.email.isnot(None)
+    ).count()
+    
+    # Users with browser_id
+    users_with_browser_id = db.query(UserResponse).filter(
+        UserResponse.browser_id.isnot(None)
+    ).count()
+    
+    # Average problems per user
+    avg_problems = total_problems_logged / total_users if total_users > 0 else 0
+    
+    return {
+        "total_users": total_users,
+        "total_problems_logged": total_problems_logged,
+        "avg_problems_per_user": round(avg_problems, 1),
+        "users_with_email": users_with_email,
+        "users_with_browser_id": users_with_browser_id,
+        "email_rate": f"{(users_with_email/total_users*100):.1f}%" if total_users > 0 else "0%"
+    }

@@ -1,7 +1,11 @@
 ## Pydantic schemas for request and response models (for API later)
 from pydantic import BaseModel
 from typing import List, Optional
+from datetime import datetime
 
+# ===================
+# Sector schemas
+# ===================
 class SectorResponse(BaseModel):
     id: int
     name: str
@@ -18,6 +22,17 @@ class SectorBasic(BaseModel):
     class Config:
         from_attributes = True
 
+# ===================
+# Problem schemas
+# ===================
+class ProblemBasic(BaseModel):
+    """Minimal problem info"""
+    id: str
+    name: str
+    grade: str
+    
+    class Config:
+        from_attributes = True
 class ProblemResponse(BaseModel):
     id: str
     name: str
@@ -33,6 +48,9 @@ class ProblemResponse(BaseModel):
     class Config:
         from_attributes = True
 
+# ===================
+# Circuit schemas
+# ===================
 class CircuitResponse(BaseModel):
     id: str
     name: str
@@ -51,16 +69,43 @@ class CircuitProblemResponse(BaseModel):
     class Config:
         from_attributes = True
 
-
-# For receiving questionnaire data
+# ==========================================
+# User schemas (survey)
+# ==========================================
 class QuestionnaireSubmission(BaseModel):
-    gender: str | None = None
-    height: int | None = None
-    arm_span: int | None = None
-    climbed_problem_ids: List[str]  # List of problem IDs
-    preferred_tags: List[str]  # List of style tags
+    """Schema for receiving questionnaire submissions"""
+    # Identification
+    browser_id: Optional[str] = None
+    email: Optional[str] = None
+    update_code: Optional[str] = None
+    subscribe_newsletter: Optional[bool] = False
+    
+    # Demographics
+    gender: Optional[str] = None
+    height: Optional[int] = None
+    arm_span: Optional[int] = None
+    
+    # Climbing data
+    climbed_problem_ids: List[str]
+    preferred_tags: List[str]
 
-# For getting available tags
+
 class TagOption(BaseModel):
+    """Schema for available tag options"""
     tag: str
-    count: int  # How many problems have this tag
+    count: int
+
+class UserResponseDetail(BaseModel):
+    """Detailed user response (for admin view)"""
+    id: int
+    browser_id: Optional[str]
+    email: Optional[str]
+    gender: Optional[str]
+    height: Optional[int]
+    arm_span: Optional[int]
+    created_at: datetime
+    problem_count: int
+    tag_count: int
+    
+    class Config:
+        from_attributes = True
