@@ -12,6 +12,7 @@ function Questionnaire() {
   // User identification
   const [browserId, setBrowserId] = useState(null)
   const [email, setEmail] = useState('')
+  const [bleauID, setBleauID] = useState('')
   
   // Form state
   const [gender, setGender] = useState('')
@@ -81,6 +82,7 @@ function Questionnaire() {
       browser_id: browserId,
       email: email || null,
       update_code: null,
+      bleau_user_info: bleauID || null,
       
       // Demographics
       gender: gender || null,
@@ -109,6 +111,7 @@ function Questionnaire() {
         setClimbedProblems([])
         setPreferredTags([])
         setEmail('')
+        setBleauID('')
       } else {
         alert('Error submitting response. Please try again.')
       }
@@ -146,6 +149,17 @@ function Questionnaire() {
           </select>
         </div>
 
+        <div>
+          <label className="block mb-2 font-semibold">Your bleau.info username (if you logged ascents there)</label>
+          <input 
+            type="string"
+            value={bleauID}
+            onChange={(e) => setBleauID(e.target.value)}
+            className="w-full p-2 border rounded"
+            placeholder="e.g., jane.doe"
+          />
+        </div>
+        
         <div>
           <label className="block mb-2 font-semibold">Update code (if you have one)</label>
           <input 
