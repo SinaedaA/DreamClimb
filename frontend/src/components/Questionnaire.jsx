@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { CLIMBING_TAGS } from './data/climbingTags'
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api'
 
@@ -11,16 +12,17 @@ function Questionnaire() {
   const [preferredTags, setPreferredTags] = useState([])
   
   // Options
-  const [availableTags, setAvailableTags] = useState([])
+    // const [availableTags, setAvailableTags] = useState([])
+  const [availableTags, setAvailableTags] = useState(CLIMBING_TAGS)
   const [problemSearch, setProblemSearch] = useState('')
   const [problemResults, setProblemResults] = useState([])
   
   // Load available tags on mount
-  useEffect(() => {
-    fetch(`${API_URL}/questionnaire/available-tags`)
-      .then(res => res.json())
-      .then(data => setAvailableTags(data))
-  }, [])
+//   useEffect(() => {
+//     fetch(`${API_URL}/questionnaire/available-tags`)
+//       .then(res => res.json())
+//       .then(data => setAvailableTags(data))
+//   }, [])
   
   // Search problems as user types
   useEffect(() => {
