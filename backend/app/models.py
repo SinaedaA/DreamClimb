@@ -38,10 +38,7 @@ class CircuitProblem(Base):
     circuit_id = Column(String, ForeignKey("circuits.id"), primary_key=True)
     problem_id = Column(String, ForeignKey("problems.id"), primary_key=True)
     number = Column(String, nullable=True)  # Order of the problem in the circuit
-    # Ensure uniqueness of (circuit_id, problem_id) pairs if needed
-    __table_args__ = (
-        UniqueConstraint('circuit_id', 'problem_id', name='unique_circuit_problem'),
-    )
+
     # Relationships
     circuit = relationship("Circuit", back_populates="circuit_problems")
     problem = relationship("Problem", back_populates="circuit_problems")
@@ -69,6 +66,7 @@ class UserResponse(Base):
     email = Column(String, nullable=True, index=True)
     update_code = Column(String, nullable=True)
     subscribe_newsletter = Column(Boolean, default=False)
+    bleau_info_user = Column(String, nullable=True)
     
     # Demographics
     gender = Column(String, nullable=True)

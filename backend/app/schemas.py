@@ -79,6 +79,7 @@ class QuestionnaireSubmission(BaseModel):
     email: Optional[str] = None
     update_code: Optional[str] = None
     subscribe_newsletter: Optional[bool] = False
+    bleau_info_user: Optional[str] = None
     
     # Demographics
     gender: Optional[str] = None
@@ -100,6 +101,7 @@ class UserResponseDetail(BaseModel):
     id: int
     browser_id: Optional[str]
     email: Optional[str]
+    bleau_info_user: Optional[str]
     gender: Optional[str]
     height: Optional[int]
     arm_span: Optional[int]
