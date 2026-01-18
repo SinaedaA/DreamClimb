@@ -62,7 +62,7 @@ class UserResponse(Base):
     __tablename__ = "user_responses"
 
     id = Column(Integer, primary_key=True, index=True)
-    browser_id = Column(String, index=True)
+    browser_id = Column(String, index=True, nullable = True) # add nullable=True for scraped data
     email = Column(String, nullable=True, index=True)
     update_code = Column(String, nullable=True)
     subscribe_newsletter = Column(Boolean, default=False)
@@ -72,6 +72,7 @@ class UserResponse(Base):
     gender = Column(String, nullable=True)
     height = Column(Integer, nullable=True)  # in cm
     arm_span = Column(Integer, nullable=True)  # in cm
+    nationality = Column(String, nullable=True)
     
     # Timestamp
     created_at = Column(DateTime, default=datetime.utcnow)
@@ -86,6 +87,7 @@ class UserClimbedProblem(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_response_id = Column(Integer, ForeignKey("user_responses.id"))
     problem_id = Column(String, ForeignKey("problems.id"))
+    date_climbed = Column(DateTime, nullable=True)
     
     user_response = relationship("UserResponse", back_populates="climbed_problems")
     problem = relationship("Problem")
