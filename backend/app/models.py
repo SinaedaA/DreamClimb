@@ -62,7 +62,7 @@ class UserResponse(Base):
     __tablename__ = "user_responses"
 
     id = Column(Integer, primary_key=True, index=True)
-    browser_id = Column(String, index=True, nullable = True) # add nullable=True for scraped data
+    browser_id = Column(String, index=False, nullable = True)
     email = Column(String, nullable=True, index=True)
     update_code = Column(String, nullable=True)
     subscribe_newsletter = Column(Boolean, default=False)
