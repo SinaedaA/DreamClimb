@@ -77,7 +77,6 @@ class ClimberSpider(scrapy.Spider):
         nationality = nationality.group(1) if nationality else None
         
         if n_ascents > n_ascents_displayed:
-
             yield scrapy.Request(
                 url = response.url, 
                 callback=self.parse_climber_full, 
@@ -109,7 +108,7 @@ class ClimberSpider(scrapy.Spider):
                 'height': height,
                 'span': span,
                 'nationality': nationality,
-                'ascents': repetitions,
+                'repetitions': repetitions,
             }
     def parse_climber_full(self, response):
         # Get info from meta

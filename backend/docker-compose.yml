@@ -1,20 +1,18 @@
-version: '3.8'
-
 services:
   postgres:
     image: postgres:16-alpine
-    container_name: bleau-postgres
+    container_name: survey-postgres
     restart: unless-stopped
     environment:
-      POSTGRES_USER: bleau_user
-      POSTGRES_PASSWORD: bleau_password
-      POSTGRES_DB: bleau_recommender
+      POSTGRES_USER: survey_user
+      POSTGRES_PASSWORD: survey_pass
+      POSTGRES_DB: survey_db
     ports:
-      - "5433:5432"
+      - "5435:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U bleau_user -d bleau_recommender"]
+      test: ["CMD-SHELL", "pg_isready -U survey_user -d survey_db"]
       interval: 10s
       timeout: 5s
       retries: 5

@@ -62,11 +62,14 @@ class UserResponse(Base):
     __tablename__ = "user_responses"
 
     id = Column(Integer, primary_key=True, index=True)
-    browser_id = Column(String, index=False, nullable = True)
+    name = Column(String, nullable=True)
+    browser_id = Column(String, nullable = True)
     email = Column(String, nullable=True, index=True)
     update_code = Column(String, nullable=True)
     subscribe_newsletter = Column(Boolean, default=False)
     bleau_info_user = Column(String, nullable=True)
+    betty_userid = Column(String, nullable=True)
+    #profile_url = Column(String, unique=True, nullable=True, index=True)
     
     # Demographics
     gender = Column(String, nullable=True)
@@ -76,6 +79,7 @@ class UserResponse(Base):
     
     # Timestamp
     created_at = Column(DateTime, default=datetime.utcnow)
+    #modified_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
     
     # Relationships
     climbed_problems = relationship("UserClimbedProblem", back_populates="user_response")

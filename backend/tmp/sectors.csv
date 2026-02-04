@@ -1,0 +1,292 @@
+id,name,slug,grade_range
+1,Cuisinière Crête Sud,cretesud,3 - 9a
+2,Les Vaux de Cernay,vauxdecernay,1 - 6a
+3,Muraillette de Glandelles,glandelles,""
+4,91.1,91.1,1+ - 7c+
+5,Éléphant,elephant,1 - 8a+
+6,Bois d'Auvers (RdC),charbonniere,2 - 7b+
+7,Mondeville Cap Avancé (X),mondevillecapavance,""
+8,Drei Zinnen,zinnen,2- - 8b
+9,Mondeville Roche aux Dames (X),mondevillerocheauxdames,""
+10,Restant du Long Rocher,restant,2 - 7c+
+11,95.2 Ouest,95.2ouest,2+ - 8a+
+12,Bas Cuvier,cuvier,1 - 8c+
+13,Apremont Haut des Gorges,hautdesgorges,3+ - 7c+
+14,Apremont Portes du Désert,portesdesert,2+ - 8b
+15,Bois Rond Auberge,boisrondauberge,3 - 8b
+16,Rocher d'Avon,avon,2 - 8a+
+17,Rocher de Milly (RB),milly,2 - 8a
+18,Cuvier Est,cuvierest,3- - 8a+
+19,Gorges du Houx Oiseaux de Proie,oiseauxdeproie,4+ - 8b
+20,Franchard Raymond,raymond,3+ - 8a
+21,Rocher de la Petite Reine,petitereine,5- - 8a
+22,Roche qui Tourne (RBs),rochequitourne,3 - 8a
+23,Apremont Butte aux Dames,butteauxdames,2- - 8a
+24,Rocher de Milly Est (RB),millyest,6a - 8a+
+25,Bois Rond Le Moine,moine,5+ - 7b
+26,La Ferté-Alais,fertealais,6b - 7c+
+27,Beauvais Roches Noires,rochesnoires,2- - 8a
+28,Canche aux Merciers Anarchodrome,anarchodrome,3- - 8c
+29,La Mare à Piat,piat,4 - 8a+
+30,Mare aux Joncs (RBs),joncs,5 - 8a
+31,Rocher Fourceau Est,fourceau,6c - 7b
+32,Jean des Vignes,jean,2 - 8a
+33,Cuvier Bellevue,bellevue,1+ - 8b
+34,Bois des Hauts de Milly,hautsmilly,4+ - 8c+
+35,Rocher de Bouligny Est,boulignyest,3- - 8b
+36,Rocher du Guetteur,guetteur,2+ - 7c+
+37,Restant du Long Rocher Sud,restantsud,1+ - 7b+
+38,Chaintréauville (X),chaintreauville,""
+39,Long Boyau,longboyau,4 - 7c+
+40,Bois de Montgriffard,montgriffard,""
+41,Argeville (PP),argeville,5 - 5
+42,Roche au Four,four,5 - 7c
+43,Rocher Fourceau,FourceauOuest,4 - 8a
+44,Tour Denecourt,denecourt,4+ - 7b
+45,Rocher des Étroitures,etroitures,2+ - 7c
+46,Chamarande Gillevoisin,gillevoisin,4+ - 7b
+47,Puiselet Sablibum,sablibum,6b - 8a
+48,Gorge aux Merisiers,merisiers,3 - 7b+
+49,Mont Ussy,ussy,1+ - 8a
+50,Haute Pierre (RdC),hautepierre,1 - 7b
+51,Boissy Norgevaux (RdC),norgevaux,6b - 7c+
+52,Les Béorlots Nord (RBI),beorlotsnord,""
+53,Le Pendu d'Huison (PP),pendu,2 - 7c
+54,Éléphant Ouest,ouest,3 - 8b
+55,Mont Pivot,pivot,4+ - 8a
+56,Beauvais Télégraphe,telegraphe,2- - 7c
+57,Rocher de la Tortue,tortue,4+ - 7c
+58,Boissy Château Renard (X),chateaurenard,""
+59,La Padôle (RdC),padole,2- - 7c+
+60,Rocher des Demoiselles Sud,demoisellessud,4 - 7b
+61,Montrouget (RBs),montrougetouest,4- - 8b
+62,Canche aux Merciers,canche,1 - 8a+
+63,Grotte de Seine-Port,seineport,7a - 8a+
+64,Vallée Ronde,valleeronde,4+ - 8b
+65,Buthiers Piscine,y,1 - 8b+
+66,Beauvais Guinguette,guinguette,4+ - 7b
+67,Les Mammouths Nord,mammouthsnord,2 - 7c
+68,Cuvier Ouest (RB),cuvierouest,4- - 8b+
+69,Cuvier Camp de Chailly,campchailly,6b - 7c
+70,Boissy Vallée de l'Église (RdC),valleeeglise,5 - 8a
+71,Villetard,villetard,5 - 8a
+72,Coquibus Longs Vaux (RBs),longsvaux,5 - 8c
+73,Puiselet Impasse,puiseletimpasse,4 - 7a+
+74,Rocher des Demoiselles Est,demoisellesest,3- - 8a+
+75,Buthiers Ouest,buthiersouest,4 - 8a
+76,Rocher Gréau Pyrénées,pyrenees,3 - 8a+
+77,Éléphant Nord,elephantnord,3- - 8b
+78,Rocher de la Reine Nord,cretenord,5- - 7c+
+79,Champigny Les Croubis,croubis,""
+80,Coquibus Arcades (RBs),arcades,3+ - 8b
+81,Rochers d'Angennes (X),angennes,""
+82,Videlles l'Abattoir (PP),videlles_abbatoir,4+ - 8b
+83,Gorge aux Châts,chats,2 - 8b
+84,Cassepot Roches Grises,cassepotgrises,2 - 8b
+85,Cul de Chien,cul,2- - 8c
+86,Apremont Vallon de la Solitude,solitude,1+ - 8a
+87,Restant du Long Rocher Ouest,longrochergrandesvallees,4- - 8a
+88,Rocher d'Avon Ouest,avonouest,1+ - 8a
+89,Chamarande,chamarande,1 - 8a
+90,Moigny-sur-École (RdC),moigny,4+ - 8a
+91,Rocher Gréau,greau,4+ - 8c
+92,Roche aux Oiseaux,oiseaux,2+ - 8a
+93,Roche aux Sabots Est,sabotsest,2- - 7b
+94,Apremont Est,apremontest,1 - 8b+
+95,Rocher de Bouligny,bouligny,1 - 8b+
+96,Rocher de Corne-Biche,cornebiche,1 - 8a+
+97,Puiselet Mont Sarrasin,sarrazin,1+ - 8b
+98,Touche aux Mulets (RB),touche,5- - 7c+
+99,Dampierre Maincourt,maincourt,1 - 8a
+100,Rocher des Demoiselles,demoiselles,2 - 8a+
+101,Mont Blanc Est,montblanc,2 - 8a
+102,Les Béorlots (RBI),beorlots,""
+103,Boissy-le-Cutté (RdC),boissylecutte,3 - 7a+
+104,Franchard Sablons Carriers,franchardcarriers,3- - 8b
+105,Long Boyau Ouest,longboyauouest,5+ - 8b
+106,Monts & Merveilles (RB),montsetmerveilles,3 - 7c+
+107,Franchard Isatis,isatis,2- - 8c
+108,Rocher du Mauvais Passage,passage,1+ - 8a
+109,Éléphant Bout du Monde,boutdumonde,6c - 8a+
+110,Apremont Fond des Gorges,fondgorges,3- - 8a+
+111,Apremont Vallon de Sully,apremontsully,4+ - 8a
+112,Gorge aux Châts Est,chatsnord,5 - 8b
+113,Bois d'Hyver,hyver,2 - 7b+
+114,La Fosse aux Loups,fosse,4 - 8a
+115,Rocher des Souris,souris,1 - 8a
+116,Franchard Basses Plaines,bassesplaines,4+ - 8a
+117,Apremont Butte aux Peintres,butteauxpeintres,3+ - 7c+
+118,Étréchy,etrechy,1 - 5+
+119,Franchard Druides,druides,5+ - 8a+
+120,Le Miroir Magique,miroirmagique,1 - 7c
+121,Coquibus Grandes Vallées (RBs),grandesvallees,3+ - 8a
+122,Roche au Diable,diable,4 - 7c+
+123,Vallée Chaude,valleechaude,5 - 7c+
+124,Mont Aigu,aigu,2 - 8a
+125,Marion des Roches,marion,2- - 8a
+126,Franchard Hautes Plaines,plaines,1 - 8c
+127,Rocher Saint-Germain Est,germainest,1 - 8b+
+128,Rocher d'Avon Est,avonest,2 - 7b+
+129,Cassepot Roches Roses,cassepotroses,5 - 7c
+130,Rocher du Potala,mee,2- - 8b+
+131,Rocher Mignot (RdC),mignot,1+ - 3+
+132,Mont Simonet,simonet,2+ - 8a
+133,Roche aux Sabots,sabots,1 - 8a
+134,Apremont Brûlis,brulis,4 - 8a+
+135,Rocher Cailleau,cailleau,4 - 8b
+136,Roche d'Hercule,hercule,1 - 8a
+137,Le 111,111,4- - 7c
+138,Apremont Désert,desert,1+ - 8c
+139,Le Calvaire Est,calvaireest,2 - 7c+
+140,Mont Aiveu,aiveu,5+ - 7b+
+141,Saint-Rémy lès Chevreuse,saintremy,3+ - 7a
+142,Franchard Ermitage,ermitage,1 - 8b+
+143,Buthiers Tennis,tennis,3 - 8b+
+144,Mont Ussy Est,montussyest,1+ - 8a
+145,Restant du Long Rocher Est,longrocherest,6b - 8a
+146,Buthiers Canard,canard,1 - 8a+
+147,Rocher Brûlé,rocherbrule,2+ - 9a
+148,Petit Bois,petit,1 - 8b+
+149,Long Rocher,guette,5 - 7b+
+150,Gorges du Houx Parjure,oiseauxproienord,2 - 7b+
+151,Les Pentes du Marchais,pentesmarchais,6a - 7b+
+152,Puiselet Grand Cirque,grandcirque,5+ - 6a
+153,Vallée Casse-Pot,cassepot,2- - 7c+
+154,Coquibus Vendée (RBs),vendee,1 - 7c+
+155,Le Guichet (RBs),guichet,5+ - 7c
+156,Le Troglodyte,troglodyte,1 - 7b+
+157,La Ségognole Ouest,segognoleouest,5+ - 7c
+158,Dame Jouanne,jouanne,1 - 8b+
+159,Beauvais Hameau,hameau,1 - 8a
+160,Maisse La Comble (RdC),comble,5- - 7a
+161,Boigneville (X),boigneville,""
+162,Beauregard,beauregard,4- - 8a
+163,Beauvais Loutteville,loutteville,1 - 7b
+164,Apremont Buvette,buvette,3 - 8a+
+165,Auvers-Saint-Georges (RdC),aiguille,6c - 7b
+166,Mont Simonet Ouest,simonetouest,4 - 8a
+167,Toit d'Orsay,orsay,4+ - 8c+
+168,Gorge à Véron (RBs),coquibuswest,6a - 8a
+169,Coquibus Auvergne (RBs),auvergne,2 - 8b+
+170,Puiselet Le Paradis,puiselet,1 - 8b+
+171,Gorge aux Châts Sud,chatsouest,5 - 8a+
+172,Rocher Saint-Germain Ouest,germain,4- - 8c
+173,Rocher Billard (RdC),billard,6b - 7a
+174,Darvault,darvault,1 - 7b
+175,Boissy aux Cailles (RdC),cailles,3 - 8c
+176,Rocher des Princes,princes,2+ - 8b+
+177,Ballancourt Mont du Saussay,ballancourt,6c - 6c
+178,Étampes,etampes,""
+179,Mare aux Corneilles (RBI),marecorneilles,""
+180,Pignon Poteau,poteau,1+ - 7b+
+181,Les Cent Marches (RdC),centmarches,2 - 6a+
+182,Franchard Hauts Sablons,hautssablons,4+ - 8b
+183,Cuisinière,cuisiniere,2- - 8c
+184,Apremont Ouest,apremontouest,1 - 8b+
+185,Mondeville Rempart (X),mondeville,""
+186,Grande Montagne,grandemontagne,2 - 8a
+187,Villecerf,villecerf,3- - 8a+
+188,Recloses Sud,recloses,4 - 8b+
+189,Cassepot Roches Oranges,cassepotoranges,2- - 7c+
+190,Côtes de Courances (RBs),courances,5 - 8a
+191,Rocher de la Cathédrale,cathedrale,2 - 7c+
+192,Boissy Le Goulot (RdC),LeGoulot,4 - 8a+
+193,Buthiers Nord,buthiersnord,5 - 7c+
+194,Petit Rempart,petitrempart,3 - 8a+
+195,Rocher Guichot,guichot,2 - 8a
+196,Valpuiseaux (RdC),valpuiseaux,""
+197,Apremont Belvédère,Apremontbelvedere,6c+ - 7c+
+198,Rocher Fin,fin,2- - 8a+
+199,Franchard Point de Vue,franchardpointdevue,3- - 8b+
+200,Montignotte (RBs),montignotte,4+ - 8b
+201,Apremont Envers,envers,1 - 8c
+202,Mont d'Olivet,olivet,2+ - 7c
+203,Étréchy Butte Saint-Martin,buttesaintmartin,""
+204,Chemin Royal d'Oncy,cheminroyal,2+ - 7b+
+205,Cuvier Rempart,rempart,1 - 8c
+206,Maisse le Patouillat,maisse,3- - 7a
+207,Châteauveau,chateauveau,4+ - 7c
+208,Vallée des Ancêtres (RBs),ancetres,3+ - 7b
+209,Rocher de la Combe (RBI),combe,""
+210,Marlanval (RdC),marlanval,7a - 8c
+211,Apremont Mare aux Biches,biches,2 - 8a
+212,Apremont Sanglier,apremontsanglier,2 - 7c+
+213,Cuisinière Carnage,carnage,4- - 8a+
+214,Rocher Canon,canon,1 - 8c
+215,Rocher des Potets,potets,1 - 7b
+216,Rocher des Ventes Héron,ventesheron,6b - 7b
+217,Justice de Chambergeot,chambergeot,1 - 7c
+218,Diplodocus,diplodocus,1 - 7c
+219,Rocher du Mont Morillon,montmorillon,2 - 8a+
+220,Rocher Canon Ouest,canonouest,3- - 8a
+221,Rocher de Châtillon (PP),chatillon,1+ - 7b+
+222,Mont Blanc,montblancouest,3 - 7b+
+223,Le Petit Mont,petitmont,1 - 5+
+224,Rocher Besnard,besnard,2+ - 7a
+225,Boissy Le Plaid (RdC),leplaid,4+ - 8a
+226,La Troche,troche,1 - 8a
+227,Le Calvaire,calvaire,1 - 8a+
+228,Coquibus Rumont (RBs),coquibus,5- - 9a
+229,Gros Sablons Nord,cassis,2 - 7c+
+230,Oncy-sur-École (RdC),oncynord,4 - 7b
+231,Franchard Sablons,sablons,2- - 9a
+232,Rocher du Général,general,2- - 7c
+233,La Reconnaissance,reconnaissance,2 - 8c+
+234,Roche aux Sabots Sud,zen,2+ - 8a
+235,Blomont les Roches,blomont,4- - 7c+
+236,Oncy-sur-École Sud (RdC),oncy,4+ - 7b+
+237,Cuvier Merveille,merveille,2 - 8a+
+238,Franchard Sablons Ouest,sablons110,3 - 8a
+239,Chamarande Belvédère,belvedere,1 - 7b
+240,Coquibus Roche Feuilletée (RBs),rochefeuilletee,5 - 7b+
+241,Cuvier Sorcières,sorcieres,3+ - 8b
+242,Bois Rond,rond,2- - 8a
+243,Moulin de Roisneau (RdC),roisneau,4- - 7c+
+244,Maunoury,maunoury,1 - 8a+
+245,La Grotte aux Fées,grotteauxfees,2+ - 8b
+246,Rocher du Télégraphe,telegraphe2,1 - 8a
+247,Gorges du Houx Petit Paradis,petitparadis,4- - 8a
+248,Rocher Saint-Germain Centre,germaincentre,2 - 8c+
+249,Beauvais Nainville,beauvais,1 - 8b+
+250,Gorges du Houx Rocher du Renard,renard,2+ - 7c+
+251,Franchard Meyer,meyer,3- - 8c+
+252,Rochers aux Voleurs (RBs),voleurs,3+ - 8a
+253,Cuvier Nord,cuvier.nord,1+ - 8b
+254,Gros Sablons,gros,2 - 8c+
+255,Apremont Bizons,bizons,1 - 8a+
+256,Rocher de Mérantais,merantais,2 - 7b+
+257,Rocher de la Salamandre,occidentale,5+ - 8b
+258,Boissy Bois de Champlaid (RdC),champlaid,6b+ - 7c
+259,Gorges du Houx,houx,2 - 8b
+260,Faculté d'Orsay,facorsay,1+ - 7a+
+261,Apremont Milan Ouest,milanouest,5+ - 7b
+262,La Ségognole,segognole,1+ - 7b
+263,J.A. Martin,martin,1 - 8a+
+264,Champs-sur-Essonne,champs,6a - 6b
+265,Restant du Long Rocher Nord (X),grottebeatrix,""
+266,Beauvais Solitude,beauvaisest,2 - 7b+
+267,95.2,95.2,1 - 8a+
+268,Videlles les Roches (PP),videlles,2- - 7c
+269,La Fontaine Saint-Bernard,bernard,3+ - 8a
+270,Vallée de Prunay (RdC),prunay,4- - 6a
+271,Les Béorlots Ouest (RBI),beorlotsouest,""
+272,Étréchy La Roche Plate,rocheplate,""
+273,Villeneuve sur Auvers,villeneuve,3- - 7c
+274,Bois du Rocher,boisdurocher,2 - 7c
+275,Mont Chauvet,montchauvet,7a - 8a
+276,Le Sanglier,sanglier,1 - 7b+
+277,Montrouget Est (RBs),montrouget,3+ - 8a
+278,Rocher de la Combe Est,combeest,6b - 7b+
+279,Pierre le Sault,pierrelesault,5 - 8a
+280,Noisy-sur-École (RdC),noisy,3+ - 7b
+281,Rocher de la Reine,reine,1 - 8a+
+282,Recloses,reclosescretes,3- - 8a+
+283,Rocher de la Salamandre Est,salamandreest,3 - 8a
+284,Les Mammouths,mammouths,1+ - 8b
+285,Apremont Milan,milan,2- - 8a
+286,Bois de la Valette (RdC),valette,6a - 8a
+287,Rocher des Mariniers,mariniers,4 - 7b+
+288,Apremont Marie-Thérèse,marietherese,1+ - 7c+
+289,Vallée de la Charme,charme,5+ - 7b+
+290,Apremont,apremont,3- - 8a
+291,Justice de Noisy,justicenoisy,1 - 8b
