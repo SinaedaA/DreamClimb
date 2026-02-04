@@ -1,6 +1,7 @@
 ## ignore all files under the test/ or temp/ directory
 temp/
 test/
+tmp/
 
 ## ignore .env
 backend/.env
